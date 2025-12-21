@@ -1,0 +1,413 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042300131,2,12,0,1,9:38 PM,10:00,,Start of 1st Period (9:38 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,4,10,0,1,9:38 PM,10:00,Jump Ball McCowan vs. Parker: Tip to Billings,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1
+1042300131,7,1,1,1,9:39 PM,9:42,,,Gray 24' 3PT Jump Shot (3 PTS) (Robinson 1 AST),3 - 0,-3,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,9,2,1,1,9:39 PM,9:26,MISS Howard 24' 3PT Jump Shot,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,10,4,0,1,9:39 PM,9:22,,,Gray REBOUND (Off:0 Def:1),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,11,2,1,1,9:39 PM,9:12,,,MISS Howard 18' Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,12,4,0,1,9:39 PM,9:09,McCowan REBOUND (Off:0 Def:1),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,13,5,40,1,9:39 PM,9:00,Ogunbowale Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,14,1,75,1,9:40 PM,8:44,,,Howard 7' Driving Finger Roll Layup (2 PTS) (Parker 1 AST),5 - 0,-5,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,16,5,45,1,9:40 PM,8:28,McCowan Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,17,1,5,1,9:41 PM,8:17,,,Parker 4' Layup (2 PTS) (Robinson 2 AST),7 - 0,-7,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,19,1,79,1,9:41 PM,8:05,Sabally 16' Pullup Jump Shot (2 PTS),,,7 - 2,-5,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,20,6,2,1,9:41 PM,8:05,,,Howard S.FOUL (P1.T1),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,22,3,10,1,9:41 PM,8:05,Sabally Free Throw 1 of 1 (3 PTS),,,7 - 3,-4,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,23,1,79,1,9:42 PM,7:47,,,Howard 19' Pullup Jump Shot (4 PTS) (Parker 2 AST),9 - 3,-6,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,25,1,6,1,9:42 PM,7:32,Sabally 4' Driving Layup (5 PTS) (Dangerfield 1 AST),,,9 - 5,-4,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,27,1,2,1,9:42 PM,7:25,,,Howard 24' 3PT Running Jump Shot (7 PTS) (Robinson 3 AST),12 - 5,-7,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,29,2,6,1,9:42 PM,7:12,MISS Sabally 10' Driving Layup,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,30,4,0,1,9:42 PM,7:10,McCowan REBOUND (Off:1 Def:1),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,31,2,5,1,9:42 PM,7:09,MISS McCowan 1' Layup,,Parker BLOCK (1 BLK),,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,1
+1042300131,33,4,0,1,9:42 PM,7:07,,,Robinson REBOUND (Off:0 Def:1),,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,34,2,5,1,9:42 PM,7:01,,,MISS Billings 3' Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,35,4,0,1,9:42 PM,7:01,McCowan REBOUND (Off:1 Def:2),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,36,6,2,1,9:43 PM,6:52,,,Parker S.FOUL (P1.T2),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,38,3,11,1,9:43 PM,6:52,Sabally Free Throw 1 of 2 (6 PTS),,,12 - 6,-6,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,39,3,12,1,9:43 PM,6:52,Sabally Free Throw 2 of 2 (7 PTS),,,12 - 7,-5,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,40,6,2,1,9:43 PM,6:44,Dangerfield S.FOUL (P1.T1),,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,42,3,11,1,9:44 PM,6:44,,,Robinson Free Throw 1 of 2 (1 PTS),13 - 7,-6,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,43,3,12,1,9:44 PM,6:44,,,Robinson Free Throw 2 of 2 (2 PTS),14 - 7,-7,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,45,6,4,1,9:45 PM,6:30,Howard OFF.Foul (P1),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,47,5,37,1,9:45 PM,6:30,Howard Offensive Foul Turnover (P1.T3),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,48,2,1,1,9:45 PM,6:17,,,MISS Parker 17' Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,49,4,0,1,9:45 PM,6:13,Sabally REBOUND (Off:0 Def:1),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,50,2,2,1,9:45 PM,6:08,MISS Dangerfield 18' Running Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,51,4,0,1,9:45 PM,6:05,,,Howard REBOUND (Off:0 Def:1),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,52,5,1,1,9:45 PM,5:58,Sabally STEAL (1 STL),,Howard Bad Pass Turnover (P1.T1),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,54,6,2,1,9:45 PM,5:56,,,Billings S.FOUL (P1.T3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,56,3,11,1,9:46 PM,5:56,Sabally Free Throw 1 of 2 (8 PTS),,,14 - 8,-6,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,57,3,12,1,9:46 PM,5:56,Sabally Free Throw 2 of 2 (9 PTS),,,14 - 9,-5,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,58,1,98,1,9:47 PM,5:44,,,Billings 4' Cutting Layup Shot (2 PTS) (Parker 3 AST),16 - 9,-7,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,60,2,3,1,9:47 PM,5:27,MISS Howard 6' Hook Shot,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,61,4,0,1,9:47 PM,5:25,,,Parker REBOUND (Off:0 Def:1),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,62,2,101,1,9:47 PM,5:20,,,MISS Robinson 6' Driving Floating Jump Shot,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,63,4,0,1,9:47 PM,5:18,Sabally REBOUND (Off:0 Def:2),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,64,1,63,1,9:47 PM,5:02,Ogunbowale 16' Fadeaway Jumper (2 PTS) (Sabally 1 AST),,,16 - 11,-5,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,66,2,1,1,9:48 PM,4:48,,,MISS Gray 25' 3PT Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,67,4,0,1,9:48 PM,4:45,Ogunbowale REBOUND (Off:0 Def:1),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,68,5,1,1,9:48 PM,4:42,Ogunbowale Bad Pass Turnover (P2.T4),,Gray STEAL (1 STL),,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,70,6,1,1,9:48 PM,4:26,Dangerfield P.FOUL (P2.T2),,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,72,9,4,1,9:48 PM,4:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,73,8,0,1,9:50 PM,4:26,,,SUB: McDonald FOR Robinson,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,74,8,0,1,9:50 PM,4:26,,,SUB: Hillmon FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,77,5,1,1,9:52 PM,4:15,Sabally STEAL (2 STL),,McDonald Bad Pass Turnover (P1.T2),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,79,1,41,1,9:52 PM,4:12,Sabally 4' Running Layup (11 PTS),,,16 - 13,-3,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,80,5,4,1,9:52 PM,4:02,,,McDonald Traveling Turnover (P2.T3),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1042300131,81,2,79,1,9:52 PM,3:46,MISS Dangerfield 13' Pullup Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,82,4,0,1,9:52 PM,3:43,,,Parker REBOUND (Off:0 Def:2),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,83,2,41,1,9:52 PM,3:39,Howard BLOCK (1 BLK),,MISS Parker 5' Running Layup,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1
+1042300131,85,4,0,1,9:52 PM,3:38,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,87,8,0,1,9:52 PM,3:38,SUB: Burton FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,89,1,1,1,9:53 PM,3:32,,,Howard 19' Jump Shot (9 PTS) (Parker 4 AST),18 - 13,-5,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,91,2,1,1,9:53 PM,3:16,MISS Sabally 21' Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,92,4,0,1,9:53 PM,3:13,,,Gray REBOUND (Off:0 Def:2),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,93,1,41,1,9:53 PM,3:10,,,Howard 2' Running Layup (11 PTS) (Gray 1 AST),20 - 13,-7,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,95,5,1,1,9:53 PM,2:56,Burton Bad Pass Turnover (P1.T5),,Hillmon STEAL (1 STL),,,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,97,2,2,1,9:53 PM,2:52,,,MISS McDonald 16' Running Jump Shot,,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,98,4,0,1,9:54 PM,2:47,Ogunbowale REBOUND (Off:0 Def:2),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,99,1,5,1,9:54 PM,2:46,Sabally 4' Layup (13 PTS) (Ogunbowale 1 AST),,,20 - 15,-5,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,101,1,2,1,9:54 PM,2:40,,,Howard 25' 3PT Running Jump Shot (14 PTS) (McDonald 1 AST),23 - 15,-8,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,103,1,6,1,9:54 PM,2:20,Ogunbowale 12' Driving Layup (4 PTS) (Burton 1 AST),,,23 - 17,-6,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,105,2,5,1,9:54 PM,2:09,,,MISS Howard 6' Layup,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,106,4,0,1,9:54 PM,2:06,McCowan REBOUND (Off:1 Def:3),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,107,2,80,1,9:54 PM,1:59,MISS Ogunbowale 24' 3PT Step Back Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,108,4,0,1,9:54 PM,1:56,,,Parker REBOUND (Off:0 Def:3),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,109,1,75,1,9:55 PM,1:50,,,Gray 3' Driving Finger Roll Layup (5 PTS),25 - 17,-8,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,110,5,1,1,9:55 PM,1:30,Ogunbowale Bad Pass Turnover (P3.T6),,Howard STEAL (1 STL),,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,112,1,2,1,9:55 PM,1:25,,,Gray 24' 3PT Running Jump Shot (8 PTS) (Howard 1 AST),28 - 17,-11,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,114,5,2,1,9:55 PM,1:00,Sabally Lost Ball Turnover (P1.T7),,Howard STEAL (2 STL),,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,116,1,41,1,9:55 PM,0:58,,,Howard 3' Running Layup (16 PTS),30 - 17,-13,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,117,2,1,1,9:56 PM,0:51,MISS Sabally 20' Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,118,4,0,1,9:56 PM,0:49,McCowan REBOUND (Off:2 Def:3),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,119,6,2,1,9:56 PM,0:48,,,McDonald S.FOUL (P1.T4),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,121,3,11,1,9:56 PM,0:48,McCowan Free Throw 1 of 2 (1 PTS),,,30 - 18,-12,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,122,8,0,1,9:56 PM,0:48,SUB: Kuier FOR Howard,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,123,8,0,1,9:56 PM,0:48,,,SUB: Durr FOR Gray,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,126,3,12,1,9:56 PM,0:48,McCowan Free Throw 2 of 2 (2 PTS),,,30 - 19,-11,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,127,1,1,1,9:57 PM,0:26,,,Parker 24' 3PT Jump Shot (5 PTS) (Hillmon 1 AST),33 - 19,-14,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,129,1,6,1,9:57 PM,0:06,Kuier 8' Driving Layup (2 PTS) (Sabally 2 AST),,,33 - 21,-12,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,131,1,103,1,9:57 PM,0:02,,,Howard 25' 3PT Running Pull-Up Jump Shot (19 PTS),36 - 21,-15,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,132,2,1,1,9:58 PM,0:00,MISS Burton 47' 3PT Jump Shot,,,,,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,133,4,0,1,9:58 PM,0:00,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,134,13,0,1,9:58 PM,0:00,,End of 1st Period (9:58 PM EST),,36 - 21,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,139,12,0,2,10:02 PM,10:00,,Start of 2nd Period (10:02 PM EST),,36 - 21,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,140,5,45,2,10:03 PM,9:47,Kuier Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,0
+1042300131,141,8,0,2,10:03 PM,9:27,SUB: Sims FOR Burton,,,,,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,143,10,0,2,10:04 PM,9:24,Jump Ball Kuier vs. Howard: Tip to Billings,,,,,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0
+1042300131,146,2,1,2,10:04 PM,9:22,,,MISS Howard 24' 3PT Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,147,4,0,2,10:04 PM,9:19,,,Hillmon REBOUND (Off:1 Def:0),,,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,148,1,1,2,10:04 PM,9:16,,,McDonald 25' 3PT Jump Shot (3 PTS) (Hillmon 2 AST),39 - 21,-18,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,150,2,5,2,10:04 PM,8:56,MISS Brown 4' Layup,,,,,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,151,4,0,2,10:04 PM,8:53,,,Billings REBOUND (Off:0 Def:1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,152,6,2,2,10:04 PM,8:47,Brown S.FOUL (P1.T1),,,,,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,154,3,11,2,10:05 PM,8:47,,,Durr Free Throw 1 of 2 (1 PTS),40 - 21,-19,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,155,8,0,2,10:05 PM,8:47,SUB: Howard FOR Brown,,,,,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,156,8,0,2,10:05 PM,8:47,SUB: McCowan FOR Kuier,,,,,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,157,8,0,2,10:05 PM,8:47,,,SUB: Gray FOR Howard,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,161,3,12,2,10:05 PM,8:47,,,Durr Free Throw 2 of 2 (2 PTS),41 - 21,-20,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,162,2,98,2,10:05 PM,8:34,MISS Sims 4' Cutting Layup Shot,,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,163,4,0,2,10:05 PM,8:32,,,Hillmon REBOUND (Off:1 Def:1),,,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,164,2,5,2,10:05 PM,8:23,,,MISS Billings 4' Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,165,4,0,2,10:05 PM,8:21,Howard REBOUND (Off:0 Def:1),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,166,1,102,2,10:06 PM,8:14,Ogunbowale 9' Driving Floating Bank Jump Shot (6 PTS),,,41 - 23,-18,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,167,2,79,2,10:06 PM,8:00,,,MISS Durr 9' Pullup Jump Shot,,,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,168,4,0,2,10:06 PM,7:57,Howard REBOUND (Off:0 Def:2),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,169,6,1,2,10:06 PM,7:52,,,McDonald P.FOUL (P2.T1),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,171,8,0,2,10:06 PM,7:52,,,SUB: Robinson FOR Hillmon,,,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,172,8,0,2,10:06 PM,7:52,,,SUB: Parker FOR McDonald,,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,175,2,5,2,10:06 PM,7:48,MISS Ogunbowale 7' Layup,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,176,4,0,2,10:07 PM,7:45,,,Parker REBOUND (Off:0 Def:4),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,177,2,79,2,10:07 PM,7:39,,,MISS Gray 14' Pullup Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,178,4,0,2,10:07 PM,7:36,,,Robinson REBOUND (Off:1 Def:1),,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,179,6,26,2,10:07 PM,7:36,,,Billings Offensive Charge Foul (P2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,181,5,37,2,10:07 PM,7:36,,,Billings Offensive Foul Turnover (P1.T4),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1042300131,182,8,0,2,10:07 PM,7:36,,,SUB: Hillmon FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,184,1,1,2,10:07 PM,7:19,Sims 26' 3PT Jump Shot (3 PTS) (Howard 1 AST),,,41 - 26,-15,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,186,5,2,2,10:08 PM,6:57,Sabally STEAL (3 STL),,Parker Lost Ball Turnover (P1.T5),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,188,6,2,2,10:08 PM,6:49,,,Durr S.FOUL (P1.T2),,,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,190,3,13,2,10:09 PM,6:49,Sims Free Throw 1 of 3 (4 PTS),,,41 - 27,-14,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,191,3,14,2,10:09 PM,6:49,MISS Sims Free Throw 2 of 3,,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,192,4,1,2,10:09 PM,6:49,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,193,8,0,2,10:09 PM,6:49,,,SUB: Howard FOR Durr,,,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,195,3,15,2,10:09 PM,6:49,Sims Free Throw 3 of 3 (5 PTS),,,41 - 28,-13,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,196,2,1,2,10:09 PM,6:30,,,MISS Howard 18' Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,197,4,0,2,10:09 PM,6:28,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,199,2,1,2,10:10 PM,6:16,MISS Sabally 25' 3PT Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,200,4,0,2,10:10 PM,6:13,,,Howard REBOUND (Off:0 Def:2),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,201,2,6,2,10:10 PM,5:57,,,MISS Robinson 8' Driving Layup,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,202,4,0,2,10:10 PM,5:54,McCowan REBOUND (Off:2 Def:4),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,203,5,1,2,10:10 PM,5:50,Sabally Bad Pass Turnover (P2.T9),,Gray STEAL (2 STL),,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,205,6,2,2,10:10 PM,5:47,McCowan S.FOUL (P1.T2),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,207,9,1,2,10:11 PM,5:47,WINGS Timeout: Regular (Full 1 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,208,8,0,2,10:13 PM,5:47,SUB: Siegrist FOR Sabally,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,210,3,11,2,10:14 PM,5:47,,,Gray Free Throw 1 of 2 (9 PTS),42 - 28,-14,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,211,3,12,2,10:14 PM,5:47,,,Gray Free Throw 2 of 2 (10 PTS),43 - 28,-15,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,212,1,80,2,10:15 PM,5:30,Ogunbowale 25' 3PT Step Back Jump Shot (9 PTS) (Sims 1 AST),,,43 - 31,-12,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,214,2,5,2,10:15 PM,5:16,,,MISS Parker 6' Layup,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,216,4,0,2,10:15 PM,5:15,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,218,1,98,2,10:15 PM,5:04,Howard 5' Cutting Layup Shot (2 PTS) (Ogunbowale 2 AST),,,43 - 33,-10,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,220,5,1,2,10:15 PM,4:48,Howard STEAL (1 STL),,Robinson Bad Pass Turnover (P1.T6),,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,222,5,4,2,10:15 PM,4:45,Howard Traveling Turnover (P2.T10),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,223,5,1,2,10:16 PM,4:30,Howard STEAL (2 STL),,Hillmon Bad Pass Turnover (P1.T7),,,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,225,2,41,2,10:16 PM,4:27,MISS Howard 5' Running Layup,,Gray BLOCK (1 BLK),,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,1
+1042300131,227,4,0,2,10:16 PM,4:24,Siegrist REBOUND (Off:1 Def:0),,,,,4,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,228,1,72,2,10:16 PM,4:23,Siegrist 2' Putback Layup (2 PTS),,,43 - 35,-8,4,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,229,9,1,2,10:16 PM,4:18,,,Dream Timeout: Regular (Reg.1 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,230,5,40,2,10:20 PM,4:12,,,Hillmon Out of Bounds Lost Ball Turnover (P2.T8),,,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1042300131,231,2,1,2,10:20 PM,3:54,MISS Howard 17' Jump Shot,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,232,4,0,2,10:20 PM,3:51,,,Parker REBOUND (Off:0 Def:5),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,234,8,0,2,10:21 PM,3:48,SUB: Sabally FOR Siegrist,,,,,4,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,236,2,1,2,10:21 PM,3:46,,,MISS Howard 18' Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,237,4,0,2,10:21 PM,3:44,Ogunbowale REBOUND (Off:0 Def:3),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,238,2,103,2,10:21 PM,3:41,MISS Ogunbowale 26' 3PT Running Pull-Up Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,239,4,0,2,10:21 PM,3:39,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,241,1,57,2,10:22 PM,3:31,Ogunbowale 10' Driving Hook Shot (11 PTS),,,43 - 37,-6,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,242,5,2,2,10:22 PM,3:18,Ogunbowale STEAL (1 STL),,Robinson Lost Ball Turnover (P2.T9),,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,244,1,41,2,10:22 PM,3:16,Ogunbowale 3' Running Layup (13 PTS),,,43 - 39,-4,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,246,1,1,2,10:23 PM,2:56,,,Gray 25' 3PT Jump Shot (13 PTS) (Howard 2 AST),46 - 39,-7,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,249,5,1,2,10:24 PM,2:33,Sabally Bad Pass Turnover (P3.T11),,Parker STEAL (1 STL),,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,252,2,1,2,10:24 PM,2:15,,,MISS Parker 24' 3PT Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,253,4,0,2,10:24 PM,2:09,McCowan REBOUND (Off:2 Def:5),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,254,1,1,2,10:24 PM,2:02,Sabally 24' 3PT Jump Shot (16 PTS) (Sims 2 AST),,,46 - 42,-4,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,256,2,44,2,10:25 PM,1:43,,,MISS Robinson 4' Reverse Layup,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,257,4,0,2,10:25 PM,1:42,Howard REBOUND (Off:0 Def:3),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,258,1,41,2,10:25 PM,1:40,Sabally 2' Running Layup (18 PTS) (Howard 2 AST),,,46 - 44,-2,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,260,6,1,2,10:25 PM,1:30,Sabally P.FOUL (P1.T3),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,262,8,0,2,10:25 PM,1:30,,,SUB: McDonald FOR Robinson,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,264,2,1,2,10:26 PM,1:21,,,MISS Parker 16' Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,265,4,0,2,10:26 PM,1:20,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,267,6,1,2,10:26 PM,1:08,,,Parker P.FOUL (P2.T3),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,269,2,1,2,10:26 PM,1:03,MISS Ogunbowale 26' 3PT Jump Shot,,Parker BLOCK (2 BLK),,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,1
+1042300131,271,4,0,2,10:26 PM,0:59,,,McDonald REBOUND (Off:0 Def:1),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,272,2,5,2,10:26 PM,0:53,,,MISS Parker 3' Layup,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,273,4,0,2,10:27 PM,0:49,,,Howard REBOUND (Off:1 Def:2),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,274,2,5,2,10:27 PM,0:49,Howard BLOCK (2 BLK),,MISS Howard 2' Layup,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1
+1042300131,275,4,0,2,10:27 PM,0:49,Sims REBOUND (Off:0 Def:1),,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,276,2,41,2,10:27 PM,0:44,MISS Sabally 4' Running Layup,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,277,4,0,2,10:27 PM,0:43,Ogunbowale REBOUND (Off:1 Def:3),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,278,1,72,2,10:27 PM,0:43,Ogunbowale 1' Putback Layup (15 PTS),,,46 - 46,TIE,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,279,2,47,2,10:27 PM,0:29,,,MISS Parker 12' Turnaround Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,280,4,0,2,10:27 PM,0:27,Howard REBOUND (Off:0 Def:4),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,281,5,2,2,10:27 PM,0:13,Sabally Lost Ball Turnover (P4.T12),,Gray STEAL (3 STL),,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,283,1,41,2,10:27 PM,0:11,,,Gray 3' Running Layup (15 PTS),48 - 46,-2,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,284,6,2,2,10:27 PM,0:11,Sabally S.FOUL (P2.PN),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,286,3,10,2,10:28 PM,0:11,,,Gray Free Throw 1 of 1 (16 PTS),49 - 46,-3,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,287,1,98,2,10:28 PM,0:00,McCowan 6' Cutting Layup Shot (4 PTS) (Ogunbowale 3 AST),,,49 - 48,-1,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,289,6,2,2,10:28 PM,0:00,,,McDonald S.FOUL (P3.PN),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,291,3,10,2,10:29 PM,0:00,McCowan Free Throw 1 of 1 (5 PTS),,,49 - 49,TIE,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,292,13,0,2,10:29 PM,0:00,,End of 2nd Period (10:29 PM EST),,49 - 49,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,298,12,0,3,10:45 PM,10:00,,Start of 3rd Period (10:45 PM EST),,49 - 49,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,299,2,1,3,10:45 PM,9:49,MISS Ogunbowale 24' 3PT Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,300,4,0,3,10:45 PM,9:45,,,Parker REBOUND (Off:0 Def:6),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,301,2,1,3,10:45 PM,9:31,,,MISS Parker 15' Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,302,4,0,3,10:46 PM,9:29,,,Gray REBOUND (Off:1 Def:2),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,303,1,5,3,10:46 PM,9:26,,,Gray 3' Layup (18 PTS),51 - 49,-2,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,304,1,98,3,10:46 PM,9:13,Sabally 3' Cutting Layup Shot (20 PTS) (McCowan 1 AST),,,51 - 51,TIE,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,306,2,79,3,10:46 PM,9:00,,,MISS Gray 13' Pullup Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,307,4,0,3,10:46 PM,8:58,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,309,2,1,3,10:46 PM,8:39,MISS Sabally 25' 3PT Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,310,4,0,3,10:47 PM,8:35,,,Billings REBOUND (Off:0 Def:2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,311,1,3,3,10:47 PM,8:22,,,Parker 8' Hook Shot (7 PTS) (Robinson 4 AST),53 - 51,-2,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,313,5,1,3,10:47 PM,8:11,Sims Bad Pass Turnover (P1.T13),,Parker STEAL (2 STL),,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,315,6,2,3,10:47 PM,8:07,Sims S.FOUL (P1.T1),,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,317,3,11,3,10:48 PM,8:07,,,Robinson Free Throw 1 of 2 (3 PTS),54 - 51,-3,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,318,3,12,3,10:48 PM,8:07,,,MISS Robinson Free Throw 2 of 2,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,319,4,0,3,10:48 PM,8:04,Sabally REBOUND (Off:0 Def:3),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,320,2,6,3,10:48 PM,7:59,MISS Ogunbowale 4' Driving Layup,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,321,4,0,3,10:48 PM,7:58,,,Gray REBOUND (Off:1 Def:3),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,322,10,0,3,10:49 PM,7:57,Jump Ball Ogunbowale vs. Gray: Tip to Sims,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0
+1042300131,325,5,2,3,10:49 PM,7:57,Ogunbowale STEAL (2 STL),,Gray Lost Ball Turnover (P1.T10),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,327,2,1,3,10:49 PM,7:50,MISS Howard 14' Jump Shot,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,328,4,0,3,10:49 PM,7:49,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,330,6,2,3,10:50 PM,7:48,,,Gray S.FOUL (P1.T1),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,332,18,3,3,10:50 PM,7:48,,Instant Replay3rd Period (10:50 PM EST),,54 - 51,-3,0,330,Danny Manning,,,,,0,0,,,,,,1,0,,,,,,0
+1042300131,333,3,11,3,10:51 PM,7:48,Sabally Free Throw 1 of 2 (21 PTS),,,54 - 52,-2,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,334,8,0,3,10:51 PM,7:48,SUB: Dangerfield FOR Sims,,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,336,3,12,3,10:51 PM,7:48,Sabally Free Throw 2 of 2 (22 PTS),,,54 - 53,-1,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,337,2,1,3,10:52 PM,7:33,,,MISS Gray 24' 3PT Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,338,4,0,3,10:52 PM,7:29,Ogunbowale REBOUND (Off:1 Def:4),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,339,6,26,3,10:52 PM,7:26,Ogunbowale Offensive Charge Foul (P1),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,341,5,37,3,10:52 PM,7:26,Ogunbowale Offensive Foul Turnover (P4.T14),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,342,2,1,3,10:52 PM,7:10,,,MISS Howard 18' Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,343,4,0,3,10:52 PM,7:08,,,Billings REBOUND (Off:1 Def:2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,344,2,1,3,10:53 PM,6:58,Howard BLOCK (3 BLK),,MISS Parker 10' Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1
+1042300131,347,1,5,3,10:53 PM,6:54,,,Parker 4' Layup (9 PTS),56 - 53,-3,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,346,4,0,3,10:53 PM,6:54,,,Parker REBOUND (Off:1 Def:6),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,348,1,80,3,10:53 PM,6:33,McCowan 8' Step Back Jump Shot (7 PTS) (Sabally 3 AST),,,56 - 55,-1,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,350,1,1,3,10:53 PM,6:15,,,Howard 27' 3PT Jump Shot (22 PTS) (Gray 2 AST),59 - 55,-4,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,352,1,78,3,10:54 PM,5:53,Ogunbowale 12' Floating Jump Shot (17 PTS) (Sabally 4 AST),,,59 - 57,-2,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,354,5,2,3,10:54 PM,5:33,Sabally STEAL (4 STL),,Billings Lost Ball Turnover (P2.T11),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,356,2,41,3,10:54 PM,5:28,MISS Howard 9' Running Layup,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,357,4,0,3,10:54 PM,5:26,,,Billings REBOUND (Off:1 Def:3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,358,2,41,3,10:54 PM,5:23,McCowan BLOCK (1 BLK),,MISS Gray 4' Running Layup,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1
+1042300131,360,4,0,3,10:54 PM,5:22,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,362,8,0,3,10:54 PM,5:22,SUB: Sims FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,364,2,63,3,10:55 PM,5:08,MISS Ogunbowale 18' Fadeaway Jumper,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,365,4,0,3,10:55 PM,5:05,McCowan REBOUND (Off:3 Def:5),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,366,1,72,3,10:55 PM,5:04,McCowan 3' Putback Layup (9 PTS),,,59 - 59,TIE,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,367,2,1,3,10:55 PM,4:42,,,MISS Parker 24' 3PT Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,368,4,0,3,10:55 PM,4:39,Sabally REBOUND (Off:0 Def:4),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,369,1,5,3,10:55 PM,4:33,McCowan 3' Layup (11 PTS) (Sims 3 AST),,,59 - 61,2,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,372,9,4,3,10:56 PM,4:22,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,373,8,0,3,10:59 PM,4:22,,,SUB: McDonald FOR Robinson,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,375,2,1,3,11:00 PM,4:06,,,MISS Howard 22' Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,376,4,0,3,11:00 PM,4:03,Howard REBOUND (Off:0 Def:5),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,377,2,5,3,11:00 PM,3:50,MISS Sabally 4' Layup,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,378,4,0,3,11:00 PM,3:48,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,379,7,5,3,11:00 PM,3:48,McCowan Violation:Kicked Ball,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,0
+1042300131,380,1,1,3,11:00 PM,3:37,,,Howard 25' 3PT Jump Shot (25 PTS) (McDonald 2 AST),62 - 61,-1,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,382,2,78,3,11:01 PM,3:08,MISS Ogunbowale 8' Floating Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,383,4,0,3,11:01 PM,3:07,Ogunbowale REBOUND (Off:2 Def:4),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,384,2,63,3,11:01 PM,3:06,MISS Ogunbowale 11' Fadeaway Jumper,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,385,4,0,3,11:01 PM,3:05,McCowan REBOUND (Off:4 Def:5),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,386,6,2,3,11:01 PM,3:05,,,Billings S.FOUL (P3.T2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,388,3,11,3,11:01 PM,3:05,MISS McCowan Free Throw 1 of 2,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,389,4,1,3,11:01 PM,3:05,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,390,3,12,3,11:01 PM,3:05,MISS McCowan Free Throw 2 of 2,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,391,4,0,3,11:01 PM,3:01,,,Gray REBOUND (Off:1 Def:4),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,392,2,1,3,11:02 PM,2:41,,,MISS Gray 18' Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,393,4,0,3,11:02 PM,2:38,Sims REBOUND (Off:0 Def:2),,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,394,2,41,3,11:02 PM,2:31,MISS Ogunbowale 4' Running Layup,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,395,4,0,3,11:02 PM,2:29,,,Howard REBOUND (Off:1 Def:3),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,396,2,1,3,11:02 PM,2:18,,,MISS McDonald 26' 3PT Jump Shot,,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,397,4,0,3,11:02 PM,2:16,,,Parker REBOUND (Off:2 Def:6),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,398,1,5,3,11:02 PM,2:14,,,Parker 3' Layup (11 PTS),64 - 61,-3,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,399,1,1,3,11:03 PM,1:48,Sabally 3PT Jump Shot (25 PTS) (Ogunbowale 4 AST),,,64 - 64,TIE,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,401,1,1,3,11:03 PM,1:32,,,Howard 25' 3PT Jump Shot (28 PTS) (McDonald 3 AST),67 - 64,-3,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,403,6,2,3,11:03 PM,1:16,,,Parker S.FOUL (P3.T3),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,405,3,11,3,11:04 PM,1:16,Ogunbowale Free Throw 1 of 2 (18 PTS),,,67 - 65,-2,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,412,3,12,3,11:04 PM,1:16,MISS Ogunbowale Free Throw 2 of 2,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,406,8,0,3,11:04 PM,1:16,SUB: Burton FOR Sims,,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,407,8,0,3,11:04 PM,1:16,SUB: Kuier FOR Howard,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,408,8,0,3,11:04 PM,1:16,SUB: Brown FOR McCowan,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,413,4,0,3,11:04 PM,1:13,,,Billings REBOUND (Off:1 Def:4),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,414,5,2,3,11:05 PM,0:57,Burton STEAL (1 STL),,McDonald Lost Ball Turnover (P3.T12),,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,416,1,41,3,11:05 PM,0:54,Sabally 4' Running Layup (27 PTS),,,67 - 67,TIE,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,418,6,1,3,11:05 PM,0:54,Ogunbowale P.FOUL (P2.T2),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,420,8,0,3,11:05 PM,0:54,SUB: Siegrist FOR Ogunbowale,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,421,8,0,3,11:05 PM,0:54,,,SUB: Durr FOR Gray,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,424,1,80,3,11:05 PM,0:37,,,Howard 26' 3PT Step Back Jump Shot (31 PTS),70 - 67,-3,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,425,2,63,3,11:06 PM,0:25,MISS Sabally 14' Fadeaway Jumper,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,426,4,0,3,11:06 PM,0:23,,,Billings REBOUND (Off:1 Def:5),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,427,2,1,3,11:06 PM,0:01,,,MISS Howard 31' 3PT Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,428,4,0,3,11:06 PM,0:01,,,Billings REBOUND (Off:2 Def:5),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,429,2,72,3,11:06 PM,0:00,,,MISS Billings 4' Putback Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,430,4,0,3,11:06 PM,0:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,431,13,0,3,11:06 PM,0:00,,End of 3rd Period (11:06 PM EST),,70 - 67,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,442,12,0,4,11:11 PM,10:00,,Start of 4th Period (11:11 PM EST),,70 - 67,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,443,1,1,4,11:11 PM,9:40,,,Howard 25' 3PT Jump Shot (34 PTS) (Durr 1 AST),73 - 67,-6,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,445,2,1,4,11:11 PM,9:25,MISS Howard 3PT Jump Shot,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,446,4,0,4,11:11 PM,9:25,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,448,2,5,4,11:12 PM,9:02,,,MISS Parker 4' Layup,,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,449,4,0,4,11:12 PM,9:00,Ogunbowale REBOUND (Off:2 Def:5),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,450,1,1,4,11:12 PM,8:54,Sims 24' 3PT Jump Shot (8 PTS) (Ogunbowale 5 AST),,,73 - 70,-3,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,452,2,47,4,11:12 PM,8:38,,,MISS Howard 20' Turnaround Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,453,4,0,4,11:12 PM,8:36,Howard REBOUND (Off:0 Def:6),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,454,6,2,4,11:12 PM,8:34,,,Howard S.FOUL (P2.T1),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,456,3,11,4,11:13 PM,8:34,Ogunbowale Free Throw 1 of 2 (19 PTS),,,73 - 71,-2,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,459,3,12,4,11:13 PM,8:34,MISS Ogunbowale Free Throw 2 of 2,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,457,8,0,4,11:13 PM,8:34,,,SUB: Gray FOR Durr,,,5,1629476,Asia (AD) Durr,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,460,4,0,4,11:13 PM,8:31,,,Gray REBOUND (Off:1 Def:5),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,461,2,1,4,11:13 PM,8:23,,,MISS Howard 25' 3PT Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,462,4,0,4,11:13 PM,8:21,Sabally REBOUND (Off:0 Def:5),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,463,1,41,4,11:13 PM,8:13,McCowan 3' Running Layup (13 PTS) (Howard 3 AST),,,73 - 73,TIE,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,465,2,78,4,11:14 PM,8:01,,,MISS Gray 7' Floating Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,466,4,0,4,11:14 PM,8:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,467,6,3,4,11:14 PM,8:00,McCowan L.B.FOUL (P2.T1),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,469,8,0,4,11:14 PM,8:00,,,SUB: Billings FOR Hillmon,,,5,1631044,Naz Hillmon,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,471,6,1,4,11:15 PM,7:48,Ogunbowale P.FOUL (P3.T2),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,473,2,6,4,11:15 PM,7:43,,,MISS Gray 5' Driving Layup,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,474,4,0,4,11:15 PM,7:42,,,Billings REBOUND (Off:3 Def:5),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,475,6,2,4,11:15 PM,7:42,Howard S.FOUL (P2.T3),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,477,3,11,4,11:16 PM,7:42,,,Billings Free Throw 1 of 2 (3 PTS),74 - 73,-1,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,478,7,3,4,11:16 PM,7:42,Sabally Violation:Lane,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,479,3,12,4,11:16 PM,7:42,,,MISS Billings Free Throw 2 of 2,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,480,4,0,4,11:16 PM,7:39,Sims REBOUND (Off:0 Def:3),,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,481,6,1,4,11:17 PM,7:30,,,Parker P.FOUL (P4.T2),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,483,5,4,4,11:17 PM,7:24,Sabally Traveling Turnover (P5.T15),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,484,1,6,4,11:17 PM,7:10,,,McDonald 6' Driving Layup (5 PTS),76 - 73,-3,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,485,9,2,4,11:18 PM,7:07,WINGS Timeout: Short (Full 1 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,486,8,0,4,11:18 PM,7:07,SUB: Dangerfield FOR Sims,,,,,4,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,488,5,2,4,11:19 PM,6:53,McCowan Lost Ball Turnover (P2.T16),,McDonald STEAL (1 STL),,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,490,2,80,4,11:19 PM,6:47,,,MISS Howard 27' 3PT Step Back Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,491,4,0,4,11:19 PM,6:44,Ogunbowale REBOUND (Off:2 Def:6),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,493,1,1,4,11:19 PM,6:36,Sabally 24' 3PT Jump Shot (30 PTS),,,76 - 76,TIE,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,494,2,1,4,11:20 PM,6:11,,,MISS Gray 14' Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,495,4,0,4,11:20 PM,6:07,McCowan REBOUND (Off:4 Def:6),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,496,2,80,4,11:20 PM,5:58,MISS Ogunbowale 19' Step Back Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,497,4,0,4,11:20 PM,5:54,Dangerfield REBOUND (Off:1 Def:0),,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,498,2,98,4,11:20 PM,5:47,MISS Howard 3' Cutting Layup Shot,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,499,4,0,4,11:20 PM,5:46,McCowan REBOUND (Off:5 Def:6),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,500,1,72,4,11:20 PM,5:46,McCowan 1' Putback Layup (15 PTS),,,76 - 78,2,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,501,2,1,4,11:21 PM,5:24,,,MISS McDonald 24' 3PT Jump Shot,,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,502,4,0,4,11:21 PM,5:21,McCowan REBOUND (Off:5 Def:7),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,503,1,6,4,11:21 PM,5:05,Sabally 3' Driving Layup (32 PTS),,,76 - 80,4,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,504,9,1,4,11:21 PM,4:58,,,Dream Timeout: Regular (Reg.2 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,505,6,1,4,11:25 PM,4:57,Sabally P.FOUL (P3.T4),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,507,1,63,4,11:26 PM,4:45,,,Gray 14' Fadeaway Jumper (20 PTS),78 - 80,2,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,508,1,79,4,11:26 PM,4:23,Ogunbowale 12' Pullup Jump Shot (21 PTS) (McCowan 2 AST),,,78 - 82,4,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,510,2,1,4,11:26 PM,4:10,,,MISS Howard 25' 3PT Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,511,4,0,4,11:26 PM,4:06,Howard REBOUND (Off:0 Def:7),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,512,5,2,4,11:27 PM,4:00,Howard Lost Ball Turnover (P3.T17),,Howard STEAL (3 STL),,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1042300131,514,6,1,4,11:27 PM,4:00,Sabally P.FOUL (P4.PN),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,516,3,11,4,11:27 PM,4:00,,,Howard Free Throw 1 of 2 (35 PTS),79 - 82,3,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,517,8,0,4,11:27 PM,4:00,,,SUB: Robinson FOR McDonald,,,5,1630462,Aari McDonald,1611661330.0,Atlanta,Dream,ATL,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1042300131,519,3,12,4,11:27 PM,4:00,,,Howard Free Throw 2 of 2 (36 PTS),80 - 82,2,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,520,1,1,4,11:28 PM,3:46,Howard 25' 3PT Jump Shot (5 PTS) (Ogunbowale 6 AST),,,80 - 85,5,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,522,5,2,4,11:28 PM,3:27,Howard STEAL (3 STL),,Gray Lost Ball Turnover (P2.T13),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,524,5,40,4,11:28 PM,3:24,Howard Out of Bounds Lost Ball Turnover (P4.T18),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300131,525,5,2,4,11:29 PM,3:05,Ogunbowale STEAL (3 STL),,Gray Lost Ball Turnover (P3.T14),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,527,1,41,4,11:29 PM,3:02,Ogunbowale 4' Running Layup (23 PTS),,,80 - 87,7,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,528,9,2,4,11:29 PM,2:59,,,Dream Timeout: Short (Reg.2 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,529,9,1,4,11:30 PM,2:59,WINGS Timeout: Regular (Full 2 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,532,6,4,4,11:32 PM,2:48,,,Gray OFF.Foul (P2),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,534,5,37,4,11:32 PM,2:48,,,Gray Offensive Foul Turnover (P4.T15),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1042300131,535,2,6,4,11:33 PM,2:39,MISS Ogunbowale 4' Driving Layup,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,536,4,0,4,11:33 PM,2:38,McCowan REBOUND (Off:6 Def:7),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,537,6,2,4,11:33 PM,2:38,,,Gray S.FOUL (P3.T3),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,539,3,11,4,11:34 PM,2:38,MISS McCowan Free Throw 1 of 2,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,540,4,1,4,11:34 PM,2:38,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,541,3,12,4,11:34 PM,2:38,McCowan Free Throw 2 of 2 (16 PTS),,,80 - 88,8,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,542,2,6,4,11:34 PM,2:22,McCowan BLOCK (2 BLK),,MISS Robinson 5' Driving Layup,,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1
+1042300131,544,4,0,4,11:34 PM,2:20,Ogunbowale REBOUND (Off:2 Def:7),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,545,1,41,4,11:34 PM,2:16,Dangerfield 3' Running Layup (2 PTS) (Ogunbowale 7 AST),,,80 - 90,10,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,547,2,1,4,11:34 PM,2:02,,,MISS Gray 26' 3PT Jump Shot,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,548,4,0,4,11:35 PM,1:58,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,549,6,3,4,11:35 PM,1:58,McCowan L.B.FOUL (P3.PN),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,551,3,11,4,11:35 PM,1:58,,,Billings Free Throw 1 of 2 (4 PTS),81 - 90,9,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,552,3,12,4,11:35 PM,1:58,,,MISS Billings Free Throw 2 of 2,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,553,4,0,4,11:35 PM,1:55,Dangerfield REBOUND (Off:1 Def:1),,,,,4,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,554,2,1,4,11:36 PM,1:42,MISS Sabally 12' Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,555,4,0,4,11:36 PM,1:41,McCowan REBOUND (Off:7 Def:7),,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,556,6,2,4,11:36 PM,1:39,,,Parker S.FOUL (P5.T4),,,5,204323,Cheyenne Parker-Tyus,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,558,3,11,4,11:36 PM,1:39,MISS McCowan Free Throw 1 of 2,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,559,4,1,4,11:36 PM,1:39,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,560,3,12,4,11:36 PM,1:39,McCowan Free Throw 2 of 2 (17 PTS),,,81 - 91,10,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,561,2,1,4,11:37 PM,1:27,,,MISS Howard 25' 3PT Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,562,4,0,4,11:37 PM,1:22,Howard REBOUND (Off:0 Def:8),,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,563,6,1,4,11:37 PM,1:15,,,Robinson P.FOUL (P1.PN),,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,565,3,11,4,11:37 PM,1:15,MISS Ogunbowale Free Throw 1 of 2,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,566,4,1,4,11:37 PM,1:15,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,567,8,0,4,11:37 PM,1:15,SUB: Brown FOR Sabally,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,568,8,0,4,11:37 PM,1:15,SUB: Siegrist FOR McCowan,,,,,4,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,571,3,12,4,11:38 PM,1:15,Ogunbowale Free Throw 2 of 2 (24 PTS),,,81 - 92,11,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,572,9,2,4,11:38 PM,1:15,,,Dream Timeout: Short (Reg.2 Short 2),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,573,5,1,4,11:39 PM,1:11,Ogunbowale STEAL (4 STL),,Robinson Bad Pass Turnover (P3.T16),,,5,202658,Danielle Robinson,1611661330.0,Atlanta,Dream,ATL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300131,575,2,79,4,11:39 PM,0:51,MISS Ogunbowale 25' 3PT Pullup Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,576,4,0,4,11:39 PM,0:48,,,Gray REBOUND (Off:1 Def:6),,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,577,6,1,4,11:40 PM,0:47,Ogunbowale P.FOUL (P4.PN),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1042300131,579,3,11,4,11:40 PM,0:47,,,MISS Gray Free Throw 1 of 2,,,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,580,4,1,4,11:40 PM,0:47,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300131,581,8,0,4,11:40 PM,0:47,SUB: Burton FOR Howard,,,,,4,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,582,8,0,4,11:40 PM,0:47,SUB: Kuier FOR Ogunbowale,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300131,585,3,12,4,11:40 PM,0:47,,,Gray Free Throw 2 of 2 (21 PTS),82 - 92,10,5,1628277,Allisha Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1042300131,586,6,28,4,11:40 PM,0:47,,,Howard Personal Take Foul (P3.PN),,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300131,588,3,11,4,11:41 PM,0:47,Burton Free Throw 1 of 2 (1 PTS),,,82 - 93,11,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,589,3,12,4,11:41 PM,0:47,Burton Free Throw 2 of 2 (2 PTS),,,82 - 94,12,4,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300131,590,2,78,4,11:41 PM,0:38,,,MISS Howard 12' Floating Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,591,4,0,4,11:41 PM,0:36,Brown REBOUND (Off:0 Def:1),,,,,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,592,5,11,4,11:42 PM,0:14,WINGS Turnover: Shot Clock (T#19),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300131,593,2,80,4,11:42 PM,0:01,,,MISS Howard 26' 3PT Step Back Jump Shot,,,5,1631009,Rhyne Howard,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1042300131,594,4,0,4,11:42 PM,0:00,Brown REBOUND (Off:0 Def:2),,,,,4,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300131,595,13,0,4,11:42 PM,0:00,,End of 4th Period (11:42 PM EST),,82 - 94,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

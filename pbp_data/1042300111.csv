@@ -1,0 +1,359 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042300111,2,12,0,1,7:33 PM,10:00,,Start of 1st Period (7:33 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,4,10,0,1,7:33 PM,10:00,Jump Ball Jones vs. Sykes: Tip to Laney,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1
+1042300111,7,7,5,1,7:34 PM,9:54,,,Sykes Violation:Kicked Ball,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1042300111,8,2,79,1,7:34 PM,9:43,MISS Stewart 9' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,9,4,0,1,7:34 PM,9:42,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,10,1,1,1,7:34 PM,9:20,,,Atkins 24' 3PT Jump Shot (3 PTS) (Cloud 1 AST),3 - 0,-3,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,12,1,79,1,7:34 PM,9:08,Laney 25' 3PT Pullup Jump Shot (3 PTS) (Jones 1 AST),,,3 - 3,TIE,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,14,1,79,1,7:35 PM,8:43,,,Cloud 18' Pullup Jump Shot (2 PTS) (Hines-Allen 1 AST),5 - 3,-2,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,16,1,102,1,7:35 PM,8:30,Ionescu 10' Driving Floating Bank Jump Shot (2 PTS),,,5 - 5,TIE,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,18,1,98,1,7:36 PM,8:10,,,Hines-Allen 3' Cutting Layup Shot (2 PTS) (Cloud 2 AST),7 - 5,-2,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,20,2,1,1,7:36 PM,7:58,MISS Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,21,4,0,1,7:36 PM,7:57,,,Cloud REBOUND (Off:0 Def:2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,22,1,103,1,7:36 PM,7:48,,,Delle Donne 12' Running Pull-Up Jump Shot (2 PTS) (Cloud 3 AST),9 - 5,-4,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,24,2,47,1,7:36 PM,7:36,MISS Jones 6' Turnaround Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,25,4,0,1,7:36 PM,7:35,Jones REBOUND (Off:1 Def:0),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,26,1,72,1,7:36 PM,7:34,Jones 2' Putback Layup (2 PTS),,,9 - 7,-2,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,27,2,1,1,7:37 PM,7:14,,,MISS Sykes 3PT Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,28,4,0,1,7:37 PM,7:13,Jones REBOUND (Off:1 Def:1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,29,5,1,1,7:37 PM,7:06,Ionescu Bad Pass Turnover (P1.T1),,Atkins STEAL (1 STL),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,31,1,41,1,7:37 PM,7:00,,,Hines-Allen 2' Running Layup (4 PTS) (Sykes 1 AST),11 - 7,-4,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,33,6,1,1,7:37 PM,6:49,,,Sykes P.FOUL (P1.T1),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,35,1,75,1,7:38 PM,6:43,Vandersloot 3' Driving Finger Roll Layup (2 PTS),,,11 - 9,-2,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,37,6,2,1,7:38 PM,6:36,Stewart S.FOUL (P1.T1),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,39,3,11,1,7:38 PM,6:36,,,Cloud Free Throw 1 of 2 (3 PTS),12 - 9,-3,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,40,3,12,1,7:38 PM,6:36,,,Cloud Free Throw 2 of 2 (4 PTS),13 - 9,-4,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,41,1,1,1,7:39 PM,6:28,Laney 24' 3PT Jump Shot (6 PTS) (Stewart 1 AST),,,13 - 12,-1,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,43,2,6,1,7:39 PM,6:13,,,MISS Atkins 6' Driving Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,44,4,0,1,7:39 PM,6:12,,,Atkins REBOUND (Off:1 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,45,6,2,1,7:39 PM,6:02,Laney S.FOUL (P1.T2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,47,3,11,1,7:39 PM,6:02,,,MISS Sykes Free Throw 1 of 2,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,48,4,1,1,7:39 PM,6:02,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,49,3,12,1,7:40 PM,6:02,,,Sykes Free Throw 2 of 2 (1 PTS),14 - 12,-2,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,50,2,79,1,7:40 PM,5:54,MISS Stewart 12' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,51,4,0,1,7:40 PM,5:53,,,Cloud REBOUND (Off:0 Def:3),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,52,1,5,1,7:40 PM,5:34,,,Hines-Allen 2' Layup (6 PTS) (Delle Donne 1 AST),16 - 12,-4,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,54,6,1,1,7:40 PM,5:26,,,Cloud P.FOUL (P1.T2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,56,6,2,1,7:41 PM,5:22,,,Cloud S.FOUL (P2.T3),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,58,3,11,1,7:41 PM,5:22,Ionescu Free Throw 1 of 2 (3 PTS),,,16 - 13,-3,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,59,3,12,1,7:41 PM,5:22,Ionescu Free Throw 2 of 2 (4 PTS),,,16 - 14,-2,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,60,2,1,1,7:42 PM,4:58,,,MISS Hines-Allen 24' 3PT Jump Shot,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,61,4,0,1,7:42 PM,4:57,,,Atkins REBOUND (Off:2 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,62,1,98,1,7:42 PM,4:51,,,Sykes 2' Cutting Layup Shot (3 PTS) (Atkins 1 AST),18 - 14,-4,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,64,1,75,1,7:42 PM,4:40,Laney 2' Driving Finger Roll Layup (8 PTS),,,18 - 16,-2,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,65,2,79,1,7:42 PM,4:31,,,MISS Delle Donne 26' 3PT Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,66,4,0,1,7:42 PM,4:30,Laney REBOUND (Off:0 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,67,6,2,1,7:43 PM,4:21,,,Hines-Allen S.FOUL (P1.T4),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,69,9,4,1,7:43 PM,4:21,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,70,8,0,1,7:45 PM,4:21,,,SUB: Walker-Kimbrough FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,71,8,0,1,7:45 PM,4:21,,,SUB: Hawkins FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,74,3,11,1,7:46 PM,4:21,MISS Jones Free Throw 1 of 2,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,75,4,1,1,7:46 PM,4:21,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,76,3,12,1,7:46 PM,4:21,Jones Free Throw 2 of 2 (3 PTS),,,18 - 17,-1,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,77,1,47,1,7:47 PM,4:04,,,Delle Donne 12' Turnaround Jump Shot (4 PTS) (Cloud 4 AST),20 - 17,-3,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,79,6,2,1,7:47 PM,3:51,,,Hawkins S.FOUL (P1.PN),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,81,3,11,1,7:47 PM,3:51,Jones Free Throw 1 of 2 (4 PTS),,,20 - 18,-2,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,82,3,12,1,7:47 PM,3:51,Jones Free Throw 2 of 2 (5 PTS),,,20 - 19,-1,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,83,1,79,1,7:48 PM,3:37,,,Sykes 20' Pullup Jump Shot (5 PTS),22 - 19,-3,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,84,1,101,1,7:48 PM,3:25,Ionescu 7' Driving Floating Jump Shot (6 PTS),,,22 - 21,-1,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,85,2,79,1,7:48 PM,3:02,,,MISS Cloud 15' Pullup Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,86,4,0,1,7:48 PM,3:01,Ionescu REBOUND (Off:0 Def:1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,87,2,103,1,7:48 PM,2:55,MISS Stewart 26' 3PT Running Pull-Up Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,88,4,0,1,7:48 PM,2:54,,,Cloud REBOUND (Off:0 Def:4),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,89,2,44,1,7:49 PM,2:39,Jones BLOCK (1 BLK),,MISS Delle Donne 5' Reverse Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300111,90,4,0,1,7:49 PM,2:38,Ionescu REBOUND (Off:0 Def:2),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,91,2,41,1,7:49 PM,2:33,MISS Stewart 3' Running Layup,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,92,4,0,1,7:49 PM,2:32,,,Cloud REBOUND (Off:0 Def:5),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,93,1,41,1,7:49 PM,2:26,,,Delle Donne 2' Running Layup (6 PTS) (Cloud 5 AST),24 - 21,-3,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,94,5,1,1,7:49 PM,2:07,Jones Bad Pass Turnover (P1.T2),,Walker-Kimbrough STEAL (1 STL),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,96,1,103,1,7:49 PM,2:02,,,Sykes 11' Running Pull-Up Jump Shot (7 PTS),26 - 21,-5,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,98,2,1,1,7:50 PM,1:48,MISS Ionescu 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,99,4,0,1,7:50 PM,1:47,,,Sykes REBOUND (Off:0 Def:1),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,100,2,79,1,7:50 PM,1:26,,,MISS Sykes 18' Pullup Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,101,4,0,1,7:50 PM,1:25,Ionescu REBOUND (Off:0 Def:3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,102,6,26,1,7:50 PM,1:18,Jones Offensive Charge Foul (P1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,104,5,37,1,7:50 PM,1:18,Jones Offensive Foul Turnover (P2.T3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300111,105,18,0,1,7:50 PM,1:18,,Instant Replay1st Period (7:50 PM EST),,26 - 21,-5,0,102,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300111,106,8,0,1,7:50 PM,1:18,SUB: Johannès FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,107,8,0,1,7:50 PM,1:18,SUB: Dolson FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,108,8,0,1,7:50 PM,1:18,SUB: Thornton FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,109,8,0,1,7:50 PM,1:18,,,SUB: Meng FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,110,8,0,1,7:50 PM,1:18,,,SUB: Egbo FOR Sykes,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1631031,Queen Egbo,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,116,5,1,1,7:53 PM,0:59,Thornton STEAL (1 STL),,Hawkins Bad Pass Turnover (P1.T1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,118,1,41,1,7:53 PM,0:55,Thornton Running Layup (2 PTS),,,26 - 23,-3,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,119,2,5,1,7:53 PM,0:39,,,MISS Egbo 3' Layup,,,5,1631031,Queen Egbo,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,120,4,0,1,7:53 PM,0:38,,,Egbo REBOUND (Off:1 Def:0),,,5,1631031,Queen Egbo,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,121,2,72,1,7:53 PM,0:37,Thornton BLOCK (1 BLK),,MISS Egbo 2' Putback Layup,,,5,1631031,Queen Egbo,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,1
+1042300111,122,4,0,1,7:53 PM,0:36,Vandersloot REBOUND (Off:0 Def:1),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,123,2,75,1,7:54 PM,0:18,MISS Vandersloot 2' Driving Finger Roll Layup,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,124,4,0,1,7:54 PM,0:17,,,Walker-Kimbrough REBOUND (Off:0 Def:1),,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,125,1,1,1,7:54 PM,0:03,,,Hawkins 24' 3PT Jump Shot (3 PTS) (Cloud 6 AST),29 - 23,-6,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,127,2,79,1,7:54 PM,0:00,MISS Johannès 50' 3PT Pullup Jump Shot,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,128,4,0,1,7:54 PM,0:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,129,13,0,1,7:54 PM,0:00,,End of 1st Period (7:54 PM EST),,29 - 23,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,138,12,0,2,7:58 PM,10:00,,Start of 2nd Period (7:58 PM EST),,29 - 23,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,139,2,6,2,7:58 PM,9:47,,,MISS Sykes 5' Driving Layup,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,140,4,0,2,7:58 PM,9:46,,,Sykes REBOUND (Off:1 Def:1),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,165,2,97,2,7:59 PM,9:46,,,MISS Sykes 2' Tip Layup Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,166,4,0,2,7:59 PM,9:45,Laney REBOUND (Off:0 Def:2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,141,2,101,2,7:59 PM,9:31,MISS Stewart 6' Driving Floating Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,142,4,0,2,7:59 PM,9:30,,,Hawkins REBOUND (Off:0 Def:1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,145,2,5,2,7:59 PM,9:16,Dolson BLOCK (1 BLK),,MISS Hawkins 6' Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,1
+1042300111,147,4,0,2,7:59 PM,9:15,Dolson REBOUND (Off:0 Def:1),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,148,2,2,2,7:59 PM,9:09,MISS Laney 27' 3PT Running Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,149,4,0,2,7:59 PM,9:08,Stewart REBOUND (Off:1 Def:0),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,150,1,1,2,7:59 PM,9:03,Dolson 24' 3PT Jump Shot (3 PTS) (Johannès 1 AST),,,29 - 26,-3,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,152,2,1,2,7:59 PM,8:49,,,MISS Atkins 26' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,153,4,0,2,7:59 PM,8:48,Stewart REBOUND (Off:1 Def:1),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,154,2,2,2,8:00 PM,8:42,MISS Johannès 26' 3PT Running Jump Shot,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,155,4,0,2,8:00 PM,8:41,Dolson REBOUND (Off:1 Def:1),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,156,6,1,2,8:00 PM,8:39,,,Hawkins P.FOUL (P2.T1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,158,8,0,2,8:00 PM,8:39,,,SUB: Delle Donne FOR Egbo,,,5,1631031,Queen Egbo,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,160,2,1,2,8:00 PM,8:31,MISS Ionescu 25' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,161,4,0,2,8:00 PM,8:30,,,Hawkins REBOUND (Off:0 Def:2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,162,5,1,2,8:00 PM,8:17,Stewart STEAL (1 STL),,Meng Bad Pass Turnover (P1.T2),,,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,177,2,6,2,8:01 PM,8:00,MISS Ionescu 3' Driving Layup,,Atkins BLOCK (1 BLK),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1
+1042300111,179,4,0,2,8:01 PM,7:59,Laney REBOUND (Off:1 Def:2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,164,1,66,2,8:01 PM,7:57,Laney 6' Jump Bank Shot (10 PTS),,,29 - 28,-1,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,167,2,47,2,8:01 PM,7:32,,,MISS Delle Donne 13' Turnaround Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,168,4,0,2,8:01 PM,7:31,Stewart REBOUND (Off:1 Def:2),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,170,6,2,2,8:01 PM,7:25,,,Delle Donne S.FOUL (P1.T2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,172,3,11,2,8:02 PM,7:25,Stewart Free Throw 1 of 2 (1 PTS),,,29 - 29,TIE,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,175,3,12,2,8:02 PM,7:25,Stewart Free Throw 2 of 2 (2 PTS),,,29 - 30,1,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,173,8,0,2,8:02 PM,7:25,SUB: Thornton FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,180,8,0,2,8:02 PM,7:05,SUB: Jones FOR Stewart,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,183,6,1,2,8:03 PM,7:04,Laney P.FOUL (P2.T1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,185,2,63,2,8:03 PM,6:58,,,MISS Atkins 14' Fadeaway Jumper,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,186,4,0,2,8:03 PM,6:57,Jones REBOUND (Off:1 Def:2),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,187,5,1,2,8:04 PM,6:51,Ionescu Bad Pass Turnover (P2.T4),,Meng STEAL (1 STL),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,189,1,1,2,8:04 PM,6:40,,,Atkins 3PT Jump Shot (6 PTS) (Delle Donne 2 AST),32 - 30,-2,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,191,2,6,2,8:04 PM,6:23,MISS Johannès 4' Driving Layup,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,192,4,0,2,8:04 PM,6:22,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,194,8,0,2,8:04 PM,6:22,SUB: Vandersloot FOR Johannès,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,196,2,73,2,8:05 PM,6:07,Jones BLOCK (2 BLK),,MISS Delle Donne 4' Driving Reverse Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300111,198,4,0,2,8:05 PM,6:06,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,200,5,2,2,8:05 PM,5:50,Vandersloot Lost Ball Turnover (P1.T5),,Atkins STEAL (2 STL),,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,202,1,5,2,8:05 PM,5:43,,,Hawkins 2' Layup (5 PTS) (Sykes 2 AST),34 - 30,-4,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,204,2,1,2,8:06 PM,5:19,MISS Vandersloot 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,205,4,0,2,8:06 PM,5:18,Laney REBOUND (Off:2 Def:2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,206,1,6,2,8:06 PM,5:14,Laney 1' Driving Layup (12 PTS),,,34 - 32,-2,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,207,6,1,2,8:06 PM,5:01,Vandersloot P.FOUL (P1.T2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,209,9,1,2,8:06 PM,5:01,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,210,8,0,2,8:06 PM,5:01,SUB: Stewart FOR Thornton,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,211,8,0,2,8:06 PM,5:01,,,SUB: Walker-Kimbrough FOR Meng,,,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,212,8,0,2,8:06 PM,5:01,,,SUB: Cloud FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,213,8,0,2,8:06 PM,5:01,,,SUB: Hines-Allen FOR Hawkins,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,218,2,1,2,8:10 PM,4:48,,,MISS Sykes 3PT Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,219,4,0,2,8:10 PM,4:47,Vandersloot REBOUND (Off:0 Def:2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,220,6,1,2,8:10 PM,4:41,,,Delle Donne P.FOUL (P2.T3),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,222,1,98,2,8:10 PM,4:35,Jones 2' Cutting Layup Shot (7 PTS) (Vandersloot 1 AST),,,34 - 34,TIE,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,224,6,2,2,8:10 PM,4:10,Vandersloot S.FOUL (P2.T3),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,226,3,11,2,8:11 PM,4:10,,,MISS Walker-Kimbrough Free Throw 1 of 2,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,227,4,1,2,8:11 PM,4:10,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,228,3,12,2,8:11 PM,4:10,,,Walker-Kimbrough Free Throw 2 of 2 (1 PTS),35 - 34,-1,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,229,1,6,2,8:11 PM,4:02,Vandersloot 2' Driving Layup (4 PTS),,,35 - 36,1,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,230,1,6,2,8:12 PM,3:42,,,Delle Donne 2' Driving Layup (8 PTS),37 - 36,-1,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,231,2,86,2,8:12 PM,3:26,MISS Laney 8' Turnaround Fadeaway Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,232,4,0,2,8:12 PM,3:25,,,Hines-Allen REBOUND (Off:0 Def:1),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,233,2,2,2,8:12 PM,3:19,,,MISS Walker-Kimbrough 24' 3PT Running Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,234,4,0,2,8:12 PM,3:18,Jones REBOUND (Off:1 Def:3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,235,2,1,2,8:12 PM,3:06,MISS Laney 3PT Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,236,4,0,2,8:12 PM,3:05,,,Delle Donne REBOUND (Off:0 Def:1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,237,2,74,2,8:13 PM,2:58,,,MISS Cloud 3' Running Reverse Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,238,4,0,2,8:13 PM,2:57,,,Hines-Allen REBOUND (Off:1 Def:1),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,239,2,72,2,8:13 PM,2:56,Vandersloot BLOCK (1 BLK),,MISS Hines-Allen 5' Putback Layup,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1
+1042300111,240,4,0,2,8:13 PM,2:55,,,Hines-Allen REBOUND (Off:2 Def:1),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,241,2,72,2,8:13 PM,2:54,Stewart BLOCK (1 BLK),,MISS Hines-Allen 3' Putback Layup,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300111,243,4,0,2,8:13 PM,2:53,,,Hines-Allen REBOUND (Off:3 Def:1),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,249,5,1,2,8:13 PM,2:52,Jones STEAL (1 STL),,Hines-Allen Bad Pass Turnover (P1.T3),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,244,6,1,2,8:13 PM,2:46,,,Sykes P.FOUL (P2.T4),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,246,9,1,2,8:13 PM,2:46,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,251,8,0,2,8:16 PM,2:46,,,SUB: Atkins FOR Walker-Kimbrough,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,254,2,1,2,8:17 PM,2:41,MISS Stewart 26' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,255,4,0,2,8:17 PM,2:40,Jones REBOUND (Off:2 Def:3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,256,6,2,2,8:17 PM,2:39,,,Atkins S.FOUL (P1.PN),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,258,3,11,2,8:17 PM,2:39,MISS Jones Free Throw 1 of 2,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,259,4,1,2,8:17 PM,2:39,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,260,3,12,2,8:17 PM,2:39,Jones Free Throw 2 of 2 (8 PTS),,,37 - 37,TIE,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,261,1,98,2,8:18 PM,2:27,,,Hines-Allen 3' Cutting Layup Shot (8 PTS) (Atkins 2 AST),39 - 37,-2,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,263,1,1,2,8:18 PM,2:14,Ionescu 30' 3PT Jump Shot (9 PTS) (Stewart 2 AST),,,39 - 40,1,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,265,2,6,2,8:18 PM,1:57,,,MISS Atkins 3' Driving Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,266,4,0,2,8:18 PM,1:56,,,Atkins REBOUND (Off:3 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,269,1,72,2,8:18 PM,1:55,,,Atkins 2' Putback Layup (8 PTS),41 - 40,-1,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,270,2,102,2,8:18 PM,1:36,MISS Ionescu 1' Driving Floating Bank Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,271,4,0,2,8:18 PM,1:35,Ionescu REBOUND (Off:1 Def:3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,272,2,79,2,8:19 PM,1:28,MISS Ionescu 28' 3PT Pullup Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,273,4,0,2,8:19 PM,1:27,,,Cloud REBOUND (Off:0 Def:6),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,274,6,1,2,8:19 PM,1:26,Ionescu P.FOUL (P1.T4),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,276,2,79,2,8:19 PM,1:14,,,MISS Atkins 14' Pullup Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,277,4,0,2,8:19 PM,1:13,Jones REBOUND (Off:2 Def:4),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,278,1,6,2,8:19 PM,0:58,Stewart 3' Driving Layup (4 PTS) (Laney 1 AST),,,41 - 42,1,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,279,2,6,2,8:20 PM,0:39,Stewart BLOCK (2 BLK),,MISS Delle Donne 6' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300111,281,4,0,2,8:20 PM,0:38,Laney REBOUND (Off:2 Def:3),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,282,1,5,2,8:20 PM,0:27,Jones 3' Layup (10 PTS) (Vandersloot 2 AST),,,41 - 44,3,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,285,6,1,2,8:20 PM,0:23,Stewart P.FOUL (P2.PN),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,287,3,11,2,8:21 PM,0:23,,,MISS Hines-Allen Free Throw 1 of 2,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,288,4,1,2,8:21 PM,0:23,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,289,3,12,2,8:21 PM,0:23,,,Hines-Allen Free Throw 2 of 2 (9 PTS),42 - 44,2,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,291,2,1,2,8:21 PM,0:02,MISS Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,292,4,0,2,8:22 PM,0:01,Laney REBOUND (Off:3 Def:3),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,293,1,72,2,8:22 PM,0:00,Laney 2' Putback Layup (14 PTS),,,42 - 46,4,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,297,18,0,2,8:22 PM,0:00,,Instant Replay2nd Period (8:22 PM EST),,42 - 46,4,0,293,Charles Smith,,,,,0,0,,,,,,1,0,,,,,,0
+1042300111,295,13,0,2,8:22 PM,0:00,,End of 2nd Period (8:22 PM EST),,42 - 46,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,298,12,0,3,8:38 PM,10:00,,Start of 3rd Period (8:38 PM EST),,42 - 46,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,299,1,79,3,8:39 PM,9:41,,,Atkins 15' Pullup Jump Shot (10 PTS) (Delle Donne 3 AST),44 - 46,2,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,301,5,1,3,8:39 PM,9:22,Vandersloot Bad Pass Turnover (P2.T6),,Sykes STEAL (1 STL),,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,303,5,2,3,8:39 PM,9:17,Vandersloot STEAL (1 STL),,Sykes Lost Ball Turnover (P1.T4),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,305,1,73,3,8:39 PM,9:04,Laney 2' Driving Reverse Layup (16 PTS) (Ionescu 1 AST),,,44 - 48,4,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,307,2,1,3,8:40 PM,8:49,,,MISS Sykes 26' 3PT Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,308,4,0,3,8:40 PM,8:48,,,Delle Donne REBOUND (Off:1 Def:1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,309,6,1,3,8:40 PM,8:43,Jones P.FOUL (P2.T1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,311,2,6,3,8:40 PM,8:25,,,MISS Cloud 3' Driving Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,312,4,0,3,8:40 PM,8:24,Stewart REBOUND (Off:1 Def:3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,313,1,5,3,8:40 PM,8:18,Jones 3' Layup (12 PTS) (Stewart 3 AST),,,44 - 50,6,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,315,1,5,3,8:41 PM,8:01,,,Sykes 3' Layup (9 PTS) (Cloud 7 AST),46 - 50,4,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,317,2,1,3,8:41 PM,7:43,MISS Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,318,4,0,3,8:41 PM,7:42,,,Delle Donne REBOUND (Off:1 Def:2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,319,2,79,3,8:41 PM,7:31,,,MISS Cloud 3PT Pullup Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,320,4,0,3,8:41 PM,7:30,Laney REBOUND (Off:3 Def:4),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,321,2,1,3,8:42 PM,7:13,MISS Ionescu 34' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,322,4,0,3,8:42 PM,7:12,,,Hines-Allen REBOUND (Off:3 Def:2),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,323,1,5,3,8:42 PM,6:52,,,Hines-Allen 2' Layup (11 PTS) (Cloud 8 AST),48 - 50,2,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,325,1,5,3,8:42 PM,6:31,Jones 2' Layup (14 PTS) (Ionescu 2 AST),,,48 - 52,4,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,328,2,1,3,8:43 PM,6:13,,,MISS Atkins 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,329,4,0,3,8:43 PM,6:12,Jones REBOUND (Off:2 Def:5),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,330,6,1,3,8:43 PM,6:05,,,Cloud P.FOUL (P3.T1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,332,1,1,3,8:43 PM,5:57,Vandersloot 3PT Jump Shot (7 PTS) (Jones 2 AST),,,48 - 55,7,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,334,1,6,3,8:44 PM,5:44,,,Hines-Allen 1' Driving Layup (13 PTS),50 - 55,5,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,335,2,1,3,8:44 PM,5:34,MISS Stewart 26' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,336,4,0,3,8:44 PM,5:33,,,Delle Donne REBOUND (Off:1 Def:3),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,337,2,1,3,8:44 PM,5:20,,,MISS Cloud 25' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,338,4,0,3,8:44 PM,5:19,Vandersloot REBOUND (Off:0 Def:3),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,339,1,103,3,8:44 PM,5:13,Ionescu 28' 3PT Running Pull-Up Jump Shot (12 PTS),,,50 - 58,8,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,340,9,1,3,8:44 PM,5:10,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,341,2,1,3,8:48 PM,4:50,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,345,4,0,3,8:49 PM,4:48,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,342,10,0,3,8:49 PM,4:48,Jump Ball Stewart vs. Sykes: Tip to Laney,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0
+1042300111,346,2,41,3,8:49 PM,4:40,MISS Laney 2' Running Layup,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,347,4,0,3,8:49 PM,4:39,,,Delle Donne REBOUND (Off:1 Def:4),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,348,2,1,3,8:49 PM,4:22,,,MISS Sykes 26' 3PT Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,349,4,0,3,8:49 PM,4:21,Jones REBOUND (Off:2 Def:6),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,350,2,47,3,8:50 PM,4:02,MISS Stewart 6' Turnaround Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,351,4,0,3,8:50 PM,4:01,,,Hines-Allen REBOUND (Off:3 Def:3),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,352,2,47,3,8:50 PM,3:43,Stewart BLOCK (3 BLK),,MISS Sykes 8' Turnaround Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300111,354,4,0,3,8:50 PM,3:42,,,Atkins REBOUND (Off:4 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,355,5,2,3,8:50 PM,3:37,Vandersloot STEAL (2 STL),,Atkins Lost Ball Turnover (P1.T5),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,357,6,2,3,8:50 PM,3:27,,,Atkins S.FOUL (P2.T2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,359,3,11,3,8:51 PM,3:27,Jones Free Throw 1 of 2 (15 PTS),,,50 - 59,9,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,360,8,0,3,8:51 PM,3:27,,,SUB: Hawkins FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,361,8,0,3,8:51 PM,3:27,,,SUB: Walker-Kimbrough FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,364,3,12,3,8:51 PM,3:27,Jones Free Throw 2 of 2 (16 PTS),,,50 - 60,10,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,365,1,79,3,8:52 PM,3:10,,,Sykes 17' Pullup Jump Shot (11 PTS) (Walker-Kimbrough 1 AST),52 - 60,8,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,367,1,6,3,8:52 PM,2:52,Stewart 3' Driving Layup (6 PTS),,,52 - 62,10,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,368,1,79,3,8:52 PM,2:39,,,Sykes 5' Pullup Jump Shot (13 PTS) (Hawkins 1 AST),54 - 62,8,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,370,2,1,3,8:52 PM,2:28,MISS Ionescu 24' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,371,4,0,3,8:52 PM,2:27,Vandersloot REBOUND (Off:1 Def:3),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,372,6,2,3,8:53 PM,2:15,,,Walker-Kimbrough S.FOUL (P1.T3),,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,374,3,11,3,8:53 PM,2:15,Stewart Free Throw 1 of 2 (7 PTS),,,54 - 63,9,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,375,8,0,3,8:53 PM,2:15,SUB: Thornton FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,376,8,0,3,8:53 PM,2:15,,,SUB: Meng FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,377,8,0,3,8:53 PM,2:15,,,SUB: Egbo FOR Sykes,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1631031,Queen Egbo,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,381,3,12,3,8:53 PM,2:15,Stewart Free Throw 2 of 2 (8 PTS),,,54 - 64,10,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,382,2,1,3,8:54 PM,1:59,,,MISS Cloud 27' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,383,4,0,3,8:54 PM,1:58,,,Hawkins REBOUND (Off:1 Def:2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,384,1,1,3,8:54 PM,1:53,,,Meng 25' 3PT Jump Shot (3 PTS) (Hawkins 2 AST),57 - 64,7,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,386,2,6,3,8:54 PM,1:41,MISS Vandersloot 5' Driving Layup,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,388,4,0,3,8:54 PM,1:40,,,Cloud REBOUND (Off:0 Def:7),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,389,5,39,3,8:54 PM,1:36,,,Hawkins Step Out of Bounds Turnover (P2.T6),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042300111,390,8,0,3,8:54 PM,1:36,SUB: Dolson FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,392,2,86,3,8:55 PM,1:17,MISS Stewart 12' Turnaround Fadeaway Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,393,4,0,3,8:55 PM,1:16,Vandersloot REBOUND (Off:2 Def:3),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,394,2,1,3,8:55 PM,1:10,MISS Dolson 25' 3PT Jump Shot,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,395,4,0,3,8:55 PM,1:09,,,Hawkins REBOUND (Off:1 Def:3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,396,2,80,3,8:55 PM,0:46,Thornton BLOCK (2 BLK),,MISS Meng 26' 3PT Step Back Jump Shot,,,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,1
+1042300111,398,4,0,3,8:55 PM,0:45,Ionescu REBOUND (Off:1 Def:4),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,399,1,1,3,8:55 PM,0:38,Ionescu 24' 3PT Jump Shot (15 PTS) (Vandersloot 3 AST),,,57 - 67,10,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,401,2,78,3,8:56 PM,0:19,,,MISS Cloud 19' Floating Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,402,4,0,3,8:56 PM,0:17,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,404,1,101,3,8:56 PM,0:00,Ionescu 4' Driving Floating Jump Shot (17 PTS),,,57 - 69,12,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,405,13,0,3,8:57 PM,0:00,,End of 3rd Period (8:57 PM EST),,57 - 69,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300111,416,12,0,4,9:01 PM,10:00,,Start of 4th Period (9:01 PM EST),,57 - 69,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,419,2,6,4,9:01 PM,9:49,MISS Stewart 2' Driving Layup,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,420,4,0,4,9:01 PM,9:48,Stewart REBOUND (Off:2 Def:3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,421,2,97,4,9:01 PM,9:48,MISS Stewart 1' Tip Layup Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,422,4,0,4,9:01 PM,9:47,Stewart REBOUND (Off:3 Def:3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,423,1,97,4,9:01 PM,9:47,Stewart 1' Tip Layup Shot (10 PTS),,,57 - 71,14,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300111,424,1,1,4,9:02 PM,9:23,,,Hines-Allen 25' 3PT Jump Shot (16 PTS) (Atkins 3 AST),60 - 71,11,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,426,8,0,4,9:02 PM,9:10,SUB: Jones FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,428,10,0,4,9:02 PM,9:10,Jump Ball Stewart vs. Sykes: Tip to Hines-Allen,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0
+1042300111,431,5,2,4,9:02 PM,9:07,Stewart Lost Ball Turnover (P1.T7),,Sykes STEAL (2 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,433,2,98,4,9:03 PM,8:59,,,MISS Sykes 2' Cutting Layup Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,434,4,0,4,9:03 PM,8:58,,,Sykes REBOUND (Off:2 Def:1),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,435,2,72,4,9:03 PM,8:57,,,MISS Sykes 2' Putback Layup,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,436,4,0,4,9:03 PM,8:56,Thornton REBOUND (Off:0 Def:1),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,437,2,86,4,9:03 PM,8:44,MISS Laney 10' Turnaround Fadeaway Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,438,4,0,4,9:03 PM,8:43,,,Atkins REBOUND (Off:4 Def:1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,439,2,1,4,9:03 PM,8:32,,,MISS Meng 3PT Jump Shot,,,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,440,4,0,4,9:03 PM,8:31,,,Hines-Allen REBOUND (Off:4 Def:3),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,441,1,78,4,9:03 PM,8:28,,,Hines-Allen 4' Floating Jump Shot (18 PTS),62 - 71,9,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,442,2,73,4,9:03 PM,8:07,MISS Laney 4' Driving Reverse Layup,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,443,4,0,4,9:03 PM,8:06,,,Sykes REBOUND (Off:2 Def:2),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,444,1,41,4,9:04 PM,8:02,,,Sykes 2' Running Layup (15 PTS),64 - 71,7,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,445,6,2,4,9:04 PM,8:02,Ionescu S.FOUL (P2.T1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,447,8,0,4,9:04 PM,8:02,SUB: Vandersloot FOR Thornton,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300111,449,3,10,4,9:04 PM,8:02,,,Sykes Free Throw 1 of 1 (16 PTS),65 - 71,6,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,450,5,4,4,9:04 PM,7:49,Laney Traveling Turnover (P1.T8),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300111,451,2,47,4,9:05 PM,7:31,,,MISS Delle Donne 12' Turnaround Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,452,4,0,4,9:05 PM,7:30,Ionescu REBOUND (Off:1 Def:5),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,453,6,1,4,9:05 PM,7:22,,,Atkins P.FOUL (P3.T1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,455,1,79,4,9:06 PM,7:10,Ionescu 26' 3PT Pullup Jump Shot (20 PTS) (Jones 3 AST),,,65 - 74,9,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,457,2,1,4,9:06 PM,6:55,,,MISS Atkins 28' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,458,4,0,4,9:06 PM,6:54,Jones REBOUND (Off:2 Def:7),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,459,1,79,4,9:06 PM,6:43,Ionescu 25' 3PT Pullup Jump Shot (23 PTS),,,65 - 77,12,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,460,9,2,4,9:06 PM,6:42,,,Mystics Timeout: Short (Reg.2 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,461,8,0,4,9:06 PM,6:42,,,SUB: Cloud FOR Meng,,,5,1641642,Li Meng,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042300111,463,1,79,4,9:08 PM,6:28,,,Atkins 17' Pullup Jump Shot (12 PTS) (Delle Donne 4 AST),67 - 77,10,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,465,2,79,4,9:08 PM,6:07,MISS Stewart 18' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,466,4,0,4,9:08 PM,6:06,Stewart REBOUND (Off:4 Def:3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,467,1,1,4,9:08 PM,5:58,Laney 26' 3PT Jump Shot (19 PTS) (Vandersloot 4 AST),,,67 - 80,13,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,470,1,79,4,9:09 PM,5:33,,,Atkins 12' Pullup Jump Shot (14 PTS) (Delle Donne 5 AST),69 - 80,11,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,472,1,98,4,9:09 PM,5:21,Jones 2' Cutting Layup Shot (18 PTS) (Vandersloot 5 AST),,,69 - 82,13,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,474,1,6,4,9:09 PM,5:00,,,Delle Donne 7' Driving Layup (10 PTS) (Sykes 3 AST),71 - 82,11,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,476,6,2,4,9:09 PM,5:00,Ionescu S.FOUL (P3.T2),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,478,9,4,4,9:10 PM,5:00,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,479,3,10,4,9:13 PM,5:00,,,Delle Donne Free Throw 1 of 1 (11 PTS),72 - 82,10,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,480,2,1,4,9:14 PM,4:39,MISS Vandersloot 25' 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,481,4,0,4,9:14 PM,4:38,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,483,2,1,4,9:14 PM,4:25,MISS Vandersloot 25' 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,484,4,0,4,9:14 PM,4:24,Jones REBOUND (Off:3 Def:7),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,485,2,1,4,9:14 PM,4:11,MISS Stewart 27' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,486,4,0,4,9:14 PM,4:10,,,Hines-Allen REBOUND (Off:4 Def:4),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,487,2,1,4,9:15 PM,3:47,,,MISS Sykes 3PT Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,488,4,0,4,9:15 PM,3:46,Jones REBOUND (Off:3 Def:8),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,489,5,1,4,9:15 PM,3:29,Stewart Bad Pass Turnover (P2.T9),,Atkins STEAL (3 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,491,1,6,4,9:15 PM,3:16,,,Hines-Allen 4' Driving Layup (20 PTS) (Delle Donne 6 AST),74 - 82,8,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,493,2,98,4,9:16 PM,3:03,MISS Jones 2' Cutting Layup Shot,,Delle Donne BLOCK (1 BLK),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1042300111,495,4,0,4,9:16 PM,3:02,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,497,2,1,4,9:16 PM,2:56,MISS Ionescu 24' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,498,4,0,4,9:16 PM,2:55,,,Atkins REBOUND (Off:4 Def:2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,499,2,6,4,9:16 PM,2:43,,,MISS Atkins 3' Driving Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,500,4,0,4,9:16 PM,2:42,Laney REBOUND (Off:3 Def:5),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,501,1,80,4,9:16 PM,2:34,Ionescu 27' 3PT Step Back Jump Shot (26 PTS) (Jones 4 AST),,,74 - 85,11,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,502,2,79,4,9:16 PM,2:21,,,MISS Delle Donne 20' Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,503,4,0,4,9:16 PM,2:20,Stewart REBOUND (Off:4 Def:4),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,505,2,1,4,9:17 PM,2:03,MISS Laney 24' 3PT Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,506,4,0,4,9:17 PM,2:02,,,Cloud REBOUND (Off:0 Def:8),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,507,6,2,4,9:17 PM,1:57,Jones S.FOUL (P3.T3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042300111,509,9,1,4,9:17 PM,1:57,LIBERTY Timeout: Regular (Full 2 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300111,510,3,11,4,9:20 PM,1:57,,,Hines-Allen Free Throw 1 of 2 (21 PTS),75 - 85,10,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,511,3,12,4,9:20 PM,1:57,,,MISS Hines-Allen Free Throw 2 of 2,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042300111,512,4,0,4,9:20 PM,1:56,Jones REBOUND (Off:3 Def:9),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,513,6,1,4,9:21 PM,1:44,,,Atkins P.FOUL (P4.T2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300111,515,1,1,4,9:21 PM,1:35,Jones 21' Jump Shot (20 PTS) (Vandersloot 6 AST),,,75 - 87,12,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,517,5,2,4,9:21 PM,1:11,Ionescu STEAL (1 STL),,Cloud Lost Ball Turnover (P1.T7),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,519,5,1,4,9:22 PM,0:49,Laney Bad Pass Turnover (P2.T10),,Delle Donne STEAL (1 STL),,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042300111,521,2,103,4,9:22 PM,0:43,,,MISS Hines-Allen 11' Running Pull-Up Jump Shot,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042300111,522,4,0,4,9:22 PM,0:42,Vandersloot REBOUND (Off:2 Def:4),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300111,523,1,1,4,9:22 PM,0:23,Ionescu 29' 3PT Jump Shot (29 PTS) (Stewart 4 AST),,,75 - 90,15,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300111,525,13,0,4,9:23 PM,0:00,,End of 4th Period (9:23 PM EST),,75 - 90,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,332 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042200132,2,12,0,1,4:06 PM,10:00,,Start of 1st Period (4:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,4,10,0,1,4:06 PM,10:00,Jump Ball Stewart vs. Austin: Tip to Williams,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,1
+1042200132,7,1,5,1,4:06 PM,9:44,Charles 3' Layup (2 PTS) (Stewart 1 AST),,,0 - 2,2,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,9,1,1,1,4:06 PM,9:29,,,Cloud 25' 3PT Jump Shot (3 PTS) (Clark 1 AST),3 - 2,-1,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,11,1,1,1,4:07 PM,9:14,Bird 25' 3PT Jump Shot (3 PTS) (Stewart 2 AST),,,3 - 5,2,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,13,1,78,1,4:07 PM,8:56,,,Delle Donne 14' Floating Jump Shot (2 PTS) (Austin 1 AST),5 - 5,TIE,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,14,6,4,1,4:07 PM,8:41,Charles OFF.Foul (P1),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,16,5,37,1,4:07 PM,8:41,Charles Offensive Foul Turnover (P1.T1),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1042200132,17,2,1,1,4:08 PM,8:31,,,MISS Delle Donne 25' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,18,4,0,1,4:08 PM,8:29,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,19,1,5,1,4:08 PM,8:10,Charles 3' Layup (4 PTS) (Stewart 3 AST),,,5 - 7,2,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,20,2,1,1,4:08 PM,7:48,,,MISS Atkins 24' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,21,4,0,1,4:08 PM,7:46,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,24,2,1,1,4:09 PM,7:37,,,MISS Delle Donne 25' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,25,4,0,1,4:09 PM,7:32,,,Austin REBOUND (Off:1 Def:0),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,26,5,1,1,4:09 PM,7:25,Stewart STEAL (1 STL),,Delle Donne Bad Pass Turnover (P1.T1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,28,6,2,1,4:09 PM,7:18,,,Atkins S.FOUL (P1.T1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,31,3,11,1,4:10 PM,7:18,MISS Charles Free Throw 1 of 2,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,32,4,1,1,4:10 PM,7:18,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,33,3,12,1,4:10 PM,7:18,MISS Charles Free Throw 2 of 2,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,34,4,0,1,4:10 PM,7:16,,,Clark REBOUND (Off:0 Def:1),,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,36,8,0,1,4:10 PM,7:07,SUB: Magbegor FOR Charles,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,39,2,47,1,4:10 PM,7:00,,,MISS Delle Donne 14' Turnaround Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,40,4,0,1,4:10 PM,6:57,Bird REBOUND (Off:0 Def:1),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,41,2,1,1,4:11 PM,6:42,MISS Williams 24' 3PT Jump Shot,,,,,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,42,4,0,1,4:11 PM,6:40,,,Austin REBOUND (Off:1 Def:1),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,43,6,17,1,4:11 PM,6:22,STORM T.Foul (Def. 3 Sec Magbegor ),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1042200132,44,3,16,1,4:11 PM,6:22,,,Delle Donne Free Throw Technical (3 PTS),6 - 7,1,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,45,2,101,1,4:12 PM,6:08,,,MISS Cloud 14' Driving Floating Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,46,4,0,1,4:12 PM,6:05,,,Austin REBOUND (Off:2 Def:1),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,47,6,2,1,4:12 PM,6:05,Stewart S.FOUL (P1.T1),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,49,3,11,1,4:12 PM,6:05,,,Austin Free Throw 1 of 2 (1 PTS),7 - 7,TIE,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,50,3,12,1,4:13 PM,6:05,,,Austin Free Throw 2 of 2 (2 PTS),8 - 7,-1,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,51,1,1,1,4:13 PM,5:50,Loyd 24' 3PT Jump Shot (3 PTS) (Stewart 4 AST),,,8 - 10,2,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,53,2,1,1,4:13 PM,5:31,,,MISS Atkins 18' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,54,4,0,1,4:13 PM,5:30,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,55,6,2,1,4:14 PM,5:06,,,Atkins S.FOUL (P2.T2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,57,3,11,1,4:14 PM,5:06,Williams Free Throw 1 of 2 (1 PTS),,,8 - 11,3,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,58,8,0,1,4:14 PM,5:06,,,SUB: Walker-Kimbrough FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,61,3,12,1,4:15 PM,5:06,Williams Free Throw 2 of 2 (2 PTS),,,8 - 12,4,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,62,5,1,1,4:15 PM,4:45,Magbegor STEAL (1 STL),,Austin Bad Pass Turnover (P1.T2),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,64,5,2,1,4:15 PM,4:38,Stewart Lost Ball Turnover (P1.T2),,Austin STEAL (1 STL),,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,66,5,1,1,4:15 PM,4:35,Bird STEAL (1 STL),,Austin Bad Pass Turnover (P2.T3),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,68,1,1,1,4:15 PM,4:26,Loyd 3PT Jump Shot (6 PTS) (Magbegor 1 AST),,,8 - 15,7,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,70,9,1,1,4:16 PM,4:23,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,71,8,0,1,4:19 PM,4:23,,,SUB: Hines-Allen FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,73,5,4,1,4:19 PM,4:06,,,Austin Traveling Turnover (P3.T4),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042200132,74,5,1,1,4:19 PM,3:58,Stewart Bad Pass Turnover (P2.T3),,Walker-Kimbrough STEAL (1 STL),,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,76,1,41,1,4:19 PM,3:54,,,Walker-Kimbrough 2' Running Layup (2 PTS),10 - 15,5,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,77,2,1,1,4:19 PM,3:41,MISS Stewart 26' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,78,4,0,1,4:19 PM,3:39,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,79,8,0,1,4:19 PM,3:39,,,SUB: Williams FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,81,6,2,1,4:20 PM,3:24,Loyd S.FOUL (P1.T2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,84,3,11,1,4:20 PM,3:24,,,Walker-Kimbrough Free Throw 1 of 2 (3 PTS),11 - 15,4,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,85,8,0,1,4:20 PM,3:24,SUB: Charles FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,87,3,12,1,4:21 PM,3:24,,,Walker-Kimbrough Free Throw 2 of 2 (4 PTS),12 - 15,3,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,88,2,79,1,4:21 PM,3:11,MISS Stewart 14' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,89,4,0,1,4:21 PM,3:07,Bird REBOUND (Off:1 Def:1),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,90,1,1,1,4:21 PM,3:04,Bird 24' 3PT Jump Shot (6 PTS),,,12 - 18,6,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,91,1,5,1,4:21 PM,2:49,,,Williams 2' Layup (2 PTS) (Hines-Allen 1 AST),14 - 18,4,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,93,6,2,1,4:21 PM,2:49,Charles S.FOUL (P2.T3),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,95,3,10,1,4:22 PM,2:49,,,MISS Williams Free Throw 1 of 1,,,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,96,4,0,1,4:22 PM,2:47,,,Hines-Allen REBOUND (Off:1 Def:0),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,97,2,1,1,4:22 PM,2:43,,,MISS Hines-Allen 21' Jump Shot,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,98,4,0,1,4:22 PM,2:39,Stewart REBOUND (Off:0 Def:1),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,100,8,0,1,4:22 PM,2:34,SUB: Magbegor FOR Charles,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,102,1,1,1,4:22 PM,2:24,Bird 24' 3PT Jump Shot (9 PTS) (Stewart 5 AST),,,14 - 21,7,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,104,2,1,1,4:23 PM,2:10,,,MISS Walker-Kimbrough 24' 3PT Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,105,4,0,1,4:23 PM,2:07,Magbegor REBOUND (Off:0 Def:1),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,106,1,98,1,4:23 PM,1:55,Williams 2' Cutting Layup Shot (4 PTS) (Bird 1 AST),,,14 - 23,9,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,108,2,6,1,4:23 PM,1:33,,,MISS Hines-Allen 3' Driving Layup,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,109,4,0,1,4:23 PM,1:30,Magbegor REBOUND (Off:0 Def:2),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,110,5,1,1,4:23 PM,1:27,Magbegor Bad Pass Turnover (P1.T4),,Walker-Kimbrough STEAL (2 STL),,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,113,8,0,1,4:23 PM,1:27,,,SUB: Atkins FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,114,8,0,1,4:23 PM,1:27,,,SUB: Delle Donne FOR Clark,,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,117,5,4,1,4:24 PM,1:11,,,Atkins Traveling Turnover (P1.T5),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042200132,118,8,0,1,4:24 PM,1:11,SUB: January FOR Bird,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,120,8,0,1,4:24 PM,1:11,,,SUB: Machida FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,122,6,2,1,4:25 PM,0:50,,,Delle Donne S.FOUL (P1.T3),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,124,3,11,1,4:25 PM,0:50,Stewart Free Throw 1 of 2 (1 PTS),,,14 - 24,10,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,125,8,0,1,4:25 PM,0:50,SUB: Talbot FOR Williams,,,,,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,127,3,12,1,4:26 PM,0:50,Stewart Free Throw 2 of 2 (2 PTS),,,14 - 25,11,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,128,1,1,1,4:26 PM,0:36,,,Machida 25' 3PT Jump Shot (3 PTS) (Atkins 1 AST),17 - 25,8,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,130,1,6,1,4:26 PM,0:27,January 2' Driving Layup (2 PTS),,,17 - 27,10,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,131,2,79,1,4:27 PM,0:06,,,MISS Delle Donne 18' Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,132,4,0,1,4:27 PM,0:03,Loyd REBOUND (Off:0 Def:1),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,133,5,2,1,4:27 PM,0:00,Loyd Lost Ball Turnover (P1.T5),,Atkins STEAL (1 STL),,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,135,13,0,1,4:27 PM,0:00,,End of 1st Period (4:27 PM EST),,17 - 27,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200132,138,12,0,2,4:30 PM,10:00,,Start of 2nd Period (4:30 PM EST),,17 - 27,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,139,2,79,2,4:30 PM,9:51,,,MISS Atkins 19' Pullup Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,140,4,0,2,4:30 PM,9:46,,,Machida REBOUND (Off:1 Def:0),,,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,141,2,101,2,4:30 PM,9:40,,,MISS Atkins 7' Driving Floating Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,142,4,0,2,4:30 PM,9:37,,,Atkins REBOUND (Off:1 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,143,1,1,2,4:30 PM,9:34,,,Walker-Kimbrough 25' 3PT Jump Shot (7 PTS) (Atkins 2 AST),20 - 27,7,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,145,6,3,2,4:30 PM,9:34,Prince L.B.FOUL (P1.T1),,,,,4,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1042200132,167,3,10,2,4:31 PM,9:34,,,Williams Free Throw 1 of 1 (3 PTS),21 - 27,6,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,148,2,6,2,4:31 PM,9:20,MISS Magbegor 6' Driving Layup,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,149,4,0,2,4:31 PM,9:18,,,Williams REBOUND (Off:0 Def:1),,,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,150,6,1,2,4:31 PM,9:10,Talbot P.FOUL (P1.T2),,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,152,8,0,2,4:32 PM,9:10,SUB: Charles FOR Stewart,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,154,2,79,2,4:32 PM,9:06,,,MISS Machida 24' 3PT Pullup Jump Shot,,,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,155,4,0,2,4:32 PM,9:02,Charles REBOUND (Off:0 Def:1),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,156,2,58,2,4:32 PM,8:53,MISS Magbegor 5' Turnaround Hook Shot,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,157,4,0,2,4:32 PM,8:50,,,Delle Donne REBOUND (Off:0 Def:1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,158,1,6,2,4:32 PM,8:42,,,Delle Donne 7' Driving Layup (5 PTS),23 - 27,4,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,159,5,4,2,4:32 PM,8:27,Talbot Traveling Turnover (P1.T6),,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1042200132,160,8,0,2,4:33 PM,8:27,,,SUB: Austin FOR Williams,,,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,162,2,5,2,4:33 PM,8:03,,,MISS Austin 4' Layup,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,163,4,0,2,4:33 PM,8:00,January REBOUND (Off:0 Def:1),,,,,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,164,1,3,2,4:33 PM,7:54,Charles 6' Hook Shot (6 PTS) (Talbot 1 AST),,,23 - 29,6,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,166,5,11,2,4:34 PM,7:29,,,Mystics Turnover: Shot Clock (T#6),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200132,168,8,0,2,4:34 PM,7:29,SUB: Williams FOR Talbot,,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,169,8,0,2,4:34 PM,7:29,SUB: Bird FOR Prince,,,,,4,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,170,8,0,2,4:34 PM,7:29,SUB: Loyd FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,171,8,0,2,4:34 PM,7:29,SUB: Stewart FOR January,,,,,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,172,8,0,2,4:34 PM,7:29,,,SUB: Cloud FOR Machida,,,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,173,8,0,2,4:34 PM,7:29,,,SUB: Clark FOR Walker-Kimbrough,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,180,1,6,2,4:34 PM,7:15,Charles 2' Driving Layup (8 PTS) (Bird 2 AST),,,23 - 31,8,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,182,1,1,2,4:35 PM,7:02,,,Delle Donne 27' 3PT Jump Shot (8 PTS) (Cloud 1 AST),26 - 31,5,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,184,2,1,2,4:35 PM,6:34,MISS Charles 3PT Jump Shot,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,185,4,0,2,4:35 PM,6:30,,,Clark REBOUND (Off:0 Def:2),,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,186,1,1,2,4:35 PM,6:22,,,Cloud 25' 3PT Jump Shot (6 PTS) (Clark 2 AST),29 - 31,2,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,189,2,6,2,4:36 PM,6:00,MISS Loyd 2' Driving Layup,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,190,4,0,2,4:36 PM,5:57,,,Delle Donne REBOUND (Off:0 Def:2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,191,1,1,2,4:36 PM,5:47,,,Clark 25' 3PT Jump Shot (3 PTS) (Atkins 3 AST),32 - 31,-1,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,193,9,1,2,4:36 PM,5:41,STORM Timeout: Regular (Full 1 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,194,6,2,2,4:39 PM,5:32,,,Clark S.FOUL (P1.T1),,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1042200132,196,3,11,2,4:40 PM,5:32,Stewart Free Throw 1 of 2 (3 PTS),,,32 - 32,TIE,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,197,3,12,2,4:40 PM,5:32,Stewart Free Throw 2 of 2 (4 PTS),,,32 - 33,1,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,198,2,47,2,4:40 PM,5:07,,,MISS Austin 12' Turnaround Jump Shot,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,199,4,0,2,4:40 PM,5:04,Stewart REBOUND (Off:0 Def:2),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,200,2,80,2,4:40 PM,4:51,MISS Charles 24' 3PT Step Back Jump Shot,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,201,4,0,2,4:41 PM,4:47,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,202,6,2,2,4:41 PM,4:42,Charles S.FOUL (P3.T3),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,204,3,11,2,4:41 PM,4:42,,,Cloud Free Throw 1 of 2 (7 PTS),33 - 33,TIE,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,205,8,0,2,4:41 PM,4:42,SUB: Magbegor FOR Charles,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,207,3,12,2,4:41 PM,4:42,,,Cloud Free Throw 2 of 2 (8 PTS),34 - 33,-1,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,208,1,1,2,4:42 PM,4:32,Loyd 25' 3PT Jump Shot (9 PTS) (Stewart 6 AST),,,34 - 36,2,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,210,6,1,2,4:42 PM,4:14,Williams P.FOUL (P1.T4),,,,,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,212,5,1,2,4:42 PM,4:12,Stewart STEAL (2 STL),,Delle Donne Bad Pass Turnover (P2.T7),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,214,1,1,2,4:42 PM,4:04,Williams 17' Jump Shot (6 PTS) (Bird 3 AST),,,34 - 38,4,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,216,2,6,2,4:43 PM,3:52,,,MISS Cloud 7' Driving Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,217,4,0,2,4:43 PM,3:50,Williams REBOUND (Off:0 Def:1),,,,,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,218,2,2,2,4:43 PM,3:46,MISS Loyd 3PT Running Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,219,4,0,2,4:43 PM,3:46,,,Cloud REBOUND (Off:0 Def:2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,220,1,102,2,4:43 PM,3:27,,,Atkins 6' Driving Floating Bank Jump Shot (2 PTS),36 - 38,2,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,221,2,79,2,4:43 PM,3:04,MISS Stewart 18' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,222,4,0,2,4:43 PM,3:04,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,223,2,47,2,4:44 PM,2:50,,,MISS Delle Donne 12' Turnaround Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,224,4,0,2,4:44 PM,2:48,Stewart REBOUND (Off:0 Def:3),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,225,6,1,2,4:44 PM,2:48,,,Delle Donne P.FOUL (P2.T2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,227,9,4,2,4:44 PM,2:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,229,1,1,2,4:47 PM,2:32,Loyd 3PT Jump Shot (12 PTS) (Bird 4 AST),,,36 - 41,5,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,231,6,2,2,4:48 PM,2:05,Williams S.FOUL (P2.PN),,,,,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,233,3,11,2,4:48 PM,2:05,,,Clark Free Throw 1 of 2 (4 PTS),37 - 41,4,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,234,3,12,2,4:49 PM,2:05,,,Clark Free Throw 2 of 2 (5 PTS),38 - 41,3,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,235,2,1,2,4:49 PM,1:47,MISS Stewart 15' Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,236,4,0,2,4:49 PM,1:44,,,Austin REBOUND (Off:2 Def:2),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,237,1,79,2,4:49 PM,1:23,,,Atkins 21' Pullup Jump Shot (4 PTS) (Cloud 2 AST),40 - 41,1,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,239,2,5,2,4:50 PM,1:10,MISS Stewart 3' Layup,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,240,4,0,2,4:50 PM,1:08,Stewart REBOUND (Off:1 Def:3),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,241,6,2,2,4:50 PM,1:04,,,Clark S.FOUL (P2.T3),,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,243,3,11,2,4:50 PM,1:04,Williams Free Throw 1 of 2 (7 PTS),,,40 - 42,2,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,244,3,12,2,4:50 PM,1:04,Williams Free Throw 2 of 2 (8 PTS),,,40 - 43,3,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,245,1,1,2,4:51 PM,0:52,,,Cloud 25' 3PT Jump Shot (11 PTS) (Delle Donne 1 AST),43 - 43,TIE,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,247,5,8,2,4:51 PM,0:39,Stewart 3 Second Violation Turnover (P3.T7),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1042200132,248,9,1,2,4:51 PM,0:39,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,249,2,58,2,4:53 PM,0:30,,,MISS Cloud 2' Turnaround Hook Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,250,4,0,2,4:53 PM,0:26,Magbegor REBOUND (Off:0 Def:3),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,251,1,98,2,4:53 PM,0:10,Williams 3' Cutting Layup Shot (10 PTS) (Bird 5 AST),,,43 - 45,2,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,253,2,79,2,4:53 PM,0:00,,,MISS Delle Donne 28' 3PT Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,254,4,0,2,4:53 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,255,13,0,2,4:54 PM,0:00,,End of 2nd Period (4:54 PM EST),,43 - 45,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200132,258,12,0,3,5:10 PM,10:00,,Start of 3rd Period (5:10 PM EST),,43 - 45,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,259,1,1,3,5:11 PM,9:47,,,Atkins 3PT Jump Shot (7 PTS) (Delle Donne 2 AST),46 - 45,-1,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,261,1,1,3,5:11 PM,9:30,Stewart 25' 3PT Jump Shot (7 PTS) (Bird 6 AST),,,46 - 48,2,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,263,1,47,3,5:11 PM,9:11,,,Atkins 10' Turnaround Jump Shot (9 PTS) (Clark 3 AST),48 - 48,TIE,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,265,1,66,3,5:12 PM,8:51,Williams 13' Jump Bank Shot (12 PTS) (Bird 7 AST),,,48 - 50,2,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,267,1,79,3,5:12 PM,8:38,,,Cloud 12' Pullup Jump Shot (13 PTS) (Delle Donne 3 AST),50 - 50,TIE,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,269,2,63,3,5:12 PM,8:13,MISS Stewart 10' Fadeaway Jumper,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,270,4,0,3,5:12 PM,8:09,,,Austin REBOUND (Off:2 Def:3),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,271,2,2,3,5:12 PM,8:04,,,MISS Delle Donne 29' 3PT Running Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,272,4,0,3,5:12 PM,8:00,Stewart REBOUND (Off:1 Def:4),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,273,1,41,3,5:13 PM,7:55,Williams 2' Running Layup (14 PTS) (Stewart 7 AST),,,50 - 52,2,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,274,2,1,3,5:13 PM,7:31,,,MISS Clark 25' 3PT Jump Shot,,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,275,4,0,3,5:13 PM,7:27,Stewart REBOUND (Off:1 Def:5),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,276,2,47,3,5:13 PM,7:18,MISS Stewart 12' Turnaround Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,277,4,0,3,5:13 PM,7:16,Charles REBOUND (Off:1 Def:1),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,278,1,72,3,5:13 PM,7:14,Charles 6' Putback Layup (10 PTS),,,50 - 54,4,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,279,1,1,3,5:14 PM,6:48,,,Clark 25' 3PT Jump Shot (8 PTS) (Cloud 3 AST),53 - 54,1,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,281,1,79,3,5:14 PM,6:27,Bird 16' Pullup Jump Shot (11 PTS) (Charles 1 AST),,,53 - 56,3,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,284,8,0,3,5:14 PM,6:12,SUB: Talbot FOR Williams,,,,,4,1628931,Gabby Williams,1611661328.0,Seattle,Storm,SEA,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,285,8,0,3,5:14 PM,6:12,SUB: Magbegor FOR Charles,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,288,2,1,3,5:15 PM,6:10,,,MISS Clark 17' Jump Shot,,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,289,4,0,3,5:15 PM,6:06,Stewart REBOUND (Off:1 Def:6),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,290,1,41,3,5:15 PM,6:00,Stewart 3' Running Layup (9 PTS),,,53 - 58,5,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,291,9,1,3,5:15 PM,5:58,,,Mystics Timeout: Regular (Reg.3 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,293,2,1,3,5:18 PM,5:37,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,294,4,0,3,5:19 PM,5:35,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,295,6,3,3,5:19 PM,5:35,Loyd L.B.FOUL (P2.T1),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,297,2,6,3,5:19 PM,5:22,,,MISS Cloud 3' Driving Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,299,4,0,3,5:19 PM,5:18,Magbegor REBOUND (Off:0 Def:4),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,300,2,103,3,5:19 PM,5:13,MISS Bird 26' 3PT Running Pull-Up Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,301,4,0,3,5:19 PM,5:09,,,Clark REBOUND (Off:0 Def:3),,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,302,2,6,3,5:20 PM,4:56,Magbegor BLOCK (1 BLK),,MISS Delle Donne 4' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1
+1042200132,304,4,0,3,5:20 PM,4:53,Loyd REBOUND (Off:0 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,305,6,2,3,5:20 PM,4:34,,,Austin S.FOUL (P1.T1),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,307,3,11,3,5:20 PM,4:34,Bird Free Throw 1 of 2 (12 PTS),,,53 - 59,6,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,308,8,0,3,5:20 PM,4:34,,,SUB: Williams FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,309,8,0,3,5:20 PM,4:34,,,SUB: Hines-Allen FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,312,3,12,3,5:21 PM,4:34,Bird Free Throw 2 of 2 (13 PTS),,,53 - 60,7,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,313,2,1,3,5:21 PM,4:23,,,MISS Atkins 15' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,314,4,0,3,5:21 PM,4:20,Stewart REBOUND (Off:1 Def:7),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,315,1,1,3,5:21 PM,4:05,Talbot 3PT Jump Shot (3 PTS) (Bird 8 AST),,,53 - 63,10,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,317,6,2,3,5:22 PM,3:46,Magbegor S.FOUL (P1.T2),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,319,3,11,3,5:22 PM,3:46,,,Hines-Allen Free Throw 1 of 2 (1 PTS),54 - 63,9,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,320,8,0,3,5:22 PM,3:46,,,SUB: Walker-Kimbrough FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,322,3,12,3,5:22 PM,3:46,,,Hines-Allen Free Throw 2 of 2 (2 PTS),55 - 63,8,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,323,2,79,3,5:23 PM,3:26,MISS Loyd 27' 3PT Pullup Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,324,4,0,3,5:23 PM,3:22,,,Cloud REBOUND (Off:0 Def:3),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,325,5,1,3,5:23 PM,3:16,Magbegor STEAL (2 STL),,Cloud Bad Pass Turnover (P1.T8),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,327,1,41,3,5:23 PM,3:12,Magbegor 2' Running Layup (2 PTS),,,55 - 65,10,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,328,1,6,3,5:23 PM,3:02,,,Clark 2' Driving Layup (10 PTS) (Cloud 4 AST),57 - 65,8,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,330,6,2,3,5:23 PM,3:02,Magbegor S.FOUL (P2.T3),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,332,3,10,3,5:24 PM,3:02,,,MISS Clark Free Throw 1 of 1,,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,333,4,0,3,5:24 PM,2:59,Magbegor REBOUND (Off:0 Def:5),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,334,1,98,3,5:24 PM,2:41,Talbot 2' Cutting Layup Shot (5 PTS) (Stewart 8 AST),,,57 - 67,10,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,336,6,1,3,5:24 PM,2:30,Loyd P.FOUL (P3.T4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,338,1,3,3,5:25 PM,2:17,,,Williams 7' Hook Shot (5 PTS) (Clark 4 AST),59 - 67,8,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,340,2,101,3,5:25 PM,1:49,MISS Loyd 14' Driving Floating Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,341,4,0,3,5:25 PM,1:49,,,Clark REBOUND (Off:0 Def:4),,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,342,6,1,3,5:25 PM,1:42,Magbegor P.FOUL (P3.PN),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,344,3,11,3,5:26 PM,1:42,,,MISS Williams Free Throw 1 of 2,,,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,345,4,1,3,5:26 PM,1:42,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,346,8,0,3,5:26 PM,1:42,SUB: Charles FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,348,3,12,3,5:26 PM,1:42,,,MISS Williams Free Throw 2 of 2,,,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,349,4,0,3,5:26 PM,1:40,Stewart REBOUND (Off:1 Def:8),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,350,2,101,3,5:26 PM,1:26,MISS Bird 12' Driving Floating Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,351,4,0,3,5:26 PM,1:23,Charles REBOUND (Off:2 Def:1),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,352,1,80,3,5:27 PM,1:14,Loyd 18' Step Back Jump Shot (14 PTS),,,59 - 69,10,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,353,2,80,3,5:27 PM,0:49,,,MISS Cloud 3PT Step Back Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,354,4,0,3,5:27 PM,0:48,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,355,8,0,3,5:27 PM,0:48,SUB: January FOR Bird,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,356,8,0,3,5:27 PM,0:48,,,SUB: Delle Donne FOR Williams,,,5,204322,Elizabeth Williams,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,357,8,0,3,5:27 PM,0:48,,,SUB: Machida FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,362,8,0,3,5:28 PM,0:48,,,SUB: Atkins FOR Clark,,,5,202252,Alysha Clark,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,364,2,1,3,5:28 PM,0:29,MISS Stewart 15' Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,365,4,0,3,5:28 PM,0:27,Charles REBOUND (Off:3 Def:1),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,366,2,72,3,5:28 PM,0:25,MISS Charles 2' Putback Layup,,Delle Donne BLOCK (1 BLK),,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1042200132,368,4,0,3,5:28 PM,0:25,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,369,1,101,3,5:29 PM,0:21,Stewart 7' Driving Floating Jump Shot (11 PTS) (Loyd 1 AST),,,59 - 71,12,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,372,1,47,3,5:29 PM,0:01,,,Hines-Allen 9' Turnaround Jump Shot (4 PTS) (Machida 1 AST),61 - 71,10,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,374,13,0,3,5:29 PM,0:00,,End of 3rd Period (5:29 PM EST),,61 - 71,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200132,377,12,0,4,5:32 PM,10:00,,Start of 4th Period (5:32 PM EST),,61 - 71,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,378,1,98,4,5:33 PM,9:44,Magbegor 4' Cutting Layup Shot (4 PTS) (Charles 2 AST),,,61 - 73,12,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,380,2,6,4,5:33 PM,9:30,,,MISS Delle Donne 2' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042200132,382,4,0,4,5:33 PM,9:26,Charles REBOUND (Off:3 Def:2),,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,383,1,80,4,5:33 PM,9:07,Loyd 26' 3PT Step Back Jump Shot (17 PTS),,,61 - 76,15,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,384,1,102,4,5:34 PM,8:50,,,Delle Donne 10' Driving Floating Bank Jump Shot (10 PTS),63 - 76,13,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,385,2,1,4,5:34 PM,8:33,MISS Charles 17' Jump Shot,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,386,4,0,4,5:34 PM,8:30,Talbot REBOUND (Off:1 Def:0),,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,387,6,1,4,5:34 PM,8:20,,,Machida P.FOUL (P1.T1),,,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,389,8,0,4,5:34 PM,8:20,SUB: Stewart FOR Charles,,,,,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,390,8,0,4,5:34 PM,8:20,,,SUB: Austin FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,391,8,0,4,5:34 PM,8:20,,,SUB: Cloud FOR Machida,,,5,1630957,Rui Machida,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042200132,395,1,1,4,5:35 PM,8:15,Stewart 27' 3PT Jump Shot (14 PTS) (January 1 AST),,,63 - 79,16,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,397,9,2,4,5:35 PM,8:12,,,Mystics Timeout: Short (Reg.3 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,398,6,1,4,5:36 PM,8:05,Talbot P.FOUL (P2.T1),,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042200132,400,1,80,4,5:36 PM,7:57,,,Atkins 26' 3PT Step Back Jump Shot (12 PTS) (Cloud 5 AST),66 - 79,13,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,402,6,2,4,5:37 PM,7:37,,,Atkins S.FOUL (P3.T2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,404,3,11,4,5:37 PM,7:37,Loyd Free Throw 1 of 2 (18 PTS),,,66 - 80,14,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,405,8,0,4,5:37 PM,7:37,SUB: Bird FOR January,,,,,4,201896,Briann January,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,407,3,12,4,5:37 PM,7:37,Loyd Free Throw 2 of 2 (19 PTS),,,66 - 81,15,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,408,2,80,4,5:38 PM,7:13,,,MISS Atkins 3PT Step Back Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,409,4,0,4,5:38 PM,7:12,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,410,5,11,4,5:38 PM,7:12,,,Mystics Turnover: Shot Clock (T#9),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200132,411,1,98,4,5:38 PM,6:53,Magbegor 1' Cutting Layup Shot (6 PTS) (Bird 9 AST),,,66 - 83,17,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,413,1,43,4,5:39 PM,6:38,,,Delle Donne 1' Alley Oop Layup (12 PTS) (Austin 2 AST),68 - 83,15,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,415,1,86,4,5:39 PM,6:24,Stewart 11' Turnaround Fadeaway (16 PTS) (Magbegor 2 AST),,,68 - 85,17,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,417,1,1,4,5:39 PM,6:01,,,Atkins 3PT Jump Shot (15 PTS) (Delle Donne 4 AST),71 - 85,14,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,419,2,80,4,5:39 PM,5:43,MISS Loyd 27' 3PT Step Back Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,420,4,0,4,5:40 PM,5:39,,,Austin REBOUND (Off:2 Def:4),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,421,1,6,4,5:40 PM,5:26,,,Cloud 2' Driving Layup (15 PTS) (Atkins 4 AST),73 - 85,12,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,423,9,1,4,5:40 PM,5:26,STORM Timeout: Regular (Full 2 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,424,2,63,4,5:44 PM,5:05,MISS Bird 13' Fadeaway Jumper,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,425,4,0,4,5:44 PM,5:01,,,Austin REBOUND (Off:2 Def:5),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,426,1,1,4,5:44 PM,4:44,,,Cloud 24' 3PT Jump Shot (18 PTS) (Atkins 5 AST),76 - 85,9,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,428,2,80,4,5:44 PM,4:17,MISS Loyd 26' 3PT Step Back Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,429,4,0,4,5:45 PM,4:13,,,Cloud REBOUND (Off:0 Def:4),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,430,2,6,4,5:45 PM,4:07,Stewart BLOCK (1 BLK),,MISS Cloud 6' Driving Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1042200132,432,4,0,4,5:45 PM,4:05,,,Austin REBOUND (Off:3 Def:5),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,433,2,72,4,5:45 PM,4:04,Bird BLOCK (1 BLK),,MISS Austin 3' Putback Layup,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1
+1042200132,435,4,0,4,5:45 PM,4:04,Bird REBOUND (Off:1 Def:2),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,436,2,79,4,5:45 PM,3:49,MISS Stewart 13' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,437,4,0,4,5:45 PM,3:46,,,Cloud REBOUND (Off:0 Def:5),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,438,2,79,4,5:45 PM,3:30,,,MISS Walker-Kimbrough 14' Pullup Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,439,4,0,4,5:45 PM,3:27,,,Atkins REBOUND (Off:2 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,440,2,72,4,5:45 PM,3:26,,,MISS Atkins 1' Putback Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,441,4,0,4,5:45 PM,3:24,Bird REBOUND (Off:1 Def:3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,442,2,2,4,5:45 PM,3:21,MISS Loyd 24' 3PT Running Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,443,4,0,4,5:45 PM,3:17,Talbot REBOUND (Off:2 Def:0),,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,444,6,2,4,5:46 PM,3:07,,,Delle Donne S.FOUL (P3.T3),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,446,3,13,4,5:46 PM,3:07,Stewart Free Throw 1 of 3 (17 PTS),,,76 - 86,10,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,447,3,14,4,5:46 PM,3:07,Stewart Free Throw 2 of 3 (18 PTS),,,76 - 87,11,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,448,8,0,4,5:46 PM,3:07,SUB: Charles FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200132,450,3,15,4,5:47 PM,3:07,Stewart Free Throw 3 of 3 (19 PTS),,,76 - 88,12,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200132,451,1,1,4,5:47 PM,2:56,,,Walker-Kimbrough 3PT Jump Shot (10 PTS) (Atkins 6 AST),79 - 88,9,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,453,2,5,4,5:47 PM,2:31,MISS Loyd 2' Layup,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,454,4,0,4,5:47 PM,2:28,Talbot REBOUND (Off:3 Def:0),,,,,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,455,1,78,4,5:47 PM,2:17,Charles 5' Floating Jump Shot (12 PTS) (Bird 10 AST),,,79 - 90,11,4,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,457,5,1,4,5:48 PM,2:05,Bird STEAL (2 STL),,Cloud Bad Pass Turnover (P2.T10),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,459,1,41,4,5:48 PM,2:02,Bird 2' Running Layup (15 PTS),,,79 - 92,13,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,460,9,2,4,5:48 PM,2:02,,,Mystics Timeout: Short (Reg.3 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,461,18,0,4,5:49 PM,2:02,,Instant Replay4th Period (5:49 PM EST),,79 - 92,13,0,451,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200132,468,9,4,4,5:52 PM,2:02,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,462,1,1,4,5:52 PM,1:51,,,Cloud 24' 3PT Jump Shot (21 PTS) (Delle Donne 5 AST),82 - 92,10,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,464,5,1,4,5:52 PM,1:35,Bird Bad Pass Turnover (P1.T8),,Walker-Kimbrough STEAL (3 STL),,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,466,1,41,4,5:52 PM,1:32,,,Walker-Kimbrough 1' Running Layup (12 PTS) (Atkins 7 AST),84 - 92,8,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042200132,469,6,1,4,5:52 PM,1:19,,,Atkins P.FOUL (P4.T4),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200132,471,9,1,4,5:53 PM,1:14,STORM Timeout: Regular (Full 3 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200132,472,1,98,4,5:54 PM,1:12,Stewart 2' Cutting Layup Shot (21 PTS) (Talbot 2 AST),,,84 - 94,10,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200132,474,2,73,4,5:55 PM,0:57,,,MISS Cloud 4' Driving Reverse Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,475,4,0,4,5:55 PM,0:55,Stewart REBOUND (Off:1 Def:9),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,476,1,79,4,5:55 PM,0:40,Bird 25' 3PT Pullup Jump Shot (18 PTS),,,84 - 97,13,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,478,2,79,4,5:55 PM,0:34,,,MISS Atkins 24' 3PT Pullup Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,479,4,0,4,5:55 PM,0:30,Loyd REBOUND (Off:0 Def:3),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,480,2,79,4,5:56 PM,0:09,MISS Bird 26' 3PT Pullup Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,481,4,0,4,5:56 PM,0:06,,,Cloud REBOUND (Off:0 Def:6),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,482,2,103,4,5:56 PM,0:02,,,MISS Cloud 28' 3PT Running Pull-Up Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042200132,483,4,0,4,5:56 PM,0:00,Loyd REBOUND (Off:0 Def:4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200132,484,13,0,4,5:56 PM,0:00,,End of 4th Period (5:56 PM EST),,84 - 97,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

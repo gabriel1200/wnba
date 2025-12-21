@@ -1,0 +1,397 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041200121,1,12,0,1,9:08 PM,10:00,,Start of 1st Period (9:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,2,10,0,1,9:08 PM,10:00,Jump Ball Brunson vs. Jackson: Tip to Whalen,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,3,1,1,1,9:08 PM,9:45,Moore  3PT Jump Shot (3 PTS) (McWilliams-Franklin 1 AST),,,0 - 3,3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,4,6,2,1,9:09 PM,9:30,Whalen S.FOUL (P1.T1),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,5,3,11,1,9:09 PM,9:30,,,Little Free Throw 1 of 2 (1 PTS),1 - 3,2,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,7,3,12,1,9:09 PM,9:30,,,MISS Little Free Throw 2 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,9,4,0,1,9:09 PM,9:29,McWilliams-Franklin REBOUND (Off:0 Def:1),,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,11,2,1,1,9:10 PM,9:05,MISS Augustus 18' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,12,4,0,1,9:10 PM,9:03,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,13,2,5,1,9:10 PM,8:50,McWilliams-Franklin BLOCK (1 BLK),,MISS Little 1' Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,14,4,0,1,9:10 PM,8:49,Moore REBOUND (Off:0 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,15,1,44,1,9:10 PM,8:44,Whalen 2' Reverse Layup (2 PTS) (Moore 1 AST),,,1 - 5,4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,16,2,1,1,9:11 PM,8:23,,,MISS Little  3PT Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,17,4,0,1,9:11 PM,8:22,Moore REBOUND (Off:0 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,18,2,1,1,9:11 PM,8:15,MISS Augustus  3PT Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,19,4,0,1,9:11 PM,8:10,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,20,2,1,1,9:11 PM,7:50,,,MISS Wright 19' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,21,4,0,1,9:11 PM,7:48,Augustus REBOUND (Off:0 Def:1),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,23,2,1,1,9:12 PM,7:28,MISS Brunson 14' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,24,4,0,1,9:12 PM,7:27,Moore REBOUND (Off:1 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,25,1,1,1,9:12 PM,7:25,Moore 10' Jump Shot (5 PTS),,,1 - 7,6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,27,2,1,1,9:13 PM,7:06,Augustus BLOCK (1 BLK),,MISS Bird 15' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,28,4,0,1,9:13 PM,7:05,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,29,2,42,1,9:13 PM,7:01,,,MISS Little 3' Driving Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,30,4,0,1,9:13 PM,7:00,Brunson REBOUND (Off:0 Def:1),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,31,5,1,1,9:13 PM,6:55,Moore Bad Pass Turnover (P1.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,32,2,1,1,9:14 PM,6:38,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,33,4,0,1,9:14 PM,6:37,Brunson REBOUND (Off:0 Def:2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,34,1,80,1,9:14 PM,6:30,Augustus 15' Step Back Jump Shot (2 PTS),,,1 - 9,8,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,35,2,46,1,9:14 PM,6:08,,,MISS Wright 6' Running Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,36,4,0,1,9:14 PM,6:07,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,37,6,3,1,9:14 PM,6:07,Moore L.B.FOUL (P1.T2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,38,2,1,1,9:15 PM,5:56,,,MISS Wright  3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,39,4,0,1,9:15 PM,5:54,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,40,2,44,1,9:16 PM,5:37,MISS Whalen 2' Reverse Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,41,4,0,1,9:16 PM,5:36,,,Jackson REBOUND (Off:0 Def:1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,42,1,1,1,9:16 PM,5:23,,,Jackson 8' Jump Shot (2 PTS) (Smith 1 AST),3 - 9,6,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,43,5,2,1,9:16 PM,5:07,Augustus Lost Ball Turnover (P1.T2),,Wright STEAL (1 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,44,2,42,1,9:16 PM,5:00,,,MISS Smith 1' Driving Layup,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,45,4,0,1,9:16 PM,4:59,McWilliams-Franklin REBOUND (Off:0 Def:2),,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,46,2,1,1,9:17 PM,4:41,MISS McWilliams-Franklin 4' Jump Shot,,Bird BLOCK (1 BLK),,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1041200121,47,4,0,1,9:17 PM,4:40,McWilliams-Franklin REBOUND (Off:1 Def:2),,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,48,5,1,1,9:17 PM,4:38,McWilliams-Franklin Bad Pass Turnover (P1.T3),,Little STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,49,6,2,1,9:17 PM,4:35,Augustus S.FOUL (P1.T3),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,50,9,1,1,9:17 PM,4:35,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,52,8,0,1,9:19 PM,4:35,,,SUB: Wauters FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,53,8,0,1,9:19 PM,4:35,,,SUB: Stricklen FOR Smith,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,54,8,0,1,9:20 PM,4:35,SUB: Wiggins FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,55,8,0,1,9:20 PM,4:35,SUB: Wright FOR Moore,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,56,8,0,1,9:20 PM,4:35,SUB: Peters FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,57,3,11,1,9:20 PM,4:35,,,Little Free Throw 1 of 2 (2 PTS),4 - 9,5,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,59,3,12,1,9:20 PM,4:35,,,MISS Little Free Throw 2 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,61,4,0,1,9:20 PM,4:34,Brunson REBOUND (Off:0 Def:3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,62,1,47,1,9:21 PM,4:17,Brunson 6' Turnaround Jump Shot (2 PTS),,,4 - 11,7,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,63,5,1,1,9:21 PM,4:00,Wright STEAL (1 STL),,Bird Bad Pass Turnover (P1.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,64,6,1,1,9:21 PM,3:59,,,Little P.FOUL (P1.T1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,65,2,1,1,9:21 PM,3:44,MISS Augustus 7' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,66,4,0,1,9:21 PM,3:42,,,Stricklen REBOUND (Off:0 Def:1),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,67,1,1,1,9:22 PM,3:30,,,Bird  3PT Jump Shot (3 PTS) (Stricklen 1 AST),7 - 11,4,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,68,6,1,1,9:22 PM,3:17,,,Bird P.FOUL (P1.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,69,8,0,1,9:22 PM,3:17,,,SUB: Smith FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,70,8,0,1,9:22 PM,3:17,,,SUB: Jackson FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,71,1,1,1,9:22 PM,3:09,Wright 18' Jump Shot (2 PTS),,,7 - 13,6,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,72,2,1,1,9:23 PM,2:54,,,MISS Jackson 10' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,73,4,0,1,9:23 PM,2:53,Augustus REBOUND (Off:0 Def:2),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,74,5,2,1,9:23 PM,2:38,Brunson Lost Ball Turnover (P1.T4),,Smith STEAL (1 STL),,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,75,6,2,1,9:23 PM,2:34,Wright S.FOUL (P1.T4),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,76,3,11,1,9:23 PM,2:34,,,MISS Stricklen Free Throw 1 of 2,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,77,4,1,1,9:23 PM,2:34,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,78,8,0,1,9:23 PM,2:34,SUB: Moore FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,79,3,12,1,9:23 PM,2:34,,,Stricklen Free Throw 2 of 2 (1 PTS),8 - 13,5,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,81,2,1,1,9:24 PM,2:26,MISS Wright 18' Jump Shot,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,82,4,0,1,9:24 PM,2:25,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,83,6,3,1,9:24 PM,2:25,,,Stricklen L.B.FOUL (P1.T3),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,84,8,0,1,9:24 PM,2:25,SUB: Whalen FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,85,1,42,1,9:24 PM,2:16,Whalen 2' Driving Layup (4 PTS) (Moore 2 AST),,,8 - 15,7,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,86,1,1,1,9:25 PM,1:56,,,Smith 20' Jump Shot (2 PTS) (Bird 1 AST),10 - 15,5,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,87,2,1,1,9:25 PM,1:39,MISS Whalen 6' Jump Shot,,Stricklen BLOCK (1 BLK),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0
+1041200121,88,4,0,1,9:25 PM,1:37,,,Wauters REBOUND (Off:0 Def:1),,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,89,1,1,1,9:25 PM,1:29,,,Jackson 3' Jump Shot (4 PTS) (Stricklen 2 AST),12 - 15,3,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,90,2,42,1,9:25 PM,1:12,MISS Wiggins 2' Driving Layup,,,,,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,91,4,0,1,9:25 PM,1:11,,,Jackson REBOUND (Off:0 Def:2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,92,1,79,1,9:26 PM,1:06,,,Bird  3PT Pullup Jump Shot (6 PTS),15 - 15,TIE,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,93,5,1,1,9:26 PM,0:43,Wiggins Bad Pass Turnover (P1.T5),,,,,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,94,8,0,1,9:26 PM,0:43,,,SUB: Wright FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,95,2,1,1,9:26 PM,0:24,,,MISS Smith 19' Jump Shot,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,96,4,0,1,9:26 PM,0:23,Wright REBOUND (Off:0 Def:1),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,97,1,1,1,9:27 PM,0:00,Moore  3PT Jump Shot (8 PTS) (Whalen 1 AST),,,15 - 18,3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,98,18,0,1,9:27 PM,0:00,,Support Ruling,,,,0,97,Ronnie Grandison,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,99,13,0,1,9:28 PM,0:00,,End of 1st Period (9:28 PM EST),,15 - 18,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,101,12,0,2,9:30 PM,10:00,,Start of 2nd Period (9:30 PM EST),,15 - 18,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,102,2,47,2,9:31 PM,9:42,,,MISS Thompson 12' Turnaround Jump Shot,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,103,4,0,2,9:31 PM,9:41,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,105,5,40,2,9:31 PM,9:39,,,Smith Out of Bounds Lost Ball Turnover (P1.T2),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,106,2,1,2,9:32 PM,9:20,MISS Moore 25' 3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,107,4,0,2,9:32 PM,9:19,,,Wright REBOUND (Off:0 Def:1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,108,2,79,2,9:32 PM,9:14,,,MISS Wright 6' Pullup Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,109,4,0,2,9:32 PM,9:12,,,Thompson REBOUND (Off:1 Def:0),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,110,5,1,2,9:32 PM,9:04,Whalen STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T3),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,111,6,2,2,9:32 PM,8:49,,,Stricklen S.FOUL (P2.T1),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,112,3,11,2,9:32 PM,8:49,Whalen Free Throw 1 of 2 (5 PTS),,,15 - 19,4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,114,3,12,2,9:33 PM,8:49,MISS Whalen Free Throw 2 of 2,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,116,4,0,2,9:33 PM,8:48,,,Thompson REBOUND (Off:1 Def:1),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,117,2,1,2,9:33 PM,8:36,,,MISS Smith  3PT Jump Shot,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,118,4,0,2,9:33 PM,8:34,,,Thompson REBOUND (Off:2 Def:1),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,121,6,2,2,9:33 PM,8:33,McWilliams-Franklin S.FOUL (P1.T1),,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,122,3,11,2,9:33 PM,8:33,,,Thompson Free Throw 1 of 2 (1 PTS),16 - 19,3,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,124,3,12,2,9:34 PM,8:33,,,MISS Thompson Free Throw 2 of 2,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,126,4,0,2,9:34 PM,8:31,Wright REBOUND (Off:0 Def:2),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,127,6,1,2,9:34 PM,8:28,,,Little P.FOUL (P2.T2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,128,8,0,2,9:34 PM,8:28,SUB: Brunson FOR Wright,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,129,1,1,2,9:35 PM,8:13,McWilliams-Franklin 20' Jump Shot (2 PTS) (Whalen 2 AST),,,16 - 21,5,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,130,2,1,2,9:35 PM,7:54,,,MISS Stricklen  3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,131,4,0,2,9:35 PM,7:52,Whalen REBOUND (Off:0 Def:1),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,132,2,79,2,9:35 PM,7:46,MISS Whalen 16' Pullup Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,133,4,0,2,9:35 PM,7:45,,,Stricklen REBOUND (Off:0 Def:2),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,134,5,2,2,9:35 PM,7:37,Augustus STEAL (1 STL),,Wright Lost Ball Turnover (P1.T4),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,135,5,2,2,9:35 PM,7:33,Whalen Lost Ball Turnover (P1.T6),,Smith STEAL (2 STL),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,136,2,1,2,9:36 PM,7:27,Brunson BLOCK (1 BLK),,MISS Wright 3' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,137,4,0,2,9:36 PM,7:24,Moore REBOUND (Off:1 Def:3),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,138,2,1,2,9:36 PM,7:17,MISS McWilliams-Franklin 17' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,139,4,0,2,9:36 PM,7:16,,,Thompson REBOUND (Off:2 Def:2),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,140,9,1,2,9:36 PM,7:11,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,143,8,0,2,9:39 PM,7:11,,,SUB: Jackson FOR Thompson,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,144,8,0,2,9:39 PM,7:11,,,SUB: Bird FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,145,8,0,2,9:39 PM,7:11,SUB: Wiggins FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,147,5,11,2,9:40 PM,6:52,,,Storm Turnover: Shot Clock (T#5),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,148,2,47,2,9:40 PM,6:37,MISS Augustus 9' Turnaround Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,149,4,0,2,9:40 PM,6:36,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,150,6,3,2,9:40 PM,6:36,,,Smith L.B.FOUL (P1.T3),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,151,5,1,2,9:41 PM,6:31,Moore Bad Pass Turnover (P2.T7),,Little STEAL (2 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,152,2,66,2,9:41 PM,6:22,,,MISS Jackson 6' Jump Bank Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,153,4,0,2,9:41 PM,6:19,,,Little REBOUND (Off:1 Def:0),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,154,2,1,2,9:41 PM,5:59,,,MISS Wright 7' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,155,4,0,2,9:41 PM,5:57,,,Little REBOUND (Off:2 Def:0),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,156,2,5,2,9:42 PM,5:56,Brunson BLOCK (2 BLK),,MISS Little 2' Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,157,4,0,2,9:42 PM,5:55,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,158,5,11,2,9:42 PM,5:30,LYNX Turnover: Shot Clock (T#8),,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,159,8,0,2,9:42 PM,5:30,SUB: Whalen FOR Moore,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,160,1,1,2,9:43 PM,5:19,,,Jackson  3PT Jump Shot (7 PTS) (Wright 1 AST),19 - 21,2,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,162,8,0,2,9:43 PM,5:00,,,SUB: Wauters FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,163,1,79,2,9:43 PM,4:53,Whalen 13' Pullup Jump Shot (7 PTS),,,19 - 23,4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,164,2,1,2,9:44 PM,4:40,,,MISS Smith  3PT Jump Shot,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,165,4,0,2,9:44 PM,4:39,Brunson REBOUND (Off:0 Def:4),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,166,1,42,2,9:44 PM,4:28,McWilliams-Franklin 3' Driving Layup (4 PTS),,,19 - 25,6,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,167,6,2,2,9:44 PM,4:28,,,Wauters S.FOUL (P1.T4),,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,168,8,0,2,9:44 PM,4:28,,,SUB: Stricklen FOR Smith,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,169,3,10,2,9:44 PM,4:28,McWilliams-Franklin Free Throw 1 of 1 (5 PTS),,,19 - 26,7,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,171,5,1,2,9:44 PM,4:17,,,Bird Bad Pass Turnover (P2.T6),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,172,6,1,2,9:45 PM,4:03,,,Bird P.FOUL (P2.PN),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,173,3,11,2,9:45 PM,4:03,Brunson Free Throw 1 of 2 (3 PTS),,,19 - 27,8,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,175,8,0,2,9:46 PM,4:03,SUB: Moore FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,176,3,12,2,9:46 PM,4:03,Brunson Free Throw 2 of 2 (4 PTS),,,19 - 28,9,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,178,1,1,2,9:46 PM,3:43,,,Wright 19' Jump Shot (2 PTS) (Jackson 1 AST),21 - 28,7,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,179,1,1,2,9:47 PM,3:21,Augustus 15' Jump Shot (4 PTS) (Moore 3 AST),,,21 - 30,9,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,180,1,66,2,9:47 PM,3:13,,,Jackson 9' Jump Bank Shot (9 PTS) (Wright 2 AST),23 - 30,7,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,181,1,1,2,9:47 PM,2:54,Augustus  3PT Jump Shot (7 PTS) (Whalen 3 AST),,,23 - 33,10,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,182,6,1,2,9:47 PM,2:37,Moore P.FOUL (P2.T2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,184,9,1,2,9:48 PM,2:37,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,185,2,1,2,9:51 PM,2:23,,,MISS Bird 13' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,186,4,0,2,9:51 PM,2:20,Whalen REBOUND (Off:0 Def:2),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,187,2,42,2,9:51 PM,2:15,MISS Whalen 3' Driving Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,188,4,0,2,9:51 PM,2:14,,,Stricklen REBOUND (Off:0 Def:3),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,189,2,1,2,9:51 PM,1:55,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,190,4,0,2,9:51 PM,1:54,Brunson REBOUND (Off:0 Def:5),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,191,2,1,2,9:52 PM,1:32,MISS Whalen 4' Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,192,4,0,2,9:52 PM,1:31,,,Stricklen REBOUND (Off:0 Def:4),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,193,2,1,2,9:52 PM,1:22,,,MISS Stricklen  3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,194,4,0,2,9:52 PM,1:21,Moore REBOUND (Off:1 Def:4),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,195,2,1,2,9:52 PM,1:05,MISS Moore 17' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,196,4,0,2,9:52 PM,1:04,,,Wright REBOUND (Off:0 Def:2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,197,1,5,2,9:52 PM,0:57,,,Stricklen 2' Layup (3 PTS) (Wright 3 AST),25 - 33,8,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,198,2,1,2,9:53 PM,0:40,MISS Brunson 19' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,199,4,0,2,9:53 PM,0:38,,,Stricklen REBOUND (Off:0 Def:5),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,200,1,47,2,9:53 PM,0:29,,,Jackson 6' Turnaround Jump Shot (11 PTS) (Wright 4 AST),27 - 33,6,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,201,9,1,2,9:53 PM,0:29,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,203,8,0,2,9:55 PM,0:29,,,SUB: Smith FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,204,8,0,2,9:55 PM,0:29,,,SUB: Little FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,205,8,0,2,9:55 PM,0:29,SUB: McWilliams-Franklin FOR Moore,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,206,6,26,2,9:55 PM,0:08,Brunson Offensive Charge Foul (P1.T3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,207,5,5,2,9:55 PM,0:08,Brunson Foul Turnover (P2.T9),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041200121,208,9,1,2,9:55 PM,0:08,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,210,8,0,2,9:57 PM,0:08,SUB: Wright FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,211,2,1,2,9:57 PM,0:01,Wright BLOCK (1 BLK),,MISS Wright 6' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,212,4,0,2,9:57 PM,0:00,Augustus REBOUND (Off:0 Def:3),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,213,13,0,2,9:57 PM,0:00,,End of 2nd Period (9:57 PM EST),,27 - 33,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,215,12,0,3,10:15 PM,10:00,,Start of 3rd Period (10:15 PM EST),,27 - 33,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,216,2,1,3,10:15 PM,9:45,,,MISS Wright  3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,217,4,0,3,10:15 PM,9:44,Moore REBOUND (Off:1 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,218,6,2,3,10:16 PM,9:25,,,Bird S.FOUL (P3.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,219,3,11,3,10:16 PM,9:25,Whalen Free Throw 1 of 2 (8 PTS),,,27 - 34,7,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,221,3,12,3,10:16 PM,9:25,Whalen Free Throw 2 of 2 (9 PTS),,,27 - 35,8,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,223,5,4,3,10:17 PM,9:08,,,Little Traveling Turnover (P1.T7),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041200121,224,1,5,3,10:17 PM,8:54,Augustus 2' Layup (9 PTS) (McWilliams-Franklin 2 AST),,,27 - 37,10,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,225,9,1,3,10:17 PM,8:42,,,Storm Timeout: Regular (Reg.3 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,227,7,5,3,10:21 PM,8:30,Whalen Violation:Kicked Ball,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041200121,228,5,11,3,10:21 PM,8:15,,,Storm Turnover: Shot Clock (T#8),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,229,1,1,3,10:22 PM,7:59,Augustus 13' Jump Shot (11 PTS) (McWilliams-Franklin 3 AST),,,27 - 39,12,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,230,1,1,3,10:22 PM,7:45,,,Bird 18' Jump Shot (8 PTS),29 - 39,10,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,231,2,1,3,10:22 PM,7:21,MISS McWilliams-Franklin 11' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,232,4,0,3,10:22 PM,7:20,,,Smith REBOUND (Off:0 Def:1),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,233,6,1,3,10:22 PM,7:16,Moore P.FOUL (P3.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,234,5,1,3,10:23 PM,7:03,Brunson STEAL (1 STL),,Bird Bad Pass Turnover (P3.T9),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,235,1,42,3,10:23 PM,6:59,Augustus 2' Driving Layup (13 PTS),,,29 - 41,12,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,236,6,2,3,10:23 PM,6:36,Brunson S.FOUL (P2.T2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,237,3,11,3,10:23 PM,6:36,,,MISS Smith Free Throw 1 of 2,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,238,4,1,3,10:23 PM,6:36,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,239,3,12,3,10:24 PM,6:36,,,Smith Free Throw 2 of 2 (3 PTS),30 - 41,11,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,241,1,42,3,10:24 PM,6:25,Whalen 3' Driving Layup (11 PTS),,,30 - 43,13,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,242,1,1,3,10:24 PM,6:11,,,Smith  3PT Jump Shot (6 PTS) (Bird 2 AST),33 - 43,10,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,243,6,1,3,10:25 PM,6:00,,,Wright P.FOUL (P1.T2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,244,2,1,3,10:25 PM,5:51,MISS McWilliams-Franklin 3' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,245,4,0,3,10:25 PM,5:50,,,Jackson REBOUND (Off:0 Def:3),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,246,2,45,3,10:25 PM,5:42,,,MISS Bird 9' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,247,4,0,3,10:25 PM,5:41,Augustus REBOUND (Off:0 Def:4),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,248,1,42,3,10:25 PM,5:22,Whalen 2' Driving Layup (13 PTS),,,33 - 45,12,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,249,6,2,3,10:26 PM,5:07,Whalen S.FOUL (P2.T3),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,250,3,11,3,10:26 PM,5:07,,,Little Free Throw 1 of 2 (3 PTS),34 - 45,11,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,252,8,0,3,10:26 PM,5:07,,,SUB: Wauters FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,253,8,0,3,10:26 PM,5:07,,,SUB: Stricklen FOR Smith,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,254,8,0,3,10:26 PM,5:07,SUB: Wiggins FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,255,8,0,3,10:26 PM,5:07,SUB: Wright FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,256,3,12,3,10:26 PM,5:07,,,Little Free Throw 2 of 2 (4 PTS),35 - 45,10,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,258,1,1,3,10:27 PM,4:52,Brunson 15' Jump Shot (6 PTS) (Augustus 1 AST),,,35 - 47,12,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,259,5,8,3,10:27 PM,4:30,,,Little 3 Second Violation Turnover (P2.T10),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041200121,260,8,0,3,10:27 PM,4:30,,,SUB: Smith FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,261,6,2,3,10:28 PM,4:09,,,Wauters S.FOUL (P2.T3),,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,262,3,11,3,10:28 PM,4:09,Brunson Free Throw 1 of 2 (7 PTS),,,35 - 48,13,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,264,3,12,3,10:28 PM,4:09,MISS Brunson Free Throw 2 of 2,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,266,4,0,3,10:28 PM,4:05,,,Little REBOUND (Off:2 Def:1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,267,6,2,3,10:29 PM,4:01,Wright S.FOUL (P2.T4),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,268,3,11,3,10:29 PM,4:01,,,Stricklen Free Throw 1 of 2 (4 PTS),36 - 48,12,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,270,3,12,3,10:29 PM,4:01,,,Stricklen Free Throw 2 of 2 (5 PTS),37 - 48,11,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,272,6,2,3,10:30 PM,3:45,,,Stricklen S.FOUL (P3.T4),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,273,18,0,3,10:30 PM,3:45,,Support Ruling,,,,0,272,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,274,3,13,3,10:30 PM,3:45,Moore Free Throw 1 of 3 (9 PTS),,,37 - 49,12,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,276,3,14,3,10:31 PM,3:45,MISS Moore Free Throw 2 of 3,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,278,4,0,3,10:31 PM,3:45,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,279,8,0,3,10:31 PM,3:45,,,SUB: Bird FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,280,3,15,3,10:31 PM,3:45,Moore Free Throw 3 of 3 (10 PTS),,,37 - 50,13,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,282,5,1,3,10:31 PM,3:38,Wright STEAL (2 STL),,Bird Bad Pass Turnover (P4.T11),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,283,1,5,3,10:31 PM,3:34,Moore 2' Layup (12 PTS) (Wright 1 AST),,,37 - 52,15,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,285,1,46,3,10:32 PM,3:19,,,Stricklen 6' Running Jump Shot (7 PTS),39 - 52,13,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,287,6,2,3,10:32 PM,3:02,,,Smith S.FOUL (P2.PN),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,288,3,11,3,10:32 PM,3:02,Augustus Free Throw 1 of 2 (14 PTS),,,39 - 53,14,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,291,8,0,3,10:32 PM,3:02,,,SUB: Thompson FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,292,3,12,3,10:33 PM,3:02,Augustus Free Throw 2 of 2 (15 PTS),,,39 - 54,15,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,294,6,2,3,10:33 PM,2:52,Brunson S.FOUL (P3.PN),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,295,3,11,3,10:33 PM,2:52,,,MISS Smith Free Throw 1 of 2,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,296,4,1,3,10:33 PM,2:52,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,297,3,12,3,10:33 PM,2:52,,,Smith Free Throw 2 of 2 (7 PTS),40 - 54,14,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,299,1,1,3,10:34 PM,2:38,Wiggins  3PT Jump Shot (3 PTS) (Moore 4 AST),,,40 - 57,17,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,300,1,1,3,10:34 PM,2:10,,,Smith  3PT Jump Shot (10 PTS) (Wauters 1 AST),43 - 57,14,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,301,2,1,3,10:35 PM,1:59,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,302,4,0,3,10:35 PM,1:58,,,Stricklen REBOUND (Off:0 Def:6),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,303,1,1,3,10:35 PM,1:48,,,Thompson  3PT Jump Shot (4 PTS) (Stricklen 3 AST),46 - 57,11,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,304,9,1,3,10:35 PM,1:39,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,306,18,0,3,10:35 PM,1:39,,Support Ruling,,,,0,228,Adam Keefe,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,308,8,0,3,10:37 PM,1:39,,,SUB: Wright FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,309,8,0,3,10:37 PM,1:39,SUB: Whalen FOR Wright,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,310,6,2,3,10:37 PM,1:25,,,Thompson S.FOUL (P1.PN),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,311,3,11,3,10:37 PM,1:25,Brunson Free Throw 1 of 2 (8 PTS),,,46 - 58,12,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,313,3,12,3,10:37 PM,1:25,Brunson Free Throw 2 of 2 (9 PTS),,,46 - 59,13,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,315,1,1,3,10:38 PM,1:13,,,Thompson 26' 3PT Jump Shot (7 PTS) (Smith 2 AST),49 - 59,10,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,316,5,1,3,10:38 PM,0:54,Whalen Bad Pass Turnover (P2.T10),,Wauters STEAL (1 STL),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,317,2,1,3,10:38 PM,0:46,,,MISS Stricklen  3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,318,4,0,3,10:38 PM,0:45,Augustus REBOUND (Off:0 Def:5),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,319,2,1,3,10:38 PM,0:37,MISS Whalen 12' Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,320,4,0,3,10:38 PM,0:35,,,Smith REBOUND (Off:0 Def:2),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,321,1,5,3,10:38 PM,0:31,,,Stricklen 3' Layup (9 PTS) (Wright 5 AST),51 - 59,8,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,322,6,2,3,10:39 PM,0:13,,,Wright S.FOUL (P2.PN),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,323,3,11,3,10:39 PM,0:13,MISS Brunson Free Throw 1 of 2,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,325,4,1,3,10:39 PM,0:13,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,326,3,12,3,10:39 PM,0:13,Brunson Free Throw 2 of 2 (10 PTS),,,51 - 60,9,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,327,2,1,3,10:40 PM,0:01,,,MISS Thompson  3PT Jump Shot,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,328,4,0,3,10:40 PM,0:00,Brunson REBOUND (Off:0 Def:6),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,329,13,0,3,10:40 PM,0:00,,End of 3rd Period (10:40 PM EST),,51 - 60,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,331,12,0,4,10:43 PM,10:00,,Start of 4th Period (10:43 PM EST),,51 - 60,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,332,2,1,4,10:43 PM,9:38,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,333,4,0,4,10:43 PM,9:37,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,334,2,1,4,10:44 PM,9:18,,,MISS Jackson 7' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,335,4,0,4,10:44 PM,9:17,Whalen REBOUND (Off:0 Def:3),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,336,6,2,4,10:44 PM,8:56,,,Thompson S.FOUL (P2.T1),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,337,3,11,4,10:44 PM,8:56,Whalen Free Throw 1 of 2 (14 PTS),,,51 - 61,10,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,341,7,3,4,10:45 PM,8:56,,,Wright Violation:Lane,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041200121,343,3,12,4,10:45 PM,8:56,Whalen Free Throw 2 of 2 (15 PTS),,,51 - 62,11,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,345,2,1,4,10:46 PM,8:41,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,346,4,0,4,10:46 PM,8:40,Brunson REBOUND (Off:0 Def:7),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,347,2,1,4,10:46 PM,8:20,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,348,4,0,4,10:46 PM,8:19,,,Thompson REBOUND (Off:2 Def:3),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,349,5,1,4,10:46 PM,8:11,Moore STEAL (1 STL),,Wright Bad Pass Turnover (P2.T12),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,350,1,42,4,10:46 PM,8:06,Whalen 2' Driving Layup (17 PTS) (Moore 5 AST),,,51 - 64,13,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,351,9,1,4,10:46 PM,7:59,,,Storm Timeout: Regular (Reg.4 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,353,8,0,4,10:49 PM,7:59,,,SUB: Bird FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,354,8,0,4,10:49 PM,7:59,,,SUB: Little FOR Thompson,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,355,6,2,4,10:50 PM,7:49,McWilliams-Franklin S.FOUL (P2.T1),,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,356,3,11,4,10:50 PM,7:49,,,Little Free Throw 1 of 2 (5 PTS),52 - 64,12,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,358,3,12,4,10:50 PM,7:49,,,MISS Little Free Throw 2 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,360,4,0,4,10:51 PM,7:48,Brunson REBOUND (Off:0 Def:8),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,361,6,29,4,10:51 PM,7:36,,,Little Shooting Block Foul (P3.T2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,362,3,11,4,10:51 PM,7:36,MISS Whalen Free Throw 1 of 2,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,363,4,1,4,10:51 PM,7:36,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,364,8,0,4,10:51 PM,7:36,SUB: Augustus FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,365,3,12,4,10:51 PM,7:36,Whalen Free Throw 2 of 2 (18 PTS),,,52 - 65,13,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,367,5,1,4,10:52 PM,7:16,Brunson STEAL (2 STL),,Bird Bad Pass Turnover (P5.T13),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,368,2,5,4,10:52 PM,7:10,MISS Brunson 2' Layup,,Jackson BLOCK (1 BLK),,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1041200121,369,4,0,4,10:52 PM,7:08,,,Wright REBOUND (Off:0 Def:3),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,370,9,2,4,10:52 PM,6:57,,,Storm Timeout: Short (Reg.4 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,372,1,5,4,10:53 PM,6:56,,,Little 3' Layup (7 PTS) (Smith 3 AST),54 - 65,11,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,373,1,84,4,10:54 PM,6:38,Moore 5' Running Bank Shot (14 PTS) (McWilliams-Franklin 4 AST),,,54 - 67,13,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,374,6,2,4,10:54 PM,6:18,Whalen S.FOUL (P3.T2),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,375,3,11,4,10:54 PM,6:18,,,Wright Free Throw 1 of 2 (3 PTS),55 - 67,12,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,377,3,12,4,10:55 PM,6:18,,,MISS Wright Free Throw 2 of 2,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,379,4,0,4,10:55 PM,6:16,Brunson REBOUND (Off:0 Def:9),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,380,5,1,4,10:55 PM,6:03,Brunson Bad Pass Turnover (P3.T11),,Little STEAL (3 STL),,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,382,1,1,4,10:55 PM,5:53,,,Smith 18' Jump Shot (12 PTS) (Bird 3 AST),57 - 67,10,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,383,5,1,4,10:56 PM,5:35,Augustus Bad Pass Turnover (P2.T12),,Bird STEAL (1 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,384,2,1,4,10:56 PM,5:29,,,MISS Bird 16' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,385,4,0,4,10:56 PM,5:28,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,386,1,1,4,10:56 PM,5:06,Brunson 13' Jump Shot (12 PTS) (Whalen 4 AST),,,57 - 69,12,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,387,1,42,4,10:57 PM,4:45,,,Wright 1' Driving Layup (5 PTS),59 - 69,10,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,388,2,5,4,10:57 PM,4:33,MISS Whalen 2' Layup,,Jackson BLOCK (2 BLK),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1041200121,389,4,0,4,10:57 PM,4:33,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,390,8,0,4,10:57 PM,4:33,,,SUB: Stricklen FOR Smith,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,391,8,0,4,10:57 PM,4:33,,,SUB: Thompson FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,392,8,0,4,10:57 PM,4:33,,,SUB: Wauters FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,393,8,0,4,10:57 PM,4:33,SUB: Wiggins FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,394,2,46,4,10:58 PM,4:26,MISS Augustus 4' Running Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,395,4,0,4,10:58 PM,4:24,Moore REBOUND (Off:2 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,396,2,1,4,10:58 PM,4:21,MISS Wiggins  3PT Jump Shot,,,,,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,397,4,0,4,10:58 PM,4:20,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,398,2,1,4,10:58 PM,4:03,,,MISS Stricklen  3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,399,4,0,4,10:58 PM,4:02,Brunson REBOUND (Off:0 Def:10),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,400,6,1,4,10:59 PM,3:49,,,Stricklen P.FOUL (P4.T3),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,401,8,0,4,10:59 PM,3:49,,,SUB: Smith FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,402,6,1,4,10:59 PM,3:45,,,Wright P.FOUL (P3.T4),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,403,2,46,4,10:59 PM,3:36,MISS Augustus 5' Running Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,404,4,0,4,10:59 PM,3:34,,,Thompson REBOUND (Off:2 Def:4),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,405,1,5,4,11:00 PM,3:27,,,Wauters 2' Layup (2 PTS) (Wright 6 AST),61 - 69,8,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,406,2,1,4,11:00 PM,3:08,MISS Augustus 19' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,407,4,0,4,11:00 PM,3:07,,,Wright REBOUND (Off:0 Def:4),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,408,1,5,4,11:00 PM,2:59,,,Wauters 1' Layup (4 PTS) (Wright 7 AST),63 - 69,6,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,409,9,1,4,11:00 PM,2:50,LYNX Timeout: Regular (Full 4 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,411,8,0,4,11:03 PM,2:50,SUB: Whalen FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,412,2,1,4,11:04 PM,2:32,MISS Augustus 18' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,413,4,0,4,11:04 PM,2:30,,,Wauters REBOUND (Off:0 Def:2),,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,414,2,1,4,11:04 PM,2:10,,,MISS Thompson 25' 3PT Jump Shot,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,415,4,0,4,11:04 PM,2:09,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,416,1,1,4,11:05 PM,1:51,Moore 16' Jump Shot (16 PTS) (Whalen 5 AST),,,63 - 71,8,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,417,1,5,4,11:05 PM,1:30,,,Stricklen 3' Layup (11 PTS) (Wauters 2 AST),65 - 71,6,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,418,6,2,4,11:05 PM,1:30,Brunson S.FOUL (P4.T3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,419,8,0,4,11:05 PM,1:30,,,SUB: Jackson FOR Thompson,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,420,3,10,4,11:05 PM,1:30,,,MISS Stricklen Free Throw 1 of 1,,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,422,4,0,4,11:06 PM,1:29,Brunson REBOUND (Off:0 Def:11),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,423,1,78,4,11:06 PM,1:14,Augustus 11' Floating Jump Shot (17 PTS) (Whalen 6 AST),,,65 - 73,8,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,424,2,1,4,11:06 PM,1:04,,,MISS Wauters  3PT Jump Shot,,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,425,4,0,4,11:06 PM,1:02,,,Stricklen REBOUND (Off:1 Def:6),,,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,426,1,42,4,11:06 PM,0:59,,,Stricklen 1' Driving Layup (13 PTS),67 - 73,6,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,427,5,2,4,11:06 PM,0:55,Whalen Lost Ball Turnover (P3.T13),,Stricklen STEAL (1 STL),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,203015,Shekinna Stricklen,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,428,2,1,4,11:07 PM,0:41,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,429,4,0,4,11:07 PM,0:39,Whalen REBOUND (Off:0 Def:4),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,430,10,0,4,11:07 PM,0:39,Jump Ball Whalen vs. Wauters: Tip to,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,3,1611661328,,,,,,0
+1041200121,431,7,4,4,11:07 PM,0:39,Whalen Violation:Jump Ball,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041200121,432,5,18,4,11:07 PM,0:39,Whalen Jump Ball Violation Turnover (P4.T14),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,434,2,1,4,11:09 PM,0:33,,,MISS Jackson 11' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,435,4,0,4,11:09 PM,0:32,Augustus REBOUND (Off:0 Def:6),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,436,6,1,4,11:09 PM,0:32,,,Wauters P.FOUL (P3.PN),,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,437,3,11,4,11:09 PM,0:32,Augustus Free Throw 1 of 2 (18 PTS),,,67 - 74,7,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,439,3,12,4,11:09 PM,0:32,Augustus Free Throw 2 of 2 (19 PTS),,,67 - 75,8,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,444,18,1,4,11:11 PM,0:31,,Overturn Ruling,,,,0,442,Pervis Ellison,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,446,5,40,4,11:14 PM,0:21,,,Smith Out of Bounds Lost Ball Turnover (P2.T14),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,448,6,28,4,11:14 PM,0:21,,,Jackson Personal Take Foul (P1.PN),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,450,3,11,4,11:14 PM,0:21,McWilliams-Franklin Free Throw 1 of 2 (6 PTS),,,67 - 76,9,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,452,3,12,4,11:15 PM,0:21,MISS McWilliams-Franklin Free Throw 2 of 2,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,454,4,0,4,11:15 PM,0:19,,,Wright REBOUND (Off:0 Def:5),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,455,9,2,4,11:15 PM,0:19,,,Storm Timeout: Short (Reg.4 Short 2),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,457,8,0,4,11:16 PM,0:19,,,SUB: Thompson FOR Wauters,,,5,100445,Ann Wauters,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041200121,458,2,1,4,11:16 PM,0:14,,,MISS Thompson  3PT Jump Shot,,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,459,4,0,4,11:16 PM,0:14,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,460,6,3,4,11:16 PM,0:14,,,Smith L.B.FOUL (P3.PN),,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041200121,461,3,11,4,11:16 PM,0:14,Whalen Free Throw 1 of 2 (19 PTS),,,67 - 77,10,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,463,3,12,4,11:17 PM,0:14,Whalen Free Throw 2 of 2 (20 PTS),,,67 - 78,11,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041200121,465,2,42,4,11:17 PM,0:03,Moore BLOCK (1 BLK),,MISS Smith 2' Driving Layup,,,5,100404,Katie Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041200121,466,4,0,4,11:17 PM,0:03,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200121,467,8,0,4,11:17 PM,0:03,SUB: Adair FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,201882,Jessica Adair,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,468,8,0,4,11:17 PM,0:03,SUB: Wiggins FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,201499,Candice Wiggins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,469,8,0,4,11:17 PM,0:03,SUB: Harris FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661324.0,Minnesota,Lynx,MIN,4,202644,Amber Harris,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,470,8,0,4,11:17 PM,0:03,SUB: Thorn FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,100835,Erin Thorn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,471,8,0,4,11:17 PM,0:03,SUB: Peters FOR Moore,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041200121,472,6,2,4,11:18 PM,0:02,Adair S.FOUL (P1.PN),,,,,4,201882,Jessica Adair,1611661324.0,Minnesota,Lynx,MIN,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041200121,473,3,11,4,11:18 PM,0:02,,,Jackson Free Throw 1 of 2 (12 PTS),68 - 78,10,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,475,3,12,4,11:18 PM,0:02,,,MISS Jackson Free Throw 2 of 2,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,477,4,0,4,11:18 PM,0:00,,,Thompson REBOUND (Off:3 Def:4),,,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,478,1,1,4,11:18 PM,0:00,,,Thompson 5' Jump Shot (9 PTS),70 - 78,8,5,100076,Tina Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041200121,479,18,0,4,11:18 PM,0:00,,Support Ruling,,,,0,478,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200121,480,13,0,4,11:19 PM,0:00,,End of 4th Period (11:19 PM EST),,70 - 78,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

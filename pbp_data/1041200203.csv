@@ -1,0 +1,336 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041200203,0,12,0,1,8:30 PM,10:00,,Start of 1st Period (8:30 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,1,10,0,1,8:31 PM,10:00,Jump Ball Charles vs. Larkins: Tip to Lawson,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0
+1041200203,2,2,47,1,8:31 PM,9:45,MISS Jones 14' Turnaround Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,3,4,0,1,8:31 PM,9:43,Charles REBOUND (Off:1 Def:0),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,4,2,1,1,8:31 PM,9:40,MISS Charles 5' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,5,4,0,1,8:31 PM,9:38,,,Larkins REBOUND (Off:0 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,6,2,1,1,8:32 PM,9:26,,,MISS Catchings 20' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,7,4,0,1,8:32 PM,9:25,Charles REBOUND (Off:1 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,8,10,0,1,8:32 PM,9:25,Jump Ball Charles vs. Larkins: Tip to Greene,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0
+1041200203,9,2,1,1,8:32 PM,9:07,MISS Greene 15' Jump Shot,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,10,4,0,1,8:32 PM,9:06,,,Larkins REBOUND (Off:0 Def:2),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,11,2,80,1,8:33 PM,8:38,,,MISS Larkins 13' Step Back Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,12,4,0,1,8:33 PM,8:36,Greene REBOUND (Off:0 Def:1),,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,13,1,5,1,8:33 PM,8:16,Jones 1' Layup (2 PTS),,,0 - 2,2,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,14,2,47,1,8:34 PM,7:53,,,MISS Larkins 10' Turnaround Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,15,4,0,1,8:34 PM,7:52,Lawson REBOUND (Off:0 Def:1),,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,16,5,2,1,8:34 PM,7:41,Charles Lost Ball Turnover (P1.T1),,Catchings STEAL (1 STL),,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,17,1,5,1,8:34 PM,7:36,,,Phillips 1' Layup (2 PTS),2 - 2,TIE,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,18,6,2,1,8:34 PM,7:36,Jones S.FOUL (P1.T1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,19,3,10,1,8:34 PM,7:36,,,MISS Phillips Free Throw 1 of 1,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,21,4,0,1,8:34 PM,7:36,Greene REBOUND (Off:0 Def:2),,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,22,7,5,1,8:35 PM,7:21,,,Phillips Violation:Kicked Ball,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,23,2,5,1,8:35 PM,7:14,MISS Greene 2' Layup,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,24,4,0,1,8:35 PM,7:13,,,Douglas REBOUND (Off:0 Def:1),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,25,1,1,1,8:35 PM,7:07,,,Douglas 20' Jump Shot (2 PTS),4 - 2,-2,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,26,2,1,1,8:35 PM,6:40,MISS Charles 7' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,27,4,0,1,8:35 PM,6:39,,,Larkins REBOUND (Off:0 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,28,1,1,1,8:36 PM,6:30,,,Catchings 17' Jump Shot (2 PTS) (Phillips 1 AST),6 - 2,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,29,2,1,1,8:36 PM,6:14,MISS Hightower  3PT Jump Shot,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,30,4,0,1,8:36 PM,6:13,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,31,1,1,1,8:36 PM,5:51,,,Phillips  3PT Jump Shot (5 PTS) (Catchings 1 AST),9 - 2,-7,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,32,9,1,1,8:37 PM,5:49,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,34,8,0,1,8:39 PM,5:49,SUB: White FOR Greene,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,36,1,47,1,8:40 PM,5:33,Charles 11' Turnaround Jump Shot (2 PTS),,,9 - 4,-5,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,37,2,46,1,8:40 PM,5:05,,,MISS Douglas 12' Running Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,38,4,0,1,8:41 PM,5:04,,,January REBOUND (Off:1 Def:0),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,39,1,80,1,8:41 PM,4:51,,,Catchings  3PT Step Back Jump Shot (5 PTS),12 - 4,-8,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,40,6,1,1,8:41 PM,4:47,,,Phillips P.FOUL (P1.T1),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,42,9,1,1,8:42 PM,4:47,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,44,8,0,1,8:43 PM,4:47,,,SUB: Zellous FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,46,2,1,1,8:44 PM,4:37,MISS Jones 19' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,47,4,0,1,8:44 PM,4:36,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,48,5,1,1,8:44 PM,4:26,Hightower STEAL (1 STL),,January Bad Pass Turnover (P1.T1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,49,1,1,1,8:44 PM,4:19,Jones 5' Jump Shot (4 PTS) (Hightower 1 AST),,,12 - 6,-6,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,51,2,42,1,8:44 PM,3:56,,,MISS Zellous 1' Driving Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,52,4,0,1,8:44 PM,3:55,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,53,6,1,1,8:45 PM,3:47,White P.FOUL (P1.T2),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,54,5,13,1,8:45 PM,3:35,,,January Backcourt Turnover (P2.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041200203,55,1,78,1,8:46 PM,3:23,Lawson 6' Floating Jump Shot (2 PTS),,,12 - 8,-4,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,57,1,1,1,8:46 PM,3:01,,,Zellous 9' Jump Shot (2 PTS),14 - 8,-6,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,58,2,1,1,8:46 PM,2:43,MISS Lawson 26' 3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,59,4,0,1,8:46 PM,2:42,,,Catchings REBOUND (Off:0 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,60,1,1,1,8:46 PM,2:35,,,Catchings 16' Jump Shot (7 PTS),16 - 8,-8,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,61,2,1,1,8:47 PM,2:20,MISS White  3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,62,4,0,1,8:47 PM,2:19,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,63,8,0,1,8:47 PM,2:18,SUB: Montgomery FOR White,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,64,8,0,1,8:47 PM,2:18,SUB: Bass FOR Jones,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,65,2,47,1,8:47 PM,2:13,MISS Hightower 14' Turnaround Jump Shot,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,66,4,0,1,8:47 PM,2:11,Charles REBOUND (Off:2 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,67,5,2,1,8:47 PM,2:07,Charles Lost Ball Turnover (P2.T2),,Zellous STEAL (1 STL),,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,68,6,1,1,8:47 PM,2:06,Hightower P.FOUL (P1.T3),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,69,1,1,1,8:48 PM,1:47,,,Zellous 17' Jump Shot (4 PTS),18 - 8,-10,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,70,1,78,1,8:48 PM,1:24,Hightower 14' Floating Jump Shot (2 PTS),,,18 - 10,-8,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,72,2,1,1,8:49 PM,1:07,,,MISS Zellous 16' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,73,4,0,1,8:49 PM,1:06,Hightower REBOUND (Off:0 Def:1),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,74,2,1,1,8:49 PM,0:42,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,75,4,0,1,8:49 PM,0:41,Charles REBOUND (Off:3 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,76,2,5,1,8:49 PM,0:37,MISS Charles 1' Layup,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,77,4,0,1,8:49 PM,0:36,Hightower REBOUND (Off:1 Def:1),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,78,2,5,1,8:49 PM,0:30,MISS Bass 1' Layup,,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,79,4,0,1,8:49 PM,0:29,Charles REBOUND (Off:4 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,80,2,5,1,8:49 PM,0:28,MISS Charles 2' Layup,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,81,4,0,1,8:49 PM,0:27,,,Catchings REBOUND (Off:0 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,83,5,8,1,8:50 PM,0:07,,,Larkins 3 Second Violation Turnover (P1.T3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041200203,84,6,28,1,8:50 PM,0:04,,,January Personal Take Foul (P1.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,85,2,1,1,8:51 PM,0:00,MISS Lawson 25' 3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,86,4,0,1,8:51 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,87,13,0,1,8:51 PM,0:00,,End of 1st Period (8:51 PM EST),,18 - 10,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,89,12,0,2,8:54 PM,10:00,,Start of 2nd Period (8:54 PM EST),,18 - 10,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,90,6,4,2,8:54 PM,9:51,,,Phillips OFF.Foul (P2),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,91,5,5,2,8:54 PM,9:51,,,Phillips Foul Turnover (P1.T4),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041200203,92,8,0,2,8:55 PM,9:51,,,SUB: Davenport FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,93,1,79,2,8:55 PM,9:37,White 9' Pullup Jump Shot (2 PTS),,,18 - 12,-6,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,94,2,1,2,8:55 PM,9:13,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,95,4,0,2,8:55 PM,9:12,Bass REBOUND (Off:0 Def:1),,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,96,5,1,2,8:56 PM,9:02,Bass Bad Pass Turnover (P1.T3),,Davenport STEAL (1 STL),,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,97,1,5,2,8:56 PM,8:56,,,Phillips 1' Layup (7 PTS) (January 1 AST),20 - 12,-8,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,98,6,1,2,8:56 PM,8:44,,,Zellous P.FOUL (P1.T1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,99,8,0,2,8:56 PM,8:44,,,SUB: Pohlen-Mavunga FOR Phillips,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,100,8,0,2,8:56 PM,8:44,SUB: Lawson FOR Hightower,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,101,2,1,2,8:56 PM,8:40,MISS Charles 9' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,102,4,0,2,8:57 PM,8:39,,,Catchings REBOUND (Off:0 Def:4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,103,6,1,2,8:57 PM,8:38,Charles P.FOUL (P1.T1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,104,2,1,2,8:57 PM,8:21,,,MISS Davenport 8' Jump Shot,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,105,4,0,2,8:57 PM,8:21,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,106,1,3,2,8:58 PM,8:03,Charles 5' Hook Shot (4 PTS) (Lawson 1 AST),,,20 - 14,-6,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,107,5,2,2,8:58 PM,7:52,White STEAL (1 STL),,January Lost Ball Turnover (P3.T5),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,108,5,2,2,8:58 PM,7:49,White Lost Ball Turnover (P1.T4),,Zellous STEAL (2 STL),,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,109,5,2,2,8:58 PM,7:42,Montgomery STEAL (1 STL),,Catchings Lost Ball Turnover (P1.T6),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,110,6,2,2,8:58 PM,7:33,,,Catchings S.FOUL (P1.T2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,111,3,11,2,8:58 PM,7:33,Montgomery Free Throw 1 of 2 (1 PTS),,,20 - 15,-5,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,113,8,0,2,8:59 PM,7:33,,,SUB: Phillips FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,114,3,12,2,8:59 PM,7:33,Montgomery Free Throw 2 of 2 (2 PTS),,,20 - 16,-4,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,117,2,5,2,9:00 PM,7:12,,,MISS Phillips 3' Layup,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,118,4,0,2,9:00 PM,7:11,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,119,1,1,2,9:00 PM,7:08,,,Davenport 9' Jump Shot (2 PTS) (Zellous 1 AST),22 - 16,-6,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,120,6,1,2,9:00 PM,6:55,,,Zellous P.FOUL (P2.T3),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,121,8,0,2,9:00 PM,6:55,SUB: Jones FOR Bass,,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,122,5,11,2,9:01 PM,6:40,SUN Turnover: Shot Clock (T#5),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200203,123,1,1,2,9:01 PM,6:28,,,Catchings 26' 3PT Jump Shot (10 PTS) (Phillips 2 AST),25 - 16,-9,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,124,2,1,2,9:01 PM,6:10,MISS White  3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,125,4,0,2,9:01 PM,6:09,,,Catchings REBOUND (Off:0 Def:5),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,126,6,29,2,9:02 PM,6:01,White Shooting Block Foul (P2.T2),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,127,3,11,2,9:02 PM,6:01,,,Catchings Free Throw 1 of 2 (11 PTS),26 - 16,-10,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,129,3,12,2,9:02 PM,6:01,,,Catchings Free Throw 2 of 2 (12 PTS),27 - 16,-11,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,131,2,1,2,9:03 PM,5:42,MISS White  3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,132,4,0,2,9:03 PM,5:41,,,Zellous REBOUND (Off:0 Def:1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,133,1,1,2,9:03 PM,5:17,,,Davenport 8' Jump Shot (4 PTS) (Pohlen-Mavunga 1 AST),29 - 16,-13,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,134,5,4,2,9:03 PM,5:07,Montgomery Traveling Turnover (P1.T6),,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1041200203,135,9,4,2,9:03 PM,5:07,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,137,8,0,2,9:06 PM,5:07,SUB: Bass FOR Charles,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,138,8,0,2,9:06 PM,5:07,SUB: Hightower FOR White,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,140,1,1,2,9:07 PM,4:49,,,Pohlen-Mavunga  3PT Jump Shot (3 PTS) (Catchings 2 AST),32 - 16,-16,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,141,6,1,2,9:07 PM,4:34,,,Phillips P.FOUL (P3.T4),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,142,1,5,2,9:08 PM,4:27,Jones  Layup (6 PTS) (Montgomery 1 AST),,,32 - 18,-14,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,143,1,1,2,9:08 PM,4:01,,,Phillips  3PT Jump Shot (10 PTS) (Pohlen-Mavunga 2 AST),35 - 18,-17,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,144,2,1,2,9:08 PM,3:53,MISS Montgomery  3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,145,4,0,2,9:08 PM,3:50,Hightower REBOUND (Off:2 Def:1),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,146,1,72,2,9:08 PM,3:49,Hightower  Putback Layup (4 PTS),,,35 - 20,-15,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,147,1,1,2,9:09 PM,3:30,,,Zellous  3PT Jump Shot (7 PTS) (Catchings 3 AST),38 - 20,-18,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,148,9,1,2,9:09 PM,3:28,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,150,8,0,2,9:11 PM,3:28,SUB: Charles FOR Bass,,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,151,8,0,2,9:11 PM,3:28,,,SUB: Larkins FOR Phillips,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,152,8,0,2,9:11 PM,3:28,,,SUB: January FOR Davenport,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,153,5,1,2,9:13 PM,3:16,Jones Bad Pass Turnover (P1.T7),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,154,1,1,2,9:13 PM,2:57,,,Pohlen-Mavunga  3PT Jump Shot (6 PTS) (Larkins 1 AST),41 - 20,-21,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,155,1,5,2,9:13 PM,2:33,Charles 2' Layup (6 PTS) (Lawson 2 AST),,,41 - 22,-19,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,156,5,2,2,9:14 PM,2:22,Jones STEAL (1 STL),,Larkins Lost Ball Turnover (P2.T7),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,157,2,1,2,9:14 PM,2:12,MISS Montgomery  3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,158,4,0,2,9:14 PM,2:11,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,159,8,0,2,9:14 PM,2:10,SUB: McCray FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,160,2,1,2,9:14 PM,2:08,MISS Lawson 19' Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,161,4,0,2,9:14 PM,2:07,,,Zellous REBOUND (Off:0 Def:2),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,162,2,1,2,9:14 PM,1:58,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,163,4,0,2,9:14 PM,1:57,Lawson REBOUND (Off:0 Def:2),,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,164,1,1,2,9:14 PM,1:43,Charles 8' Jump Shot (8 PTS),,,41 - 24,-17,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,165,9,1,2,9:15 PM,1:41,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,169,2,5,2,9:17 PM,1:28,,,MISS Catchings  Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,170,4,0,2,9:17 PM,1:25,Charles REBOUND (Off:4 Def:2),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,171,2,41,2,9:17 PM,1:19,MISS Lawson 1' Running Layup,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,172,4,0,2,9:17 PM,1:18,,,Catchings REBOUND (Off:0 Def:6),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,173,2,1,2,9:17 PM,1:10,McCray BLOCK (1 BLK),,MISS January 7' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,0
+1041200203,174,4,0,2,9:17 PM,1:07,McCray REBOUND (Off:0 Def:1),,,,,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,175,10,0,2,9:18 PM,1:02,Jump Ball McCray vs. Larkins: Tip to Jones,,,,,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0
+1041200203,176,6,1,2,9:18 PM,0:57,,,Larkins P.FOUL (P1.PN),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,177,3,11,2,9:18 PM,0:57,MISS Charles Free Throw 1 of 2,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,180,4,0,2,9:19 PM,0:57,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,179,3,12,2,9:19 PM,0:57,MISS Charles Free Throw 2 of 2,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,182,4,0,2,9:19 PM,0:56,,,Catchings REBOUND (Off:0 Def:7),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,184,1,66,2,9:19 PM,0:43,,,January 18' Jump Bank Shot (2 PTS),43 - 24,-19,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,185,5,1,2,9:19 PM,0:26,McCray Bad Pass Turnover (P1.T8),,Pohlen-Mavunga STEAL (1 STL),,,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,186,5,11,2,9:20 PM,0:02,,,Fever Turnover: Shot Clock (T#8),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200203,187,2,1,2,9:20 PM,0:00,MISS Lawson 49' 3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,188,4,0,2,9:20 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,189,13,0,2,9:20 PM,0:00,,End of 2nd Period (9:20 PM EST),,43 - 24,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,191,12,0,3,9:38 PM,10:00,,Start of 3rd Period (9:38 PM EST),,43 - 24,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,192,2,1,3,9:39 PM,9:39,,,MISS January 13' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,193,4,0,3,9:39 PM,9:37,,,Zellous REBOUND (Off:1 Def:2),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,194,1,1,3,9:39 PM,9:24,,,Phillips 17' Jump Shot (12 PTS),45 - 24,-21,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,195,1,79,3,9:39 PM,9:09,Hightower 12' Pullup Jump Shot (6 PTS),,,45 - 26,-19,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,196,2,1,3,9:39 PM,8:55,,,MISS Catchings 24' 3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,197,4,0,3,9:39 PM,8:54,,,Larkins REBOUND (Off:1 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,198,6,1,3,9:39 PM,8:54,Charles P.FOUL (P2.T1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,199,1,41,3,9:40 PM,8:38,,,January  Running Layup (4 PTS),47 - 26,-21,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,200,6,2,3,9:40 PM,8:38,Charles S.FOUL (P3.T2),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,201,3,10,3,9:40 PM,8:38,,,MISS January Free Throw 1 of 1,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,203,4,0,3,9:40 PM,8:38,Jones REBOUND (Off:0 Def:1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,204,5,1,3,9:41 PM,8:23,Charles Bad Pass Turnover (P3.T9),,Zellous STEAL (3 STL),,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,205,2,5,3,9:41 PM,8:19,,,MISS Zellous 1' Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,206,4,0,3,9:41 PM,8:18,,,Phillips REBOUND (Off:1 Def:0),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,207,6,1,3,9:41 PM,8:08,Jones P.FOUL (P2.T3),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,209,2,1,3,9:41 PM,7:54,,,MISS Catchings 9' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,210,4,0,3,9:41 PM,7:53,,,Catchings REBOUND (Off:1 Def:7),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,211,1,75,3,9:42 PM,7:46,,,Catchings  Driving Finger Roll Layup (14 PTS),49 - 26,-23,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,212,2,1,3,9:42 PM,7:31,MISS Greene  3PT Jump Shot,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,213,4,0,3,9:42 PM,7:30,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,214,6,3,3,9:42 PM,7:29,Lawson L.B.FOUL (P1.T4),,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,215,5,1,3,9:43 PM,7:10,Charles STEAL (1 STL),,Catchings Bad Pass Turnover (P2.T9),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,216,6,2,3,9:43 PM,7:03,,,January S.FOUL (P2.T1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,217,3,11,3,9:43 PM,7:03,Hightower Free Throw 1 of 2 (7 PTS),,,49 - 27,-22,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,219,8,0,3,9:43 PM,7:03,SUB: Montgomery FOR Greene,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,220,3,12,3,9:43 PM,7:03,Hightower Free Throw 2 of 2 (8 PTS),,,49 - 28,-21,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,222,2,5,3,9:44 PM,6:47,,,MISS January  Layup,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,223,4,0,3,9:44 PM,6:46,,,Larkins REBOUND (Off:2 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,224,6,1,3,9:44 PM,6:32,Hightower P.FOUL (P2.PN),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,225,3,11,3,9:44 PM,6:32,,,Catchings Free Throw 1 of 2 (15 PTS),50 - 28,-22,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,227,3,12,3,9:44 PM,6:32,,,Catchings Free Throw 2 of 2 (16 PTS),51 - 28,-23,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,229,6,2,3,9:45 PM,6:17,,,Catchings S.FOUL (P2.T2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,230,3,11,3,9:45 PM,6:17,Charles Free Throw 1 of 2 (9 PTS),,,51 - 29,-22,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,232,3,12,3,9:45 PM,6:17,Charles Free Throw 2 of 2 (10 PTS),,,51 - 30,-21,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,234,1,1,3,9:46 PM,6:04,,,Phillips  3PT Jump Shot (15 PTS) (January 2 AST),54 - 30,-24,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,236,1,77,3,9:46 PM,5:44,Charles 8' Driving Jump Shot (12 PTS),,,54 - 32,-22,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,237,5,13,3,9:46 PM,5:35,,,January Backcourt Turnover (P4.T10),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041200203,238,2,1,3,9:47 PM,5:26,MISS Charles 12' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,239,4,0,3,9:47 PM,5:25,,,Larkins REBOUND (Off:2 Def:4),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,240,1,41,3,9:47 PM,5:19,,,Catchings 1' Running Layup (18 PTS),56 - 32,-24,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,241,6,1,3,9:47 PM,5:15,,,Zellous P.FOUL (P3.T3),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,242,2,1,3,9:48 PM,5:02,MISS Charles 10' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,243,4,0,3,9:48 PM,5:01,,,Larkins REBOUND (Off:2 Def:5),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,244,2,1,3,9:48 PM,4:38,,,MISS Phillips 13' Jump Shot,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,245,4,0,3,9:48 PM,4:37,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,246,5,11,3,9:48 PM,4:37,,,Fever Turnover: Shot Clock (T#11),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1041200203,247,9,4,3,9:48 PM,4:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,251,1,42,3,9:51 PM,4:22,Montgomery  Driving Layup (4 PTS),,,56 - 34,-22,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,252,1,1,3,9:52 PM,3:57,,,Catchings 19' Jump Shot (20 PTS),58 - 34,-24,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,253,1,79,3,9:52 PM,3:40,Hightower 14' Pullup Jump Shot (10 PTS),,,58 - 36,-22,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,254,2,5,3,9:52 PM,3:25,,,MISS January  Layup,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,255,4,0,3,9:52 PM,3:23,Hightower REBOUND (Off:2 Def:2),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,256,1,5,3,9:52 PM,3:09,Jones 1' Layup (8 PTS) (Hightower 2 AST),,,58 - 38,-20,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,257,6,2,3,9:53 PM,2:49,Charles S.FOUL (P4.PN),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,258,3,11,3,9:53 PM,2:49,,,January Free Throw 1 of 2 (5 PTS),59 - 38,-21,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,260,8,0,3,9:53 PM,2:49,SUB: Bass FOR Charles,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,261,3,12,3,9:54 PM,2:49,,,January Free Throw 2 of 2 (6 PTS),60 - 38,-22,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,263,1,1,3,9:54 PM,2:33,Jones 11' Jump Shot (10 PTS) (Hightower 3 AST),,,60 - 40,-20,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,264,1,5,3,9:54 PM,2:11,,,Larkins  Layup (2 PTS) (Phillips 3 AST),62 - 40,-22,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,265,1,1,3,9:55 PM,1:57,Lawson 26' 3PT Jump Shot (5 PTS) (Jones 1 AST),,,62 - 43,-19,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,266,1,5,3,9:55 PM,1:47,,,Zellous 1' Layup (9 PTS) (Catchings 4 AST),64 - 43,-21,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,267,1,1,3,9:55 PM,1:39,Lawson  3PT Jump Shot (8 PTS),,,64 - 46,-18,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,268,1,42,3,9:55 PM,1:19,,,January 1' Driving Layup (8 PTS),66 - 46,-20,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,269,1,75,3,9:55 PM,1:11,Montgomery 1' Driving Finger Roll Layup (6 PTS),,,66 - 48,-18,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,270,1,5,3,9:56 PM,0:51,,,January 1' Layup (10 PTS),68 - 48,-20,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,271,2,5,3,9:56 PM,0:35,MISS Jones 3' Layup,,Catchings BLOCK (1 BLK),,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1041200203,272,4,0,3,9:56 PM,0:33,,,Catchings REBOUND (Off:1 Def:8),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,273,2,1,3,9:56 PM,0:28,,,MISS Phillips 24' 3PT Jump Shot,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,274,4,0,3,9:56 PM,0:27,Jones REBOUND (Off:0 Def:2),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,275,2,1,3,9:56 PM,0:19,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,276,4,0,3,9:56 PM,0:18,Bass REBOUND (Off:1 Def:1),,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,277,2,1,3,9:57 PM,0:15,MISS Jones 14' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,278,4,0,3,9:57 PM,0:14,,,January REBOUND (Off:1 Def:1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,279,13,0,3,9:57 PM,0:00,,End of 3rd Period (9:57 PM EST),,68 - 48,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,281,12,0,4,10:00 PM,10:00,,Start of 4th Period (10:00 PM EST),,68 - 48,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,282,2,1,4,10:00 PM,9:48,MISS Hightower 14' Jump Shot,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,283,4,0,4,10:00 PM,9:47,Lawson REBOUND (Off:1 Def:2),,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,284,2,1,4,10:00 PM,9:42,MISS Griffin 18' Jump Shot,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,285,4,0,4,10:01 PM,9:41,,,Catchings REBOUND (Off:1 Def:9),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,286,6,29,4,10:01 PM,9:23,Griffin Shooting Block Foul (P1.T1),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,287,3,11,4,10:01 PM,9:23,,,Catchings Free Throw 1 of 2 (21 PTS),69 - 48,-21,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,289,3,12,4,10:02 PM,9:23,,,Catchings Free Throw 2 of 2 (22 PTS),70 - 48,-22,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,291,2,5,4,10:02 PM,9:10,MISS Charles 2' Layup,,Davenport BLOCK (1 BLK),,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0
+1041200203,292,4,0,4,10:02 PM,9:10,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,293,1,1,4,10:02 PM,9:07,Lawson 17' Jump Shot (10 PTS),,,70 - 50,-20,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,294,2,1,4,10:02 PM,8:50,,,MISS Catchings 24' 3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,295,4,0,4,10:02 PM,8:49,Charles REBOUND (Off:4 Def:3),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,296,2,5,4,10:03 PM,8:40,MISS Hightower 2' Layup,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,297,4,0,4,10:03 PM,8:38,,,Catchings REBOUND (Off:1 Def:10),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,298,1,1,4,10:03 PM,8:30,,,Davenport 3' Jump Shot (6 PTS) (January 3 AST),72 - 50,-22,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,299,1,75,4,10:03 PM,8:14,Charles 2' Driving Finger Roll Layup (14 PTS) (Lawson 3 AST),,,72 - 52,-20,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,300,1,1,4,10:03 PM,8:01,,,Pohlen-Mavunga  3PT Jump Shot (9 PTS) (January 4 AST),75 - 52,-23,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,301,2,5,4,10:03 PM,7:55,MISS Griffin 1' Layup,,Catchings BLOCK (2 BLK),,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1041200203,302,4,0,4,10:03 PM,7:55,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,303,8,0,4,10:04 PM,7:55,SUB: Jones FOR Griffin,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,304,2,1,4,10:04 PM,7:47,MISS Lawson 16' Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,305,4,0,4,10:04 PM,7:46,,,Catchings REBOUND (Off:1 Def:11),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,306,2,1,4,10:04 PM,7:24,,,MISS January 24' 3PT Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,307,4,0,4,10:04 PM,7:23,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,309,6,2,4,10:05 PM,7:09,,,Zellous S.FOUL (P4.T1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,310,3,11,4,10:05 PM,7:09,MISS Montgomery Free Throw 1 of 2,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,311,4,1,4,10:05 PM,7:09,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,312,8,0,4,10:05 PM,7:09,,,SUB: Phillips FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,313,3,12,4,10:05 PM,7:09,Montgomery Free Throw 2 of 2 (7 PTS),,,75 - 53,-22,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,315,5,1,4,10:06 PM,6:55,,,Davenport Bad Pass Turnover (P1.T12),,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,316,2,1,4,10:06 PM,6:42,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,317,4,0,4,10:06 PM,6:40,Charles REBOUND (Off:5 Def:3),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,318,6,1,4,10:06 PM,6:40,,,Davenport P.FOUL (P1.T2),,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,319,8,0,4,10:06 PM,6:40,,,SUB: Larkins FOR Davenport,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,320,1,1,4,10:07 PM,6:35,Charles 9' Jump Shot (16 PTS),,,75 - 55,-20,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,321,1,1,4,10:07 PM,6:18,,,Zellous 16' Jump Shot (11 PTS),77 - 55,-22,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,322,5,1,4,10:07 PM,6:12,Lawson Bad Pass Turnover (P1.T10),,Catchings STEAL (2 STL),,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,323,2,5,4,10:07 PM,5:53,,,MISS Larkins 2' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,324,4,0,4,10:07 PM,5:52,Charles REBOUND (Off:5 Def:4),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,325,2,1,4,10:07 PM,5:41,MISS Charles 18' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,326,4,0,4,10:07 PM,5:40,,,Catchings REBOUND (Off:1 Def:12),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,327,1,5,4,10:08 PM,5:21,,,Larkins 2' Layup (4 PTS),79 - 55,-24,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,328,6,2,4,10:08 PM,5:12,,,Larkins S.FOUL (P2.T3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,329,9,1,4,10:08 PM,5:12,SUN Timeout: Regular (Full 3 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,331,8,0,4,10:11 PM,5:12,SUB: White FOR Hightower,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,332,8,0,4,10:11 PM,5:12,,,SUB: January FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,333,3,11,4,10:11 PM,5:12,Lawson Free Throw 1 of 2 (11 PTS),,,79 - 56,-23,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,335,3,12,4,10:12 PM,5:12,Lawson Free Throw 2 of 2 (12 PTS),,,79 - 57,-22,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,337,1,73,4,10:12 PM,4:54,,,January 1' Driving Reverse Layup (12 PTS),81 - 57,-24,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,338,2,1,4,10:12 PM,4:41,MISS Lawson 13' Jump Shot,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,339,4,0,4,10:12 PM,4:40,,,Larkins REBOUND (Off:2 Def:6),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,340,2,1,4,10:13 PM,4:18,,,MISS Catchings 13' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,341,4,0,4,10:13 PM,4:17,Charles REBOUND (Off:5 Def:5),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,342,1,1,4,10:13 PM,4:07,Charles 16' Jump Shot (18 PTS) (Lawson 4 AST),,,81 - 59,-22,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,343,2,1,4,10:13 PM,3:43,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,344,4,0,4,10:13 PM,3:42,Montgomery REBOUND (Off:0 Def:1),,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,345,6,1,4,10:14 PM,3:31,,,Phillips P.FOUL (P4.T4),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,346,8,0,4,10:14 PM,3:31,SUB: Bass FOR Jones,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,347,1,63,4,10:14 PM,3:27,White 12' Fadeaway Jumper (4 PTS),,,81 - 61,-20,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,348,2,1,4,10:14 PM,3:07,,,MISS Phillips 20' Jump Shot,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,349,4,0,4,10:14 PM,3:06,,,Larkins REBOUND (Off:3 Def:6),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,350,6,27,4,10:15 PM,2:56,Bass Personal Block Foul (P1.T2),,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,351,9,1,4,10:15 PM,2:56,,,Fever Timeout: Regular (Reg.3 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,354,8,0,4,10:17 PM,2:56,,,SUB: Sutton-Brown FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,355,2,1,4,10:18 PM,2:47,,,MISS January 17' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,356,4,0,4,10:18 PM,2:46,Bass REBOUND (Off:1 Def:2),,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,357,1,1,4,10:18 PM,2:33,Lawson 16' Jump Shot (14 PTS) (Bass 1 AST),,,81 - 63,-18,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,358,5,1,4,10:19 PM,2:19,Lawson STEAL (1 STL),,January Bad Pass Turnover (P5.T13),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,359,6,2,4,10:19 PM,2:14,,,Catchings S.FOUL (P3.PN),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1041200203,360,3,11,4,10:19 PM,2:14,Lawson Free Throw 1 of 2 (15 PTS),,,81 - 64,-17,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,362,8,0,4,10:19 PM,2:14,SUB: Moore FOR Charles,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,101042,Jessica Moore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,363,3,12,4,10:19 PM,2:14,Lawson Free Throw 2 of 2 (16 PTS),,,81 - 65,-16,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,365,6,2,4,10:20 PM,2:01,Bass S.FOUL (P2.T3),,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,366,3,11,4,10:20 PM,2:01,,,MISS Sutton-Brown Free Throw 1 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,367,4,1,4,10:20 PM,2:01,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,368,8,0,4,10:20 PM,2:01,SUB: McCray FOR Lawson,,,,,4,100874,Kara Lawson,1611661323.0,Connecticut,Sun,CON,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,369,8,0,4,10:20 PM,2:01,SUB: Griffin FOR White,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,370,8,0,4,10:20 PM,2:01,SUB: Greene FOR Bass,,,,,4,200691,Mistie Bass,1611661323.0,Connecticut,Sun,CON,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,371,8,0,4,10:20 PM,2:01,,,SUB: Larkins FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,372,3,12,4,10:20 PM,2:01,,,Sutton-Brown Free Throw 2 of 2 (1 PTS),82 - 65,-17,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,374,2,1,4,10:21 PM,1:43,MISS Greene 13' Jump Shot,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,375,4,0,4,10:21 PM,1:41,,,Larkins REBOUND (Off:3 Def:7),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,376,1,1,4,10:21 PM,1:25,,,Pohlen-Mavunga 18' Jump Shot (11 PTS) (Larkins 2 AST),84 - 65,-19,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,378,2,1,4,10:22 PM,1:07,MISS Griffin 16' Jump Shot,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,379,4,0,4,10:22 PM,1:06,Griffin REBOUND (Off:1 Def:0),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,380,1,1,4,10:22 PM,1:01,Montgomery  3PT Jump Shot (10 PTS) (Griffin 1 AST),,,84 - 68,-16,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041200203,381,1,1,4,10:22 PM,0:44,,,Pohlen-Mavunga  3PT Jump Shot (14 PTS) (Larkins 3 AST),87 - 68,-19,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041200203,382,1,1,4,10:22 PM,0:35,Montgomery  3PT Jump Shot (13 PTS),,,87 - 71,-16,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,383,6,1,4,10:23 PM,0:18,Moore P.FOUL (P1.T4),,,,,4,101042,Jessica Moore,1611661323.0,Connecticut,Sun,CON,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041200203,384,2,1,4,10:23 PM,0:04,,,MISS Sutton-Brown  3PT Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041200203,385,4,0,4,10:23 PM,0:03,McCray REBOUND (Off:0 Def:2),,,,,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,386,2,1,4,10:23 PM,0:01,MISS McCray 35' 3PT Jump Shot,,,,,4,202263,Danielle McCray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041200203,387,4,0,4,10:23 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041200203,388,13,0,4,10:24 PM,0:00,,End of 4th Period (10:24 PM EST),,87 - 71,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

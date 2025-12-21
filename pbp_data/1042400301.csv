@@ -1,0 +1,414 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042400301,2,12,0,1,8:09 PM,10:00,,Start of 1st Period (8:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,4,10,0,1,8:09 PM,10:00,Jump Ball Jones vs. Collier: Tip to Laney-Hamilton,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1
+1042400301,7,2,79,1,8:09 PM,9:42,MISS Ionescu 18' Pullup Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,8,4,0,1,8:09 PM,9:39,,,Williams REBOUND (Off:0 Def:1),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,9,5,1,1,8:10 PM,9:31,Ionescu STEAL (1 STL),,Smith Bad Pass Turnover (P1.T1),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,11,1,41,1,8:10 PM,9:26,Jones 4' Running Layup (2 PTS),,,0 - 2,2,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,13,6,2,1,8:10 PM,9:26,,,Williams S.FOUL (P1.T1),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,15,3,10,1,8:10 PM,9:26,Jones Free Throw 1 of 1 (3 PTS),,,0 - 3,3,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,16,2,75,1,8:11 PM,9:01,,,MISS McBride 3' Driving Finger Roll Layup,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,17,4,0,1,8:11 PM,8:58,Laney-Hamilton REBOUND (Off:0 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,18,2,1,1,8:11 PM,8:39,MISS Laney-Hamilton 20' Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,19,4,0,1,8:11 PM,8:34,Stewart REBOUND (Off:1 Def:0),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,20,1,97,1,8:11 PM,8:34,Stewart 1' Tip Layup Shot (2 PTS),,,0 - 5,5,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,21,1,6,1,8:11 PM,8:16,,,Williams 2' Driving Layup (2 PTS),2 - 5,3,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,22,2,1,1,8:11 PM,8:04,MISS Stewart 27' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,23,4,0,1,8:12 PM,8:03,,,Collier REBOUND (Off:0 Def:1),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,24,1,1,1,8:12 PM,7:46,,,McBride 26' 3PT Jump Shot (3 PTS) (Williams 1 AST),5 - 5,TIE,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,26,1,1,1,8:12 PM,7:25,Fiebich 26' 3PT Jump Shot (3 PTS) (Laney-Hamilton 1 AST),,,5 - 8,3,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,29,2,79,1,8:13 PM,6:59,,,MISS Williams 18' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,30,4,0,1,8:13 PM,6:56,Stewart REBOUND (Off:1 Def:1),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,31,2,1,1,8:13 PM,6:47,MISS Jones 26' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,32,4,0,1,8:13 PM,6:45,Laney-Hamilton REBOUND (Off:1 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,33,1,1,1,8:13 PM,6:44,Stewart 25' 3PT Jump Shot (5 PTS) (Laney-Hamilton 2 AST),,,5 - 11,6,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,35,5,2,1,8:14 PM,6:17,Ionescu STEAL (2 STL),,Carleton Lost Ball Turnover (P1.T2),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,37,1,2,1,8:14 PM,6:13,Fiebich 25' 3PT Running Jump Shot (6 PTS) (Jones 1 AST),,,5 - 14,9,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,39,9,1,1,8:14 PM,6:04,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,40,1,1,1,8:17 PM,5:53,,,Carleton 3PT Jump Shot (3 PTS) (McBride 1 AST),8 - 14,6,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,42,2,5,1,8:18 PM,5:38,MISS Fiebich 4' Layup,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,43,4,0,1,8:18 PM,5:36,,,Smith REBOUND (Off:0 Def:1),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,44,6,1,1,8:18 PM,5:26,Stewart P.FOUL (P1.T1),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,46,2,1,1,8:18 PM,5:18,,,MISS Smith 26' 3PT Jump Shot,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,47,4,0,1,8:18 PM,5:14,Jones REBOUND (Off:0 Def:1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,48,2,1,1,8:19 PM,4:59,MISS Ionescu 27' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,49,4,0,1,8:19 PM,4:56,,,Smith REBOUND (Off:0 Def:2),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,50,2,44,1,8:19 PM,4:43,,,MISS Smith 5' Reverse Layup,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,51,4,0,1,8:19 PM,4:41,Fiebich REBOUND (Off:0 Def:1),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,52,1,2,1,8:19 PM,4:36,Jones 7' Running Jump Shot (5 PTS) (Fiebich 1 AST),,,8 - 16,8,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,54,6,2,1,8:19 PM,4:36,,,Carleton S.FOUL (P1.T2),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,56,8,0,1,8:19 PM,4:36,SUB: Thornton FOR Laney-Hamilton,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,58,3,10,1,8:19 PM,4:36,Jones Free Throw 1 of 1 (6 PTS),,,8 - 17,9,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042400301,59,5,45,1,8:20 PM,4:21,,,Smith Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400301,60,6,1,1,8:20 PM,4:14,,,Smith P.FOUL (P1.T3),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,62,8,0,1,8:20 PM,4:14,,,SUB: Hines-Allen FOR Smith,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,64,2,79,1,8:21 PM,4:03,MISS Ionescu 10' Pullup Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,65,4,0,1,8:21 PM,4:00,Jones REBOUND (Off:1 Def:1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,66,1,72,1,8:21 PM,4:00,Jones 1' Putback Layup (8 PTS),,,8 - 19,11,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,67,6,2,1,8:21 PM,3:53,Thornton S.FOUL (P1.T2),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,69,3,11,1,8:21 PM,3:53,,,McBride Free Throw 1 of 2 (4 PTS),9 - 19,10,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,70,3,12,1,8:21 PM,3:53,,,McBride Free Throw 2 of 2 (5 PTS),10 - 19,9,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,71,1,5,1,8:22 PM,3:35,Jones 3' Layup (10 PTS),,,10 - 21,11,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,72,1,79,1,8:22 PM,3:25,,,Collier 16' Pullup Jump Shot (2 PTS),12 - 21,9,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,73,2,63,1,8:22 PM,3:01,MISS Stewart 18' Fadeaway Jumper,,Collier BLOCK (1 BLK),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,75,4,0,1,8:22 PM,2:59,Stewart REBOUND (Off:2 Def:1),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,76,5,11,1,8:22 PM,2:59,LIBERTY Turnover: Shot Clock (T#1),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400301,77,2,63,1,8:23 PM,2:42,,,MISS Collier 8' Fadeaway Jumper,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,78,4,0,1,8:23 PM,2:39,Jones REBOUND (Off:1 Def:2),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,79,2,2,1,8:23 PM,2:34,MISS Stewart 24' 3PT Running Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,80,4,0,1,8:23 PM,2:30,,,Hines-Allen REBOUND (Off:0 Def:1),,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,81,2,41,1,8:23 PM,2:26,,,MISS Hines-Allen 4' Running Layup,,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,82,4,0,1,8:23 PM,2:26,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,84,2,1,1,8:24 PM,2:08,MISS Stewart 26' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,85,4,0,1,8:24 PM,2:06,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,87,8,0,1,8:24 PM,2:06,SUB: Sabally FOR Fiebich,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,88,8,0,1,8:24 PM,2:06,SUB: Vandersloot FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,89,8,0,1,8:24 PM,2:06,,,SUB: Zandalasini FOR Carleton,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,93,2,1,1,8:24 PM,1:52,MISS Thornton 3PT Jump Shot,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,94,4,0,1,8:24 PM,1:47,Sabally REBOUND (Off:1 Def:0),,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,95,2,1,1,8:24 PM,1:46,MISS Ionescu 26' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,96,4,0,1,8:25 PM,1:43,Vandersloot REBOUND (Off:1 Def:0),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,97,1,1,1,8:25 PM,1:42,Ionescu 26' 3PT Jump Shot (3 PTS) (Vandersloot 1 AST),,,12 - 24,12,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,99,2,6,1,8:25 PM,1:29,Sabally BLOCK (1 BLK),,MISS McBride 6' Driving Layup,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,1
+1042400301,101,4,0,1,8:25 PM,1:26,Vandersloot REBOUND (Off:1 Def:1),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,102,1,103,1,8:25 PM,1:24,Ionescu 26' 3PT Running Pull-Up Jump Shot (6 PTS) (Vandersloot 2 AST),,,12 - 27,15,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,104,1,6,1,8:25 PM,1:09,,,Williams 2' Driving Layup (4 PTS),14 - 27,13,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,105,1,6,1,8:25 PM,1:00,Vandersloot 5' Driving Layup (2 PTS),,,14 - 29,15,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,106,6,2,1,8:25 PM,1:00,,,Williams S.FOUL (P2.T4),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,108,8,0,1,8:25 PM,1:00,,,SUB: Hiedeman FOR Williams,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,111,3,10,1,8:27 PM,1:00,Vandersloot Free Throw 1 of 1 (3 PTS),,,14 - 30,16,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042400301,112,7,5,1,8:27 PM,0:51,Vandersloot Violation:Kicked Ball,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1042400301,113,1,98,1,8:27 PM,0:43,,,Hines-Allen 3' Cutting Layup Shot (2 PTS) (Hiedeman 1 AST),16 - 30,14,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,115,6,2,1,8:27 PM,0:43,Stewart S.FOUL (P2.T3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,117,3,10,1,8:28 PM,0:43,,,Hines-Allen Free Throw 1 of 1 (3 PTS),17 - 30,13,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,118,1,83,1,8:28 PM,0:24,Ionescu 10' Fadeaway Bank Shot (8 PTS),,,17 - 32,15,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,119,1,79,1,8:28 PM,0:08,,,Collier 12' Pullup Jump Shot (4 PTS),19 - 32,13,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,120,13,0,1,8:29 PM,0:00,,End of 1st Period (8:29 PM EST),,19 - 32,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,127,12,0,2,8:33 PM,10:00,,Start of 2nd Period (8:33 PM EST),,19 - 32,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,128,2,73,2,8:33 PM,9:42,,,MISS Collier 5' Driving Reverse Layup,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,129,4,0,2,8:33 PM,9:41,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,131,5,1,2,8:34 PM,9:25,Vandersloot Bad Pass Turnover (P1.T2),,Hines-Allen STEAL (1 STL),,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,133,2,41,2,8:34 PM,9:23,Vandersloot BLOCK (1 BLK),,MISS Hines-Allen 3' Running Layup,,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1
+1042400301,135,4,0,2,8:34 PM,9:22,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,137,2,80,2,8:34 PM,9:14,,,MISS McBride 3PT Step Back Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,138,4,0,2,8:34 PM,9:11,Burke REBOUND (Off:0 Def:1),,,,,4,1629568,Kennedy Burke,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,139,5,1,2,8:34 PM,9:00,Jones Bad Pass Turnover (P1.T3),,Zandalasini STEAL (1 STL),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,141,1,98,2,8:35 PM,8:47,,,Hines-Allen 3' Cutting Layup Shot (5 PTS) (Zandalasini 1 AST),21 - 32,11,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,143,9,1,2,8:35 PM,8:40,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,144,8,0,2,8:36 PM,8:40,,,SUB: Carleton FOR McBride,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,146,1,79,2,8:38 PM,8:27,Vandersloot 19' Pullup Jump Shot (5 PTS) (Jones 2 AST),,,21 - 34,13,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,147,2,1,2,8:39 PM,8:09,,,MISS Collier 26' 3PT Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,148,4,0,2,8:39 PM,8:06,Vandersloot REBOUND (Off:1 Def:2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,149,1,41,2,8:39 PM,8:05,Jones 3' Running Layup (12 PTS) (Vandersloot 3 AST),,,21 - 36,15,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,151,6,2,2,8:39 PM,8:05,,,Collier S.FOUL (P1.T1),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,153,8,0,2,8:39 PM,8:05,SUB: Fiebich FOR Burke,,,,,4,1629568,Kennedy Burke,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,154,8,0,2,8:39 PM,8:05,SUB: Stewart FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,155,8,0,2,8:39 PM,8:05,,,SUB: Smith FOR Collier,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,159,3,10,2,8:39 PM,8:05,Jones Free Throw 1 of 1 (13 PTS),,,21 - 37,16,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,160,2,1,2,8:40 PM,7:51,,,MISS Zandalasini 24' 3PT Jump Shot,,,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,161,4,0,2,8:40 PM,7:49,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,163,2,1,2,8:40 PM,7:27,MISS Fiebich 26' 3PT Jump Shot,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,164,4,0,2,8:40 PM,7:25,,,Smith REBOUND (Off:0 Def:3),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,165,5,45,2,8:40 PM,7:18,,,Hines-Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400301,166,8,0,2,8:40 PM,7:18,,,SUB: Williams FOR Hiedeman,,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,169,2,79,2,8:41 PM,7:04,MISS Laney-Hamilton 18' Pullup Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,170,4,0,2,8:41 PM,7:01,,,Smith REBOUND (Off:0 Def:4),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,171,2,1,2,8:41 PM,6:45,,,MISS Carleton 24' 3PT Jump Shot,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,172,4,0,2,8:41 PM,6:43,Jones REBOUND (Off:1 Def:3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,173,1,98,2,8:41 PM,6:24,Laney-Hamilton 4' Cutting Layup Shot (2 PTS) (Vandersloot 4 AST),,,21 - 39,18,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,175,9,1,2,8:42 PM,6:18,,,Lynx Timeout: Regular (Reg.2 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,176,8,0,2,8:42 PM,6:18,,,SUB: McBride FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,177,8,0,2,8:42 PM,6:18,,,SUB: Collier FOR Zandalasini,,,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,180,2,1,2,8:45 PM,6:03,,,MISS Williams 25' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,181,4,0,2,8:45 PM,6:01,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,183,8,0,2,8:45 PM,6:01,SUB: Ionescu FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,185,2,1,2,8:46 PM,5:50,,,MISS Smith 25' 3PT Jump Shot,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,186,4,0,2,8:46 PM,5:47,,,Williams REBOUND (Off:1 Def:1),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,187,1,1,2,8:46 PM,5:42,,,McBride 24' 3PT Jump Shot (8 PTS) (Collier 1 AST),24 - 39,15,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,189,10,0,2,8:47 PM,5:28,Jump Ball Stewart vs. Collier: Tip to Ionescu,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0
+1042400301,192,2,80,2,8:47 PM,5:18,MISS Ionescu 22' Step Back Jump Shot,,Collier BLOCK (2 BLK),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,193,4,0,2,8:47 PM,5:15,Laney-Hamilton REBOUND (Off:2 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,194,1,78,2,8:47 PM,5:14,Stewart 11' Floating Jump Shot (7 PTS) (Laney-Hamilton 3 AST),,,24 - 41,17,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,196,1,98,2,8:47 PM,5:02,,,Smith 2' Cutting Layup Shot (2 PTS) (Williams 2 AST),26 - 41,15,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,198,2,1,2,8:47 PM,4:40,MISS Fiebich 25' 3PT Jump Shot,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,199,4,0,2,8:47 PM,4:39,,,Smith REBOUND (Off:0 Def:5),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,200,5,11,2,8:48 PM,4:15,,,Lynx Turnover: Shot Clock (T#5),,,3,1611661324,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400301,201,8,0,2,8:48 PM,4:15,SUB: Sabally FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,204,2,1,2,8:48 PM,4:04,MISS Ionescu 28' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,205,4,0,2,8:48 PM,4:01,,,McBride REBOUND (Off:0 Def:1),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,206,1,41,2,8:48 PM,3:56,,,McBride 3' Running Layup (10 PTS),28 - 41,13,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,207,2,86,2,8:49 PM,3:42,MISS Laney-Hamilton 5' Turnaround Fadeaway Shot,,Smith BLOCK (1 BLK),,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,209,4,0,2,8:49 PM,3:38,Sabally REBOUND (Off:2 Def:0),,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,210,2,1,2,8:49 PM,3:37,MISS Fiebich 27' 3PT Jump Shot,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,211,4,0,2,8:49 PM,3:36,Sabally REBOUND (Off:3 Def:0),,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,212,5,40,2,8:49 PM,3:36,Sabally Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042400301,213,8,0,2,8:49 PM,3:36,SUB: Thornton FOR Laney-Hamilton,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,215,6,2,2,8:49 PM,3:23,Fiebich S.FOUL (P1.T1),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,217,3,11,2,8:50 PM,3:23,,,Williams Free Throw 1 of 2 (5 PTS),29 - 41,12,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,218,3,12,2,8:50 PM,3:23,,,Williams Free Throw 2 of 2 (6 PTS),30 - 41,11,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,219,2,78,2,8:50 PM,2:59,MISS Ionescu 10' Floating Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,220,4,0,2,8:50 PM,2:55,,,Collier REBOUND (Off:0 Def:2),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,221,1,41,2,8:50 PM,2:51,,,Collier 3' Running Layup (6 PTS),32 - 41,9,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,222,2,79,2,8:51 PM,2:27,MISS Ionescu 27' 3PT Pullup Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,223,4,0,2,8:51 PM,2:24,,,Smith REBOUND (Off:0 Def:6),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,224,1,41,2,8:51 PM,2:22,,,Collier 3' Running Layup (8 PTS) (McBride 2 AST),34 - 41,7,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,226,2,1,2,8:51 PM,1:59,MISS Fiebich 25' 3PT Jump Shot,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,227,4,0,2,8:51 PM,1:56,,,Carleton REBOUND (Off:0 Def:1),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,228,2,79,2,8:51 PM,1:50,,,MISS Carleton 19' Pullup Jump Shot,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,229,4,0,2,8:51 PM,1:49,Ionescu REBOUND (Off:0 Def:1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,232,1,1,2,8:52 PM,1:40,Ionescu 28' 3PT Jump Shot (11 PTS),,,34 - 44,10,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,233,6,1,2,8:52 PM,1:33,Fiebich P.FOUL (P2.T2),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,235,8,0,2,8:52 PM,1:33,SUB: Jones FOR Sabally,,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,236,8,0,2,8:52 PM,1:33,SUB: Vandersloot FOR Fiebich,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,239,6,1,2,8:53 PM,1:24,Thornton P.FOUL (P2.PN),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,241,3,11,2,8:53 PM,1:24,,,Smith Free Throw 1 of 2 (3 PTS),35 - 44,9,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,242,8,0,2,8:53 PM,1:24,SUB: Laney-Hamilton FOR Thornton,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,244,3,12,2,8:53 PM,1:24,,,Smith Free Throw 2 of 2 (4 PTS),36 - 44,8,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042400301,245,5,4,2,8:54 PM,1:10,Vandersloot Traveling Turnover (P2.T5),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042400301,246,5,11,2,8:54 PM,0:46,,,Lynx Turnover: Shot Clock (T#6),,,3,1611661324,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400301,247,2,1,2,8:55 PM,0:38,MISS Ionescu 25' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,248,4,0,2,8:55 PM,0:35,Ionescu REBOUND (Off:1 Def:1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,249,2,1,2,8:55 PM,0:32,MISS Ionescu 8' Jump Shot,,Smith BLOCK (2 BLK),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,251,4,0,2,8:55 PM,0:29,,,Smith REBOUND (Off:0 Def:7),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,252,2,5,2,8:55 PM,0:17,,,MISS Smith 4' Layup,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,253,4,0,2,8:55 PM,0:16,Ionescu REBOUND (Off:1 Def:2),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,254,2,101,2,8:55 PM,0:01,MISS Ionescu 19' Driving Floating Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,255,4,0,2,8:55 PM,0:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,256,13,0,2,8:55 PM,0:00,,End of 2nd Period (8:55 PM EST),,36 - 44,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,259,12,0,3,9:13 PM,10:00,,Start of 3rd Period (9:13 PM EST),,36 - 44,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,260,1,79,3,9:13 PM,9:47,,,McBride 20' Pullup Jump Shot (12 PTS) (Smith 1 AST),38 - 44,6,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,262,1,98,3,9:13 PM,9:20,Stewart 2' Cutting Layup Shot (9 PTS) (Ionescu 1 AST),,,38 - 46,8,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,264,1,63,3,9:14 PM,8:53,,,Williams 12' Fadeaway Jumper (8 PTS),40 - 46,6,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,265,2,6,3,9:14 PM,8:35,MISS Fiebich 4' Driving Layup,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,266,4,0,3,9:14 PM,8:32,Fiebich REBOUND (Off:1 Def:1),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,267,2,97,3,9:14 PM,8:32,MISS Fiebich 1' Tip Layup Shot,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,268,4,0,3,9:14 PM,8:31,Laney-Hamilton REBOUND (Off:3 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,269,2,6,3,9:14 PM,8:27,MISS Stewart 5' Driving Layup,,Collier BLOCK (3 BLK),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,274,4,0,3,9:14 PM,8:25,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,271,10,0,3,9:15 PM,8:25,Jump Ball Stewart vs. Collier: Tip to Ionescu,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0
+1042400301,275,6,1,3,9:15 PM,8:23,,,Smith P.FOUL (P2.T1),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,277,2,1,3,9:15 PM,8:09,MISS Ionescu 12' Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,278,4,0,3,9:15 PM,8:06,,,Williams REBOUND (Off:1 Def:2),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,279,1,74,3,9:15 PM,8:03,,,Collier 3' Running Reverse Layup (10 PTS) (Williams 3 AST),42 - 46,4,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,281,2,6,3,9:16 PM,7:48,MISS Ionescu 3' Driving Layup,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,282,4,0,3,9:16 PM,7:47,,,Smith REBOUND (Off:0 Def:8),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,283,1,41,3,9:16 PM,7:42,,,Carleton 5' Running Layup (5 PTS) (McBride 3 AST),44 - 46,2,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,285,9,1,3,9:16 PM,7:42,LIBERTY Timeout: Regular (Full 2 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,286,5,11,3,9:20 PM,7:18,LIBERTY Turnover: Shot Clock (T#6),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,287,5,45,3,9:20 PM,7:06,,,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400301,288,8,0,3,9:20 PM,7:06,SUB: Vandersloot FOR Laney-Hamilton,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,290,2,5,3,9:20 PM,6:53,MISS Jones 5' Layup,,Smith BLOCK (3 BLK),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,292,4,0,3,9:20 PM,6:50,Jones REBOUND (Off:2 Def:3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,293,5,1,3,9:20 PM,6:48,Jones Bad Pass Turnover (P2.T7),,McBride STEAL (1 STL),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,295,5,4,3,9:21 PM,6:36,,,Collier Traveling Turnover (P1.T8),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400301,296,2,101,3,9:21 PM,6:14,MISS Vandersloot 5' Driving Floating Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,297,4,0,3,9:21 PM,6:11,Vandersloot REBOUND (Off:2 Def:2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,298,1,1,3,9:21 PM,6:05,Fiebich 24' 3PT Jump Shot (9 PTS) (Ionescu 2 AST),,,44 - 49,5,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,300,1,1,3,9:22 PM,5:49,,,Smith 28' 3PT Jump Shot (7 PTS) (Williams 4 AST),47 - 49,2,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,302,6,1,3,9:22 PM,5:41,,,Carleton P.FOUL (P2.T2),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,304,2,63,3,9:22 PM,5:31,MISS Stewart 13' Fadeaway Jumper,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,305,4,0,3,9:22 PM,5:29,Jones REBOUND (Off:3 Def:3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,307,6,2,3,9:22 PM,5:29,,,Smith S.FOUL (P3.T3),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,309,3,11,3,9:23 PM,5:29,Jones Free Throw 1 of 2 (14 PTS),,,47 - 50,3,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,310,3,12,3,9:23 PM,5:29,Jones Free Throw 2 of 2 (15 PTS),,,47 - 51,4,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042400301,311,2,1,3,9:23 PM,5:20,,,MISS Collier 14' Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,312,4,0,3,9:23 PM,5:16,Jones REBOUND (Off:3 Def:4),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,313,1,6,3,9:24 PM,5:04,Ionescu 2' Driving Layup (13 PTS),,,47 - 53,6,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,314,2,73,3,9:24 PM,4:48,,,MISS Williams 4' Driving Reverse Layup,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,315,4,0,3,9:24 PM,4:46,Jones REBOUND (Off:3 Def:5),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,316,2,1,3,9:24 PM,4:31,MISS Vandersloot 24' 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,317,4,0,3,9:24 PM,4:27,,,Carleton REBOUND (Off:0 Def:2),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,318,6,2,3,9:24 PM,4:20,Fiebich S.FOUL (P3.T1),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,320,3,11,3,9:25 PM,4:20,,,MISS Collier Free Throw 1 of 2,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,321,4,1,3,9:25 PM,4:20,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,322,8,0,3,9:25 PM,4:20,,,SUB: Hiedeman FOR Smith,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,323,8,0,3,9:25 PM,4:20,,,SUB: Hines-Allen FOR Williams,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,326,3,12,3,9:25 PM,4:20,,,Collier Free Throw 2 of 2 (11 PTS),48 - 53,5,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,327,6,1,3,9:26 PM,4:15,,,Collier P.FOUL (P2.T4),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,329,1,47,3,9:26 PM,4:07,Stewart 11' Turnaround Jump Shot (11 PTS) (Ionescu 3 AST),,,48 - 55,7,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,331,9,1,3,9:26 PM,4:07,,,Lynx Timeout: Regular (Reg.3 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,332,1,78,3,9:28 PM,3:45,,,Hiedeman 5' Floating Jump Shot (2 PTS) (Hines-Allen 1 AST),50 - 55,5,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,334,1,1,3,9:29 PM,3:27,Fiebich 24' 3PT Jump Shot (12 PTS) (Stewart 1 AST),,,50 - 58,8,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,336,2,79,3,9:29 PM,3:04,,,MISS Collier 20' Pullup Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,337,4,0,3,9:29 PM,3:02,Jones REBOUND (Off:3 Def:6),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,338,1,1,3,9:29 PM,2:42,Jones 13' Jump Shot (17 PTS),,,50 - 60,10,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,339,1,1,3,9:30 PM,2:27,,,McBride 26' 3PT Jump Shot (15 PTS) (Carleton 1 AST),53 - 60,7,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,341,2,102,3,9:30 PM,2:08,MISS Stewart 6' Driving Floating Bank Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,342,4,0,3,9:30 PM,2:04,,,Hiedeman REBOUND (Off:0 Def:1),,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,343,2,6,3,9:30 PM,1:48,,,MISS Collier 4' Driving Layup,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,344,4,0,3,9:30 PM,1:46,,,Carleton REBOUND (Off:1 Def:2),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,345,2,1,3,9:30 PM,1:45,,,MISS Hines-Allen 25' 3PT Jump Shot,,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,346,4,0,3,9:30 PM,1:42,Stewart REBOUND (Off:2 Def:2),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,347,6,1,3,9:30 PM,1:37,,,Carleton P.FOUL (P3.PN),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,349,3,11,3,9:31 PM,1:37,Stewart Free Throw 1 of 2 (12 PTS),,,53 - 61,8,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,350,8,0,3,9:31 PM,1:37,SUB: Laney-Hamilton FOR Fiebich,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,351,8,0,3,9:31 PM,1:37,,,SUB: Zandalasini FOR Carleton,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,354,3,12,3,9:31 PM,1:37,Stewart Free Throw 2 of 2 (13 PTS),,,53 - 62,9,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,355,6,2,3,9:31 PM,1:29,Vandersloot S.FOUL (P1.T2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,357,3,11,3,9:32 PM,1:29,,,McBride Free Throw 1 of 2 (16 PTS),54 - 62,8,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,358,8,0,3,9:32 PM,1:29,SUB: Sabally FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,360,3,12,3,9:32 PM,1:29,,,McBride Free Throw 2 of 2 (17 PTS),55 - 62,7,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042400301,361,2,1,3,9:32 PM,1:11,MISS Stewart 9' Jump Shot,,Collier BLOCK (4 BLK),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,363,4,0,3,9:33 PM,1:08,,,Hiedeman REBOUND (Off:0 Def:2),,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,364,6,2,3,9:33 PM,1:01,Sabally S.FOUL (P1.PN),,,,,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,366,3,11,3,9:33 PM,1:01,,,McBride Free Throw 1 of 2 (18 PTS),56 - 62,6,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,367,3,12,3,9:33 PM,1:01,,,McBride Free Throw 2 of 2 (19 PTS),57 - 62,5,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,368,6,1,3,9:34 PM,0:52,,,Hiedeman P.FOUL (P1.PN),,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,370,3,11,3,9:34 PM,0:52,Sabally Free Throw 1 of 2 (1 PTS),,,57 - 63,6,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,371,8,0,3,9:34 PM,0:52,SUB: Fiebich FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,373,3,12,3,9:34 PM,0:52,Sabally Free Throw 2 of 2 (2 PTS),,,57 - 64,7,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,374,1,6,3,9:34 PM,0:42,,,Hiedeman 5' Driving Layup (4 PTS),59 - 64,5,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,375,1,1,3,9:35 PM,0:29,Vandersloot 24' 3PT Jump Shot (8 PTS) (Fiebich 2 AST),,,59 - 67,8,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,377,1,63,3,9:35 PM,0:07,,,Collier 13' Fadeaway Jumper (13 PTS),61 - 67,6,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,378,6,1,3,9:35 PM,0:03,,,Collier P.FOUL (P3.PN),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,380,3,11,3,9:36 PM,0:03,MISS Stewart Free Throw 1 of 2,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,381,4,1,3,9:36 PM,0:03,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,382,3,12,3,9:36 PM,0:03,Stewart Free Throw 2 of 2 (14 PTS),,,61 - 68,7,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,383,13,0,3,9:36 PM,0:00,,End of 3rd Period (9:36 PM EST),,61 - 68,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,386,12,0,4,9:40 PM,10:00,,Start of 4th Period (9:40 PM EST),,61 - 68,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,387,2,63,4,9:41 PM,9:37,MISS Laney-Hamilton 13' Fadeaway Jumper,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,388,4,0,4,9:41 PM,9:35,,,Collier REBOUND (Off:0 Def:3),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,389,2,78,4,9:41 PM,9:09,,,MISS Hiedeman 14' Floating Jump Shot,,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,390,4,0,4,9:41 PM,9:06,Vandersloot REBOUND (Off:2 Def:3),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,391,2,1,4,9:42 PM,8:52,MISS Vandersloot 24' 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,392,4,0,4,9:42 PM,8:48,Jones REBOUND (Off:4 Def:6),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,393,10,0,4,9:42 PM,8:44,Jump Ball Jones vs. Collier: Tip to Laney-Hamilton,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0
+1042400301,396,2,79,4,9:42 PM,8:39,MISS Stewart 11' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,397,4,0,4,9:42 PM,8:39,,,Collier REBOUND (Off:0 Def:4),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,398,1,41,4,9:42 PM,8:32,,,Hiedeman 6' Running Layup (6 PTS),63 - 68,5,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,399,6,2,4,9:42 PM,8:32,Vandersloot S.FOUL (P2.T1),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,401,8,0,4,9:43 PM,8:32,SUB: Ionescu FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,402,8,0,4,9:43 PM,8:32,,,SUB: Smith FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,405,3,10,4,9:43 PM,8:32,,,Hiedeman Free Throw 1 of 1 (7 PTS),64 - 68,4,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,406,6,1,4,9:43 PM,8:17,,,Zandalasini P.FOUL (P1.T1),,,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,408,8,0,4,9:43 PM,8:17,,,SUB: Williams FOR Hiedeman,,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,410,2,47,4,9:44 PM,8:03,MISS Ionescu 17' Turnaround Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,411,4,0,4,9:44 PM,7:59,Fiebich REBOUND (Off:2 Def:1),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,412,1,102,4,9:44 PM,7:58,Fiebich 10' Driving Floating Bank Jump Shot (14 PTS),,,64 - 70,6,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,413,6,1,4,9:44 PM,7:51,Jones P.FOUL (P1.T2),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,415,2,6,4,9:45 PM,7:41,,,MISS Zandalasini 7' Driving Layup,,,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,416,4,0,4,9:45 PM,7:39,Stewart REBOUND (Off:2 Def:3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,417,1,1,4,9:45 PM,7:30,Stewart 26' 3PT Jump Shot (17 PTS) (Laney-Hamilton 4 AST),,,64 - 73,9,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,419,9,1,4,9:45 PM,7:29,,,Lynx Timeout: Regular (Reg.4 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,420,8,0,4,9:45 PM,7:29,,,SUB: Carleton FOR Zandalasini,,,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,422,2,1,4,9:49 PM,7:12,,,MISS McBride 27' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,423,4,0,4,9:49 PM,7:08,Fiebich REBOUND (Off:2 Def:2),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,424,1,79,4,9:49 PM,6:55,Fiebich 3PT Pullup Jump Shot (17 PTS) (Jones 3 AST),,,64 - 76,12,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,425,6,1,4,9:49 PM,6:47,Fiebich P.FOUL (P4.T3),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,429,1,79,4,9:50 PM,6:40,,,Williams 20' Pullup Jump Shot (10 PTS),66 - 76,10,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,430,2,47,4,9:50 PM,6:13,MISS Stewart 14' Turnaround Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,431,4,0,4,9:50 PM,6:11,,,Collier REBOUND (Off:0 Def:5),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,432,2,1,4,9:51 PM,6:00,,,MISS Williams 28' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,433,4,0,4,9:51 PM,5:56,Stewart REBOUND (Off:2 Def:4),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,434,1,2,4,9:51 PM,5:51,Ionescu 6' Running Jump Shot (15 PTS) (Stewart 2 AST),,,66 - 78,12,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,436,2,79,4,9:51 PM,5:29,,,MISS Williams 20' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,437,4,0,4,9:51 PM,5:27,Fiebich REBOUND (Off:2 Def:3),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,438,1,1,4,9:51 PM,5:20,Laney-Hamilton 24' 3PT Jump Shot (5 PTS) (Fiebich 3 AST),,,66 - 81,15,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,440,1,79,4,9:52 PM,4:57,,,McBride 27' 3PT Pullup Jump Shot (22 PTS) (Smith 2 AST),69 - 81,12,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,442,5,1,4,9:52 PM,4:34,Stewart Bad Pass Turnover (P1.T8),,Collier STEAL (1 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,444,2,5,4,9:52 PM,4:20,,,MISS Smith 5' Layup,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,445,4,0,4,9:52 PM,4:18,Stewart REBOUND (Off:2 Def:5),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,446,5,4,4,9:52 PM,4:03,Ionescu Traveling Turnover (P1.T9),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042400301,447,8,0,4,9:53 PM,4:03,SUB: Vandersloot FOR Fiebich,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,448,8,0,4,9:53 PM,4:03,,,SUB: Hiedeman FOR Smith,,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,451,6,1,4,9:53 PM,3:51,Stewart P.FOUL (P3.T4),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,453,1,1,4,9:54 PM,3:41,,,Hiedeman 26' 3PT Jump Shot (10 PTS) (Collier 2 AST),72 - 81,9,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,455,9,1,4,9:54 PM,3:39,LIBERTY Timeout: Regular (Full 3 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,456,8,0,4,9:54 PM,3:39,SUB: Fiebich FOR Laney-Hamilton,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,458,1,5,4,9:57 PM,3:23,Jones 3' Layup (19 PTS) (Fiebich 4 AST),,,72 - 83,11,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,460,1,63,4,9:57 PM,3:12,,,Collier 15' Fadeaway Jumper (15 PTS) (Hiedeman 2 AST),74 - 83,9,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,462,2,1,4,9:58 PM,2:52,MISS Ionescu 24' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,463,4,0,4,9:58 PM,2:49,Stewart REBOUND (Off:3 Def:5),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,464,5,1,4,9:58 PM,2:41,Ionescu Bad Pass Turnover (P2.T10),,Hiedeman STEAL (1 STL),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,466,1,79,4,9:58 PM,2:33,,,Williams 18' Pullup Jump Shot (12 PTS),76 - 83,7,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,467,2,63,4,9:59 PM,2:08,MISS Vandersloot 14' Fadeaway Jumper,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,468,4,0,4,9:59 PM,2:07,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,469,5,11,4,9:59 PM,2:07,LIBERTY Turnover: Shot Clock (T#11),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400301,470,2,79,4,9:59 PM,1:55,,,MISS Williams 25' 3PT Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,471,4,0,4,9:59 PM,1:53,,,Collier REBOUND (Off:1 Def:5),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,472,2,101,4,9:59 PM,1:48,,,MISS Hiedeman 11' Driving Floating Jump Shot,,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,473,4,0,4,9:59 PM,1:46,,,Collier REBOUND (Off:2 Def:5),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,474,1,6,4,9:59 PM,1:40,,,Collier 3' Driving Layup (17 PTS),78 - 83,5,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,475,2,79,4,10:00 PM,1:19,MISS Stewart 12' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,476,4,0,4,10:00 PM,1:15,,,Hiedeman REBOUND (Off:0 Def:3),,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,477,2,41,4,10:00 PM,1:09,Stewart BLOCK (1 BLK),,MISS Hiedeman 7' Running Layup,,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042400301,479,4,0,4,10:00 PM,1:06,Ionescu REBOUND (Off:1 Def:3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,480,2,102,4,10:00 PM,0:50,MISS Ionescu 17' Driving Floating Bank Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,481,4,0,4,10:00 PM,0:46,,,Williams REBOUND (Off:1 Def:3),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,482,1,103,4,10:00 PM,0:42,,,Williams 7' Running Pull-Up Jump Shot (14 PTS),80 - 83,3,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,483,9,1,4,10:00 PM,0:42,LIBERTY Timeout: Regular (Full 4 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,484,8,0,4,10:01 PM,0:42,,,SUB: Smith FOR Hiedeman,,,5,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,486,2,5,4,10:02 PM,0:24,MISS Jones 3' Layup,,Collier BLOCK (5 BLK),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,488,4,0,4,10:02 PM,0:24,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,490,5,11,4,10:03 PM,0:18,LIBERTY Turnover: Shot Clock (T#12),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,491,9,1,4,10:03 PM,0:18,,,Lynx Timeout: Regular (Reg.5 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,492,2,79,4,10:05 PM,0:12,,,MISS Williams 24' 3PT Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,493,4,0,4,10:05 PM,0:09,,,Smith REBOUND (Off:1 Def:8),,,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,494,1,1,4,10:05 PM,0:05,,,Williams 27' 3PT Jump Shot (17 PTS) (Smith 3 AST),83 - 83,TIE,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,496,6,2,4,10:05 PM,0:05,Ionescu S.FOUL (P1.PN),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400301,498,3,10,4,10:06 PM,0:05,,,Williams Free Throw 1 of 1 (18 PTS),84 - 83,-1,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,499,9,1,4,10:06 PM,0:05,LIBERTY Timeout: Regular (Full 5 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,500,6,28,4,10:07 PM,0:05,,,McBride Personal Take Foul (P1.T2),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,503,8,0,4,10:09 PM,0:03,SUB: Laney-Hamilton FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,505,7,4,4,10:09 PM,0:03,,,Williams Violation:Jump Ball,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1042400301,506,2,6,4,10:10 PM,0:02,MISS Stewart 3' Driving Layup,,Collier BLOCK (6 BLK),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400301,508,4,0,4,10:10 PM,0:01,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,512,6,2,4,10:10 PM,0:00,,,Collier S.FOUL (P4.PN),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,516,18,0,4,10:10 PM,0:00,,Instant Replay4th Period (10:10 PM EST),,84 - 83,-1,0,512,,,,,,0,0,,,,,,1,0,,,,,,0
+1042400301,517,3,11,4,10:13 PM,0:00,Stewart Free Throw 1 of 2 (18 PTS),,,84 - 84,TIE,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,523,3,12,4,10:13 PM,0:00,MISS Stewart Free Throw 2 of 2,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,519,8,0,4,10:13 PM,0:00,SUB: Vandersloot FOR Laney-Hamilton,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,520,8,0,4,10:13 PM,0:00,,,SUB: Hines-Allen FOR Williams,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,524,4,0,4,10:13 PM,0:00,,,Hines-Allen REBOUND (Off:0 Def:2),,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,525,8,0,4,10:14 PM,0:00,SUB: Laney-Hamilton FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,526,8,0,4,10:14 PM,0:00,,,SUB: Williams FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400301,531,13,0,4,10:15 PM,0:00,,End of 4th Period (10:15 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,532,12,0,5,10:18 PM,5:00,,Start of 1st OT (10:18 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,534,10,0,5,10:18 PM,5:00,Jump Ball Jones vs. Collier: Tip to Vandersloot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1
+1042400301,539,5,1,5,10:19 PM,4:38,Stewart Bad Pass Turnover (P2.T13),,Smith STEAL (1 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,541,2,79,5,10:19 PM,4:28,,,MISS Williams 19' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,542,4,0,5,10:19 PM,4:27,Stewart REBOUND (Off:3 Def:6),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,543,2,103,5,10:19 PM,4:21,MISS Stewart 28' 3PT Running Pull-Up Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,544,4,0,5,10:19 PM,4:18,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,546,5,45,5,10:19 PM,4:09,,,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400301,547,2,101,5,10:20 PM,3:45,MISS Ionescu 7' Driving Floating Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,548,4,0,5,10:20 PM,3:43,Ionescu REBOUND (Off:2 Def:3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,549,2,78,5,10:20 PM,3:43,MISS Ionescu 9' Floating Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,550,4,0,5,10:20 PM,3:43,,,Collier REBOUND (Off:2 Def:6),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,551,1,5,5,10:20 PM,3:32,,,Collier 2' Layup (19 PTS) (McBride 4 AST),86 - 84,-2,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,553,5,1,5,10:20 PM,3:13,Vandersloot Bad Pass Turnover (P3.T14),,Collier STEAL (2 STL),,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,555,5,1,5,10:20 PM,3:01,Ionescu STEAL (3 STL),,McBride Bad Pass Turnover (P1.T10),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,557,5,2,5,10:21 PM,2:48,Ionescu Lost Ball Turnover (P3.T15),,Collier STEAL (3 STL),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,559,1,41,5,10:21 PM,2:42,,,Smith 4' Running Layup (9 PTS) (Williams 5 AST),88 - 84,-4,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,561,9,1,5,10:21 PM,2:39,LIBERTY Timeout: Regular (Full 6 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,562,2,1,5,10:23 PM,2:25,MISS Jones 26' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,563,4,0,5,10:23 PM,2:20,,,McBride REBOUND (Off:0 Def:2),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,564,2,1,5,10:23 PM,2:09,,,MISS McBride 28' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,565,4,0,5,10:23 PM,2:06,Vandersloot REBOUND (Off:2 Def:4),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,566,2,101,5,10:23 PM,1:53,MISS Stewart 6' Driving Floating Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,567,4,0,5,10:24 PM,1:52,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,569,8,0,5,10:24 PM,1:52,SUB: Laney-Hamilton FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042400301,571,2,98,5,10:24 PM,1:41,MISS Jones 5' Cutting Layup Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,572,4,0,5,10:24 PM,1:41,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,574,1,1,5,10:24 PM,1:38,Jones 3PT Jump Shot (22 PTS) (Stewart 3 AST),,,88 - 87,-1,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,576,1,1,5,10:25 PM,1:16,,,Williams 28' 3PT Jump Shot (21 PTS) (Smith 4 AST),91 - 87,-4,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400301,578,1,101,5,10:25 PM,1:08,Ionescu 9' Driving Floating Jump Shot (17 PTS),,,91 - 89,-2,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,579,1,6,5,10:25 PM,0:48,,,Williams 4' Driving Layup (23 PTS),93 - 89,-4,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,580,9,6,5,10:25 PM,0:48,LIBERTY Timeout: Reset (Full 6 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,581,2,1,5,10:26 PM,0:42,MISS Laney-Hamilton 26' 3PT Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,582,4,0,5,10:26 PM,0:37,Fiebich REBOUND (Off:3 Def:3),,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,583,2,97,5,10:26 PM,0:37,MISS Fiebich 1' Tip Layup Shot,,,,,4,1630142,Leonie Fiebich,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,584,4,0,5,10:26 PM,0:36,,,Williams REBOUND (Off:1 Def:4),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,585,5,1,5,10:26 PM,0:33,Ionescu STEAL (4 STL),,Williams Bad Pass Turnover (P3.T11),,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,587,1,78,5,10:26 PM,0:32,Ionescu 1' Floating Jump Shot (19 PTS),,,93 - 91,-2,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,588,9,1,5,10:26 PM,0:32,,,Lynx Timeout: Regular (Reg.6 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,589,5,1,5,10:28 PM,0:31,Jones STEAL (1 STL),,Carleton Bad Pass Turnover (P2.T12),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042400301,591,1,41,5,10:28 PM,0:28,Jones 3' Running Layup (24 PTS),,,93 - 93,TIE,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,592,2,6,5,10:28 PM,0:20,Stewart BLOCK (2 BLK),,MISS Williams 6' Driving Layup,,,5,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042400301,594,4,0,5,10:28 PM,0:20,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400301,596,1,86,5,10:29 PM,0:08,,,Collier 12' Turnaround Fadeaway (21 PTS),95 - 93,-2,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400301,597,9,1,5,10:29 PM,0:08,LIBERTY Timeout: Regular (Full 7 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,598,6,1,5,10:31 PM,0:02,,,Collier P.FOUL (P5.T1),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042400301,600,2,6,5,10:32 PM,0:01,MISS Stewart 4' Driving Layup,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042400301,601,4,0,5,10:32 PM,0:01,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400301,602,13,0,5,10:32 PM,0:00,,End of 1st OT (10:32 PM EST),,95 - 93,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

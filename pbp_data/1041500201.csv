@@ -1,0 +1,322 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041500201,0,12,0,1,7:03 PM,10:00,,Start of 1st Period (7:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,1,10,0,1,7:03 PM,10:00,Jump Ball Charles vs. Larkins: Tip to Wright,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1
+1041500201,2,1,1,1,7:03 PM,9:38,Charles 20' Jump Shot (2 PTS),,,0 - 2,2,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,4,1,1,1,7:04 PM,9:14,,,Johnson 10' Jump Shot (2 PTS),2 - 2,TIE,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,5,1,47,1,7:04 PM,8:58,Charles 14' Turnaround Jump Shot (4 PTS),,,2 - 4,2,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,6,2,1,1,7:04 PM,8:49,,,MISS Coleman 16' Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,7,4,0,1,7:04 PM,8:48,,,Johnson REBOUND (Off:1 Def:0),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,8,1,1,1,7:05 PM,8:32,,,January 20' Jump Shot (2 PTS) (Catchings 1 AST),4 - 4,TIE,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,9,6,1,1,7:05 PM,8:17,,,Larkins P.FOUL (P1.T1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,10,2,63,1,7:05 PM,8:04,MISS Charles 18' Fadeaway Jumper,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,11,4,0,1,7:06 PM,8:03,Cash REBOUND (Off:1 Def:0),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,12,1,1,1,7:06 PM,7:41,Swords 11' Jump Shot (2 PTS) (Wright 1 AST),,,4 - 6,2,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,13,2,1,1,7:06 PM,7:30,,,MISS Catchings 21' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,14,4,0,1,7:06 PM,7:29,Prince REBOUND (Off:0 Def:1),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,15,1,1,1,7:06 PM,7:16,Prince 24' 3PT Jump Shot (3 PTS) (Swords 1 AST),,,4 - 9,5,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,16,6,2,1,7:07 PM,6:58,Wright S.FOUL (P1.T1),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,17,3,11,1,7:07 PM,6:58,,,Coleman Free Throw 1 of 2 (1 PTS),5 - 9,4,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,19,3,12,1,7:07 PM,6:58,,,MISS Coleman Free Throw 2 of 2,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,21,4,0,1,7:07 PM,6:57,Cash REBOUND (Off:1 Def:1),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,22,1,1,1,7:08 PM,6:38,Wright 12' Jump Shot (2 PTS) (Charles 1 AST),,,5 - 11,6,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,23,1,42,1,7:08 PM,6:16,,,Johnson 1' Driving Layup (4 PTS),7 - 11,4,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,24,5,2,1,7:08 PM,5:59,Swords Lost Ball Turnover (P1.T1),,Catchings STEAL (1 STL),,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,25,6,1,1,7:08 PM,5:56,Wright P.FOUL (P2.T2),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,26,8,0,1,7:09 PM,5:56,SUB: Wiggins FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,27,1,1,1,7:09 PM,5:36,,,Larkins 6' Jump Shot (2 PTS) (Coleman 1 AST),9 - 11,2,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,28,1,1,1,7:09 PM,5:22,Prince  3PT Jump Shot (6 PTS) (Wiggins 1 AST),,,9 - 14,5,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,29,2,42,1,7:10 PM,5:04,,,MISS Catchings 2' Driving Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,30,4,0,1,7:10 PM,5:03,,,Johnson REBOUND (Off:2 Def:0),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,31,1,1,1,7:10 PM,4:57,,,January  3PT Jump Shot (5 PTS) (Johnson 1 AST),12 - 14,2,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,32,2,1,1,7:10 PM,4:32,MISS Charles 12' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,33,4,0,1,7:10 PM,4:31,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,34,2,1,1,7:10 PM,4:20,,,MISS Coleman 24' 3PT Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,35,4,0,1,7:10 PM,4:19,Charles REBOUND (Off:0 Def:1),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,36,2,42,1,7:10 PM,4:10,MISS Prince 1' Driving Layup,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,37,4,0,1,7:11 PM,4:09,,,Coleman REBOUND (Off:0 Def:1),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,38,1,42,1,7:11 PM,3:54,,,Coleman 2' Driving Layup (3 PTS),14 - 14,TIE,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,39,5,1,1,7:11 PM,3:32,Wiggins Bad Pass Turnover (P1.T2),,January STEAL (1 STL),,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,40,5,1,1,7:11 PM,3:13,Cash STEAL (1 STL),,Coleman Bad Pass Turnover (P1.T1),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,41,6,1,1,7:12 PM,3:06,,,Larkins P.FOUL (P2.T2),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,42,9,4,1,7:12 PM,3:06,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,45,8,0,1,7:14 PM,3:06,SUB: Stokes FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,46,8,0,1,7:14 PM,3:06,SUB: Carson FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,47,8,0,1,7:15 PM,3:06,,,SUB: Zellous FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,48,8,0,1,7:15 PM,3:06,,,SUB: Achonwa FOR Johnson,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,49,2,1,1,7:15 PM,2:56,MISS Carson 16' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,50,4,0,1,7:15 PM,2:55,Stokes REBOUND (Off:1 Def:0),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,51,1,72,1,7:15 PM,2:54,Stokes 2' Putback Layup (2 PTS),,,14 - 16,2,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,52,6,2,1,7:15 PM,2:42,Prince S.FOUL (P1.T3),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,53,3,11,1,7:16 PM,2:42,,,Coleman Free Throw 1 of 2 (4 PTS),15 - 16,1,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,55,3,12,1,7:16 PM,2:42,,,Coleman Free Throw 2 of 2 (5 PTS),16 - 16,TIE,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,57,2,47,1,7:16 PM,2:20,MISS Stokes 9' Turnaround Jump Shot,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,58,4,0,1,7:16 PM,2:19,Stokes REBOUND (Off:2 Def:0),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,59,1,72,1,7:17 PM,2:18,Stokes 3' Putback Layup (4 PTS),,,16 - 18,2,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,60,2,56,1,7:17 PM,2:02,Stokes BLOCK (1 BLK),,MISS Achonwa 5' Running Hook Shot,,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1041500201,61,4,0,1,7:17 PM,2:01,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,62,8,0,1,7:17 PM,2:01,,,SUB: Lucas FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,63,8,0,1,7:17 PM,2:01,,,SUB: Johnson FOR Coleman,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,64,8,0,1,7:17 PM,2:01,SUB: Rodgers FOR Prince,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,65,6,4,1,7:17 PM,1:56,,,Achonwa OFF.Foul (P1),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,66,5,5,1,7:17 PM,1:56,,,Achonwa Foul Turnover (P1.T2),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500201,67,1,1,1,7:18 PM,1:43,Charles 17' Jump Shot (6 PTS) (Rodgers 1 AST),,,16 - 20,4,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,68,1,42,1,7:18 PM,1:25,,,Zellous 2' Driving Layup (2 PTS),18 - 20,2,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,69,2,42,1,7:18 PM,1:07,MISS Rodgers 2' Driving Layup,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,70,4,0,1,7:19 PM,1:06,Rodgers REBOUND (Off:1 Def:0),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,71,1,1,1,7:19 PM,0:55,Rodgers 24' 3PT Jump Shot (3 PTS) (Charles 2 AST),,,18 - 23,5,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,72,5,4,1,7:19 PM,0:38,,,Catchings Traveling Turnover (P1.T3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500201,73,1,1,1,7:20 PM,0:25,Rodgers 24' 3PT Jump Shot (6 PTS) (Charles 3 AST),,,18 - 26,8,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,74,6,4,1,7:20 PM,0:18,,,Zellous OFF.Foul (P1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,75,5,5,1,7:20 PM,0:18,,,Zellous Foul Turnover (P1.T4),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500201,76,2,46,1,7:20 PM,0:06,MISS Rodgers 10' Running Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,77,4,0,1,7:20 PM,0:05,,,Catchings REBOUND (Off:0 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,78,6,1,1,7:21 PM,0:04,Rodgers P.FOUL (P1.T4),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,79,8,0,1,7:21 PM,0:04,SUB: Cash FOR Charles,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,80,5,1,1,7:21 PM,0:01,,,Achonwa Bad Pass Turnover (P2.T5),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,81,13,0,1,7:21 PM,0:00,,End of 1st Period (7:21 PM EST),,18 - 26,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,83,12,0,2,7:25 PM,10:00,,Start of 2nd Period (7:25 PM EST),,18 - 26,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,84,1,42,2,7:25 PM,9:40,,,Johnson 2' Driving Layup (6 PTS),20 - 26,6,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,85,1,58,2,7:25 PM,9:26,Stokes 4' Turnaround Hook Shot (6 PTS) (Charles 4 AST),,,20 - 28,8,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,86,2,47,2,7:26 PM,9:05,,,MISS Larkins 8' Turnaround Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,87,4,0,2,7:26 PM,9:04,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,88,2,1,2,7:26 PM,8:49,MISS Charles 18' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,89,4,0,2,7:26 PM,8:48,,,Johnson REBOUND (Off:2 Def:1),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,90,1,42,2,7:26 PM,8:34,,,Lucas 1' Driving Layup (2 PTS),22 - 28,6,5,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,91,1,1,2,7:27 PM,8:18,Rodgers  3PT Jump Shot (9 PTS) (Wiggins 2 AST),,,22 - 31,9,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,92,1,5,2,7:27 PM,7:58,,,Zellous 1' Layup (4 PTS),24 - 31,7,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,93,6,11,2,7:27 PM,7:57,,,Zellous T.FOUL (P1.T0),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041500201,94,3,16,2,7:27 PM,7:57,MISS Rodgers Free Throw Technical,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,95,4,1,2,7:27 PM,7:57,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,96,8,0,2,7:28 PM,7:57,,,SUB: January FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,97,1,3,2,7:28 PM,7:41,Stokes 7' Hook Shot (8 PTS) (Rodgers 2 AST),,,24 - 33,9,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,98,2,47,2,7:29 PM,7:17,,,MISS Johnson 10' Turnaround Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,99,4,0,2,7:29 PM,7:16,Stokes REBOUND (Off:2 Def:1),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,100,2,1,2,7:29 PM,7:06,MISS Rodgers  3PT Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,101,4,0,2,7:29 PM,7:05,,,January REBOUND (Off:0 Def:1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,102,5,1,2,7:29 PM,6:47,Rodgers STEAL (1 STL),,Lucas Bad Pass Turnover (P1.T6),,,5,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,103,2,42,2,7:29 PM,6:32,MISS Rodgers 3' Driving Layup,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,104,4,0,2,7:29 PM,6:31,,,January REBOUND (Off:0 Def:2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,105,2,42,2,7:30 PM,6:21,,,MISS Coleman 2' Driving Layup,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,106,4,0,2,7:30 PM,6:20,,,Coleman REBOUND (Off:1 Def:1),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,107,1,4,2,7:30 PM,6:20,,,Coleman 2' Tip Shot (7 PTS),26 - 33,7,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,108,9,1,2,7:30 PM,6:11,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,110,8,0,2,7:32 PM,6:11,SUB: Swords FOR Stokes,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,111,8,0,2,7:32 PM,6:11,SUB: Prince FOR Rodgers,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,112,8,0,2,7:33 PM,6:11,,,SUB: Catchings FOR Lucas,,,5,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,113,1,1,2,7:33 PM,6:01,Carson 21' Jump Shot (2 PTS) (Charles 5 AST),,,26 - 35,9,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,114,5,1,2,7:33 PM,5:50,Prince STEAL (1 STL),,January Bad Pass Turnover (P1.T7),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,115,2,1,2,7:34 PM,5:42,MISS Wiggins 24' 3PT Jump Shot,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,116,4,0,2,7:34 PM,5:41,,,Coleman REBOUND (Off:1 Def:2),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,117,6,2,2,7:34 PM,5:32,Wiggins S.FOUL (P1.T1),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,118,3,11,2,7:34 PM,5:32,,,Larkins Free Throw 1 of 2 (3 PTS),27 - 35,8,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,120,8,0,2,7:34 PM,5:32,SUB: Wright FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,121,3,12,2,7:34 PM,5:32,,,Larkins Free Throw 2 of 2 (4 PTS),28 - 35,7,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,123,1,5,2,7:35 PM,5:27,Swords 2' Layup (4 PTS) (Carson 1 AST),,,28 - 37,9,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,124,1,1,2,7:35 PM,5:17,,,Johnson 22' Jump Shot (8 PTS) (Coleman 2 AST),30 - 37,7,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,125,2,1,2,7:35 PM,5:00,MISS Prince 9' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,126,4,0,2,7:35 PM,4:59,Charles REBOUND (Off:1 Def:1),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,127,2,1,2,7:35 PM,4:55,MISS Carson  3PT Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,128,4,0,2,7:35 PM,4:54,,,January REBOUND (Off:0 Def:3),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,129,2,1,2,7:35 PM,4:46,,,MISS January 18' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,130,4,0,2,7:35 PM,4:45,Swords REBOUND (Off:0 Def:1),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,131,5,4,2,7:35 PM,4:44,Wright Traveling Turnover (P1.T3),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500201,132,1,80,2,7:36 PM,4:34,,,Catchings 17' Step Back Jump Shot (2 PTS),32 - 37,5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,133,2,1,2,7:36 PM,4:06,MISS Carson 18' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,134,4,0,2,7:36 PM,4:05,,,Johnson REBOUND (Off:2 Def:2),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,135,5,1,2,7:37 PM,3:44,,,January Bad Pass Turnover (P2.T8),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,136,8,0,2,7:37 PM,3:44,SUB: Cash FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,137,1,1,2,7:37 PM,3:21,Prince 26' 3PT Jump Shot (9 PTS),,,32 - 40,8,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,138,1,1,2,7:38 PM,3:04,,,Catchings 24' 3PT Jump Shot (5 PTS) (January 1 AST),35 - 40,5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,139,6,1,2,7:38 PM,2:45,,,Catchings P.FOUL (P1.T1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,140,9,1,2,7:38 PM,2:45,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,142,8,0,2,7:41 PM,2:45,SUB: Stokes FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,143,8,0,2,7:41 PM,2:45,SUB: Wiggins FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,144,8,0,2,7:42 PM,2:45,,,SUB: Zellous FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,145,1,5,2,7:42 PM,2:32,Stokes 2' Layup (10 PTS) (Cash 1 AST),,,35 - 42,7,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,146,1,96,2,7:42 PM,2:06,,,Larkins 4' Turnaround Bank Hook Shot (6 PTS),37 - 42,5,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,147,1,5,2,7:43 PM,1:51,Stokes 1' Layup (12 PTS) (Charles 6 AST),,,37 - 44,7,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,148,1,5,2,7:43 PM,1:36,,,Zellous 2' Layup (6 PTS) (Larkins 1 AST),39 - 44,5,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,149,6,2,2,7:43 PM,1:36,Wiggins S.FOUL (P2.T2),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,150,3,10,2,7:43 PM,1:36,,,Zellous Free Throw 1 of 1 (7 PTS),40 - 44,4,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,152,1,63,2,7:44 PM,1:14,Prince 15' Fadeaway Jumper (11 PTS),,,40 - 46,6,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,154,9,1,2,7:44 PM,0:56,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,156,8,0,2,7:46 PM,0:56,SUB: Rodgers FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,157,1,75,2,7:46 PM,0:48,,,Catchings 3' Driving Finger Roll Layup (7 PTS),42 - 46,4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,158,1,42,2,7:47 PM,0:25,Charles 2' Driving Layup (8 PTS),,,42 - 48,6,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,159,2,42,2,7:47 PM,0:06,Charles BLOCK (1 BLK),,MISS Zellous 2' Driving Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1
+1041500201,160,4,0,2,7:47 PM,0:04,Charles REBOUND (Off:1 Def:2),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,161,5,2,2,7:48 PM,0:00,Prince Lost Ball Turnover (P1.T4),,Johnson STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,162,13,0,2,7:48 PM,0:00,,End of 2nd Period (7:48 PM EST),,42 - 48,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,164,12,0,3,8:04 PM,10:00,,Start of 3rd Period (8:04 PM EST),,42 - 48,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,165,6,2,3,8:04 PM,9:42,Wright S.FOUL (P3.T1),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,166,3,11,3,8:04 PM,9:42,,,Johnson Free Throw 1 of 2 (9 PTS),43 - 48,5,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,168,3,12,3,8:05 PM,9:42,,,Johnson Free Throw 2 of 2 (10 PTS),44 - 48,4,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,170,6,4,3,8:05 PM,9:29,Swords OFF.Foul (P1),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,171,5,5,3,8:05 PM,9:29,Swords Foul Turnover (P2.T5),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500201,172,5,1,3,8:06 PM,9:09,Prince STEAL (2 STL),,Catchings Bad Pass Turnover (P2.T9),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,173,5,2,3,8:06 PM,8:56,Wright Lost Ball Turnover (P2.T6),,Coleman STEAL (1 STL),,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,174,2,1,3,8:06 PM,8:41,,,MISS Johnson  3PT Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,175,4,0,3,8:06 PM,8:40,,,Larkins REBOUND (Off:1 Def:0),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,176,2,1,3,8:06 PM,8:37,Swords BLOCK (1 BLK),,MISS Larkins 4' Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1
+1041500201,177,4,0,3,8:06 PM,8:36,Wright REBOUND (Off:0 Def:1),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,178,2,42,3,8:06 PM,8:26,MISS Prince 2' Driving Layup,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,179,4,0,3,8:06 PM,8:25,Prince REBOUND (Off:1 Def:1),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,180,1,1,3,8:07 PM,8:20,Prince  3PT Jump Shot (14 PTS) (Wright 2 AST),,,44 - 51,7,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,181,2,5,3,8:07 PM,8:00,Cash BLOCK (1 BLK),,MISS Larkins 2' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1
+1041500201,182,4,0,3,8:07 PM,7:59,Charles REBOUND (Off:1 Def:3),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,183,1,5,3,8:07 PM,7:47,Swords 3' Layup (6 PTS) (Prince 1 AST),,,44 - 53,9,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,184,6,2,3,8:07 PM,7:47,,,Catchings S.FOUL (P2.T1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,185,8,0,3,8:07 PM,7:47,,,SUB: Zellous FOR Johnson,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,186,3,10,3,8:07 PM,7:47,MISS Swords Free Throw 1 of 1,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,188,4,0,3,8:08 PM,7:43,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,189,2,1,3,8:08 PM,7:23,,,MISS Coleman 24' 3PT Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,190,4,0,3,8:08 PM,7:22,,,Larkins REBOUND (Off:2 Def:0),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,191,6,1,3,8:08 PM,7:16,Wright P.FOUL (P4.T2),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,192,8,0,3,8:09 PM,7:16,,,SUB: Clarendon FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,193,8,0,3,8:09 PM,7:16,SUB: Wiggins FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,194,2,42,3,8:09 PM,6:59,,,MISS Coleman 3' Driving Layup,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,195,4,0,3,8:09 PM,6:58,Wiggins REBOUND (Off:0 Def:1),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,196,5,1,3,8:09 PM,6:50,Wiggins Bad Pass Turnover (P2.T7),,Clarendon STEAL (1 STL),,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,197,6,1,3,8:09 PM,6:49,Wiggins P.FOUL (P3.T3),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,198,2,1,3,8:10 PM,6:29,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,199,4,0,3,8:10 PM,6:28,Wiggins REBOUND (Off:0 Def:2),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,200,2,1,3,8:10 PM,6:16,MISS Charles 18' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,201,4,0,3,8:10 PM,6:15,,,Clarendon REBOUND (Off:0 Def:1),,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,202,2,47,3,8:11 PM,6:01,,,MISS Larkins 6' Turnaround Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,203,4,0,3,8:11 PM,6:00,Charles REBOUND (Off:1 Def:4),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,204,2,1,3,8:11 PM,5:52,MISS Prince 11' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,205,4,0,3,8:11 PM,5:51,,,Zellous REBOUND (Off:0 Def:1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,206,9,1,3,8:11 PM,5:50,,,Fever Timeout: Regular (Reg.3 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,208,8,0,3,8:13 PM,5:50,SUB: Stokes FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,209,8,0,3,8:13 PM,5:50,,,SUB: Johnson FOR Coleman,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,210,8,0,3,8:13 PM,5:50,SUB: Rodgers FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,211,6,1,3,8:14 PM,5:38,Charles P.FOUL (P1.T4),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,212,1,5,3,8:14 PM,5:28,,,Zellous 2' Layup (9 PTS) (Clarendon 1 AST),46 - 53,7,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,213,5,1,3,8:15 PM,5:10,Prince Bad Pass Turnover (P2.T8),,Zellous STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,214,2,5,3,8:15 PM,5:05,Charles BLOCK (2 BLK),,MISS Zellous 3' Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1
+1041500201,215,4,0,3,8:15 PM,5:04,,,Zellous REBOUND (Off:1 Def:1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,216,5,4,3,8:15 PM,4:50,,,Larkins Traveling Turnover (P1.T10),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500201,217,2,5,3,8:15 PM,4:36,MISS Charles 2' Layup,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,218,4,0,3,8:15 PM,4:35,Charles REBOUND (Off:2 Def:4),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,219,1,72,3,8:16 PM,4:34,Charles 1' Putback Layup (10 PTS),,,46 - 55,9,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,220,2,1,3,8:16 PM,4:15,,,MISS Johnson  3PT Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,221,4,0,3,8:16 PM,4:14,Prince REBOUND (Off:1 Def:2),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,222,5,1,3,8:16 PM,4:05,Rodgers Bad Pass Turnover (P1.T9),,Johnson STEAL (2 STL),,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,223,2,1,3,8:16 PM,3:57,,,MISS Catchings 18' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,224,4,0,3,8:16 PM,3:56,Charles REBOUND (Off:2 Def:5),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,225,1,1,3,8:16 PM,3:37,Rodgers  3PT Jump Shot (12 PTS) (Prince 2 AST),,,46 - 58,12,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,226,1,42,3,8:17 PM,3:10,,,Catchings 3' Driving Layup (9 PTS),48 - 58,10,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,227,1,5,3,8:17 PM,2:50,Stokes 2' Layup (14 PTS) (Charles 7 AST),,,48 - 60,12,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,231,8,0,3,8:18 PM,2:25,,,SUB: Achonwa FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,229,8,0,3,8:18 PM,2:25,,,SUB: Coleman FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,230,8,0,3,8:18 PM,2:25,SUB: Carson FOR Prince,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,232,5,11,3,8:18 PM,2:23,,,Fever Turnover: Shot Clock (T#11),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500201,233,1,57,3,8:19 PM,2:08,Charles 4' Driving Hook Shot (12 PTS),,,48 - 62,14,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,234,9,1,3,8:19 PM,2:05,,,Fever Timeout: Regular (Reg.4 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,236,2,42,3,8:21 PM,1:46,Stokes BLOCK (2 BLK),,MISS Johnson 2' Driving Layup,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1041500201,237,4,0,3,8:21 PM,1:45,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,239,6,2,3,8:22 PM,1:43,Carson S.FOUL (P1.PN),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,240,18,0,3,8:22 PM,1:43,,Support Ruling,,,,0,239,Darrick Martin,,,,,0,0,,,,,,1,0,,,,,,0
+1041500201,241,3,13,3,8:23 PM,1:43,,,Coleman Free Throw 1 of 3 (8 PTS),49 - 62,13,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,243,3,14,3,8:24 PM,1:43,,,MISS Coleman Free Throw 2 of 3,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,244,4,1,3,8:24 PM,1:43,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,245,8,0,3,8:24 PM,1:43,,,SUB: January FOR Clarendon,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,246,3,15,3,8:24 PM,1:43,,,MISS Coleman Free Throw 3 of 3,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,248,4,0,3,8:24 PM,1:42,Stokes REBOUND (Off:2 Def:2),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,249,6,1,3,8:25 PM,1:33,,,Achonwa P.FOUL (P2.T2),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,250,6,2,3,8:25 PM,1:28,,,Achonwa S.FOUL (P3.PN),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,251,3,11,3,8:25 PM,1:28,Charles Free Throw 1 of 2 (13 PTS),,,49 - 63,14,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,253,3,12,3,8:25 PM,1:28,Charles Free Throw 2 of 2 (14 PTS),,,49 - 64,15,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,255,2,75,3,8:26 PM,1:09,,,MISS Coleman 2' Driving Finger Roll Layup,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,256,4,0,3,8:26 PM,1:07,Wiggins REBOUND (Off:0 Def:3),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,257,6,4,3,8:26 PM,0:56,Wiggins OFF.Foul (P4),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,258,5,5,3,8:26 PM,0:56,Wiggins Foul Turnover (P3.T10),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500201,259,8,0,3,8:26 PM,0:56,SUB: Prince FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,260,2,42,3,8:27 PM,0:38,,,MISS Achonwa 3' Driving Layup,,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,261,4,0,3,8:27 PM,0:36,Rodgers REBOUND (Off:1 Def:1),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,262,2,1,3,8:27 PM,0:20,MISS Prince 24' 3PT Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,263,4,0,3,8:27 PM,0:18,,,Zellous REBOUND (Off:1 Def:2),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,264,2,1,3,8:28 PM,0:01,,,MISS Zellous 15' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,265,4,0,3,8:28 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,266,13,0,3,8:28 PM,0:00,,End of 3rd Period (8:28 PM EST),,49 - 64,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,268,12,0,4,8:31 PM,10:00,,Start of 4th Period (8:31 PM EST),,49 - 64,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,269,2,85,4,8:31 PM,9:40,MISS Charles 8' Turnaround Bank Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,270,4,0,4,8:31 PM,9:39,,,Zellous REBOUND (Off:1 Def:3),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,271,2,58,4,8:32 PM,9:19,,,MISS Larkins 5' Turnaround Hook Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,272,4,0,4,8:32 PM,9:18,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,273,5,38,4,8:32 PM,9:18,,,Fever Turnover: 5 Second Inbound (T#12),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,1
+1041500201,274,1,42,4,8:32 PM,9:01,Rodgers 2' Driving Layup (14 PTS) (Charles 8 AST),,,49 - 66,17,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,275,1,1,4,8:33 PM,8:48,,,Johnson 15' Jump Shot (12 PTS),51 - 66,15,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,276,1,1,4,8:33 PM,8:36,Stokes 10' Jump Shot (16 PTS) (Charles 9 AST),,,51 - 68,17,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,277,6,1,4,8:33 PM,8:23,Charles P.FOUL (P2.T1),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,278,8,0,4,8:33 PM,8:23,SUB: Wright FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,279,5,1,4,8:34 PM,8:15,Wright STEAL (1 STL),,January Bad Pass Turnover (P3.T13),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,280,1,5,4,8:34 PM,8:10,Prince 1' Layup (16 PTS) (Rodgers 3 AST),,,51 - 70,19,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,281,6,2,4,8:34 PM,8:10,,,Catchings S.FOUL (P3.T1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,282,3,10,4,8:34 PM,8:10,Prince Free Throw 1 of 1 (17 PTS),,,51 - 71,20,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,284,1,1,4,8:34 PM,7:54,,,January  3PT Jump Shot (8 PTS) (Johnson 2 AST),54 - 71,17,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,285,6,4,4,8:35 PM,7:38,Stokes OFF.Foul (P1),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,286,5,5,4,8:35 PM,7:38,Stokes Foul Turnover (P1.T11),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500201,287,5,8,4,8:35 PM,7:17,,,Catchings 3 Second Violation Turnover (P3.T14),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500201,288,1,5,4,8:36 PM,6:55,Stokes 1' Layup (18 PTS),,,54 - 73,19,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,289,6,2,4,8:36 PM,6:55,,,Larkins S.FOUL (P3.T2),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,290,8,0,4,8:36 PM,6:55,,,SUB: Clarendon FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,291,3,10,4,8:36 PM,6:55,Stokes Free Throw 1 of 1 (19 PTS),,,54 - 74,20,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,293,2,1,4,8:37 PM,6:40,,,MISS Catchings 24' 3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,294,4,0,4,8:37 PM,6:39,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,295,2,1,4,8:37 PM,6:17,MISS Prince 25' 3PT Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,296,4,0,4,8:37 PM,6:16,Wright REBOUND (Off:1 Def:1),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,297,2,42,4,8:38 PM,6:02,MISS Rodgers 2' Driving Layup,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,298,4,0,4,8:38 PM,6:01,Stokes REBOUND (Off:3 Def:2),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,299,6,2,4,8:38 PM,6:00,,,Catchings S.FOUL (P4.T3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500201,300,3,11,4,8:38 PM,6:00,Stokes Free Throw 1 of 2 (20 PTS),,,54 - 75,21,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,302,8,0,4,8:38 PM,6:00,,,SUB: Pohlen-Mavunga FOR Johnson,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,303,3,12,4,8:38 PM,6:00,Stokes Free Throw 2 of 2 (21 PTS),,,54 - 76,22,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500201,305,1,42,4,8:39 PM,5:43,,,Clarendon 3' Driving Layup (2 PTS),56 - 76,20,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,306,1,42,4,8:39 PM,5:27,Charles 2' Driving Layup (16 PTS) (Rodgers 4 AST),,,56 - 78,22,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,307,1,5,4,8:39 PM,5:06,,,Larkins 2' Layup (8 PTS) (Clarendon 2 AST),58 - 78,20,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,308,2,1,4,8:40 PM,4:46,MISS Rodgers 24' 3PT Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,309,4,0,4,8:40 PM,4:45,,,Zellous REBOUND (Off:1 Def:4),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,310,5,1,4,8:40 PM,4:43,,,Zellous Bad Pass Turnover (P2.T15),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,311,9,4,4,8:40 PM,4:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,313,8,0,4,8:42 PM,4:43,SUB: Wiggins FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,314,8,0,4,8:43 PM,4:43,,,SUB: Howard FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,315,1,96,4,8:43 PM,4:31,Charles 5' Turnaround Bank Hook Shot (18 PTS),,,58 - 80,22,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,316,1,5,4,8:44 PM,4:07,,,Howard 2' Layup (2 PTS) (Larkins 2 AST),60 - 80,20,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,317,2,80,4,8:44 PM,3:48,MISS Charles 12' Step Back Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,318,4,0,4,8:44 PM,3:47,,,Larkins REBOUND (Off:2 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,319,6,1,4,8:44 PM,3:30,Wiggins P.FOUL (P5.T2),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,320,8,0,4,8:44 PM,3:30,SUB: Warley-Talbert FOR Charles,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,203069,Avery Warley-Talbert,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,321,8,0,4,8:45 PM,3:30,SUB: Carson FOR Prince,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,322,8,0,4,8:45 PM,3:30,,,SUB: Achonwa FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,323,8,0,4,8:45 PM,3:30,,,SUB: Lucas FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,324,2,1,4,8:45 PM,3:24,,,MISS Lucas 16' Jump Shot,,,5,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,325,4,0,4,8:45 PM,3:23,Carson REBOUND (Off:0 Def:1),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,326,2,1,4,8:45 PM,3:07,MISS Carson 16' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,327,4,0,4,8:45 PM,3:06,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,328,6,3,4,8:45 PM,3:06,Warley-Talbert L.B.FOUL (P1.T3),,,,,4,203069,Avery Warley-Talbert,1611661313.0,New York,Liberty,NYL,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,329,8,0,4,8:45 PM,3:06,SUB: Wheeler FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,4,204365,Erica Wheeler,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500201,330,2,1,4,8:46 PM,2:53,,,MISS Pohlen-Mavunga 25' 3PT Jump Shot,,,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,331,4,0,4,8:46 PM,2:52,,,Clarendon REBOUND (Off:1 Def:1),,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,332,1,5,4,8:46 PM,2:49,,,Clarendon 2' Layup (4 PTS),62 - 80,18,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,333,2,78,4,8:46 PM,2:27,MISS Rodgers 11' Floating Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,334,4,0,4,8:46 PM,2:26,,,Achonwa REBOUND (Off:0 Def:1),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,335,1,5,4,8:46 PM,2:17,,,Achonwa 2' Layup (2 PTS) (Howard 1 AST),64 - 80,16,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,336,6,2,4,8:46 PM,2:17,Warley-Talbert S.FOUL (P2.T4),,,,,4,203069,Avery Warley-Talbert,1611661313.0,New York,Liberty,NYL,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500201,337,9,1,4,8:46 PM,2:17,LIBERTY Timeout: Regular (Full 2 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,340,3,10,4,8:50 PM,2:17,,,Achonwa Free Throw 1 of 1 (3 PTS),65 - 80,15,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500201,342,5,1,4,8:50 PM,2:02,Wheeler Bad Pass Turnover (P1.T12),,Howard STEAL (1 STL),,,4,204365,Erica Wheeler,1611661313.0,New York,Liberty,NYL,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,343,2,1,4,8:51 PM,1:49,,,MISS Howard 16' Jump Shot,,,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,344,4,0,4,8:51 PM,1:48,,,Howard REBOUND (Off:1 Def:0),,,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,345,2,77,4,8:51 PM,1:42,,,MISS Clarendon 6' Driving Jump Shot,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,346,4,0,4,8:51 PM,1:41,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500201,347,5,2,4,8:51 PM,1:24,Wheeler Lost Ball Turnover (P2.T13),,Howard STEAL (2 STL),,,4,204365,Erica Wheeler,1611661313.0,New York,Liberty,NYL,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500201,348,1,5,4,8:51 PM,1:18,,,Howard 3' Layup (4 PTS) (Achonwa 1 AST),67 - 80,13,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500201,349,1,5,4,8:52 PM,0:53,Warley-Talbert 2' Layup (2 PTS),,,67 - 82,15,4,203069,Avery Warley-Talbert,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,350,2,5,4,8:52 PM,0:42,Stokes BLOCK (3 BLK),,MISS Achonwa 3' Layup,,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1041500201,351,4,0,4,8:52 PM,0:41,Rodgers REBOUND (Off:1 Def:2),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,352,1,5,4,8:52 PM,0:36,Wheeler 2' Layup (2 PTS) (Rodgers 5 AST),,,67 - 84,17,4,204365,Erica Wheeler,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,353,5,2,4,8:52 PM,0:26,Stokes STEAL (1 STL),,Achonwa Lost Ball Turnover (P3.T16),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500201,354,2,1,4,8:53 PM,0:09,MISS Stokes 19' Jump Shot,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500201,355,4,0,4,8:53 PM,0:07,,,Pohlen-Mavunga REBOUND (Off:0 Def:1),,,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500201,356,13,0,4,8:53 PM,0:00,,End of 4th Period (8:53 PM EST),,67 - 84,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,394 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041000201,1,12,0,1,7:11 PM,10:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,2,10,0,1,7:12 PM,10:00,Jump Ball McWilliams-Franklin vs. Lyttle: Tip to C. Miller,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,3,1,1,1,7:12 PM,9:40,,,Lyttle 14' Jump Shot (2 PTS) (C. Miller 1 AST),2 - 0,-2,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,4,5,6,1,7:13 PM,9:23,Mitchell Double Dribble Turnover (P1.T1),,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1041000201,5,5,39,1,7:13 PM,9:13,,,Castro Marques Step Out of Bounds Turnover (P1.T1),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,6,1,63,1,7:14 PM,9:00,Pondexter 13' Fadeaway Jumper (2 PTS),,,2 - 2,TIE,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,7,1,5,1,7:14 PM,8:42,,,Lyttle Layup (4 PTS) (Herrington 1 AST),4 - 2,-2,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,8,2,42,1,7:14 PM,8:23,MISS Pierson Driving Layup,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,9,4,0,1,7:14 PM,8:22,McWilliams-Franklin REBOUND (Off:1 Def:0),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,10,1,72,1,7:14 PM,8:20,McWilliams-Franklin Putback Layup (2 PTS),,,4 - 4,TIE,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,11,1,1,1,7:15 PM,8:09,,,Lyttle 14' Jump Shot (6 PTS) (C. Miller 2 AST),6 - 4,-2,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,12,1,5,1,7:15 PM,7:52,Pierson Layup (2 PTS) (McWilliams-Franklin 1 AST),,,6 - 6,TIE,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,13,2,1,1,7:15 PM,7:43,,,MISS McCoughtry 9' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,14,4,0,1,7:15 PM,7:41,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,15,2,63,1,7:16 PM,7:20,MISS Pondexter 12' Fadeaway Jumper,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,16,4,0,1,7:16 PM,7:18,,,McCoughtry REBOUND (Off:0 Def:1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,17,1,42,1,7:16 PM,7:12,,,McCoughtry Driving Layup (2 PTS),8 - 6,-2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,18,6,2,1,7:16 PM,7:12,Pondexter S.FOUL (P1.T1),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,19,3,10,1,7:16 PM,7:12,,,McCoughtry Free Throw 1 of 1 (3 PTS),9 - 6,-3,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,21,6,1,1,7:17 PM,7:00,,,C. Miller P.FOUL (P1.T1),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,22,1,47,1,7:17 PM,6:54,Powell 12' Turnaround Jump Shot (2 PTS) (Pondexter 1 AST),,,9 - 8,-1,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,23,2,1,1,7:17 PM,6:43,,,MISS Castro Marques 12' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,24,4,0,1,7:17 PM,6:41,,,Herrington REBOUND (Off:1 Def:0),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,25,1,5,1,7:17 PM,6:39,,,Herrington Layup (2 PTS),11 - 8,-3,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,26,1,5,1,7:17 PM,6:32,Pierson Layup (4 PTS) (Powell 1 AST),,,11 - 10,-1,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,27,5,1,1,7:18 PM,6:25,,,C. Miller Bad Pass Turnover (P1.T2),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,28,1,1,1,7:18 PM,6:12,McWilliams-Franklin 13' Jump Shot (4 PTS) (Mitchell 1 AST),,,11 - 12,1,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,29,2,1,1,7:18 PM,5:50,,,MISS McCoughtry 10' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,30,4,0,1,7:18 PM,5:48,McWilliams-Franklin REBOUND (Off:1 Def:1),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,31,1,42,1,7:19 PM,5:37,McWilliams-Franklin Driving Layup (6 PTS),,,11 - 14,3,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,32,1,42,1,7:19 PM,5:29,,,McCoughtry Driving Layup (5 PTS),13 - 14,1,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,33,1,79,1,7:19 PM,5:15,Pondexter 19' Pullup Jump Shot (4 PTS) (Mitchell 2 AST),,,13 - 16,3,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,34,2,1,1,7:20 PM,4:57,,,MISS McCoughtry 12' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,35,4,0,1,7:20 PM,4:56,Pierson REBOUND (Off:0 Def:1),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,36,1,42,1,7:20 PM,4:42,McWilliams-Franklin Driving Layup (8 PTS) (Powell 2 AST),,,13 - 18,5,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,37,2,1,1,7:20 PM,4:31,,,MISS Castro Marques 3PT Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,38,4,0,1,7:20 PM,4:30,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,39,9,4,1,7:20 PM,4:30,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,41,8,0,1,7:23 PM,4:30,SUB: Vaughn FOR Pierson,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,42,8,0,1,7:23 PM,4:30,SUB: Carson FOR Powell,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,43,8,0,1,7:23 PM,4:30,,,SUB: de Souza FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,44,2,1,1,7:23 PM,4:23,,,MISS C. Miller 18' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,45,4,0,1,7:23 PM,4:22,,,Lyttle REBOUND (Off:1 Def:0),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,46,6,2,1,7:23 PM,4:21,Pondexter S.FOUL (P2.T2),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,47,3,11,1,7:24 PM,4:21,,,Lyttle Free Throw 1 of 2 (7 PTS),14 - 18,4,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,49,3,12,1,7:24 PM,4:21,,,Lyttle Free Throw 2 of 2 (8 PTS),15 - 18,3,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,51,2,1,1,7:24 PM,4:08,MISS Pondexter 9' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,52,4,0,1,7:24 PM,4:07,,,Lyttle REBOUND (Off:1 Def:1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,53,2,1,1,7:24 PM,4:02,,,MISS C. Miller 16' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,54,4,0,1,7:24 PM,4:00,Pondexter REBOUND (Off:0 Def:1),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,55,2,5,1,7:24 PM,3:55,MISS Pondexter Layup,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,56,4,0,1,7:24 PM,3:54,Pondexter REBOUND (Off:1 Def:1),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,57,5,39,1,7:24 PM,3:53,Pondexter Step Out of Bounds Turnover (P1.T2),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,58,1,5,1,7:25 PM,3:36,,,Lyttle Layup (10 PTS) (de Souza 1 AST),17 - 18,1,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,59,2,1,1,7:25 PM,3:18,MISS Carson 18' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,60,4,0,1,7:25 PM,3:16,,,de Souza REBOUND (Off:0 Def:1),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,61,2,46,1,7:25 PM,3:03,,,MISS Castro Marques 14' Running Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,62,4,0,1,7:25 PM,3:01,,,Lyttle REBOUND (Off:2 Def:1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,63,1,42,1,7:26 PM,2:44,,,Herrington Driving Layup (4 PTS),19 - 18,-1,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,64,6,1,1,7:26 PM,2:30,,,Lyttle P.FOUL (P1.T2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,65,8,0,1,7:26 PM,2:30,SUB: Powell FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,66,8,0,1,7:26 PM,2:30,SUB: Pierson FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,67,5,1,1,7:27 PM,2:17,Carson Bad Pass Turnover (P1.T3),,Lyttle STEAL (1 STL),,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,68,2,5,1,7:27 PM,2:14,,,MISS C. Miller Layup,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,69,4,0,1,7:27 PM,2:13,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,70,6,3,1,7:27 PM,2:13,McWilliams-Franklin L.B.FOUL (P1.T3),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,71,1,42,1,7:27 PM,2:03,,,Herrington Driving Layup (6 PTS) (C. Miller 3 AST),21 - 18,-3,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,72,5,1,1,7:27 PM,1:56,Carson Bad Pass Turnover (P2.T4),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,73,9,1,1,7:27 PM,1:56,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,78,1,5,1,7:30 PM,1:41,,,de Souza Layup (2 PTS) (Herrington 2 AST),23 - 18,-5,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,79,1,1,1,7:30 PM,1:19,Powell 3PT Jump Shot (5 PTS) (Carson 1 AST),,,23 - 21,-2,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,80,2,1,1,7:31 PM,0:56,,,MISS de Souza 14' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,81,4,0,1,7:31 PM,0:55,,,Lyttle REBOUND (Off:3 Def:1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,82,2,5,1,7:31 PM,0:54,,,MISS Lyttle Layup,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,84,4,0,1,7:31 PM,0:54,,,de Souza REBOUND (Off:1 Def:1),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,83,1,72,1,7:31 PM,0:54,,,de Souza Putback Layup (4 PTS),25 - 21,-4,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,85,2,1,1,7:31 PM,0:37,MISS Carson 13' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,86,4,0,1,7:31 PM,0:35,,,C. Miller REBOUND (Off:0 Def:1),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,87,2,1,1,7:32 PM,0:19,,,MISS de Souza 12' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,88,4,0,1,7:32 PM,0:17,,,Lyttle REBOUND (Off:4 Def:1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,89,2,1,1,7:32 PM,0:15,,,MISS Castro Marques 3PT Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,90,4,0,1,7:32 PM,0:13,,,C. Miller REBOUND (Off:1 Def:1),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,91,1,5,1,7:32 PM,0:12,,,C. Miller Layup (2 PTS),27 - 21,-6,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,92,2,1,1,7:32 PM,0:01,MISS Pierson 3PT Jump Shot,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,93,4,0,1,7:32 PM,0:00,,,de Souza REBOUND (Off:1 Def:2),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,94,13,0,1,7:32 PM,0:00,,End of 1st Period (7:32 PM EST),,27 - 21,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,96,12,0,2,7:35 PM,10:00,,Start of 2nd Period (7:35 PM EST),,27 - 21,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,97,2,1,2,7:35 PM,9:47,MISS Powell 3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,98,4,0,2,7:35 PM,9:45,McWilliams-Franklin REBOUND (Off:2 Def:1),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,99,2,5,2,7:35 PM,9:33,MISS McWilliams-Franklin Layup,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,100,4,0,2,7:35 PM,9:32,,,de Souza REBOUND (Off:1 Def:3),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,101,2,5,2,7:36 PM,9:11,,,MISS C. Miller Layup,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,102,4,0,2,7:36 PM,9:09,Pierson REBOUND (Off:0 Def:2),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,103,2,5,2,7:36 PM,8:59,MISS Pierson Layup,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,104,4,0,2,7:36 PM,8:58,Pierson REBOUND (Off:1 Def:2),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,105,2,1,2,7:36 PM,8:44,MISS Pondexter 3PT Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,106,4,0,2,7:36 PM,8:42,,,Bales REBOUND (Off:0 Def:1),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,107,8,0,2,7:37 PM,8:36,,,SUB: Lehning FOR C. Miller,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,108,5,1,2,7:37 PM,8:31,,,McCoughtry Bad Pass Turnover (P1.T3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,109,2,1,2,7:37 PM,8:10,MISS Powell 3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,111,4,0,2,7:38 PM,8:08,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,110,8,0,2,7:38 PM,8:08,SUB: Vaughn FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,112,10,0,2,7:38 PM,8:08,,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,3,1611661330,,,,,,0
+1041000201,114,6,1,2,7:38 PM,7:54,Powell P.FOUL (P1.T1),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,115,8,0,2,7:39 PM,7:54,SUB: Greene FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,202253,Kalana Greene,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,116,2,46,2,7:39 PM,7:48,,,MISS Castro Marques 9' Running Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,117,4,0,2,7:39 PM,7:46,Vaughn REBOUND (Off:0 Def:1),,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,118,8,0,2,7:39 PM,7:39,,,SUB: Herrington FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,119,8,0,2,7:40 PM,7:39,,,SUB: Lyttle FOR Bales,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,120,1,1,2,7:40 PM,7:33,Pierson 11' Jump Shot (6 PTS) (Vaughn 1 AST),,,27 - 23,-4,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,137,6,10,2,7:41 PM,7:26,," Foul : Double Personal - Herrington (1 PF), Pierson (1 PF)",,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,121,10,0,2,7:41 PM,7:26,Jump Ball Vaughn vs. Lyttle: Tip to Lehning,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,122,1,5,2,7:42 PM,7:07,,,de Souza Layup (6 PTS) (Lyttle 1 AST),29 - 23,-6,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,123,6,1,2,7:43 PM,6:56,,,Lyttle P.FOUL (P2.T1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,124,2,5,2,7:43 PM,6:49,MISS Greene Layup,,de Souza BLOCK (1 BLK),,,4,202253,Kalana Greene,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,125,4,0,2,7:43 PM,6:47,,,Lehning REBOUND (Off:0 Def:1),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,126,2,42,2,7:43 PM,6:45,,,MISS Herrington Driving Layup,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,127,4,0,2,7:43 PM,6:44,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,128,2,1,2,7:44 PM,6:30,MISS Pondexter 17' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,129,4,0,2,7:44 PM,6:28,,,Lyttle REBOUND (Off:4 Def:2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,130,5,40,2,7:44 PM,6:20,,,McCoughtry Out of Bounds Lost Ball Turnover (P2.T4),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,131,2,1,2,7:44 PM,6:09,MISS Pondexter 17' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,132,4,0,2,7:44 PM,6:06,,,Lyttle REBOUND (Off:4 Def:3),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,133,2,5,2,7:44 PM,5:57,,,MISS de Souza Layup,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,134,4,0,2,7:44 PM,5:56,,,de Souza REBOUND (Off:2 Def:3),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,135,9,1,2,7:45 PM,5:49,LIBERTY Timeout: Regular (Full 2 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,138,8,0,2,7:48 PM,5:49,SUB: Mitchell FOR Greene,,,,,4,202253,Kalana Greene,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,140,6,2,2,7:48 PM,5:40,Vaughn S.FOUL (P1.T2),,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,141,3,11,2,7:48 PM,5:40,,,MISS Lehning Free Throw 1 of 2,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,142,4,1,2,7:48 PM,5:40,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,143,3,12,2,7:48 PM,5:40,,,Lehning Free Throw 2 of 2 (1 PTS),30 - 23,-7,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,148,6,2,2,7:49 PM,5:26,,,Lyttle S.FOUL (P3.T2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,149,3,11,2,7:50 PM,5:26,Pondexter Free Throw 1 of 2 (5 PTS),,,30 - 24,-6,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,151,8,0,2,7:50 PM,5:26,,,SUB: Bales FOR Lyttle,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,152,3,12,2,7:50 PM,5:26,Pondexter Free Throw 2 of 2 (6 PTS),,,30 - 25,-5,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,154,2,1,2,7:50 PM,5:15,,,MISS McCoughtry 14' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,155,4,0,2,7:50 PM,5:13,,,Bales REBOUND (Off:1 Def:1),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,156,1,5,2,7:50 PM,5:12,,,Bales Layup (2 PTS),32 - 25,-7,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,157,5,1,2,7:50 PM,5:00,Mitchell Bad Pass Turnover (P2.T5),,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,158,6,1,2,7:51 PM,4:48,Powell P.FOUL (P2.T3),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,159,6,2,2,7:51 PM,4:42,Pierson S.FOUL (P2.T4),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,160,3,11,2,7:52 PM,4:42,,,Herrington Free Throw 1 of 2 (7 PTS),33 - 25,-8,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,162,8,0,2,7:52 PM,4:42,SUB: McWilliams-Franklin FOR Pierson,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,163,3,12,2,7:52 PM,4:42,,,Herrington Free Throw 2 of 2 (8 PTS),34 - 25,-9,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,165,1,42,2,7:53 PM,4:28,Pondexter Driving Layup (8 PTS),,,34 - 27,-7,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,166,2,42,2,7:53 PM,4:19,,,MISS McCoughtry Driving Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,167,4,0,2,7:53 PM,4:18,McWilliams-Franklin REBOUND (Off:2 Def:2),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,168,6,1,2,7:53 PM,4:15,,,Herrington P.FOUL (P2.T3),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,169,8,0,2,7:53 PM,4:15,,,SUB: Leuchanka FOR Bales,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,170,1,1,2,7:53 PM,4:05,Mitchell 3PT Jump Shot (3 PTS),,,34 - 30,-4,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,171,1,42,2,7:54 PM,3:47,,,Lehning Driving Layup (3 PTS),36 - 30,-6,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,172,6,2,2,7:54 PM,3:41,,,de Souza S.FOUL (P1.T4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,173,3,11,2,7:54 PM,3:41,Pondexter Free Throw 1 of 2 (9 PTS),,,36 - 31,-5,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,175,3,12,2,7:54 PM,3:41,Pondexter Free Throw 2 of 2 (10 PTS),,,36 - 32,-4,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,177,2,5,2,7:55 PM,3:29,,,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,178,4,0,2,7:55 PM,3:28,,,McCoughtry REBOUND (Off:1 Def:1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,179,2,5,2,7:55 PM,3:27,Vaughn BLOCK (1 BLK),,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0
+1041000201,180,4,0,2,7:55 PM,3:26,,,de Souza REBOUND (Off:3 Def:3),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,181,6,2,2,7:55 PM,3:25,Vaughn S.FOUL (P2.PN),,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,182,3,11,2,7:55 PM,3:25,,,de Souza Free Throw 1 of 2 (7 PTS),37 - 32,-5,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,183,3,12,2,7:55 PM,3:25,,,de Souza Free Throw 2 of 2 (8 PTS),38 - 32,-6,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,185,1,42,2,7:56 PM,3:13,Pondexter Driving Layup (12 PTS),,,38 - 34,-4,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,186,5,2,2,7:56 PM,3:09,Powell STEAL (1 STL),,McCoughtry Lost Ball Turnover (P3.T5),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,187,9,2,2,7:56 PM,2:52,LIBERTY Timeout: Short (Full 2 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,188,9,1,2,7:57 PM,2:52,,,Dream Timeout: Regular (Reg.1 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,191,2,1,2,8:00 PM,2:48,MISS Pondexter 16' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,192,4,0,2,8:00 PM,2:46,,,de Souza REBOUND (Off:3 Def:4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,193,2,1,2,8:00 PM,2:35,,,MISS McCoughtry 10' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,194,4,0,2,8:00 PM,2:34,McWilliams-Franklin REBOUND (Off:2 Def:3),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,195,2,1,2,8:00 PM,2:21,MISS Pondexter 3PT Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,196,4,0,2,8:00 PM,2:19,,,Leuchanka REBOUND (Off:0 Def:1),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,197,1,40,2,8:01 PM,2:06,,,Leuchanka Layup (2 PTS) (Lehning 1 AST),40 - 34,-6,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,198,5,1,2,8:01 PM,1:43,Powell Bad Pass Turnover (P1.T6),,Herrington STEAL (1 STL),,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,199,2,1,2,8:01 PM,1:29,,,MISS McCoughtry 5' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,200,4,0,2,8:01 PM,1:27,Mitchell REBOUND (Off:0 Def:1),,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,201,1,42,2,8:01 PM,1:22,Pondexter Driving Layup (14 PTS) (Mitchell 3 AST),,,40 - 36,-4,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,202,1,42,2,8:02 PM,1:03,,,McCoughtry Driving Layup (7 PTS),42 - 36,-6,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,203,2,5,2,8:02 PM,0:51,MISS Mitchell Layup,,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,204,4,0,2,8:02 PM,0:50,,,Leuchanka REBOUND (Off:0 Def:2),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,205,1,5,2,8:02 PM,0:33,,,de Souza Layup (10 PTS) (Lehning 2 AST),44 - 36,-8,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,206,1,1,2,8:03 PM,0:11,Powell 3PT Jump Shot (8 PTS) (Pondexter 2 AST),,,44 - 39,-5,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,207,2,42,2,8:03 PM,0:02,McWilliams-Franklin BLOCK (1 BLK),,MISS Herrington Driving Layup,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0
+1041000201,208,4,0,2,8:03 PM,0:01,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,209,8,0,2,8:03 PM,0:01,SUB: Carson FOR Powell,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,210,2,1,2,8:03 PM,0:00,,,MISS de Souza 9' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,211,4,0,2,8:03 PM,0:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,212,13,0,2,8:04 PM,0:00,,End of 2nd Period (8:04 PM EST),,44 - 39,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,214,12,0,3,8:21 PM,10:00,,Start of 3rd Period (8:21 PM EST),,44 - 39,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,215,1,79,3,8:21 PM,9:43,Pondexter 12' Pullup Jump Shot (16 PTS),,,44 - 41,-3,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,216,2,1,3,8:21 PM,9:25,,,MISS C. Miller 13' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,217,4,0,3,8:22 PM,9:24,Pierson REBOUND (Off:1 Def:3),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,218,10,0,3,8:22 PM,9:23,Jump Ball Pierson vs. Herrington: Tip to Herrington,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,219,5,2,3,8:22 PM,9:23,Pierson Lost Ball Turnover (P1.T7),,Herrington STEAL (2 STL),,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,220,2,1,3,8:23 PM,9:06,,,MISS Lyttle 9' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,221,4,0,3,8:23 PM,9:04,McWilliams-Franklin REBOUND (Off:2 Def:4),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,222,1,42,3,8:23 PM,8:53,Pierson Driving Layup (8 PTS),,,44 - 43,-1,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,223,6,2,3,8:23 PM,8:53,,,McCoughtry S.FOUL (P1.T1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,224,3,10,3,8:23 PM,8:53,Pierson Free Throw 1 of 1 (9 PTS),,,44 - 44,TIE,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,226,5,1,3,8:24 PM,8:36,,,Lyttle Bad Pass Turnover (P1.T6),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,227,1,1,3,8:24 PM,8:12,Mitchell 3PT Jump Shot (6 PTS) (McWilliams-Franklin 2 AST),,,44 - 47,3,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,228,2,1,3,8:24 PM,7:52,,,MISS Herrington 15' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,229,4,0,3,8:24 PM,7:51,,,McCoughtry REBOUND (Off:2 Def:1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,230,6,2,3,8:25 PM,7:50,McWilliams-Franklin S.FOUL (P2.T1),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,231,3,11,3,8:25 PM,7:50,,,MISS McCoughtry Free Throw 1 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,232,4,1,3,8:25 PM,7:50,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,233,3,12,3,8:25 PM,7:50,,,McCoughtry Free Throw 2 of 2 (8 PTS),45 - 47,2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,235,1,1,3,8:26 PM,7:31,Pierson 3PT Jump Shot (12 PTS) (Powell 3 AST),,,45 - 50,5,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,236,2,1,3,8:26 PM,7:17,,,MISS Lyttle 11' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,237,4,0,3,8:26 PM,7:16,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,238,2,47,3,8:26 PM,7:07,,,MISS McCoughtry 12' Turnaround Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,239,4,0,3,8:26 PM,7:05,McWilliams-Franklin REBOUND (Off:2 Def:5),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,240,1,5,3,8:26 PM,6:56,Pierson Layup (14 PTS) (McWilliams-Franklin 3 AST),,,45 - 52,7,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,241,9,1,3,8:26 PM,6:55,,,Dream Timeout: Regular (Reg.2 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,244,8,0,3,8:29 PM,6:55,,,SUB: Lehning FOR C. Miller,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,246,8,0,3,8:29 PM,6:55,,,SUB: de Souza FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,247,2,45,3,8:29 PM,6:37,,,MISS Lehning 10' Jump Shot,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,245,4,0,3,8:29 PM,6:36,McWilliams-Franklin REBOUND (Off:2 Def:6),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,248,2,1,3,8:30 PM,6:14,MISS Mitchell 3PT Jump Shot,,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,249,4,0,3,8:30 PM,6:12,Powell REBOUND (Off:1 Def:0),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,250,2,1,3,8:30 PM,6:09,MISS Pondexter 15' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,251,4,0,3,8:30 PM,6:08,,,Lyttle REBOUND (Off:4 Def:4),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,252,1,66,3,8:30 PM,6:02,,,Castro Marques 7' Jump Bank Shot (2 PTS),47 - 52,5,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,253,2,1,3,8:31 PM,5:40,MISS Powell 3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,254,4,0,3,8:31 PM,5:38,,,de Souza REBOUND (Off:3 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,256,1,42,3,8:31 PM,5:32,,,Lyttle Driving Layup (12 PTS) (Lehning 3 AST),49 - 52,3,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,258,1,5,3,8:31 PM,5:14,Pierson Layup (16 PTS) (Mitchell 4 AST),,,49 - 54,5,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,259,1,1,3,8:31 PM,4:58,,,Lyttle 17' Jump Shot (14 PTS) (Lehning 4 AST),51 - 54,3,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,260,5,1,3,8:32 PM,4:39,Pierson Bad Pass Turnover (P2.T8),,Lyttle STEAL (2 STL),,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,261,6,1,3,8:32 PM,4:39,Mitchell P.FOUL (P1.T2),,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,262,8,0,3,8:32 PM,4:39,SUB: Vaughn FOR Pierson,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,263,2,1,3,8:32 PM,4:26,Powell BLOCK (1 BLK),,MISS Herrington 16' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0
+1041000201,264,4,0,3,8:32 PM,4:24,Powell REBOUND (Off:1 Def:1),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,265,6,1,3,8:32 PM,4:20,,,Lehning P.FOUL (P1.T2),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,266,1,44,3,8:33 PM,4:11,Vaughn Reverse Layup (2 PTS) (Mitchell 5 AST),,,51 - 56,5,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,267,2,1,3,8:33 PM,3:54,,,MISS de Souza 7' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,268,4,0,3,8:33 PM,3:52,McWilliams-Franklin REBOUND (Off:2 Def:7),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,269,5,1,3,8:33 PM,3:44,Powell Bad Pass Turnover (P2.T9),,Lehning STEAL (1 STL),,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,270,2,5,3,8:33 PM,3:34,,,MISS de Souza Layup,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,271,4,0,3,8:33 PM,3:33,Vaughn REBOUND (Off:0 Def:2),,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,272,2,1,3,8:34 PM,3:10,MISS McWilliams-Franklin 14' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,273,4,0,3,8:34 PM,3:07,,,de Souza REBOUND (Off:3 Def:6),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,274,1,1,3,8:34 PM,2:44,,,Lehning 3PT Jump Shot (6 PTS) (Herrington 3 AST),54 - 56,2,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,275,6,2,3,8:35 PM,2:21,,,Castro Marques S.FOUL (P1.T3),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,276,8,0,3,8:35 PM,2:21,SUB: Carson FOR Powell,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,277,3,11,3,8:35 PM,2:21,MISS Vaughn Free Throw 1 of 2,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,278,4,1,3,8:35 PM,2:21,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,279,3,12,3,8:35 PM,2:21,MISS Vaughn Free Throw 2 of 2,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,281,4,0,3,8:36 PM,2:19,,,Lyttle REBOUND (Off:4 Def:5),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,282,2,1,3,8:36 PM,2:03,,,MISS Herrington 14' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,283,4,0,3,8:36 PM,2:02,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,284,2,1,3,8:36 PM,1:46,MISS Pondexter 16' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,285,4,0,3,8:36 PM,1:44,,,Herrington REBOUND (Off:1 Def:1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,286,2,42,3,8:36 PM,1:40,Vaughn BLOCK (2 BLK),,MISS Herrington Driving Layup,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,0
+1041000201,287,4,0,3,8:36 PM,1:40,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,288,8,0,3,8:37 PM,1:40,SUB: Spencer FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,289,2,1,3,8:37 PM,1:34,,,MISS Lehning 3PT Jump Shot,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,290,4,0,3,8:37 PM,1:31,Spencer REBOUND (Off:0 Def:1),,,,,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,291,5,1,3,8:37 PM,1:18,McWilliams-Franklin Bad Pass Turnover (P1.T10),,Lyttle STEAL (3 STL),,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,292,1,5,3,8:37 PM,1:12,,,Lyttle Layup (16 PTS) (Castro Marques 1 AST),56 - 56,TIE,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,293,2,5,3,8:38 PM,0:54,MISS Carson Layup,,de Souza BLOCK (2 BLK),,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,294,4,0,3,8:38 PM,0:52,,,Lyttle REBOUND (Off:4 Def:6),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,295,2,1,3,8:38 PM,0:28,,,MISS Herrington 17' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,296,4,0,3,8:38 PM,0:27,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,297,6,3,3,8:38 PM,0:27,,,de Souza L.B.FOUL (P2.T4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,298,8,0,3,8:38 PM,0:27,SUB: Pierson FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,299,8,0,3,8:38 PM,0:27,,,SUB: McCoughtry FOR Herrington,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,300,2,5,3,8:39 PM,0:08,MISS Mitchell Layup,,Lyttle BLOCK (1 BLK),,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,301,4,0,3,8:39 PM,0:07,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,303,5,2,3,8:39 PM,0:00,Carson STEAL (1 STL),,Lyttle Lost Ball Turnover (P2.T7),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,304,13,0,3,8:40 PM,0:00,,End of 3rd Period (8:40 PM EST),,56 - 56,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,306,12,0,4,8:43 PM,10:00,,Start of 4th Period (8:43 PM EST),,56 - 56,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,307,6,1,4,8:43 PM,9:45,Pierson P.FOUL (P3.T1),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,308,3,11,4,8:43 PM,9:45,,,de Souza Free Throw 1 of 2 (11 PTS),57 - 56,-1,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,310,3,12,4,8:43 PM,9:45,,,de Souza Free Throw 2 of 2 (12 PTS),58 - 56,-2,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,312,2,1,4,8:44 PM,9:28,MISS Spencer 11' Jump Shot,,,,,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,313,4,0,4,8:44 PM,9:26,,,McCoughtry REBOUND (Off:2 Def:2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,314,1,42,4,8:44 PM,9:12,,,Castro Marques Driving Layup (4 PTS),60 - 56,-4,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,315,2,1,4,8:44 PM,8:55,MISS Carson 13' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,316,4,0,4,8:44 PM,8:53,,,Lyttle REBOUND (Off:4 Def:7),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,317,6,2,4,8:45 PM,8:48,Carson S.FOUL (P1.T2),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,318,3,11,4,8:45 PM,8:48,,,MISS McCoughtry Free Throw 1 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,319,4,1,4,8:45 PM,8:48,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,320,8,0,4,8:45 PM,8:48,SUB: Powell FOR Spencer,,,,,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,321,3,12,4,8:45 PM,8:48,,,MISS McCoughtry Free Throw 2 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,323,4,0,4,8:45 PM,8:47,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,324,6,3,4,8:45 PM,8:47,,,Lyttle L.B.FOUL (P4.T1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,325,8,0,4,8:46 PM,8:47,,,SUB: Leuchanka FOR Lyttle,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,326,1,1,4,8:46 PM,8:32,Pierson 14' Jump Shot (18 PTS) (Pondexter 3 AST),,,60 - 58,-2,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,327,1,5,4,8:46 PM,8:15,,,Leuchanka Layup (4 PTS) (McCoughtry 1 AST),62 - 58,-4,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,328,6,1,4,8:46 PM,8:10,,,McCoughtry P.FOUL (P2.T2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,329,8,0,4,8:47 PM,8:10,SUB: Mitchell FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,330,1,1,4,8:47 PM,7:58,Vaughn 9' Jump Shot (4 PTS) (Mitchell 6 AST),,,62 - 60,-2,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,331,1,42,4,8:47 PM,7:44,,,Lehning Driving Layup (8 PTS),64 - 60,-4,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,332,2,1,4,8:48 PM,7:30,MISS Pierson 18' Jump Shot,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,333,4,0,4,8:48 PM,7:28,,,de Souza REBOUND (Off:3 Def:7),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,334,2,1,4,8:48 PM,7:12,,,MISS McCoughtry 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,335,4,0,4,8:48 PM,7:10,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,336,5,1,4,8:48 PM,6:49,Pierson Bad Pass Turnover (P3.T11),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,337,8,0,4,8:49 PM,6:49,,,SUB: Bales FOR Leuchanka,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,338,9,1,4,8:49 PM,6:49,LIBERTY Timeout: Regular (Full 3 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,341,5,40,4,8:52 PM,6:30,,,McCoughtry Out of Bounds Lost Ball Turnover (P4.T8),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,342,1,1,4,8:52 PM,6:15,Powell 3PT Jump Shot (11 PTS) (Pondexter 4 AST),,,64 - 63,-1,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,343,2,5,4,8:52 PM,5:59,,,MISS Lehning Layup,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,344,4,0,4,8:52 PM,5:58,,,de Souza REBOUND (Off:4 Def:7),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,345,6,2,4,8:53 PM,5:46,Pierson S.FOUL (P4.T3),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,346,8,0,4,8:53 PM,5:46,SUB: McWilliams-Franklin FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661313.0,New York,Liberty,NYL,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,347,3,11,4,8:53 PM,5:46,,,McCoughtry Free Throw 1 of 2 (9 PTS),65 - 63,-2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,349,3,12,4,8:53 PM,5:46,,,McCoughtry Free Throw 2 of 2 (10 PTS),66 - 63,-3,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,351,6,1,4,8:54 PM,5:31,,,McCoughtry P.FOUL (P3.T3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,352,2,1,4,8:55 PM,5:22,MISS Mitchell 3PT Jump Shot,,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,353,4,0,4,8:55 PM,5:20,,,McCoughtry REBOUND (Off:2 Def:3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,354,6,2,4,8:55 PM,5:01,Powell S.FOUL (P3.T4),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,355,3,11,4,8:55 PM,5:01,,,McCoughtry Free Throw 1 of 2 (11 PTS),67 - 63,-4,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,357,3,12,4,8:56 PM,5:01,,,McCoughtry Free Throw 2 of 2 (12 PTS),68 - 63,-5,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,359,6,1,4,8:56 PM,4:51,,,Bales P.FOUL (P1.T4),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,360,2,1,4,8:57 PM,4:43,MISS Powell 3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,361,4,0,4,8:57 PM,4:41,Pierson REBOUND (Off:2 Def:3),,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,362,1,1,4,8:57 PM,4:30,Pondexter 3PT Jump Shot (19 PTS) (Powell 4 AST),,,68 - 66,-2,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,363,1,1,4,8:57 PM,4:13,,,McCoughtry 18' Jump Shot (14 PTS) (Lehning 5 AST),70 - 66,-4,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,364,10,0,4,8:58 PM,3:55,Jump Ball Pondexter vs. Bales: Tip to de Souza,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,365,5,2,4,8:58 PM,3:55,Pondexter Lost Ball Turnover (P2.T12),,Bales STEAL (1 STL),,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,366,2,1,4,8:59 PM,3:34,,,MISS Castro Marques 8' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,367,4,0,4,8:59 PM,3:34,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,368,6,3,4,8:59 PM,3:34,,,McCoughtry L.B.FOUL (P4.PN),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,370,3,11,4,8:59 PM,3:34,Powell Free Throw 1 of 2 (12 PTS),,,70 - 67,-3,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,373,8,0,4,9:00 PM,3:34,,,SUB: Lyttle FOR Bales,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,374,3,12,4,9:00 PM,3:34,Powell Free Throw 2 of 2 (13 PTS),,,70 - 68,-2,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,376,6,2,4,9:00 PM,3:22,Powell S.FOUL (P4.PN),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,377,3,11,4,9:01 PM,3:22,,,McCoughtry Free Throw 1 of 2 (15 PTS),71 - 68,-3,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,379,3,12,4,9:01 PM,3:22,,,McCoughtry Free Throw 2 of 2 (16 PTS),72 - 68,-4,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,381,1,42,4,9:01 PM,3:11,Pondexter Driving Layup (21 PTS),,,72 - 70,-2,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,382,6,2,4,9:01 PM,3:11,,,Castro Marques S.FOUL (P2.PN),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,383,8,0,4,9:01 PM,3:11,SUB: Carson FOR Mitchell,,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,384,3,10,4,9:02 PM,3:11,Pondexter Free Throw 1 of 1 (22 PTS),,,72 - 71,-1,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,386,6,2,4,9:02 PM,2:59,McWilliams-Franklin S.FOUL (P3.PN),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,387,9,4,4,9:02 PM,2:59,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,390,3,11,4,9:05 PM,2:59,,,McCoughtry Free Throw 1 of 2 (17 PTS),73 - 71,-2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,392,3,12,4,9:05 PM,2:59,,,McCoughtry Free Throw 2 of 2 (18 PTS),74 - 71,-3,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,394,2,1,4,9:06 PM,2:39,MISS Pierson 14' Jump Shot,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,395,4,0,4,9:06 PM,2:37,Powell REBOUND (Off:2 Def:1),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,396,2,5,4,9:06 PM,2:37,MISS Powell Layup,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,397,4,0,4,9:06 PM,2:37,Powell REBOUND (Off:3 Def:1),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,398,6,2,4,9:06 PM,2:37,,,McCoughtry S.FOUL (P5.PN),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,399,3,11,4,9:07 PM,2:37,Powell Free Throw 1 of 2 (14 PTS),,,74 - 72,-2,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,401,8,0,4,9:07 PM,2:37,,,SUB: Herrington FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,402,3,12,4,9:07 PM,2:37,Powell Free Throw 2 of 2 (15 PTS),,,74 - 73,-1,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,404,2,5,4,9:07 PM,2:25,Carson BLOCK (1 BLK),,MISS Herrington Layup,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0
+1041000201,405,4,0,4,9:07 PM,2:20,,,Herrington REBOUND (Off:2 Def:1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,406,2,1,4,9:07 PM,2:14,Pierson BLOCK (1 BLK),,MISS Lyttle 18' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,0
+1041000201,407,4,0,4,9:07 PM,2:12,McWilliams-Franklin REBOUND (Off:2 Def:8),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,408,5,1,4,9:08 PM,1:50,McWilliams-Franklin Bad Pass Turnover (P2.T13),,de Souza STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,409,2,56,4,9:08 PM,1:30,,,MISS Castro Marques 13' Running Hook Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,410,4,0,4,9:08 PM,1:29,McWilliams-Franklin REBOUND (Off:2 Def:9),,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,411,5,2,4,9:08 PM,1:08,Pierson Lost Ball Turnover (P4.T14),,de Souza STEAL (2 STL),,,4,100888,Plenette Pierson,1611661313.0,New York,Liberty,NYL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,412,6,2,4,9:09 PM,1:03,Carson S.FOUL (P2.PN),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,413,8,0,4,9:09 PM,1:03,,,SUB: McCoughtry FOR Herrington,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,414,3,11,4,9:09 PM,1:03,,,MISS Castro Marques Free Throw 1 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,415,4,1,4,9:09 PM,1:03,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,416,8,0,4,9:09 PM,1:03,SUB: Mitchell FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,417,3,12,4,9:09 PM,1:03,,,MISS Castro Marques Free Throw 2 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,419,4,0,4,9:10 PM,1:01,Pondexter REBOUND (Off:1 Def:2),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,420,6,2,4,9:10 PM,0:54,,,Castro Marques S.FOUL (P3.PN),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1041000201,421,3,11,4,9:10 PM,0:54,Pondexter Free Throw 1 of 2 (23 PTS),,,74 - 74,TIE,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,423,8,0,4,9:10 PM,0:54,SUB: Carson FOR Mitchell,,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,424,9,1,4,9:10 PM,0:54,,,Dream Timeout: Regular (Reg.3 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,426,8,0,4,9:13 PM,0:54,SUB: Greene FOR Powell,,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,4,202253,Kalana Greene,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,427,3,12,4,9:13 PM,0:54,Pondexter Free Throw 2 of 2 (24 PTS),,,74 - 75,1,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,429,6,1,4,9:13 PM,0:44,Carson P.FOUL (P3.PN),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,430,3,11,4,9:14 PM,0:44,,,McCoughtry Free Throw 1 of 2 (19 PTS),75 - 75,TIE,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,431,3,12,4,9:14 PM,0:44,,,McCoughtry Free Throw 2 of 2 (20 PTS),76 - 75,-1,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,433,9,1,4,9:14 PM,0:44,LIBERTY Timeout: Regular (Full 4 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,435,8,0,4,9:16 PM,0:44,SUB: Powell FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,436,8,0,4,9:16 PM,0:44,SUB: Mitchell FOR Greene,,,,,4,202253,Kalana Greene,1611661313.0,New York,Liberty,NYL,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,437,8,0,4,9:16 PM,0:44,,,SUB: Herrington FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,438,2,5,4,9:17 PM,0:36,MISS Pondexter Layup,,McCoughtry BLOCK (1 BLK),,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1041000201,439,4,0,4,9:17 PM,0:35,,,Lyttle REBOUND (Off:4 Def:8),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,440,1,42,4,9:17 PM,0:31,,,Castro Marques Driving Layup (6 PTS) (Lyttle 2 AST),78 - 75,-3,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,441,9,2,4,9:17 PM,0:31,LIBERTY Timeout: Short (Full 4 Short 2),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,445,5,1,4,9:18 PM,0:26,McWilliams-Franklin Bad Pass Turnover (P3.T15),,Lehning STEAL (2 STL),,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000201,446,9,2,4,9:18 PM,0:26,,,Dream Timeout: Short (Reg.3 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000201,447,8,0,4,9:19 PM,0:26,SUB: Spencer FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661313.0,New York,Liberty,NYL,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041000201,449,6,1,4,9:20 PM,0:25,Powell P.FOUL (P5.PN),,,,,4,100919,Nicole Powell,1611661313.0,New York,Liberty,NYL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,450,3,11,4,9:20 PM,0:25,,,McCoughtry Free Throw 1 of 2 (21 PTS),79 - 75,-4,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,452,3,12,4,9:20 PM,0:25,,,MISS McCoughtry Free Throw 2 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,454,4,0,4,9:20 PM,0:24,,,Lyttle REBOUND (Off:5 Def:8),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,455,6,1,4,9:20 PM,0:23,Mitchell P.FOUL (P2.PN),,,,,4,201507,Leilani Mitchell,1611661313.0,New York,Liberty,NYL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000201,456,3,11,4,9:21 PM,0:23,,,Lyttle Free Throw 1 of 2 (17 PTS),80 - 75,-5,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,458,3,12,4,9:21 PM,0:23,,,Lyttle Free Throw 2 of 2 (18 PTS),81 - 75,-6,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,460,2,1,4,9:21 PM,0:11,MISS Spencer 3PT Jump Shot,,,,,4,201086,Sidney Spencer,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,461,4,0,4,9:21 PM,0:09,Pondexter REBOUND (Off:2 Def:2),,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,462,2,5,4,9:21 PM,0:08,MISS Pondexter Layup,,,,,4,200665,Cappie Pondexter,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041000201,463,4,0,4,9:21 PM,0:07,,,Castro Marques REBOUND (Off:0 Def:1),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000201,464,13,0,4,9:21 PM,0:00,,End of 4th Period (9:21 PM EST),,81 - 75,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,372 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042300101,2,12,0,1,10:06 PM,10:00,,Start of 1st Period (10:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,4,10,0,1,10:06 PM,10:00,Jump Ball Wilson vs. E. Williams: Tip to Plum,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,7,2,79,1,10:06 PM,9:47,MISS Young 12' Pullup Jump Shot,,E. Williams BLOCK (1 BLK),,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,1
+1042300101,9,4,0,1,10:06 PM,9:43,,,Mabrey REBOUND (Off:0 Def:1),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,10,5,1,1,10:07 PM,9:39,Stokes STEAL (1 STL),,Copper Bad Pass Turnover (P1.T1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,12,1,86,1,10:07 PM,9:17,Young 13' Turnaround Fadeaway (2 PTS) (Gray 1 AST),,,0 - 2,2,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,14,2,1,1,10:07 PM,9:00,,,MISS C. Williams 19' Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,15,4,0,1,10:07 PM,8:56,Stokes REBOUND (Off:0 Def:1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,16,1,86,1,10:07 PM,8:48,Gray 11' Turnaround Fadeaway (2 PTS),,,0 - 4,4,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,17,2,79,1,10:08 PM,8:38,,,MISS Mabrey 15' Pullup Jump Shot,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,18,4,0,1,10:08 PM,8:37,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,20,1,98,1,10:08 PM,8:26,Wilson 3' Cutting Layup Shot (2 PTS) (Gray 2 AST),,,0 - 6,6,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,22,6,2,1,10:08 PM,8:26,,,Smith S.FOUL (P1.T1),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,24,3,10,1,10:08 PM,8:26,MISS Wilson Free Throw 1 of 1,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,25,4,0,1,10:08 PM,8:24,,,Smith REBOUND (Off:0 Def:1),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,26,1,6,1,10:09 PM,8:02,,,Smith 2' Driving Layup (2 PTS) (C. Williams 1 AST),2 - 6,4,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,28,1,6,1,10:09 PM,7:47,Wilson 3' Driving Layup (4 PTS) (Gray 3 AST),,,2 - 8,6,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,30,1,1,1,10:09 PM,7:32,,,C. Williams 25' 3PT Jump Shot (3 PTS) (Mabrey 1 AST),5 - 8,3,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,32,2,79,1,10:10 PM,7:13,MISS Gray 28' 3PT Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,33,4,0,1,10:10 PM,7:10,,,C. Williams REBOUND (Off:0 Def:1),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,34,2,6,1,10:10 PM,7:04,,,MISS Copper 5' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,35,4,0,1,10:10 PM,7:04,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,36,6,3,1,10:10 PM,7:04,,,Smith L.B.FOUL (P2.T2),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,38,1,98,1,10:10 PM,6:56,Plum 5' Cutting Layup Shot (2 PTS) (Young 1 AST),,,5 - 10,5,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,41,5,2,1,10:11 PM,6:36,Gray STEAL (1 STL),,Mabrey Lost Ball Turnover (P1.T2),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,43,2,41,1,10:11 PM,6:30,MISS Young 4' Running Layup,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,44,4,0,1,10:11 PM,6:25,,,Mabrey REBOUND (Off:0 Def:2),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,45,2,1,1,10:11 PM,6:19,,,MISS Smith 24' 3PT Jump Shot,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,46,4,0,1,10:11 PM,6:16,Stokes REBOUND (Off:0 Def:2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,47,1,41,1,10:11 PM,6:13,Wilson 4' Running Layup (6 PTS) (Young 2 AST),,,5 - 12,7,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,49,9,1,1,10:11 PM,6:13,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,50,6,2,1,10:15 PM,6:00,Young S.FOUL (P1.T1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,52,3,11,1,10:15 PM,6:00,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,53,4,1,1,10:15 PM,6:00,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,54,3,12,1,10:16 PM,6:00,,,Copper Free Throw 2 of 2 (1 PTS),6 - 12,6,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,56,1,5,1,10:16 PM,5:41,Wilson 2' Layup (8 PTS) (Plum 1 AST),,,6 - 14,8,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,58,1,75,1,10:16 PM,5:21,,,Mabrey 6' Driving Finger Roll Layup (2 PTS),8 - 14,6,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,59,1,6,1,10:17 PM,5:00,Gray 3' Driving Layup (4 PTS),,,8 - 16,8,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,60,6,2,1,10:17 PM,4:47,Wilson S.FOUL (P1.T2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,62,3,11,1,10:18 PM,4:47,,,Smith Free Throw 1 of 2 (3 PTS),9 - 16,7,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,88,8,0,1,10:18 PM,4:47,SUB: Clark FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,67,3,12,1,10:18 PM,4:47,,,Smith Free Throw 2 of 2 (4 PTS),10 - 16,6,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,68,2,1,1,10:18 PM,4:37,MISS Wilson 20' Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,69,4,0,1,10:18 PM,4:33,,,Copper REBOUND (Off:0 Def:1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,71,1,44,1,10:19 PM,4:20,,,Smith 3' Reverse Layup (6 PTS) (C. Williams 2 AST),12 - 16,4,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,73,1,79,1,10:19 PM,4:01,Plum 20' Pullup Jump Shot (4 PTS) (Clark 1 AST),,,12 - 18,6,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,75,5,1,1,10:19 PM,3:45,Clark STEAL (1 STL),,Mabrey Bad Pass Turnover (P2.T3),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,77,1,41,1,10:19 PM,3:40,Clark 4' Running Layup (2 PTS) (Young 3 AST),,,12 - 20,8,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,79,1,5,1,10:20 PM,3:17,,,Smith 5' Layup (8 PTS) (C. Williams 3 AST),14 - 20,6,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,81,2,79,1,10:20 PM,2:58,MISS Wilson 10' Pullup Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,82,4,0,1,10:20 PM,2:56,,,E. Williams REBOUND (Off:0 Def:1),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,83,5,4,1,10:20 PM,2:49,,,Smith Traveling Turnover (P1.T4),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042300101,84,8,0,1,10:20 PM,2:49,SUB: Gray FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,85,8,0,1,10:20 PM,2:49,,,SUB: Evans FOR Mabrey,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,90,6,2,1,10:21 PM,2:36,,,Smith S.FOUL (P3.T3),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,92,3,11,1,10:21 PM,2:36,Young Free Throw 1 of 2 (3 PTS),,,14 - 21,7,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,93,8,0,1,10:21 PM,2:36,,,SUB: Bertsch FOR Smith,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,5,1629571,Morgan Bertsch,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,95,3,12,1,10:22 PM,2:36,Young Free Throw 2 of 2 (4 PTS),,,14 - 22,8,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,96,2,1,1,10:22 PM,2:21,,,MISS Bertsch 26' 3PT Jump Shot,,,5,1629571,Morgan Bertsch,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,97,4,0,1,10:22 PM,2:18,Gray REBOUND (Off:0 Def:1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,98,2,103,1,10:22 PM,2:13,MISS Gray 18' Running Pull-Up Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,99,4,0,1,10:22 PM,2:11,,,E. Williams REBOUND (Off:0 Def:2),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,100,2,6,1,10:22 PM,1:48,,,MISS Evans 4' Driving Layup,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,101,4,0,1,10:22 PM,1:47,Clark REBOUND (Off:0 Def:1),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,102,5,1,1,10:23 PM,1:43,Gray Bad Pass Turnover (P1.T1),,C. Williams STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,104,6,2,1,10:23 PM,1:39,Gray S.FOUL (P1.T3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,106,3,11,1,10:23 PM,1:39,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,107,4,1,1,10:23 PM,1:39,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,108,3,12,1,10:24 PM,1:39,,,Copper Free Throw 2 of 2 (2 PTS),15 - 22,7,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,109,1,80,1,10:24 PM,1:28,Clark 25' 3PT Step Back Jump Shot (5 PTS),,,15 - 25,10,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,110,2,79,1,10:24 PM,1:18,,,MISS Evans 25' 3PT Pullup Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,111,4,0,1,10:24 PM,1:15,Wilson REBOUND (Off:0 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,112,8,0,1,10:24 PM,1:03,SUB: Colson FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,114,8,0,1,10:25 PM,1:03,,,SUB: Hebard FOR E. Williams,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,116,10,0,1,10:25 PM,1:03,Jump Ball Wilson vs. Bertsch: Tip to Colson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629571,Morgan Bertsch,1611661329.0,Chicago,Sky,CHI,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0
+1042300101,119,6,2,1,10:25 PM,0:57,,,Copper S.FOUL (P1.T4),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,121,3,11,1,10:26 PM,0:57,Young Free Throw 1 of 2 (5 PTS),,,15 - 26,11,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,122,8,0,1,10:26 PM,0:57,SUB: Stokes FOR Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,124,3,12,1,10:26 PM,0:57,Young Free Throw 2 of 2 (6 PTS),,,15 - 27,12,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,125,2,1,1,10:26 PM,0:37,,,MISS Hebard 14' Jump Shot,,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,126,4,0,1,10:26 PM,0:35,Stokes REBOUND (Off:0 Def:3),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,127,5,1,1,10:26 PM,0:33,Stokes Bad Pass Turnover (P1.T2),,Evans STEAL (1 STL),,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,129,2,79,1,10:26 PM,0:29,,,MISS C. Williams 15' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,130,4,0,1,10:26 PM,0:26,Stokes REBOUND (Off:0 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,131,5,1,1,10:27 PM,0:05,Colson Bad Pass Turnover (P1.T3),,Hebard STEAL (1 STL),,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,133,2,79,1,10:27 PM,0:01,,,MISS C. Williams 25' 3PT Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,134,4,0,1,10:27 PM,0:01,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,135,13,0,1,10:27 PM,0:00,,End of 1st Period (10:27 PM EST),,15 - 27,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,138,12,0,2,10:31 PM,10:00,,Start of 2nd Period (10:31 PM EST),,15 - 27,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,139,2,1,2,10:32 PM,9:42,,,MISS Evans 27' 3PT Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,140,4,0,2,10:32 PM,9:40,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,142,2,1,2,10:32 PM,9:37,,,MISS Mabrey 19' Jump Shot,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,143,4,0,2,10:32 PM,9:35,Stokes REBOUND (Off:0 Def:5),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,144,1,79,2,10:32 PM,9:16,Gray 19' Pullup Jump Shot (6 PTS) (Young 4 AST),,,15 - 29,14,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,145,2,79,2,10:33 PM,8:57,,,MISS Bertsch 9' Pullup Jump Shot,,,5,1629571,Morgan Bertsch,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,146,4,0,2,10:33 PM,8:54,Stokes REBOUND (Off:0 Def:6),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,162,8,0,2,10:33 PM,8:48,SUB: Plum FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,149,10,0,2,10:34 PM,8:48,Jump Ball Colson vs. Bertsch: Tip to Plum,,,,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,5,1629571,Morgan Bertsch,1611661329.0,Chicago,Sky,CHI,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0
+1042300101,152,1,1,2,10:34 PM,8:38,Plum 8' Jump Shot (6 PTS),,,15 - 31,16,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,153,1,103,2,10:34 PM,8:32,,,Copper 24' 3PT Running Pull-Up Jump Shot (5 PTS) (Evans 1 AST),18 - 31,13,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,157,2,1,2,10:34 PM,8:07,MISS Colson 26' 3PT Jump Shot,,,,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,158,4,0,2,10:35 PM,8:04,,,Copper REBOUND (Off:0 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,159,6,2,2,10:35 PM,8:00,Stokes S.FOUL (P1.T1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,161,3,11,2,10:35 PM,8:00,,,Copper Free Throw 1 of 2 (6 PTS),19 - 31,12,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,164,8,0,2,10:35 PM,8:00,SUB: Wilson FOR Clark,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,165,8,0,2,10:35 PM,8:00,SUB: Bell FOR Colson,,,,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,166,8,0,2,10:35 PM,8:00,,,SUB: Parks FOR Bertsch,,,5,1629571,Morgan Bertsch,1611661329.0,Chicago,Sky,CHI,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,170,3,12,2,10:36 PM,8:00,,,Copper Free Throw 2 of 2 (7 PTS),20 - 31,11,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042300101,171,6,1,2,10:36 PM,7:55,,,Hebard P.FOUL (P1.T1),,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,173,2,79,2,10:36 PM,7:45,MISS Gray 18' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,174,4,0,2,10:36 PM,7:41,,,Parks REBOUND (Off:0 Def:1),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,175,2,5,2,10:36 PM,7:32,Wilson BLOCK (1 BLK),,MISS Mabrey 3' Layup,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,177,4,0,2,10:37 PM,7:29,,,Hebard REBOUND (Off:1 Def:0),,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,178,2,72,2,10:37 PM,7:28,Wilson BLOCK (2 BLK),,MISS Hebard 3' Putback Layup,,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,180,4,0,2,10:37 PM,7:28,Stokes REBOUND (Off:0 Def:7),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,181,2,100,2,10:37 PM,7:23,MISS Wilson 4' Running Alley Oop Layup Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,182,4,0,2,10:37 PM,7:19,Wilson REBOUND (Off:1 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,183,1,72,2,10:37 PM,7:19,Wilson 3' Putback Layup (10 PTS),,,20 - 33,13,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,184,2,80,2,10:37 PM,7:13,,,MISS Evans 25' 3PT Step Back Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,185,4,0,2,10:37 PM,7:10,Gray REBOUND (Off:0 Def:2),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,186,6,2,2,10:37 PM,7:06,,,Copper S.FOUL (P2.T2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,188,3,11,2,10:38 PM,7:06,Stokes Free Throw 1 of 2 (1 PTS),,,20 - 34,14,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,189,8,0,2,10:38 PM,7:06,,,SUB: E. Williams FOR Evans,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,190,8,0,2,10:38 PM,7:06,,,SUB: C. Williams FOR Hebard,,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,193,3,12,2,10:38 PM,7:06,Stokes Free Throw 2 of 2 (2 PTS),,,20 - 35,15,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,194,5,1,2,10:38 PM,6:46,Gray STEAL (2 STL),,C. Williams Bad Pass Turnover (P1.T5),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,196,1,41,2,10:38 PM,6:42,Gray 4' Running Layup (8 PTS),,,20 - 37,17,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,197,9,1,2,10:38 PM,6:42,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,198,18,3,2,10:41 PM,6:42,,Instant Replay2nd Period (10:41 PM EST),,20 - 37,17,0,153,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300101,199,5,2,2,10:42 PM,6:32,Bell STEAL (1 STL),,Mabrey Lost Ball Turnover (P3.T6),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,201,1,103,2,10:42 PM,6:22,Gray 15' Running Pull-Up Jump Shot (10 PTS),,,20 - 39,19,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,202,2,79,2,10:42 PM,6:11,,,MISS Copper 15' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,203,4,0,2,10:42 PM,6:09,Stokes REBOUND (Off:0 Def:8),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,204,2,1,2,10:42 PM,5:55,MISS Stokes 24' 3PT Jump Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,205,4,0,2,10:42 PM,5:50,,,C. Williams REBOUND (Off:0 Def:2),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,206,2,2,2,10:42 PM,5:46,,,MISS C. Williams 15' Running Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,207,4,0,2,10:42 PM,5:42,,,Copper REBOUND (Off:1 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,208,1,97,2,10:43 PM,5:42,,,Copper 1' Tip Layup Shot (9 PTS),22 - 39,17,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,209,2,1,2,10:43 PM,5:29,MISS Plum 24' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,210,4,0,2,10:43 PM,5:24,,,C. Williams REBOUND (Off:0 Def:3),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,211,2,41,2,10:43 PM,5:20,Gray BLOCK (1 BLK),,MISS E. Williams 7' Running Layup,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,213,4,0,2,10:43 PM,5:15,Bell REBOUND (Off:0 Def:1),,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,214,1,41,2,10:43 PM,5:15,Plum 3' Running Layup (8 PTS) (Bell 1 AST),,,22 - 41,19,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,216,1,63,2,10:43 PM,4:56,,,Mabrey 14' Fadeaway Jumper (4 PTS),24 - 41,17,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,217,2,1,2,10:44 PM,4:39,MISS Gray 26' 3PT Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,218,4,0,2,10:44 PM,4:36,,,E. Williams REBOUND (Off:0 Def:3),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,219,2,1,2,10:44 PM,4:27,Wilson BLOCK (3 BLK),,MISS Parks 24' 3PT Jump Shot,,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,221,4,0,2,10:44 PM,4:23,Stokes REBOUND (Off:0 Def:9),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,222,2,41,2,10:44 PM,4:22,MISS Plum 4' Running Layup,,Mabrey BLOCK (1 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,1
+1042300101,223,4,0,2,10:44 PM,4:21,Wilson REBOUND (Off:2 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,224,6,1,2,10:44 PM,4:14,,,Copper P.FOUL (P3.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,226,8,0,2,10:44 PM,4:14,SUB: Young FOR Bell,,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,227,8,0,2,10:44 PM,4:14,SUB: Clark FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,228,8,0,2,10:44 PM,4:14,,,SUB: Smith FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,232,1,1,2,10:44 PM,4:10,Plum 24' 3PT Jump Shot (11 PTS) (Wilson 1 AST),,,24 - 44,20,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,234,2,1,2,10:45 PM,3:45,,,MISS Parks 12' Jump Shot,,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,235,4,0,2,10:45 PM,3:42,,,C. Williams REBOUND (Off:1 Def:3),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,236,1,72,2,10:45 PM,3:41,,,C. Williams 4' Putback Layup (5 PTS),26 - 44,18,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,237,1,1,2,10:45 PM,3:35,Young 24' 3PT Jump Shot (9 PTS) (Gray 4 AST),,,26 - 47,21,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,239,6,14,2,10:45 PM,3:35,,,Mabrey FLAGRANT.FOUL.TYPE1 (P1.T4),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,241,18,0,2,10:45 PM,3:35,,Instant Replay2nd Period (10:45 PM EST),,26 - 47,21,0,239,Darrick Martin,,,,,0,0,,,,,,1,0,,,,,,0
+1042300101,242,3,20,2,10:48 PM,3:35,Young Free Throw Flagrant 1 of 1 (10 PTS),,,26 - 48,22,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,243,5,45,2,10:48 PM,3:23,Plum Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300101,244,6,1,2,10:49 PM,3:03,Clark P.FOUL (P1.T2),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,246,1,1,2,10:49 PM,2:52,,,Mabrey 25' 3PT Jump Shot (7 PTS) (C. Williams 4 AST),29 - 48,19,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,248,2,79,2,10:49 PM,2:40,MISS Young 24' 3PT Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,249,4,0,2,10:49 PM,2:37,,,E. Williams REBOUND (Off:0 Def:4),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,250,2,1,2,10:50 PM,2:21,,,MISS Smith 14' Jump Shot,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,251,4,0,2,10:50 PM,2:17,Wilson REBOUND (Off:2 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,252,1,1,2,10:50 PM,2:07,Clark 24' 3PT Jump Shot (8 PTS) (Gray 5 AST),,,29 - 51,22,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,254,2,1,2,10:50 PM,1:48,,,MISS Mabrey 26' 3PT Jump Shot,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,255,4,0,2,10:50 PM,1:46,Wilson REBOUND (Off:2 Def:3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,256,2,2,2,10:50 PM,1:40,MISS Clark 3PT Running Jump Shot,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,257,4,0,2,10:50 PM,1:37,,,C. Williams REBOUND (Off:1 Def:4),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,258,1,2,2,10:50 PM,1:33,,,Parks 24' 3PT Running Jump Shot (3 PTS) (Mabrey 2 AST),32 - 51,19,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,260,9,1,2,10:51 PM,1:31,ACES Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,262,8,0,2,10:52 PM,1:31,,,SUB: Copper FOR Parks,,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,264,2,78,2,10:55 PM,1:04,MISS Clark 11' Floating Jump Shot,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,265,4,0,2,10:55 PM,1:02,,,C. Williams REBOUND (Off:1 Def:5),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,266,2,103,2,10:55 PM,0:59,,,MISS Copper 25' 3PT Running Pull-Up Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,267,4,0,2,10:55 PM,0:57,,,Smith REBOUND (Off:1 Def:1),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,268,5,1,2,10:55 PM,0:55,Young STEAL (1 STL),,Smith Bad Pass Turnover (P2.T7),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,270,2,86,2,10:55 PM,0:45,MISS Gray 16' Turnaround Fadeaway Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,271,4,0,2,10:55 PM,0:42,,,Smith REBOUND (Off:1 Def:2),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,272,1,41,2,10:55 PM,0:39,,,Copper 3' Running Layup (11 PTS) (C. Williams 5 AST),34 - 51,17,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,274,1,75,2,10:55 PM,0:23,Plum 4' Driving Finger Roll Layup (13 PTS),,,34 - 53,19,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,275,6,1,2,10:56 PM,0:10,Clark P.FOUL (P2.T3),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,277,1,79,2,10:56 PM,0:02,,,Copper 13' Pullup Jump Shot (13 PTS),36 - 53,17,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,278,2,78,2,10:56 PM,0:00,MISS Plum 34' 3PT Floating Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,279,4,0,2,10:56 PM,0:00,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,280,13,0,2,10:56 PM,0:00,,End of 2nd Period (10:56 PM EST),,36 - 53,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,283,12,0,3,11:13 PM,10:00,,Start of 3rd Period (11:13 PM EST),,36 - 53,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,284,5,1,3,11:13 PM,9:43,Young STEAL (2 STL),,E. Williams Bad Pass Turnover (P1.T8),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,286,5,45,3,11:13 PM,9:38,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300101,287,2,6,3,11:14 PM,9:18,,,MISS Smith 5' Driving Layup,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,288,4,0,3,11:14 PM,9:15,Wilson REBOUND (Off:2 Def:4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,289,6,2,3,11:14 PM,8:58,,,Mabrey S.FOUL (P2.T1),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,291,3,11,3,11:15 PM,8:58,Wilson Free Throw 1 of 2 (11 PTS),,,36 - 54,18,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,292,3,12,3,11:15 PM,8:58,Wilson Free Throw 2 of 2 (12 PTS),,,36 - 55,19,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,293,2,1,3,11:15 PM,8:47,,,MISS C. Williams 25' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,294,4,0,3,11:15 PM,8:44,Young REBOUND (Off:0 Def:1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,295,2,63,3,11:15 PM,8:35,MISS Young 8' Fadeaway Jumper,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,296,4,0,3,11:15 PM,8:32,,,C. Williams REBOUND (Off:1 Def:6),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,297,2,79,3,11:15 PM,8:29,Wilson BLOCK (4 BLK),,MISS Copper 11' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,299,4,0,3,11:15 PM,8:29,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,301,5,40,3,11:16 PM,8:28,,,Copper Out of Bounds Lost Ball Turnover (P2.T9),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042300101,302,2,101,3,11:16 PM,8:07,MISS Young 10' Driving Floating Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,303,4,0,3,11:16 PM,8:05,,,Copper REBOUND (Off:1 Def:3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,304,2,2,3,11:16 PM,8:00,,,MISS Copper 5' Running Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,305,4,0,3,11:16 PM,7:58,Stokes REBOUND (Off:0 Def:10),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,306,2,6,3,11:17 PM,7:46,MISS Plum 5' Driving Layup,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,307,4,0,3,11:17 PM,7:44,,,Smith REBOUND (Off:1 Def:3),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,308,1,41,3,11:17 PM,7:39,,,E. Williams 2' Running Layup (2 PTS) (C. Williams 6 AST),38 - 55,17,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,310,9,2,3,11:17 PM,7:39,ACES Timeout: Short (Full 1 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,311,2,79,3,11:18 PM,7:20,MISS Plum 12' Pullup Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,312,4,0,3,11:18 PM,7:17,,,Mabrey REBOUND (Off:0 Def:3),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,313,2,79,3,11:18 PM,7:10,,,MISS Mabrey 26' 3PT Pullup Jump Shot,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,314,4,0,3,11:18 PM,7:07,Plum REBOUND (Off:0 Def:1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,315,2,79,3,11:19 PM,6:56,MISS Gray 27' 3PT Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,316,4,0,3,11:19 PM,6:54,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,318,2,78,3,11:19 PM,6:43,MISS Young 4' Floating Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,322,4,0,3,11:19 PM,6:42,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,319,10,0,3,11:20 PM,6:41,Jump Ball Stokes vs. Mabrey: Tip to Plum,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0
+1042300101,323,2,101,3,11:20 PM,6:30,MISS Plum 9' Driving Floating Jump Shot,,Mabrey BLOCK (2 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,1
+1042300101,325,4,0,3,11:20 PM,6:26,,,E. Williams REBOUND (Off:0 Def:5),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,326,1,66,3,11:20 PM,6:21,,,C. Williams 18' Jump Bank Shot (7 PTS) (E. Williams 1 AST),40 - 55,15,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,328,6,1,3,11:20 PM,6:07,,,E. Williams P.FOUL (P1.T2),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,330,8,0,3,11:20 PM,6:07,SUB: Clark FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,332,2,47,3,11:21 PM,5:57,MISS Wilson 8' Turnaround Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,333,4,0,3,11:21 PM,5:55,,,C. Williams REBOUND (Off:1 Def:7),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,334,2,79,3,11:21 PM,5:38,,,MISS Copper 18' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,335,4,0,3,11:21 PM,5:35,Gray REBOUND (Off:0 Def:3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,336,1,79,3,11:21 PM,5:28,Plum 28' 3PT Pullup Jump Shot (16 PTS),,,40 - 58,18,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,337,2,1,3,11:22 PM,5:01,,,MISS Smith 3PT Jump Shot,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,338,4,0,3,11:22 PM,4:58,,,E. Williams REBOUND (Off:1 Def:5),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,339,2,79,3,11:22 PM,4:56,,,MISS C. Williams 13' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,340,4,0,3,11:22 PM,4:53,Gray REBOUND (Off:0 Def:4),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,341,1,2,3,11:22 PM,4:48,Young 25' 3PT Running Jump Shot (13 PTS) (Gray 6 AST),,,40 - 61,21,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,343,9,1,3,11:22 PM,4:46,,,Sky Timeout: Regular (Reg.3 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,344,8,0,3,11:23 PM,4:46,,,SUB: Parks FOR Smith,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,346,2,1,3,11:26 PM,4:31,,,MISS Parks 25' 3PT Jump Shot,,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,347,4,0,3,11:26 PM,4:28,Wilson REBOUND (Off:2 Def:5),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,348,2,85,3,11:26 PM,4:06,MISS Wilson 11' Turnaround Bank Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,349,4,0,3,11:26 PM,4:04,,,Parks REBOUND (Off:0 Def:2),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,350,5,1,3,11:26 PM,4:01,Young STEAL (3 STL),,Parks Bad Pass Turnover (P1.T10),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,352,6,2,3,11:26 PM,3:56,,,Copper S.FOUL (P4.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,354,3,11,3,11:27 PM,3:56,Gray Free Throw 1 of 2 (11 PTS),,,40 - 62,22,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,355,8,0,3,11:27 PM,3:56,,,SUB: Evans FOR C. Williams,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,357,3,12,3,11:27 PM,3:56,Gray Free Throw 2 of 2 (12 PTS),,,40 - 63,23,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,358,2,79,3,11:27 PM,3:45,,,MISS Copper 13' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,359,4,0,3,11:27 PM,3:43,,,E. Williams REBOUND (Off:2 Def:5),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,360,2,101,3,11:27 PM,3:36,Gray BLOCK (2 BLK),,MISS Evans 6' Driving Floating Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,362,4,0,3,11:27 PM,3:32,Clark REBOUND (Off:0 Def:2),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,363,1,2,3,11:28 PM,3:30,Young 24' 3PT Running Jump Shot (16 PTS) (Clark 2 AST),,,40 - 66,26,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,366,6,1,3,11:28 PM,3:18,Clark P.FOUL (P3.T1),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,368,1,58,3,11:29 PM,3:05,,,E. Williams 7' Turnaround Hook Shot (4 PTS) (Evans 2 AST),42 - 66,24,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,370,2,1,3,11:29 PM,2:52,MISS Plum 24' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,371,4,0,3,11:29 PM,2:49,,,E. Williams REBOUND (Off:2 Def:6),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,372,6,4,3,11:29 PM,2:47,,,Mabrey OFF.Foul (P3),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,374,5,37,3,11:29 PM,2:47,,,Mabrey Offensive Foul Turnover (P4.T11),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042300101,375,8,0,3,11:29 PM,2:47,SUB: Bell FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,377,2,79,3,11:30 PM,2:36,MISS Young 27' 3PT Pullup Jump Shot,,E. Williams BLOCK (2 BLK),,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,1
+1042300101,379,4,0,3,11:30 PM,2:35,Clark REBOUND (Off:1 Def:2),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,380,5,39,3,11:30 PM,2:35,Clark Step Out of Bounds Turnover (P1.T6),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300101,381,2,78,3,11:30 PM,2:19,,,MISS Evans 7' Floating Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,382,4,0,3,11:30 PM,2:19,Wilson REBOUND (Off:2 Def:6),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,383,6,1,3,11:30 PM,2:19,,,Parks P.FOUL (P1.T4),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,385,2,1,3,11:31 PM,1:56,MISS Wilson 13' Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,386,4,0,3,11:31 PM,1:54,,,E. Williams REBOUND (Off:2 Def:7),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,387,2,79,3,11:31 PM,1:48,,,MISS Mabrey 24' 3PT Pullup Jump Shot,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,388,4,0,3,11:31 PM,1:43,,,Evans REBOUND (Off:1 Def:0),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,389,1,78,3,11:31 PM,1:31,,,Evans 9' Floating Jump Shot (2 PTS),44 - 66,22,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,390,1,98,3,11:32 PM,1:11,Clark 5' Cutting Layup Shot (10 PTS) (Plum 2 AST),,,44 - 68,24,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,392,6,1,3,11:32 PM,0:59,Young P.FOUL (P2.T2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042300101,394,8,0,3,11:32 PM,0:59,SUB: Gray FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,395,8,0,3,11:32 PM,0:59,,,SUB: Hebard FOR E. Williams,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,398,1,80,3,11:32 PM,0:50,,,Copper 15' Step Back Jump Shot (15 PTS),46 - 68,22,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,399,2,1,3,11:33 PM,0:34,MISS Plum 26' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,400,4,0,3,11:33 PM,0:31,,,Parks REBOUND (Off:0 Def:3),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,401,2,1,3,11:33 PM,0:13,,,MISS Mabrey 17' Jump Shot,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,402,4,0,3,11:33 PM,0:10,Bell REBOUND (Off:0 Def:2),,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,403,6,2,3,11:33 PM,0:01,,,Mabrey S.FOUL (P4.PN),,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,405,3,11,3,11:34 PM,0:01,Gray Free Throw 1 of 2 (13 PTS),,,46 - 69,23,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,406,3,12,3,11:34 PM,0:01,Gray Free Throw 2 of 2 (14 PTS),,,46 - 70,24,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,407,13,0,3,11:34 PM,0:00,,End of 3rd Period (11:34 PM EST),,46 - 70,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,410,12,0,4,11:37 PM,10:00,,Start of 4th Period (11:37 PM EST),,46 - 70,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,411,1,86,4,11:38 PM,9:41,Wilson 7' Turnaround Fadeaway (14 PTS),,,46 - 72,26,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,413,8,0,4,11:38 PM,9:21,SUB: Stokes FOR Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,415,1,101,4,11:38 PM,9:14,,,Evans 9' Driving Floating Jump Shot (4 PTS),48 - 72,24,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,417,2,6,4,11:39 PM,9:01,MISS Bell 5' Driving Layup,,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,418,4,0,4,11:39 PM,8:59,Stokes REBOUND (Off:1 Def:10),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,419,2,1,4,11:39 PM,8:54,MISS Bell 3PT Jump Shot,,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,420,4,0,4,11:39 PM,8:52,,,C. Williams REBOUND (Off:1 Def:8),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,421,2,6,4,11:39 PM,8:38,,,MISS Evans 6' Driving Layup,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,422,4,0,4,11:39 PM,8:36,Stokes REBOUND (Off:1 Def:11),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,423,2,5,4,11:39 PM,8:30,MISS Clark 5' Layup,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,424,4,0,4,11:39 PM,8:27,,,Parks REBOUND (Off:0 Def:4),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,425,1,79,4,11:40 PM,8:10,,,Parks 17' Pullup Jump Shot (5 PTS),50 - 72,22,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,426,6,1,4,11:40 PM,7:54,,,Evans P.FOUL (P1.T1),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,428,8,0,4,11:40 PM,7:54,SUB: Young FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,430,6,2,4,11:41 PM,7:46,,,Parks S.FOUL (P2.T2),,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,433,9,7,4,11:41 PM,7:46,,,Sky Timeout: Coach Challenge (Reg.3 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,432,18,6,4,11:41 PM,7:46,,Instant Replay4th Period (11:41 PM EST),,50 - 72,22,0,430,,,,,,0,0,,,,,,1,0,,,,,,1
+1042300101,434,3,11,4,11:45 PM,7:46,Gray Free Throw 1 of 2 (15 PTS),,,50 - 73,23,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,435,3,12,4,11:45 PM,7:46,Gray Free Throw 2 of 2 (16 PTS),,,50 - 74,24,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,436,2,6,4,11:45 PM,7:23,,,MISS Copper 5' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,437,4,0,4,11:45 PM,7:21,Stokes REBOUND (Off:1 Def:12),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,438,1,79,4,11:46 PM,7:09,Gray 9' Pullup Jump Shot (18 PTS),,,50 - 76,26,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,439,2,1,4,11:46 PM,6:55,,,MISS Evans 24' 3PT Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,440,4,0,4,11:46 PM,6:53,Stokes REBOUND (Off:1 Def:13),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,441,2,80,4,11:46 PM,6:32,MISS Gray 20' Step Back Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,442,4,0,4,11:46 PM,6:29,,,Copper REBOUND (Off:1 Def:4),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,443,5,1,4,11:46 PM,6:19,Bell STEAL (2 STL),,Copper Bad Pass Turnover (P3.T12),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,445,1,41,4,11:46 PM,6:15,Gray 5' Running Layup (20 PTS) (Young 5 AST),,,50 - 78,28,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,447,2,1,4,11:47 PM,5:57,,,MISS Copper 24' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,448,4,0,4,11:47 PM,5:55,Clark REBOUND (Off:1 Def:3),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,449,1,98,4,11:47 PM,5:44,Young 4' Cutting Layup Shot (18 PTS) (Gray 7 AST),,,50 - 80,30,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,451,9,2,4,11:47 PM,5:44,,,Sky Timeout: Short (Reg.3 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,452,8,0,4,11:48 PM,5:44,,,SUB: E. Williams FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,453,8,0,4,11:48 PM,5:44,,,SUB: Mabrey FOR Parks,,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,454,8,0,4,11:48 PM,5:44,,,SUB: Smith FOR Hebard,,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,458,5,11,4,11:49 PM,5:20,,,Sky Turnover: Shot Clock (T#13),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300101,459,2,6,4,11:49 PM,5:08,MISS Young 5' Driving Layup,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,460,4,0,4,11:49 PM,5:08,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300101,462,2,44,4,11:49 PM,5:02,MISS Gray 3' Reverse Layup,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,463,4,0,4,11:49 PM,5:00,,,C. Williams REBOUND (Off:1 Def:9),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,464,2,1,4,11:50 PM,4:44,,,MISS C. Williams 26' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,465,4,0,4,11:50 PM,4:40,,,C. Williams REBOUND (Off:2 Def:9),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,466,1,1,4,11:50 PM,4:39,,,C. Williams 13' Jump Shot (9 PTS),52 - 80,28,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,467,1,6,4,11:50 PM,4:20,Clark 3' Driving Layup (12 PTS) (Young 6 AST),,,52 - 82,30,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,469,6,2,4,11:50 PM,4:20,,,Smith S.FOUL (P4.T3),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300101,471,8,0,4,11:50 PM,4:20,SUB: Colson FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,473,3,10,4,11:51 PM,4:20,Clark Free Throw 1 of 1 (13 PTS),,,52 - 83,31,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300101,474,2,5,4,11:51 PM,4:03,Bell BLOCK (1 BLK),,MISS E. Williams 4' Layup,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,1
+1042300101,476,4,0,4,11:51 PM,4:02,,,E. Williams REBOUND (Off:3 Def:7),,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,477,2,3,4,11:51 PM,4:02,,,MISS E. Williams 5' Hook Shot,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,478,4,0,4,11:51 PM,4:01,Stokes REBOUND (Off:1 Def:14),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,479,2,80,4,11:51 PM,3:36,MISS Young 20' Step Back Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,480,4,0,4,11:51 PM,3:34,,,Smith REBOUND (Off:1 Def:4),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,481,1,2,4,11:52 PM,3:30,,,Evans 3PT Running Jump Shot (7 PTS) (Mabrey 3 AST),55 - 83,28,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,483,9,2,4,11:52 PM,3:28,ACES Timeout: Short (Full 1 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,484,8,0,4,11:52 PM,3:28,SUB: Plum FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,485,8,0,4,11:52 PM,3:28,SUB: George FOR Clark,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,486,8,0,4,11:52 PM,3:28,SUB: Coates FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1628268,Alaina Coates,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300101,490,2,98,4,11:53 PM,3:09,MISS Plum 6' Cutting Layup Shot,,E. Williams BLOCK (3 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,1
+1042300101,492,4,0,4,11:53 PM,3:05,Bell REBOUND (Off:1 Def:2),,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,493,1,102,4,11:53 PM,3:05,Bell 5' Driving Floating Bank Jump Shot (2 PTS),,,55 - 85,30,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,494,2,101,4,11:53 PM,2:50,,,MISS Evans 9' Driving Floating Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,495,4,0,4,11:54 PM,2:47,Coates REBOUND (Off:0 Def:1),,,,,4,1628268,Alaina Coates,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,496,2,1,4,11:54 PM,2:27,MISS George 19' Jump Shot,,,,,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,497,4,0,4,11:54 PM,2:24,,,Smith REBOUND (Off:1 Def:5),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,498,5,1,4,11:54 PM,2:14,Coates STEAL (1 STL),,C. Williams Bad Pass Turnover (P2.T14),,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,4,1628268,Alaina Coates,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,500,1,98,4,11:54 PM,2:02,Coates 5' Cutting Layup Shot (2 PTS) (Colson 1 AST),,,55 - 87,32,4,1628268,Alaina Coates,1611661319.0,Las Vegas,Aces,LVA,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300101,502,2,1,4,11:55 PM,1:40,,,MISS E. Williams 10' Jump Shot,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,503,4,0,4,11:55 PM,1:38,Coates REBOUND (Off:0 Def:2),,,,,4,1628268,Alaina Coates,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,504,2,103,4,11:55 PM,1:32,MISS Plum 28' 3PT Running Pull-Up Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,505,4,0,4,11:55 PM,1:30,,,Smith REBOUND (Off:1 Def:6),,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,507,9,4,4,11:55 PM,1:27,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300101,508,8,0,4,11:57 PM,1:27,,,SUB: Soule FOR E. Williams,,,5,204322,Elizabeth Williams,1611661329.0,Chicago,Sky,CHI,5,1641667,Taylor Soule,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,509,8,0,4,11:57 PM,1:27,,,SUB: Koné FOR Mabrey,,,5,1629497,Marina Mabrey,1611661329.0,Chicago,Sky,CHI,5,1631021,Sika Koné,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,510,8,0,4,11:57 PM,1:27,,,SUB: Hebard FOR Smith,,,5,1629501,Alanna Smith,1611661329.0,Chicago,Sky,CHI,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,511,8,0,4,11:57 PM,1:27,,,SUB: Parks FOR C. Williams,,,5,1627675,Courtney Williams,1611661329.0,Chicago,Sky,CHI,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042300101,516,2,6,4,11:58 PM,1:20,,,MISS Parks 5' Driving Layup,,,5,1641641,Robyn Parks,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,517,4,0,4,11:58 PM,1:15,Colson REBOUND (Off:0 Def:1),,,,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,518,2,103,4,11:58 PM,1:15,MISS Bell 25' 3PT Running Pull-Up Jump Shot,,,,,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300101,519,4,0,4,11:58 PM,1:12,,,Hebard REBOUND (Off:1 Def:1),,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042300101,520,1,71,4,11:59 PM,0:51,,,Hebard 5' Finger Roll Layup (2 PTS) (Evans 3 AST),57 - 87,30,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,522,5,1,4,11:59 PM,0:31,Colson Bad Pass Turnover (P2.T7),,Hebard STEAL (2 STL),,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,524,1,41,4,11:59 PM,0:26,,,Koné 4' Running Layup (2 PTS) (Evans 4 AST),59 - 87,28,5,1631021,Sika Koné,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042300101,526,5,11,4,12:00 AM,0:02,ACES Turnover: Shot Clock (T#8),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300101,527,13,0,4,12:00 AM,0:00,,End of 4th Period (12:00 AM EST),,59 - 87,28,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

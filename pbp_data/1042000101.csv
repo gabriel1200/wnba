@@ -1,0 +1,366 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042000101,2,12,0,1,9:16 PM,10:00,,Start of 1st Period (9:16 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,4,10,0,1,9:16 PM,10:00,Jump Ball Turner vs. Hines-Allen: Tip to Leslie,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,1
+1042000101,7,5,11,1,9:17 PM,9:35,,,Mystics Turnover: Shot Clock (T#1),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000101,8,2,1,1,9:17 PM,9:22,MISS Vaughn 5' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,9,4,0,1,9:17 PM,9:21,,,Hines-Allen REBOUND (Off:0 Def:1),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,10,2,1,1,9:18 PM,9:01,,,MISS Leslie 24' 3PT Jump Shot,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,11,4,0,1,9:18 PM,8:59,Diggins-Smith REBOUND (Off:0 Def:1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,12,2,1,1,9:18 PM,8:51,MISS Turner 6' Jump Shot,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,13,4,0,1,9:18 PM,8:47,,,Hines-Allen REBOUND (Off:0 Def:2),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,14,2,1,1,9:18 PM,8:33,,,MISS Meesseman 15' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,15,4,0,1,9:18 PM,8:28,Walker-Kimbrough REBOUND (Off:0 Def:1),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,17,2,1,1,9:19 PM,8:16,MISS Taurasi 25' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,18,4,0,1,9:19 PM,8:12,,,Hines-Allen REBOUND (Off:0 Def:3),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,19,1,6,1,9:19 PM,8:05,,,Mitchell 3' Driving Layup (2 PTS),2 - 0,-2,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,20,2,79,1,9:19 PM,7:53,MISS Diggins-Smith 15' Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,21,4,0,1,9:19 PM,7:51,,,Hines-Allen REBOUND (Off:0 Def:4),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,22,2,1,1,9:19 PM,7:34,,,MISS Meesseman 11' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,23,4,0,1,9:20 PM,7:30,Walker-Kimbrough REBOUND (Off:0 Def:2),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,24,1,3,1,9:20 PM,7:21,Vaughn 7' Hook Shot (2 PTS),,,2 - 2,TIE,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,25,1,5,1,9:20 PM,7:05,,,Leslie 5' Layup (2 PTS),4 - 2,-2,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,26,6,2,1,9:20 PM,7:05,Vaughn S.FOUL (P1.T1),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,28,3,10,1,9:20 PM,7:05,,,Leslie Free Throw 1 of 1 (3 PTS),5 - 2,-3,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042000101,29,2,1,1,9:21 PM,6:56,MISS Taurasi 26' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,30,4,0,1,9:21 PM,6:52,,,Leslie REBOUND (Off:0 Def:1),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,31,2,1,1,9:21 PM,6:41,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,32,4,0,1,9:21 PM,6:38,Diggins-Smith REBOUND (Off:0 Def:2),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,33,6,2,1,9:21 PM,6:35,,,Leslie S.FOUL (P1.T1),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,35,3,11,1,9:21 PM,6:35,Diggins-Smith Free Throw 1 of 2 (1 PTS),,,5 - 3,-2,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,36,3,12,1,9:22 PM,6:35,Diggins-Smith Free Throw 2 of 2 (2 PTS),,,5 - 4,-1,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,37,1,6,1,9:22 PM,6:14,,,Atkins 4' Driving Layup (2 PTS),7 - 4,-3,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,38,5,1,1,9:22 PM,6:05,Diggins-Smith Bad Pass Turnover (P1.T1),,Atkins STEAL (1 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,40,6,2,1,9:22 PM,6:00,Vaughn S.FOUL (P2.T2),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,42,3,11,1,9:23 PM,6:00,,,Hines-Allen Free Throw 1 of 2 (1 PTS),8 - 4,-4,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,43,8,0,1,9:23 PM,6:00,SUB: Smith FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,45,3,12,1,9:23 PM,6:00,,,Hines-Allen Free Throw 2 of 2 (2 PTS),9 - 4,-5,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,46,1,79,1,9:23 PM,5:46,Diggins-Smith 19' Pullup Jump Shot (4 PTS) (Taurasi 1 AST),,,9 - 6,-3,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,48,1,1,1,9:23 PM,5:33,,,Meesseman 25' 3PT Jump Shot (3 PTS) (Hines-Allen 1 AST),12 - 6,-6,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,50,6,2,1,9:23 PM,5:23,,,Mitchell S.FOUL (P1.T2),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,52,3,11,1,9:24 PM,5:23,Taurasi Free Throw 1 of 2 (1 PTS),,,12 - 7,-5,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,53,3,12,1,9:24 PM,5:23,Taurasi Free Throw 2 of 2 (2 PTS),,,12 - 8,-4,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,54,2,3,1,9:24 PM,5:08,,,MISS Meesseman 3' Hook Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,55,4,0,1,9:24 PM,5:04,Smith REBOUND (Off:0 Def:1),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,56,2,5,1,9:24 PM,4:58,MISS Diggins-Smith 3' Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,57,4,0,1,9:25 PM,4:54,,,Leslie REBOUND (Off:0 Def:2),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,58,1,6,1,9:25 PM,4:52,,,Leslie 6' Driving Layup (5 PTS),14 - 8,-6,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,59,2,5,1,9:25 PM,4:34,MISS Smith 5' Layup,,Hines-Allen BLOCK (1 BLK),,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1
+1042000101,61,4,0,1,9:25 PM,4:30,,,Hines-Allen REBOUND (Off:0 Def:5),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,62,1,5,1,9:25 PM,4:23,,,Meesseman 4' Layup (5 PTS) (Atkins 1 AST),16 - 8,-8,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,64,9,1,1,9:25 PM,4:16,MERCURY Timeout: Regular (Full 1 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,65,8,0,1,9:27 PM,4:16,SUB: Cunningham FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,67,6,2,1,9:28 PM,4:05,,,Hines-Allen S.FOUL (P1.T3),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,69,3,11,1,9:29 PM,4:05,MISS Walker-Kimbrough Free Throw 1 of 2,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,70,4,1,1,9:29 PM,4:05,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,71,3,12,1,9:29 PM,4:05,Walker-Kimbrough Free Throw 2 of 2 (1 PTS),,,16 - 9,-7,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,72,2,79,1,9:29 PM,3:55,,,MISS Leslie 17' Pullup Jump Shot,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,73,4,0,1,9:29 PM,3:52,Smith REBOUND (Off:0 Def:2),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,74,6,2,1,9:29 PM,3:47,,,Hines-Allen S.FOUL (P2.T4),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,76,3,11,1,9:30 PM,3:47,MISS Diggins-Smith Free Throw 1 of 2,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,77,4,1,1,9:30 PM,3:47,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,78,8,0,1,9:30 PM,3:47,,,SUB: Gemelos FOR Leslie,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,79,8,0,1,9:30 PM,3:47,,,SUB: Hawkins FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,82,3,12,1,9:30 PM,3:47,Diggins-Smith Free Throw 2 of 2 (5 PTS),,,16 - 10,-6,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,83,6,1,1,9:30 PM,3:36,Smith P.FOUL (P1.T3),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,85,2,5,1,9:31 PM,3:25,,,MISS Hawkins 6' Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,86,4,0,1,9:31 PM,3:24,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,87,10,0,1,9:31 PM,3:17,Jump Ball Smith vs. Hawkins: Tip to Walker-Kimbrough,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,90,5,2,1,9:31 PM,3:17,Smith STEAL (1 STL),,Hawkins Lost Ball Turnover (P1.T2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,92,2,1,1,9:31 PM,3:14,MISS Smith 24' 3PT Jump Shot,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,93,4,0,1,9:31 PM,3:10,,,Hawkins REBOUND (Off:0 Def:1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,94,5,4,1,9:31 PM,3:05,,,Hawkins Traveling Turnover (P2.T3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042000101,95,6,1,1,9:32 PM,2:46,,,Mitchell P.FOUL (P2.PN),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,97,3,11,1,9:32 PM,2:46,MISS Walker-Kimbrough Free Throw 1 of 2,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,98,4,1,1,9:32 PM,2:46,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,99,8,0,1,9:32 PM,2:46,,,SUB: Sutton FOR Mitchell,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,5,1630134,Sug Sutton,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,101,3,12,1,9:33 PM,2:46,Walker-Kimbrough Free Throw 2 of 2 (2 PTS),,,16 - 11,-5,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,102,2,1,1,9:33 PM,2:36,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,103,4,0,1,9:33 PM,2:31,Diggins-Smith REBOUND (Off:0 Def:3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,104,2,1,1,9:33 PM,2:28,MISS Diggins-Smith 24' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,105,4,0,1,9:33 PM,2:24,,,Gemelos REBOUND (Off:0 Def:1),,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,106,2,1,1,9:33 PM,2:10,,,MISS Hawkins 25' 3PT Jump Shot,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,107,4,0,1,9:33 PM,2:07,,,Meesseman REBOUND (Off:1 Def:0),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,108,2,3,1,9:33 PM,2:05,,,MISS Meesseman 6' Hook Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,109,4,0,1,9:33 PM,2:05,Cunningham REBOUND (Off:0 Def:1),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,110,2,79,1,9:34 PM,1:49,MISS Walker-Kimbrough 17' Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,111,4,0,1,9:34 PM,1:45,,,Sutton REBOUND (Off:0 Def:1),,,5,1630134,Sug Sutton,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,112,1,1,1,9:34 PM,1:34,,,Meesseman 16' Jump Shot (7 PTS) (Gemelos 1 AST),18 - 11,-7,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,114,1,1,1,9:34 PM,1:11,Walker-Kimbrough 24' 3PT Jump Shot (5 PTS) (Turner 1 AST),,,18 - 14,-4,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,116,1,5,1,9:34 PM,1:00,,,Sutton 5' Layup (2 PTS),20 - 14,-6,5,1630134,Sug Sutton,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,117,2,1,1,9:35 PM,0:46,MISS Smith 15' Jump Shot,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,118,4,0,1,9:35 PM,0:43,,,Hawkins REBOUND (Off:0 Def:2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,119,6,1,1,9:35 PM,0:37,Smith P.FOUL (P2.T4),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,121,8,0,1,9:35 PM,0:37,SUB: Taurasi FOR Walker-Kimbrough,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,122,8,0,1,9:35 PM,0:37,SUB: Vaughn FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,123,8,0,1,9:35 PM,0:37,SUB: Peddy FOR Smith,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,127,1,1,1,9:36 PM,0:26,,,Atkins 17' Jump Shot (4 PTS),22 - 14,-8,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,128,1,5,1,9:36 PM,0:13,Taurasi 5' Layup (4 PTS) (Vaughn 1 AST),,,22 - 16,-6,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,129,1,1,1,9:36 PM,0:02,,,Gemelos 31' 3PT Jump Shot (3 PTS),25 - 16,-9,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,130,13,0,1,9:36 PM,0:00,,End of 1st Period (9:36 PM EST),,25 - 16,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000101,136,12,0,2,9:39 PM,10:00,,Start of 2nd Period (9:39 PM EST),,25 - 16,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,137,5,11,2,9:40 PM,9:35,MERCURY Turnover: Shot Clock (T#2),,,,,2,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000101,139,2,47,2,9:41 PM,9:16,,,MISS Sutton 14' Turnaround Jump Shot,,,5,1630134,Sug Sutton,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,140,4,0,2,9:41 PM,9:12,Vaughn REBOUND (Off:0 Def:1),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,141,6,2,2,9:41 PM,9:07,,,Coates S.FOUL (P1.T1),,,5,1628268,Alaina Coates,1611661322.0,Washington,Mystics,WAS,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,143,3,11,2,9:42 PM,9:07,Peddy Free Throw 1 of 2 (1 PTS),,,25 - 17,-8,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,144,3,12,2,9:42 PM,9:07,Peddy Free Throw 2 of 2 (2 PTS),,,25 - 18,-7,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,145,2,5,2,9:42 PM,8:52,,,MISS Leslie 5' Layup,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,146,4,0,2,9:42 PM,8:49,Turner REBOUND (Off:0 Def:1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,147,1,1,2,9:42 PM,8:42,Peddy 25' 3PT Jump Shot (5 PTS),,,25 - 21,-4,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,149,6,1,2,9:43 PM,8:34,Taurasi P.FOUL (P1.T1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,151,8,0,2,9:43 PM,8:34,SUB: Diggins-Smith FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,152,8,0,2,9:43 PM,8:34,,,SUB: Mitchell FOR Sutton,,,5,1630134,Sug Sutton,1611661322.0,Washington,Mystics,WAS,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,153,8,0,2,9:43 PM,8:34,,,SUB: Hines-Allen FOR Hawkins,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,157,2,1,2,9:43 PM,8:23,,,MISS Leslie 26' 3PT Jump Shot,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,158,4,0,2,9:43 PM,8:19,Turner REBOUND (Off:0 Def:2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,159,1,5,2,9:43 PM,8:15,Peddy 4' Layup (7 PTS),,,25 - 23,-2,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,160,1,1,2,9:44 PM,7:49,,,Mitchell 27' 3PT Jump Shot (5 PTS) (Gemelos 2 AST),28 - 23,-5,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,162,1,5,2,9:44 PM,7:33,Vaughn 4' Layup (4 PTS) (Taurasi 2 AST),,,28 - 25,-3,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,164,2,5,2,9:44 PM,7:14,,,MISS Gemelos 5' Layup,,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,166,2,72,2,9:45 PM,7:08,,,MISS Coates 1' Putback Layup,,,5,1628268,Alaina Coates,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,165,4,0,2,9:45 PM,7:08,,,Coates REBOUND (Off:1 Def:0),,,5,1628268,Alaina Coates,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,167,4,0,2,9:45 PM,7:07,Diggins-Smith REBOUND (Off:0 Def:4),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,168,6,2,2,9:45 PM,7:05,,,Hines-Allen S.FOUL (P3.T2),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,170,6,11,2,9:45 PM,7:05,,,Hines-Allen T.FOUL (P3.T2),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042000101,171,3,16,2,9:45 PM,7:05,Taurasi Free Throw Technical (5 PTS),,,28 - 26,-2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,172,8,0,2,9:45 PM,7:05,,,SUB: Meesseman FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,174,3,11,2,9:45 PM,7:05,Diggins-Smith Free Throw 1 of 2 (6 PTS),,,28 - 27,-1,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,175,3,12,2,9:46 PM,7:05,Diggins-Smith Free Throw 2 of 2 (7 PTS),,,28 - 28,TIE,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,176,8,0,2,9:46 PM,7:05,,,SUB: Atkins FOR Gemelos,,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,178,2,5,2,9:46 PM,6:46,,,MISS Atkins 4' Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,179,4,0,2,9:46 PM,6:42,,,Meesseman REBOUND (Off:2 Def:0),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,180,6,1,2,9:46 PM,6:33,Peddy P.FOUL (P1.T2),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,182,1,1,2,9:47 PM,6:29,,,Atkins 13' Jump Shot (6 PTS) (Meesseman 1 AST),30 - 28,-2,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,184,6,2,2,9:47 PM,6:29,Diggins-Smith S.FOUL (P1.T3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,186,8,0,2,9:47 PM,6:29,,,SUB: Hawkins FOR Coates,,,5,1628268,Alaina Coates,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,188,3,10,2,9:47 PM,6:29,,,Atkins Free Throw 1 of 1 (7 PTS),31 - 28,-3,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,189,5,2,2,9:47 PM,6:17,Taurasi Lost Ball Turnover (P1.T3),,Leslie STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,191,2,47,2,9:47 PM,6:08,,,MISS Hawkins 10' Turnaround Jump Shot,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,192,4,0,2,9:47 PM,6:06,Taurasi REBOUND (Off:0 Def:1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,193,2,1,2,9:48 PM,6:02,MISS Taurasi 27' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,194,4,0,2,9:48 PM,5:58,,,Meesseman REBOUND (Off:2 Def:1),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,195,6,1,2,9:48 PM,5:46,Vaughn P.FOUL (P3.T4),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,197,8,0,2,9:48 PM,5:46,SUB: Smith FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,199,9,4,2,9:48 PM,5:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,200,1,1,2,9:51 PM,5:36,,,Hawkins 6' Jump Shot (2 PTS) (Atkins 2 AST),33 - 28,-5,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,202,6,1,2,9:51 PM,5:24,,,Hawkins P.FOUL (P1.T3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,204,8,0,2,9:52 PM,5:24,SUB: Cunningham FOR Smith,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,206,2,1,2,9:52 PM,5:18,MISS Diggins-Smith 24' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,207,4,0,2,9:52 PM,5:16,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,208,2,1,2,9:52 PM,5:03,,,MISS Leslie 25' 3PT Jump Shot,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,209,4,0,2,9:52 PM,4:58,Peddy REBOUND (Off:0 Def:1),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,210,2,1,2,9:52 PM,4:44,MISS Diggins-Smith 7' Jump Shot,,Leslie BLOCK (1 BLK),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,1
+1042000101,212,4,0,2,9:53 PM,4:41,,,Mitchell REBOUND (Off:0 Def:1),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,214,2,5,2,9:53 PM,4:31,,,MISS Hawkins 5' Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,215,4,0,2,9:53 PM,4:30,Turner REBOUND (Off:0 Def:3),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,216,2,1,2,9:53 PM,4:14,MISS Cunningham 26' 3PT Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,217,4,0,2,9:53 PM,4:12,,,Mitchell REBOUND (Off:0 Def:2),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,218,1,1,2,9:53 PM,3:52,,,Meesseman 8' Jump Shot (9 PTS) (Mitchell 1 AST),35 - 28,-7,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,220,2,1,2,9:54 PM,3:37,MISS Peddy 3PT Jump Shot,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,221,4,0,2,9:54 PM,3:37,,,Atkins REBOUND (Off:0 Def:1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,222,1,1,2,9:54 PM,3:26,,,Atkins 21' Jump Shot (9 PTS),37 - 28,-9,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,223,9,1,2,9:54 PM,3:17,MERCURY Timeout: Regular (Full 2 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,224,8,0,2,9:54 PM,3:17,SUB: Walker-Kimbrough FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,225,8,0,2,9:54 PM,3:17,SUB: Smith FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,228,1,1,2,9:57 PM,3:09,Walker-Kimbrough 25' 3PT Jump Shot (8 PTS) (Turner 2 AST),,,37 - 31,-6,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,230,2,5,2,9:58 PM,2:45,Turner BLOCK (1 BLK),,MISS Meesseman 6' Layup,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,232,4,0,2,9:58 PM,2:45,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,233,2,5,2,9:58 PM,2:42,Smith BLOCK (1 BLK),,MISS Hawkins 4' Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,235,4,0,2,9:58 PM,2:42,,,Hawkins REBOUND (Off:1 Def:2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,236,5,11,2,9:58 PM,2:42,,,Mystics Turnover: Shot Clock (T#4),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000101,237,5,45,2,9:59 PM,2:35,Turner Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000101,238,1,1,2,9:59 PM,2:20,,,Mitchell 25' 3PT Jump Shot (8 PTS) (Meesseman 2 AST),40 - 31,-9,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,240,5,1,2,9:59 PM,2:11,Diggins-Smith Bad Pass Turnover (P2.T5),,Atkins STEAL (2 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,242,2,1,2,9:59 PM,1:55,,,MISS Hawkins 14' Jump Shot,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,243,4,0,2,9:59 PM,1:51,,,Atkins REBOUND (Off:1 Def:1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,244,1,1,2,9:59 PM,1:47,,,Mitchell 28' 3PT Jump Shot (11 PTS) (Leslie 1 AST),43 - 31,-12,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,246,5,1,2,10:00 PM,1:37,Smith Bad Pass Turnover (P1.T6),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,247,9,1,2,10:01 PM,1:37,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,248,8,0,2,10:01 PM,1:37,SUB: Taurasi FOR Peddy,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,250,2,1,2,10:02 PM,1:27,,,MISS Atkins 17' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,251,4,0,2,10:02 PM,1:25,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,252,6,3,2,10:02 PM,1:25,Walker-Kimbrough L.B.FOUL (P1.PN),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,254,3,11,2,10:02 PM,1:25,,,Hawkins Free Throw 1 of 2 (3 PTS),44 - 31,-13,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,255,3,12,2,10:02 PM,1:25,,,MISS Hawkins Free Throw 2 of 2,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,256,4,0,2,10:02 PM,1:23,Diggins-Smith REBOUND (Off:0 Def:5),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,257,6,2,2,10:03 PM,1:16,,,Atkins S.FOUL (P1.T4),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,259,3,11,2,10:03 PM,1:16,Diggins-Smith Free Throw 1 of 2 (8 PTS),,,44 - 32,-12,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,260,3,12,2,10:03 PM,1:16,Diggins-Smith Free Throw 2 of 2 (9 PTS),,,44 - 33,-11,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,261,6,1,2,10:04 PM,1:04,Smith P.FOUL (P3.PN),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,263,3,11,2,10:04 PM,1:04,,,Hawkins Free Throw 1 of 2 (4 PTS),45 - 33,-12,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042000101,264,3,12,2,10:04 PM,1:04,,,Hawkins Free Throw 2 of 2 (5 PTS),46 - 33,-13,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042000101,265,2,1,2,10:04 PM,0:38,MISS Walker-Kimbrough 14' Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,266,4,0,2,10:05 PM,0:35,,,Hawkins REBOUND (Off:1 Def:3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,267,7,5,2,10:05 PM,0:21,Diggins-Smith Violation:Kicked Ball,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1042000101,268,9,1,2,10:05 PM,0:21,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,269,2,5,2,10:07 PM,0:08,,,MISS Mitchell 11' Layup,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,270,4,0,2,10:07 PM,0:07,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,271,6,3,2,10:07 PM,0:07,,,Hawkins L.B.FOUL (P2.PN),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,274,3,11,2,10:07 PM,0:07,Smith Free Throw 1 of 2 (1 PTS),,,46 - 34,-12,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,275,3,12,2,10:07 PM,0:07,Smith Free Throw 2 of 2 (2 PTS),,,46 - 35,-11,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,276,2,1,2,10:08 PM,0:00,,,MISS Meesseman 19' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,277,4,0,2,10:08 PM,0:00,,,Hawkins REBOUND (Off:2 Def:3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,278,13,0,2,10:10 PM,0:00,,End of 2nd Period (10:10 PM EST),,46 - 35,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000101,283,12,0,3,10:26 PM,10:00,,Start of 3rd Period (10:26 PM EST),,46 - 35,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,284,5,1,3,10:26 PM,9:43,Walker-Kimbrough Bad Pass Turnover (P1.T7),,Meesseman STEAL (1 STL),,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,286,6,2,3,10:26 PM,9:39,Taurasi S.FOUL (P2.T1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,288,3,11,3,10:26 PM,9:39,,,Mitchell Free Throw 1 of 2 (12 PTS),47 - 35,-12,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,289,3,12,3,10:27 PM,9:39,,,Mitchell Free Throw 2 of 2 (13 PTS),48 - 35,-13,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,290,6,1,3,10:27 PM,9:29,,,Leslie P.FOUL (P2.T1),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,292,2,79,3,10:27 PM,9:18,MISS Walker-Kimbrough 6' Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,293,4,0,3,10:27 PM,9:14,,,Hines-Allen REBOUND (Off:0 Def:6),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,294,2,79,3,10:28 PM,8:56,,,MISS Mitchell 17' Pullup Jump Shot,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,295,4,0,3,10:28 PM,8:53,Turner REBOUND (Off:0 Def:4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,296,1,1,3,10:28 PM,8:47,Taurasi 29' 3PT Jump Shot (8 PTS),,,48 - 38,-10,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,297,1,79,3,10:28 PM,8:33,,,Atkins 18' Pullup Jump Shot (11 PTS) (Meesseman 3 AST),50 - 38,-12,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,299,6,1,3,10:28 PM,8:25,,,Leslie P.FOUL (P3.T2),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,301,8,0,3,10:28 PM,8:25,SUB: Peddy FOR Walker-Kimbrough,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000101,303,2,1,3,10:29 PM,8:20,MISS Vaughn 17' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,304,4,0,3,10:29 PM,8:16,Turner REBOUND (Off:1 Def:4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,305,2,1,3,10:29 PM,8:11,MISS Diggins-Smith 24' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,306,4,0,3,10:29 PM,8:08,Peddy REBOUND (Off:1 Def:1),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,307,2,72,3,10:29 PM,8:08,MISS Peddy 1' Putback Layup,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,308,4,0,3,10:29 PM,8:07,,,Hines-Allen REBOUND (Off:0 Def:7),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,309,2,1,3,10:29 PM,7:51,,,MISS Mitchell 24' 3PT Jump Shot,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,310,4,0,3,10:29 PM,7:48,Turner REBOUND (Off:1 Def:5),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,311,10,0,3,10:30 PM,7:32,Jump Ball Diggins-Smith vs. Atkins: Tip to Turner,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,314,1,1,3,10:30 PM,7:30,Diggins-Smith 26' 3PT Jump Shot (12 PTS) (Turner 3 AST),,,50 - 41,-9,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,316,1,5,3,10:30 PM,7:09,,,Meesseman 3' Layup (11 PTS) (Atkins 3 AST),52 - 41,-11,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,318,2,5,3,10:30 PM,6:58,MISS Diggins-Smith 3' Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,319,4,0,3,10:30 PM,6:55,,,Leslie REBOUND (Off:0 Def:3),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,320,2,1,3,10:30 PM,6:50,,,MISS Atkins 8' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,321,4,0,3,10:31 PM,6:46,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,322,1,1,3,10:31 PM,6:34,,,Hines-Allen 17' Jump Shot (4 PTS) (Mitchell 2 AST),54 - 41,-13,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,324,1,1,3,10:31 PM,6:20,Taurasi 28' 3PT Jump Shot (11 PTS) (Diggins-Smith 1 AST),,,54 - 44,-10,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,326,1,5,3,10:32 PM,6:04,,,Leslie 4' Layup (7 PTS),56 - 44,-12,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,327,2,1,3,10:32 PM,5:46,MISS Diggins-Smith 7' Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,328,4,0,3,10:32 PM,5:43,,,Atkins REBOUND (Off:1 Def:2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,329,5,2,3,10:32 PM,5:31,Peddy STEAL (1 STL),,Hines-Allen Lost Ball Turnover (P1.T5),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,331,5,40,3,10:32 PM,5:26,Diggins-Smith Out of Bounds Lost Ball Turnover (P3.T8),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,332,2,5,3,10:33 PM,5:15,,,MISS Atkins 3' Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,333,4,0,3,10:33 PM,5:13,Taurasi REBOUND (Off:0 Def:2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,334,1,1,3,10:33 PM,5:08,Taurasi 26' 3PT Jump Shot (14 PTS),,,56 - 47,-9,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,335,1,6,3,10:33 PM,4:52,,,Mitchell 5' Driving Layup (15 PTS),58 - 47,-11,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,336,6,1,3,10:33 PM,4:38,,,Meesseman P.FOUL (P1.T3),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,338,9,4,3,10:34 PM,4:38,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,339,2,1,3,10:37 PM,4:26,MISS Taurasi 26' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000101,340,4,0,3,10:37 PM,4:23,,,Hines-Allen REBOUND (Off:0 Def:8),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1042000101,341,5,2,3,10:37 PM,4:15,Peddy STEAL (2 STL),,Mitchell Lost Ball Turnover (P1.T6),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,343,1,6,3,10:37 PM,4:12,Peddy 3' Driving Layup (9 PTS),,,58 - 49,-9,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,344,1,1,3,10:37 PM,3:53,,,Meesseman 7' Jump Shot (13 PTS) (Leslie 2 AST),60 - 49,-11,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,345,2,1,3,10:37 PM,3:37,MISS Peddy 26' 3PT Jump Shot,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,346,4,0,3,10:37 PM,3:37,Turner REBOUND (Off:2 Def:5),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,347,1,1,3,10:37 PM,3:28,Vaughn 15' Jump Shot (6 PTS) (Taurasi 3 AST),,,60 - 51,-9,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,349,1,1,3,10:38 PM,3:03,,,Atkins 17' Jump Shot (13 PTS) (Leslie 3 AST),62 - 51,-11,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,351,1,1,3,10:38 PM,2:52,Diggins-Smith 8' Jump Shot (14 PTS),,,62 - 53,-9,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,352,6,1,3,10:38 PM,2:41,Taurasi P.FOUL (P3.T2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,354,2,1,3,10:39 PM,2:32,,,MISS Atkins 19' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,355,4,0,3,10:39 PM,2:28,Taurasi REBOUND (Off:0 Def:3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,356,6,2,3,10:39 PM,2:23,,,Hines-Allen S.FOUL (P4.T4),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,358,3,11,3,10:39 PM,2:23,MISS Turner Free Throw 1 of 2,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,359,4,1,3,10:39 PM,2:23,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,362,3,12,3,10:39 PM,2:23,MISS Turner Free Throw 2 of 2,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,360,8,0,3,10:39 PM,2:23,,,SUB: Gemelos FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,363,4,0,3,10:39 PM,2:21,,,Hines-Allen REBOUND (Off:0 Def:9),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,364,6,26,3,10:40 PM,2:06,,,Leslie Offensive Charge Foul (P4.PN),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,366,5,37,3,10:40 PM,2:06,,,Leslie Offensive Foul Turnover (P1.T7),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042000101,367,1,5,3,10:40 PM,1:55,Taurasi 7' Layup (16 PTS) (Diggins-Smith 2 AST),,,62 - 55,-7,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,369,1,47,3,10:41 PM,1:33,,,Hines-Allen 15' Turnaround Jump Shot (6 PTS),64 - 55,-9,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,370,1,5,3,10:41 PM,1:15,Turner 8' Layup (2 PTS) (Taurasi 4 AST),,,64 - 57,-7,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,372,1,5,3,10:41 PM,1:03,,,Mitchell 5' Layup (17 PTS),66 - 57,-9,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,374,6,2,3,10:41 PM,1:03,Peddy S.FOUL (P2.T3),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,376,8,0,3,10:42 PM,1:03,,,SUB: Hawkins FOR Leslie,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,377,8,0,3,10:42 PM,1:03,,,SUB: Atkins FOR Hines-Allen,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,380,3,10,3,10:42 PM,1:03,,,Mitchell Free Throw 1 of 1 (18 PTS),67 - 57,-10,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,381,2,5,3,10:42 PM,0:49,MISS Taurasi 7' Layup,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,382,4,0,3,10:42 PM,0:46,Vaughn REBOUND (Off:1 Def:1),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,383,2,1,3,10:42 PM,0:44,MISS Diggins-Smith 24' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,384,4,0,3,10:42 PM,0:40,,,Gemelos REBOUND (Off:0 Def:2),,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,385,1,1,3,10:43 PM,0:24,,,Meesseman 24' 3PT Jump Shot (16 PTS) (Mitchell 3 AST),70 - 57,-13,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,387,6,1,3,10:43 PM,0:08,,,Hawkins P.FOUL (P3.PN),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,389,3,11,3,10:43 PM,0:08,Taurasi Free Throw 1 of 2 (17 PTS),,,70 - 58,-12,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,390,3,12,3,10:44 PM,0:08,Taurasi Free Throw 2 of 2 (18 PTS),,,70 - 59,-11,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,391,2,1,3,10:44 PM,0:00,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,392,4,0,3,10:44 PM,0:00,Peddy REBOUND (Off:1 Def:2),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,393,13,0,3,10:44 PM,0:00,,End of 3rd Period (10:44 PM EST),,70 - 59,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000101,397,12,0,4,10:47 PM,10:00,,Start of 4th Period (10:47 PM EST),,70 - 59,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,398,2,1,4,10:47 PM,9:40,,,MISS Hines-Allen 19' Jump Shot,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,399,4,0,4,10:47 PM,9:38,Vaughn REBOUND (Off:1 Def:2),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,400,6,1,4,10:47 PM,9:33,,,Hawkins P.FOUL (P4.T1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000101,402,1,79,4,10:48 PM,9:23,Vaughn 17' Pullup Jump Shot (8 PTS) (Diggins-Smith 3 AST),,,70 - 61,-9,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,404,1,1,4,10:48 PM,9:05,,,Hines-Allen 25' 3PT Jump Shot (9 PTS) (Atkins 4 AST),73 - 61,-12,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,406,1,2,4,10:48 PM,8:51,Diggins-Smith 11' Running Jump Shot (16 PTS),,,73 - 63,-10,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,407,2,1,4,10:49 PM,8:37,Peddy BLOCK (1 BLK),,MISS Gemelos 13' Jump Shot,,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,409,4,0,4,10:49 PM,8:36,,,Gemelos REBOUND (Off:1 Def:2),,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,410,2,1,4,10:49 PM,8:29,,,MISS Hines-Allen 9' Jump Shot,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,411,4,0,4,10:49 PM,8:27,Taurasi REBOUND (Off:0 Def:4),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,412,2,1,4,10:49 PM,8:19,MISS Turner 3' Jump Shot,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,413,4,0,4,10:49 PM,8:17,Vaughn REBOUND (Off:2 Def:2),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,475,2,1,4,10:51 PM,8:15,MISS Vaughn 5' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,476,4,0,4,10:51 PM,8:13,Diggins-Smith REBOUND (Off:1 Def:5),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,418,1,1,4,10:52 PM,8:13,Diggins-Smith 8' Jump Shot (18 PTS),,,73 - 65,-8,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,414,5,2,4,10:52 PM,8:01,Diggins-Smith STEAL (1 STL),,Mitchell Lost Ball Turnover (P2.T8),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,416,1,1,4,10:52 PM,7:57,Diggins-Smith 25' 3PT Jump Shot (21 PTS) (Peddy 1 AST),,,73 - 68,-5,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,420,8,0,4,10:52 PM,7:57,,,SUB: Meesseman FOR Hawkins,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,421,8,0,4,10:52 PM,7:57,,,SUB: Leslie FOR Gemelos,,,5,203043,Jacki Gemelos,1611661322.0,Washington,Mystics,WAS,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1042000101,424,2,1,4,10:53 PM,7:39,,,MISS Mitchell 19' Jump Shot,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,425,4,0,4,10:53 PM,7:36,Turner REBOUND (Off:2 Def:6),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,426,1,1,4,10:53 PM,7:19,Vaughn 19' Jump Shot (10 PTS) (Taurasi 5 AST),,,73 - 70,-3,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,428,2,1,4,10:53 PM,6:58,Turner BLOCK (2 BLK),,MISS Atkins 15' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,430,4,0,4,10:54 PM,6:54,Peddy REBOUND (Off:1 Def:3),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,431,1,1,4,10:54 PM,6:46,Vaughn 14' Jump Shot (12 PTS) (Diggins-Smith 4 AST),,,73 - 72,-1,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,433,2,1,4,10:54 PM,6:29,,,MISS Meesseman 8' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,434,4,0,4,10:54 PM,6:29,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,435,10,0,4,10:55 PM,6:26,Jump Ball Turner vs. Hines-Allen: Tip to Taurasi,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,438,5,2,4,10:55 PM,6:26,Turner STEAL (1 STL),,Hines-Allen Lost Ball Turnover (P2.T9),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,440,2,1,4,10:55 PM,6:04,MISS Taurasi 21' Jump Shot,,Leslie BLOCK (2 BLK),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,1
+1042000101,442,4,0,4,10:55 PM,6:00,,,Leslie REBOUND (Off:0 Def:4),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,443,2,1,4,10:55 PM,5:44,,,MISS Mitchell 27' 3PT Jump Shot,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,444,4,0,4,10:55 PM,5:40,Turner REBOUND (Off:2 Def:7),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,445,6,26,4,10:56 PM,5:28,Turner Offensive Charge Foul (P1.T1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,447,5,37,4,10:56 PM,5:28,Turner Offensive Foul Turnover (P2.T9),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000101,448,2,1,4,10:56 PM,5:18,Turner BLOCK (3 BLK),,MISS Atkins 16' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,450,4,0,4,10:56 PM,5:13,,,Atkins REBOUND (Off:2 Def:2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,451,5,45,4,10:56 PM,5:08,,,Hines-Allen Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1042000101,453,1,1,4,10:57 PM,4:56,Diggins-Smith 27' 3PT Jump Shot (24 PTS) (Taurasi 6 AST),,,73 - 75,2,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,455,2,1,4,10:57 PM,4:29,Turner BLOCK (4 BLK),,MISS Leslie 14' Jump Shot,,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042000101,457,4,0,4,10:57 PM,4:25,Turner REBOUND (Off:2 Def:8),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,458,1,1,4,10:57 PM,4:23,Taurasi 27' 3PT Jump Shot (21 PTS) (Turner 4 AST),,,73 - 78,5,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,460,9,2,4,10:58 PM,4:23,,,Mystics Timeout: Short (Reg.2 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,461,2,1,4,10:59 PM,3:59,,,MISS Mitchell 13' Jump Shot,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,462,4,0,4,10:59 PM,3:56,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,463,2,1,4,10:59 PM,3:38,MISS Taurasi 10' Jump Shot,,Meesseman BLOCK (1 BLK),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1042000101,464,4,0,4,10:59 PM,3:37,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000101,465,6,3,4,11:00 PM,3:37,Turner L.B.FOUL (P2.T2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,468,1,1,4,11:00 PM,3:20,,,Mitchell 25' 3PT Jump Shot (21 PTS) (Meesseman 4 AST),76 - 78,2,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,470,2,1,4,11:00 PM,3:03,MISS Diggins-Smith 26' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,471,4,0,4,11:01 PM,3:01,,,Leslie REBOUND (Off:0 Def:5),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,472,1,1,4,11:01 PM,2:44,,,Hines-Allen 4' Jump Shot (11 PTS) (Mitchell 4 AST),78 - 78,TIE,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,474,9,1,4,11:01 PM,2:44,MERCURY Timeout: Regular (Full 3 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,477,1,1,4,11:04 PM,2:33,Taurasi 5' Jump Shot (23 PTS) (Turner 5 AST),,,78 - 80,2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,497,5,11,4,11:05 PM,2:06,,,Mystics Turnover: Shot Clock (T#11),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000101,481,2,1,4,11:05 PM,1:48,MISS Diggins-Smith 8' Jump Shot,,Hines-Allen BLOCK (2 BLK),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1
+1042000101,483,4,0,4,11:05 PM,1:48,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,484,18,1,4,11:05 PM,1:48,,Instant Replay4th Period (11:05 PM EST),,78 - 80,2,0,479,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000101,485,2,5,4,11:07 PM,1:41,MISS Vaughn 5' Layup,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,486,4,0,4,11:07 PM,1:35,Turner REBOUND (Off:3 Def:8),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,487,1,72,4,11:07 PM,1:35,Turner 1' Putback Layup (4 PTS),,,78 - 82,4,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,488,5,1,4,11:07 PM,1:23,Peddy STEAL (3 STL),,Mitchell Bad Pass Turnover (P3.T12),,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,490,5,1,4,11:07 PM,1:08,Vaughn Bad Pass Turnover (P1.T10),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000101,491,1,1,4,11:08 PM,0:57,,,Mitchell 25' 3PT Jump Shot (24 PTS) (Leslie 4 AST),81 - 82,1,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,493,5,1,4,11:08 PM,0:41,Diggins-Smith Bad Pass Turnover (P4.T11),,Meesseman STEAL (2 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1042000101,495,1,5,4,11:08 PM,0:38,,,Meesseman 6' Layup (18 PTS),83 - 82,-1,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,498,6,26,4,11:10 PM,0:35,Diggins-Smith Offensive Charge Foul (P2.T3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,500,5,37,4,11:10 PM,0:35,Diggins-Smith Offensive Foul Turnover (P5.T12),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000101,501,9,2,4,11:11 PM,0:35,,,Mystics Timeout: Short (Reg.2 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,502,2,1,4,11:12 PM,0:11,,,MISS Mitchell 7' Jump Shot,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,503,4,0,4,11:12 PM,0:09,,,Leslie REBOUND (Off:1 Def:5),,,5,1629506,Kiara Leslie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,504,6,1,4,11:12 PM,0:06,Peddy P.FOUL (P3.PN),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1628899,Myisha Hines-Allen,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,506,6,1,4,11:13 PM,0:05,Peddy P.FOUL (P4.PN),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1042000101,508,3,11,4,11:13 PM,0:05,,,MISS Mitchell Free Throw 1 of 2,,,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,509,4,1,4,11:13 PM,0:05,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,510,3,12,4,11:13 PM,0:05,,,Mitchell Free Throw 2 of 2 (25 PTS),84 - 82,-2,5,201507,Leilani Mitchell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1042000101,511,9,2,4,11:13 PM,0:05,MERCURY Timeout: Short (Full 3 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000101,512,1,1,4,11:15 PM,0:00,Peddy 3PT Jump Shot (12 PTS) (Diggins-Smith 5 AST),,,84 - 85,1,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000101,514,18,0,4,11:15 PM,0:00,,Instant Replay4th Period (11:15 PM EST),,84 - 85,1,0,512,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000101,515,13,0,4,11:16 PM,0:00,,End of 4th Period (11:16 PM EST),,84 - 85,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

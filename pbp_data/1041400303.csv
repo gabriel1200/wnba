@@ -1,0 +1,342 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041400303,0,12,0,1,8:08 PM,10:00,,Start of 1st Period (8:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,1,10,0,1,8:09 PM,10:00,Jump Ball Fowles vs. Kobryn: Tip to Prince,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0
+1041400303,2,2,1,1,8:09 PM,9:44,MISS Delle Donne 5' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,3,4,0,1,8:09 PM,9:43,,,Taylor REBOUND (Off:0 Def:1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,4,6,1,1,8:09 PM,9:37,Vandersloot P.FOUL (P1.T1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,5,2,1,1,8:10 PM,9:25,Delle Donne BLOCK (1 BLK),,MISS Taylor 6' Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0
+1041400303,6,4,0,1,8:10 PM,9:23,Delle Donne REBOUND (Off:0 Def:1),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,7,1,47,1,8:10 PM,9:15,Fowles 5' Turnaround Jump Shot (2 PTS) (Vandersloot 1 AST),,,0 - 2,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,8,1,5,1,8:10 PM,8:53,,,Kobryn 3' Layup (2 PTS) (Taurasi 1 AST),2 - 2,TIE,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,9,6,1,1,8:11 PM,8:35,,,Kobryn P.FOUL (P1.T1),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,10,2,5,1,8:11 PM,8:28,MISS Prince 3' Layup,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,11,4,0,1,8:11 PM,8:26,Prince REBOUND (Off:1 Def:0),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,12,2,5,1,8:11 PM,8:20,MISS Prince 3' Layup,,Taurasi BLOCK (1 BLK),,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,13,4,0,1,8:11 PM,8:19,,,Kobryn REBOUND (Off:0 Def:1),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,14,1,1,1,8:11 PM,8:07,,,Kobryn 6' Jump Shot (4 PTS) (Taurasi 2 AST),4 - 2,-2,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,15,2,1,1,8:11 PM,7:55,MISS Vandersloot  3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,16,4,0,1,8:11 PM,7:54,,,Bonner REBOUND (Off:0 Def:1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,17,6,1,1,8:12 PM,7:46,Young P.FOUL (P1.T2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,18,2,1,1,8:12 PM,7:34,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,19,4,0,1,8:12 PM,7:33,Young REBOUND (Off:0 Def:1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,20,5,1,1,8:12 PM,7:25,Young Bad Pass Turnover (P1.T1),,Kobryn STEAL (1 STL),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,21,2,1,1,8:12 PM,7:17,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,22,4,0,1,8:12 PM,7:17,Vandersloot REBOUND (Off:0 Def:1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,23,1,79,1,8:12 PM,7:10,Delle Donne 6' Pullup Jump Shot (2 PTS) (Vandersloot 2 AST),,,4 - 4,TIE,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,24,2,1,1,8:13 PM,6:52,,,MISS Dupree 19' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,25,4,0,1,8:13 PM,6:51,Delle Donne REBOUND (Off:0 Def:2),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,26,1,5,1,8:13 PM,6:46,Fowles 2' Layup (4 PTS) (Vandersloot 3 AST),,,4 - 6,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,27,6,2,1,8:13 PM,6:32,Young S.FOUL (P2.T3),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,28,3,11,1,8:13 PM,6:32,,,Taylor Free Throw 1 of 2 (1 PTS),5 - 6,1,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,30,8,0,1,8:14 PM,6:32,SUB: Quigley FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,31,3,12,1,8:14 PM,6:32,,,Taylor Free Throw 2 of 2 (2 PTS),6 - 6,TIE,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,33,2,5,1,8:14 PM,6:10,MISS Fowles 3' Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,35,4,0,1,8:14 PM,6:09,Fowles REBOUND (Off:1 Def:0),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,34,1,72,1,8:14 PM,6:09,Fowles 2' Putback Layup (6 PTS),,,6 - 8,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,36,1,1,1,8:14 PM,5:56,,,Bonner 17' Jump Shot (2 PTS) (Dupree 1 AST),8 - 8,TIE,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,37,6,1,1,8:15 PM,5:37,,,Kobryn P.FOUL (P2.T2),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,38,2,1,1,8:15 PM,5:29,MISS Vandersloot 18' Jump Shot,,Kobryn BLOCK (1 BLK),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,39,4,0,1,8:15 PM,5:27,,,Dupree REBOUND (Off:0 Def:1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,40,5,1,1,8:16 PM,5:21,Fowles STEAL (1 STL),,Taurasi Bad Pass Turnover (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,41,2,1,1,8:16 PM,5:20,MISS Quigley 20' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,42,4,0,1,8:16 PM,5:20,,,Taylor REBOUND (Off:0 Def:2),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,43,1,78,1,8:17 PM,5:02,,,Dupree 8' Floating Jump Shot (2 PTS) (Taylor 1 AST),10 - 8,-2,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,44,1,42,1,8:17 PM,4:48,Quigley 3' Driving Layup (2 PTS) (Vandersloot 4 AST),,,10 - 10,TIE,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,45,1,77,1,8:18 PM,4:37,,,Taurasi 10' Driving Jump Shot (2 PTS) (Dupree 2 AST),12 - 10,-2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,46,5,1,1,8:18 PM,4:18,Quigley Bad Pass Turnover (P1.T2),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,47,9,1,1,8:18 PM,4:18,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,48,8,0,1,8:20 PM,4:18,,,SUB: Bass FOR Kobryn,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,49,1,1,1,8:22 PM,4:05,,,Dupree 7' Jump Shot (4 PTS) (Taylor 2 AST),14 - 10,-4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,50,1,5,1,8:22 PM,3:52,Fowles 2' Layup (8 PTS) (Vandersloot 5 AST),,,14 - 12,-2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,51,1,1,1,8:22 PM,3:41,,,Taurasi  3PT Jump Shot (5 PTS),17 - 12,-5,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,52,1,5,1,8:23 PM,3:15,Delle Donne 3' Layup (4 PTS) (Prince 1 AST),,,17 - 14,-3,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,53,6,2,1,8:23 PM,3:15,,,Taurasi S.FOUL (P1.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,54,3,10,1,8:23 PM,3:15,Delle Donne Free Throw 1 of 1 (5 PTS),,,17 - 15,-2,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,56,1,5,1,8:23 PM,3:00,,,Bass 2' Layup (2 PTS) (Taylor 3 AST),19 - 15,-4,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,57,1,42,1,8:24 PM,2:47,Vandersloot 2' Driving Layup (2 PTS),,,19 - 17,-2,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,58,1,1,1,8:24 PM,2:29,,,Taylor  3PT Jump Shot (5 PTS) (Taurasi 3 AST),22 - 17,-5,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,59,1,5,1,8:24 PM,2:09,Delle Donne 2' Layup (7 PTS) (Quigley 1 AST),,,22 - 19,-3,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,60,6,2,1,8:24 PM,2:09,,,Taylor S.FOUL (P1.T4),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,61,8,0,1,8:25 PM,2:09,,,SUB: Phillips FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,62,3,10,1,8:25 PM,2:09,Delle Donne Free Throw 1 of 1 (8 PTS),,,22 - 20,-2,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,64,6,1,1,8:25 PM,2:01,Prince P.FOUL (P1.T4),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,66,5,2,1,8:26 PM,1:52,Delle Donne STEAL (1 STL),,Taurasi Lost Ball Turnover (P2.T2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,68,2,1,1,8:26 PM,1:40,MISS Prince 13' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,69,4,0,1,8:26 PM,1:39,,,Bass REBOUND (Off:0 Def:1),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,70,2,1,1,8:27 PM,1:18,,,MISS Dupree 17' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,71,4,0,1,8:27 PM,1:17,Delle Donne REBOUND (Off:0 Def:3),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,72,2,1,1,8:27 PM,1:10,MISS Quigley 12' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,73,4,0,1,8:27 PM,1:09,,,Dupree REBOUND (Off:0 Def:2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,74,2,1,1,8:27 PM,0:50,,,MISS Phillips 18' Jump Shot,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,75,4,0,1,8:27 PM,0:48,Fowles REBOUND (Off:1 Def:1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,76,2,1,1,8:27 PM,0:25,MISS Prince 16' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,77,4,0,1,8:28 PM,0:25,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,78,5,11,1,8:28 PM,0:25,SKY Turnover: Shot Clock (T#3),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400303,79,8,0,1,8:28 PM,0:25,SUB: Faulkner FOR Delle Donne,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,80,8,0,1,8:28 PM,0:25,SUB: Breland FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,81,8,0,1,8:28 PM,0:25,SUB: Gatling FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203832,Markeisha Gatling,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,82,2,1,1,8:28 PM,0:05,,,MISS Taurasi 20' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,83,4,0,1,8:28 PM,0:04,Quigley REBOUND (Off:0 Def:1),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,84,6,1,1,8:29 PM,0:01,,,Bonner P.FOUL (P1.PN),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,85,3,11,1,8:29 PM,0:01,Quigley Free Throw 1 of 2 (3 PTS),,,22 - 21,-1,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,87,3,12,1,8:29 PM,0:01,Quigley Free Throw 2 of 2 (4 PTS),,,22 - 22,TIE,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,89,13,0,1,8:29 PM,0:00,,End of 1st Period (8:29 PM EST),,22 - 22,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,91,12,0,2,8:32 PM,10:00,,Start of 2nd Period (8:32 PM EST),,22 - 22,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,92,1,1,2,8:33 PM,9:49,,,Dupree 14' Jump Shot (6 PTS),24 - 22,-2,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,93,2,1,2,8:33 PM,9:34,MISS Delle Donne 12' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,95,4,0,2,8:33 PM,9:32,Gatling REBOUND (Off:1 Def:0),,,,,4,203832,Markeisha Gatling,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,94,2,5,2,8:33 PM,9:32,MISS Gatling 2' Layup,,,,,4,203832,Markeisha Gatling,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,97,4,0,2,8:33 PM,9:29,Delle Donne REBOUND (Off:1 Def:3),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,96,2,5,2,8:33 PM,9:29,MISS Delle Donne 2' Layup,,Bass BLOCK (1 BLK),,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,98,4,0,2,8:33 PM,9:28,,,Bonner REBOUND (Off:0 Def:2),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,99,2,1,2,8:33 PM,9:19,,,MISS Dupree 14' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,100,4,0,2,8:33 PM,9:18,Breland REBOUND (Off:0 Def:1),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,101,2,1,2,8:33 PM,9:07,MISS Quigley 4' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,102,4,0,2,8:33 PM,9:07,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,104,5,1,2,8:34 PM,8:58,Quigley Bad Pass Turnover (P2.T4),,Phillips STEAL (1 STL),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,105,1,1,2,8:34 PM,8:44,,,Bonner 13' Jump Shot (4 PTS) (Dupree 3 AST),26 - 22,-4,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,106,2,1,2,8:34 PM,8:28,MISS Faulkner 5' Jump Shot,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,107,4,0,2,8:34 PM,8:26,,,Phillips REBOUND (Off:0 Def:1),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,108,5,1,2,8:35 PM,8:21,Quigley STEAL (1 STL),,Dupree Bad Pass Turnover (P1.T3),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,109,1,5,2,8:35 PM,8:00,Breland 3' Layup (2 PTS),,,26 - 24,-2,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,110,1,47,2,8:35 PM,7:41,,,Dupree 8' Turnaround Jump Shot (8 PTS),28 - 24,-4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,111,1,79,2,8:36 PM,7:17,Quigley 20' Pullup Jump Shot (6 PTS),,,28 - 26,-2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,112,2,1,2,8:36 PM,6:54,,,MISS Bonner 20' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,114,4,0,2,8:36 PM,6:53,,,Bass REBOUND (Off:1 Def:1),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,113,1,5,2,8:36 PM,6:53,,,Bass 2' Layup (4 PTS),30 - 26,-4,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,115,1,1,2,8:36 PM,6:35,Gatling 8' Jump Shot (2 PTS) (Faulkner 1 AST),,,30 - 28,-2,4,203832,Markeisha Gatling,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,116,5,2,2,8:37 PM,6:22,Breland STEAL (1 STL),,Bonner Lost Ball Turnover (P1.T4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,117,1,1,2,8:37 PM,6:13,Delle Donne 24' 3PT Jump Shot (11 PTS) (Faulkner 2 AST),,,30 - 31,1,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,118,9,1,2,8:37 PM,6:12,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,119,8,0,2,8:39 PM,6:12,,,SUB: Kobryn FOR Bass,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,120,8,0,2,8:39 PM,6:12,,,SUB: Taurasi FOR Phillips,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,121,8,0,2,8:40 PM,6:12,SUB: Fowles FOR Faulkner,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,122,8,0,2,8:40 PM,6:12,SUB: Vandersloot FOR Gatling,,,,,4,203832,Markeisha Gatling,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,123,1,1,2,8:41 PM,5:51,,,Dupree 16' Jump Shot (10 PTS) (Taurasi 4 AST),32 - 31,-1,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,124,2,5,2,8:41 PM,5:31,MISS Vandersloot 2' Layup,,Dupree BLOCK (1 BLK),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,125,4,0,2,8:41 PM,5:31,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,126,2,1,2,8:41 PM,5:28,MISS Fowles 5' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,127,4,0,2,8:41 PM,5:27,,,Bonner REBOUND (Off:0 Def:3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,128,1,5,2,8:42 PM,5:15,,,Kobryn 1' Layup (6 PTS) (Taylor 4 AST),34 - 31,-3,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,129,1,1,2,8:42 PM,5:01,Quigley  3PT Jump Shot (9 PTS) (Vandersloot 6 AST),,,34 - 34,TIE,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,130,1,1,2,8:42 PM,4:47,,,Dupree 9' Jump Shot (12 PTS) (Bonner 1 AST),36 - 34,-2,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,131,2,1,2,8:42 PM,4:36,MISS Quigley 16' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,132,4,0,2,8:42 PM,4:36,Fowles REBOUND (Off:2 Def:1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,133,6,2,2,8:42 PM,4:36,,,Dupree S.FOUL (P1.T1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,134,3,11,2,8:42 PM,4:36,Fowles Free Throw 1 of 2 (9 PTS),,,36 - 35,-1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,136,8,0,2,8:43 PM,4:36,,,SUB: Murphy FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,137,3,12,2,8:43 PM,4:36,Fowles Free Throw 2 of 2 (10 PTS),,,36 - 36,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,139,1,1,2,8:44 PM,4:25,,,Taurasi  3PT Jump Shot (8 PTS),39 - 36,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,140,1,5,2,8:44 PM,4:08,Fowles 2' Layup (12 PTS) (Breland 1 AST),,,39 - 38,-1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,141,2,5,2,8:44 PM,3:51,,,MISS Kobryn 3' Layup,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,142,4,0,2,8:44 PM,3:49,,,Kobryn REBOUND (Off:1 Def:1),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,143,2,1,2,8:44 PM,3:46,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,145,4,0,2,8:44 PM,3:45,,,Taurasi REBOUND (Off:1 Def:0),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,144,1,5,2,8:44 PM,3:45,,,Taurasi 3' Layup (10 PTS),41 - 38,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,146,2,5,2,8:44 PM,3:35,MISS Vandersloot 2' Layup,,Kobryn BLOCK (2 BLK),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,147,4,0,2,8:44 PM,3:34,,,Kobryn REBOUND (Off:1 Def:2),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,148,2,1,2,8:45 PM,3:27,,,MISS Taurasi 26' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,149,4,0,2,8:45 PM,3:26,Quigley REBOUND (Off:0 Def:2),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,150,2,5,2,8:45 PM,3:15,MISS Delle Donne 1' Layup,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,151,4,0,2,8:45 PM,3:14,,,Bonner REBOUND (Off:0 Def:4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,152,2,1,2,8:45 PM,3:00,,,MISS Taurasi 22' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,153,4,0,2,8:45 PM,2:59,Quigley REBOUND (Off:0 Def:3),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,154,6,1,2,8:45 PM,2:46,,,Kobryn P.FOUL (P3.T2),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,155,9,1,2,8:45 PM,2:46,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,156,8,0,2,8:48 PM,2:46,,,SUB: Bass FOR Kobryn,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,157,8,0,2,8:48 PM,2:46,SUB: Prince FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,158,5,1,2,8:49 PM,2:37,Vandersloot Bad Pass Turnover (P1.T5),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,159,2,1,2,8:50 PM,2:19,,,MISS Taurasi 18' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,160,4,0,2,8:50 PM,2:18,,,Taurasi REBOUND (Off:2 Def:0),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,161,6,1,2,8:50 PM,2:18,Fowles P.FOUL (P1.T1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,162,5,1,2,8:50 PM,2:13,Prince STEAL (1 STL),,Taurasi Bad Pass Turnover (P3.T5),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,163,1,5,2,8:50 PM,1:55,Fowles 2' Layup (14 PTS) (Vandersloot 7 AST),,,41 - 40,-1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,164,1,1,2,8:51 PM,1:33,,,Dupree 18' Jump Shot (14 PTS) (Murphy 1 AST),43 - 40,-3,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,165,2,1,2,8:51 PM,1:12,MISS Breland 13' Jump Shot,,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,166,4,0,2,8:51 PM,1:10,,,Murphy REBOUND (Off:0 Def:1),,,5,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,167,5,40,2,8:51 PM,1:05,,,Murphy Out of Bounds Lost Ball Turnover (P1.T6),,,5,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,168,1,1,2,8:52 PM,0:55,Prince 24' 3PT Jump Shot (3 PTS) (Vandersloot 8 AST),,,43 - 43,TIE,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,169,1,5,2,8:52 PM,0:44,,,Bass 2' Layup (6 PTS) (Dupree 4 AST),45 - 43,-2,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,172,5,2,2,8:52 PM,0:24,Prince Lost Ball Turnover (P1.T6),,Bass STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,171,10,0,2,8:53 PM,0:24,Jump Ball Prince vs. Bass: Tip to Taurasi,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,173,2,1,2,8:53 PM,0:01,,,MISS Bonner 20' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,174,4,0,2,8:53 PM,0:00,Fowles REBOUND (Off:2 Def:2),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,175,13,0,2,8:53 PM,0:00,,End of 2nd Period (8:53 PM EST),,45 - 43,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,177,12,0,3,9:11 PM,10:00,,Start of 3rd Period (9:11 PM EST),,45 - 43,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,178,2,1,3,9:11 PM,9:43,,,MISS Bonner 24' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,179,4,0,3,9:11 PM,9:41,,,Kobryn REBOUND (Off:2 Def:2),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,180,1,5,3,9:11 PM,9:40,,,Kobryn 1' Layup (8 PTS),47 - 43,-4,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,181,2,1,3,9:11 PM,9:25,MISS Fowles 4' Jump Shot,,Kobryn BLOCK (3 BLK),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,182,4,0,3,9:12 PM,9:23,,,Dupree REBOUND (Off:0 Def:3),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,183,2,5,3,9:12 PM,9:10,,,MISS Bonner 2' Layup,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,185,4,0,3,9:12 PM,9:09,,,Bonner REBOUND (Off:1 Def:4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,184,2,5,3,9:12 PM,9:09,,,MISS Bonner 3' Layup,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,186,4,0,3,9:12 PM,9:08,Delle Donne REBOUND (Off:1 Def:4),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,187,2,1,3,9:12 PM,8:57,MISS Fowles 6' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,188,4,0,3,9:12 PM,8:56,,,Kobryn REBOUND (Off:2 Def:3),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,189,2,5,3,9:12 PM,8:35,,,MISS Bonner 1' Layup,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,190,4,0,3,9:12 PM,8:35,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,191,1,1,3,9:13 PM,8:14,Delle Donne 5' Jump Shot (13 PTS),,,47 - 45,-2,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,192,1,5,3,9:13 PM,8:04,,,Dupree 2' Layup (16 PTS) (Bonner 2 AST),49 - 45,-4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,193,5,1,3,9:13 PM,7:47,Vandersloot Bad Pass Turnover (P2.T7),,Taylor STEAL (1 STL),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,194,2,1,3,9:13 PM,7:39,,,MISS Taurasi 21' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,195,4,0,3,9:13 PM,7:38,Young REBOUND (Off:0 Def:2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,196,2,5,3,9:14 PM,7:27,MISS Prince 3' Layup,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,197,4,0,3,9:14 PM,7:26,,,Kobryn REBOUND (Off:2 Def:4),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,198,5,1,3,9:14 PM,7:06,Young STEAL (1 STL),,Taurasi Bad Pass Turnover (P4.T7),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,199,6,2,3,9:14 PM,7:03,,,Taurasi S.FOUL (P2.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,200,3,11,3,9:14 PM,7:03,Young Free Throw 1 of 2 (1 PTS),,,49 - 46,-3,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,202,3,12,3,9:15 PM,7:03,MISS Young Free Throw 2 of 2,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,204,4,0,3,9:15 PM,7:02,Vandersloot REBOUND (Off:1 Def:1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,205,2,1,3,9:15 PM,6:54,MISS Delle Donne  3PT Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,206,4,0,3,9:15 PM,6:53,,,Taylor REBOUND (Off:0 Def:3),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,207,1,42,3,9:15 PM,6:46,,,Bonner 3' Driving Layup (6 PTS),51 - 46,-5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,208,1,79,3,9:15 PM,6:32,Young 17' Pullup Jump Shot (3 PTS) (Vandersloot 9 AST),,,51 - 48,-3,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,209,5,40,3,9:15 PM,6:23,,,Taurasi Out of Bounds Lost Ball Turnover (P5.T8),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,210,6,11,3,9:16 PM,6:23,,,Taurasi T.FOUL (P2.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400303,211,3,16,3,9:16 PM,6:23,MISS Delle Donne Free Throw Technical,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,212,4,1,3,9:16 PM,6:23,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,213,5,1,3,9:16 PM,6:09,Vandersloot Bad Pass Turnover (P3.T8),,Dupree STEAL (1 STL),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,214,6,2,3,9:17 PM,6:06,Delle Donne S.FOUL (P1.T1),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,215,3,11,3,9:17 PM,6:06,,,Bonner Free Throw 1 of 2 (7 PTS),52 - 48,-4,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,217,3,12,3,9:17 PM,6:06,,,Bonner Free Throw 2 of 2 (8 PTS),53 - 48,-5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,221,2,1,3,9:18 PM,5:39,MISS Delle Donne  3PT Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,222,4,0,3,9:18 PM,5:38,,,Kobryn REBOUND (Off:2 Def:5),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,223,6,1,3,9:18 PM,5:33,Delle Donne P.FOUL (P2.T2),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,224,8,0,3,9:18 PM,5:33,SUB: Quigley FOR Prince,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,225,2,1,3,9:19 PM,5:14,,,MISS Kobryn 24' 3PT Jump Shot,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,226,4,0,3,9:19 PM,5:14,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,227,5,11,3,9:19 PM,5:14,,,Mercury Turnover: Shot Clock (T#9),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400303,228,2,1,3,9:19 PM,5:03,MISS Quigley 18' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,229,4,0,3,9:19 PM,5:02,,,Bonner REBOUND (Off:1 Def:5),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,230,2,1,3,9:19 PM,4:53,,,MISS Bonner 19' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,231,4,0,3,9:19 PM,4:52,Young REBOUND (Off:0 Def:3),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,232,1,42,3,9:19 PM,4:45,Fowles 2' Driving Layup (16 PTS) (Vandersloot 10 AST),,,53 - 50,-3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,233,1,1,3,9:20 PM,4:28,,,Dupree 21' Jump Shot (18 PTS),55 - 50,-5,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,234,6,1,3,9:20 PM,4:19,,,Kobryn P.FOUL (P4.T2),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,235,9,1,3,9:20 PM,4:19,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,236,8,0,3,9:20 PM,4:19,,,SUB: Bass FOR Kobryn,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,237,8,0,3,9:23 PM,4:19,SUB: Breland FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,239,2,1,3,9:24 PM,4:09,MISS Delle Donne 16' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,240,4,0,3,9:24 PM,4:08,,,Bonner REBOUND (Off:1 Def:6),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,241,2,1,3,9:24 PM,3:51,,,MISS Taylor 20' Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,242,4,0,3,9:24 PM,3:50,Breland REBOUND (Off:0 Def:2),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,243,6,2,3,9:24 PM,3:37,,,Bass S.FOUL (P1.T3),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,244,3,11,3,9:24 PM,3:37,Fowles Free Throw 1 of 2 (17 PTS),,,55 - 51,-4,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,246,8,0,3,9:25 PM,3:37,,,SUB: Phillips FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,247,3,12,3,9:25 PM,3:37,Fowles Free Throw 2 of 2 (18 PTS),,,55 - 52,-3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,250,2,1,3,9:26 PM,3:19,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,252,4,0,3,9:26 PM,3:18,,,Bass REBOUND (Off:2 Def:1),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,251,1,5,3,9:26 PM,3:18,,,Bass 2' Layup (8 PTS),57 - 52,-5,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,253,1,42,3,9:26 PM,3:00,Delle Donne 1' Driving Layup (15 PTS) (Vandersloot 11 AST),,,57 - 54,-3,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,254,1,1,3,9:27 PM,2:33,,,Bonner 18' Jump Shot (10 PTS) (Dupree 5 AST),59 - 54,-5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,257,1,1,3,9:28 PM,2:07,Quigley  3PT Jump Shot (12 PTS),,,59 - 57,-2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,258,2,1,3,9:28 PM,1:53,,,MISS Taurasi 18' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,259,4,0,3,9:28 PM,1:51,Fowles REBOUND (Off:2 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,260,6,1,3,9:28 PM,1:40,,,Phillips P.FOUL (P1.T4),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,261,1,5,3,9:29 PM,1:31,Fowles 2' Layup (20 PTS) (Quigley 2 AST),,,59 - 59,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,262,2,1,3,9:29 PM,1:13,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,263,4,0,3,9:29 PM,1:13,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,264,6,3,3,9:29 PM,1:13,Quigley L.B.FOUL (P1.T3),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,265,8,0,3,9:29 PM,1:13,,,SUB: Taylor FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,266,5,40,3,9:30 PM,1:07,,,Phillips Out of Bounds Lost Ball Turnover (P1.T10),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,267,6,2,3,9:30 PM,0:54,,,Bonner S.FOUL (P2.PN),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,268,3,11,3,9:30 PM,0:54,Delle Donne Free Throw 1 of 2 (16 PTS),,,59 - 60,1,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,270,3,12,3,9:30 PM,0:54,Delle Donne Free Throw 2 of 2 (17 PTS),,,59 - 61,2,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,273,2,1,3,9:31 PM,0:40,,,MISS Taylor 5' Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,274,4,0,3,9:31 PM,0:38,Breland REBOUND (Off:0 Def:3),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,275,1,42,3,9:31 PM,0:29,Quigley 1' Driving Layup (14 PTS),,,59 - 63,4,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,276,9,2,3,9:31 PM,0:17,,,Mercury Timeout: Short (Reg.1 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,278,1,79,3,9:33 PM,0:06,,,Dupree 19' Pullup Jump Shot (20 PTS),61 - 63,2,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,279,2,1,3,9:33 PM,0:00,MISS Quigley  3PT Jump Shot,,Taylor BLOCK (1 BLK),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,281,4,0,3,9:33 PM,0:00,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,280,13,0,3,9:33 PM,0:00,,End of 3rd Period (9:33 PM EST),,61 - 63,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,283,12,0,4,9:36 PM,10:00,,Start of 4th Period (9:36 PM EST),,61 - 63,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,284,1,1,4,9:37 PM,9:46,Delle Donne 16' Jump Shot (19 PTS),,,61 - 65,4,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,285,1,5,4,9:37 PM,9:26,,,Taylor 2' Layup (7 PTS),63 - 65,2,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,286,6,2,4,9:37 PM,9:26,Breland S.FOUL (P1.T1),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,287,3,10,4,9:37 PM,9:26,,,Taylor Free Throw 1 of 1 (8 PTS),64 - 65,1,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,289,2,1,4,9:38 PM,9:10,MISS Breland 11' Jump Shot,,Bonner BLOCK (1 BLK),,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,290,4,0,4,9:38 PM,9:08,Breland REBOUND (Off:1 Def:3),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,291,1,5,4,9:38 PM,9:06,Breland 2' Layup (4 PTS),,,64 - 67,3,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,292,6,2,4,9:39 PM,8:51,Breland S.FOUL (P2.T2),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,293,6,11,4,9:39 PM,8:51,Breland T.FOUL (P2.T2),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1041400303,294,3,16,4,9:39 PM,8:51,,,Taylor Free Throw Technical (9 PTS),65 - 67,2,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,296,3,11,4,9:39 PM,8:51,,,Bonner Free Throw 1 of 2 (11 PTS),66 - 67,1,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,298,3,12,4,9:39 PM,8:51,,,Bonner Free Throw 2 of 2 (12 PTS),67 - 67,TIE,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,300,5,2,4,9:40 PM,8:39,Breland Lost Ball Turnover (P1.T9),,Dupree STEAL (2 STL),,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,301,1,1,4,9:40 PM,8:27,,,Taurasi 26' 3PT Jump Shot (13 PTS) (Dupree 6 AST),70 - 67,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,302,9,1,4,9:40 PM,8:19,SKY Timeout: Regular (Full 2 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,304,5,11,4,9:44 PM,8:00,SKY Turnover: Shot Clock (T#10),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400303,305,2,1,4,9:45 PM,7:36,,,MISS Taurasi 20' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,306,4,0,4,9:45 PM,7:36,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,307,2,1,4,9:45 PM,7:18,MISS Delle Donne 13' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,308,4,0,4,9:45 PM,7:18,,,Taurasi REBOUND (Off:2 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,309,6,1,4,9:45 PM,7:18,Fowles P.FOUL (P2.T3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,310,8,0,4,9:45 PM,7:18,SUB: Young FOR Breland,,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,311,1,1,4,9:46 PM,6:58,,,Taurasi 9' Jump Shot (15 PTS),72 - 67,-5,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,312,7,1,4,9:46 PM,6:56,,,Mercury Violation: Delay of game Violation,,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400303,313,2,1,4,9:46 PM,6:34,MISS Quigley 14' Jump Shot,,Bonner BLOCK (2 BLK),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0
+1041400303,314,4,0,4,9:46 PM,6:34,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,316,5,11,4,9:47 PM,6:32,SKY Turnover: Shot Clock (T#11),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400303,317,2,1,4,9:47 PM,6:17,Quigley BLOCK (1 BLK),,MISS Taylor 6' Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0
+1041400303,319,4,0,4,9:47 PM,6:17,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,318,10,0,4,9:47 PM,6:17,Jump Ball Quigley vs. Taylor: Tip to Vandersloot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0
+1041400303,320,2,5,4,9:48 PM,6:04,MISS Fowles 1' Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,321,4,0,4,9:48 PM,6:02,Fowles REBOUND (Off:3 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,322,6,2,4,9:48 PM,5:51,,,Taylor S.FOUL (P2.T1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,324,18,0,4,9:49 PM,5:51,,Support Ruling,,,,0,322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400303,325,3,13,4,9:49 PM,5:51,Quigley Free Throw 1 of 3 (15 PTS),,,72 - 68,-4,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,327,3,14,4,9:50 PM,5:51,Quigley Free Throw 2 of 3 (16 PTS),,,72 - 69,-3,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,329,3,15,4,9:50 PM,5:51,Quigley Free Throw 3 of 3 (17 PTS),,,72 - 70,-2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,331,2,1,4,9:50 PM,5:29,Vandersloot BLOCK (1 BLK),,MISS Kobryn 4' Jump Shot,,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0
+1041400303,332,4,0,4,9:51 PM,5:25,Quigley REBOUND (Off:0 Def:4),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,333,5,1,4,9:51 PM,5:18,Quigley Bad Pass Turnover (P3.T12),,Taylor STEAL (2 STL),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,334,1,66,4,9:51 PM,5:01,,,Taurasi 24' 3PT Jump Bank Shot (18 PTS),75 - 70,-5,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,335,1,1,4,9:51 PM,4:41,Delle Donne 3' Jump Shot (21 PTS) (Young 1 AST),,,75 - 72,-3,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,336,6,2,4,9:51 PM,4:41,,,Dupree S.FOUL (P2.T2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,337,3,10,4,9:52 PM,4:41,MISS Delle Donne Free Throw 1 of 1,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,339,4,0,4,9:52 PM,4:39,,,Kobryn REBOUND (Off:2 Def:6),,,5,202318,Ewelina Kobryn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,340,6,2,4,9:52 PM,4:22,Fowles S.FOUL (P3.T4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,341,3,11,4,9:52 PM,4:22,,,Dupree Free Throw 1 of 2 (21 PTS),76 - 72,-4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,342,3,12,4,9:52 PM,4:22,,,Dupree Free Throw 2 of 2 (22 PTS),77 - 72,-5,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,344,2,1,4,9:53 PM,4:04,MISS Delle Donne  3PT Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,345,4,0,4,9:53 PM,4:02,,,Bonner REBOUND (Off:1 Def:7),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,346,2,1,4,9:53 PM,3:43,,,MISS Bonner 24' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,347,4,0,4,9:53 PM,3:41,Fowles REBOUND (Off:3 Def:4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,348,1,1,4,9:54 PM,3:32,Vandersloot 13' Jump Shot (4 PTS),,,77 - 74,-3,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,349,2,1,4,9:54 PM,3:12,,,MISS Bonner 4' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,350,4,0,4,9:54 PM,3:10,Vandersloot REBOUND (Off:1 Def:2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,351,6,1,4,9:54 PM,3:06,,,Bonner P.FOUL (P3.T3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400303,352,1,79,4,9:55 PM,2:49,Young 15' Pullup Jump Shot (5 PTS) (Delle Donne 1 AST),,,77 - 76,-1,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,353,9,1,4,9:55 PM,2:42,,,Mercury Timeout: Regular (Reg.2 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,355,1,1,4,9:59 PM,2:32,,,Taurasi 20' Jump Shot (20 PTS) (Bonner 3 AST),79 - 76,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,356,6,2,4,9:59 PM,2:32,Vandersloot S.FOUL (P2.PN),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,357,3,10,4,9:59 PM,2:32,,,Taurasi Free Throw 1 of 1 (21 PTS),80 - 76,-4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,359,1,79,4,10:00 PM,2:12,Vandersloot 16' Pullup Jump Shot (6 PTS),,,80 - 78,-2,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,360,1,1,4,10:00 PM,1:50,,,Dupree 7' Jump Shot (24 PTS) (Taurasi 5 AST),82 - 78,-4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,361,1,79,4,10:00 PM,1:34,Delle Donne 11' Pullup Jump Shot (23 PTS),,,82 - 80,-2,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,362,2,1,4,10:01 PM,1:17,,,MISS Dupree 13' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,364,4,0,4,10:01 PM,1:17,,,Bonner REBOUND (Off:2 Def:7),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,363,2,4,4,10:01 PM,1:17,,,MISS Bonner 1' Tip Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,365,4,0,4,10:01 PM,1:17,Fowles REBOUND (Off:3 Def:5),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,366,9,1,4,10:01 PM,1:14,SKY Timeout: Regular (Full 3 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,369,2,1,4,10:03 PM,0:57,MISS Delle Donne 20' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,370,4,0,4,10:03 PM,0:56,,,Taylor REBOUND (Off:0 Def:4),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,371,2,1,4,10:03 PM,0:40,Young BLOCK (1 BLK),,MISS Dupree 9' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0
+1041400303,372,4,0,4,10:03 PM,0:38,Quigley REBOUND (Off:0 Def:5),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,373,1,78,4,10:04 PM,0:33,Quigley 7' Floating Jump Shot (19 PTS),,,82 - 82,TIE,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,374,9,1,4,10:04 PM,0:29,,,Mercury Timeout: Regular (Reg.3 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,375,1,1,4,10:06 PM,0:14,,,Taurasi 16' Jump Shot (23 PTS),84 - 82,-2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,376,6,2,4,10:06 PM,0:14,Vandersloot S.FOUL (P3.PN),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,377,3,10,4,10:07 PM,0:14,,,Taurasi Free Throw 1 of 1 (24 PTS),85 - 82,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,379,9,2,4,10:07 PM,0:14,SKY Timeout: Short (Full 3 Short 1),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,381,8,0,4,10:08 PM,0:14,SUB: Prince FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400303,382,2,1,4,10:08 PM,0:10,MISS Delle Donne  3PT Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400303,383,4,0,4,10:08 PM,0:09,,,Taylor REBOUND (Off:0 Def:5),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,384,6,28,4,10:09 PM,0:09,Prince Personal Take Foul (P2.PN),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400303,385,3,11,4,10:09 PM,0:09,,,Taylor Free Throw 1 of 2 (10 PTS),86 - 82,-4,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,387,3,12,4,10:09 PM,0:09,,,Taylor Free Throw 2 of 2 (11 PTS),87 - 82,-5,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400303,389,9,2,4,10:10 PM,0:09,SKY Timeout: Short (Full 3 Short 2),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400303,391,5,1,4,10:11 PM,0:07,Young Bad Pass Turnover (P2.T13),,Taurasi STEAL (1 STL),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400303,392,13,0,4,10:11 PM,0:00,,End of 4th Period (10:11 PM EST),,87 - 82,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

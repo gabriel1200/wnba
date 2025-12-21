@@ -1,0 +1,396 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041800312,2,12,0,1,8:05 PM,10:00,,Start of 1st Period (8:05 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,4,10,0,1,8:05 PM,10:00,Jump Ball Williams vs. Sanders: Tip to Breland,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0
+1041800312,7,2,5,1,8:06 PM,9:37,MISS Williams 1' Layup,,Sanders BLOCK (1 BLK),,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1
+1041800312,9,4,0,1,8:06 PM,9:34,,,Delle Donne REBOUND (Off:0 Def:1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,10,2,1,1,8:06 PM,9:19,,,MISS Toliver 24' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,11,4,0,1,8:06 PM,9:15,Sykes REBOUND (Off:0 Def:1),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,12,1,47,1,8:06 PM,8:58,Breland 15' Turnaround Jump Shot (2 PTS) (Hayes 1 AST),,,0 - 2,2,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,14,2,47,1,8:07 PM,8:37,,,MISS Sanders 11' Turnaround Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,15,4,0,1,8:07 PM,8:34,Breland REBOUND (Off:0 Def:1),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,16,2,1,1,8:07 PM,8:29,MISS Montgomery 24' 3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,17,4,0,1,8:07 PM,8:26,,,Delle Donne REBOUND (Off:0 Def:2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,18,2,1,1,8:07 PM,8:15,Montgomery BLOCK (1 BLK),,MISS Delle Donne 13' Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,20,4,0,1,8:07 PM,8:12,,,Delle Donne REBOUND (Off:1 Def:2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,21,1,6,1,8:07 PM,8:11,,,Toliver 1' Driving Layup (2 PTS) (Delle Donne 1 AST),2 - 2,TIE,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,22,2,1,1,8:07 PM,7:55,MISS Breland 18' Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,23,4,0,1,8:07 PM,7:51,Williams REBOUND (Off:1 Def:0),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,24,1,72,1,8:07 PM,7:51,Williams Putback Layup (2 PTS),,,2 - 4,2,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,25,2,6,1,8:08 PM,7:37,Breland BLOCK (1 BLK),,MISS Toliver 1' Driving Layup,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,27,4,0,1,8:08 PM,7:34,Hayes REBOUND (Off:0 Def:1),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,84,5,1,1,8:08 PM,7:29,Hayes Bad Pass Turnover (P1.T1),,Atkins STEAL (1 STL),,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,30,2,79,1,8:08 PM,7:24,,,MISS Delle Donne 3PT Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,31,4,0,1,8:08 PM,7:24,Sykes REBOUND (Off:0 Def:2),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,32,1,1,1,8:08 PM,7:09,Sykes 3PT Jump Shot (3 PTS) (Montgomery 1 AST),,,2 - 7,5,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,34,2,6,1,8:08 PM,6:50,Breland BLOCK (2 BLK),,MISS Toliver 1' Driving Layup,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,36,4,0,1,8:08 PM,6:47,Breland REBOUND (Off:0 Def:2),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,37,2,5,1,8:08 PM,6:44,MISS Williams 1' Layup,,Atkins BLOCK (1 BLK),,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1
+1041800312,39,4,0,1,8:09 PM,6:44,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,40,2,1,1,8:09 PM,6:42,MISS Breland 15' Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,41,4,0,1,8:09 PM,6:38,,,Toliver REBOUND (Off:0 Def:1),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,42,1,1,1,8:09 PM,6:27,,,Sanders 18' Jump Shot (2 PTS) (Toliver 1 AST),4 - 7,3,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,44,2,1,1,8:09 PM,6:16,MISS Sykes 3PT Jump Shot,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,45,4,0,1,8:09 PM,6:14,Hayes REBOUND (Off:1 Def:1),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,46,1,72,1,8:09 PM,6:13,Hayes 1' Putback Layup (2 PTS),,,4 - 9,5,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,47,1,6,1,8:10 PM,6:01,,,Delle Donne 5' Driving Layup (2 PTS) (Cloud 1 AST),6 - 9,3,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,49,2,6,1,8:10 PM,5:51,MISS Montgomery 2' Driving Layup,,Delle Donne BLOCK (1 BLK),,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041800312,51,4,0,1,8:10 PM,5:51,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,52,5,1,1,8:10 PM,5:46,Montgomery Bad Pass Turnover (P1.T2),,Toliver STEAL (1 STL),,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,54,2,6,1,8:10 PM,5:41,Sykes BLOCK (1 BLK),,MISS Sanders 2' Driving Layup,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,56,4,0,1,8:10 PM,5:36,Breland REBOUND (Off:0 Def:3),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,58,1,6,1,8:11 PM,5:30,Sykes 1' Driving Layup (5 PTS) (Montgomery 2 AST),,,6 - 11,5,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,60,5,4,1,8:11 PM,5:10,,,Sanders Traveling Turnover (P1.T1),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041800312,61,7,5,1,8:11 PM,5:00,,,Sanders Violation:Kicked Ball,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041800312,62,2,79,1,8:12 PM,4:48,MISS Breland 19' Pullup Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,63,4,0,1,8:12 PM,4:44,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,64,2,1,1,8:12 PM,4:30,,,MISS Atkins 24' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,65,4,0,1,8:12 PM,4:27,Breland REBOUND (Off:0 Def:4),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,66,5,1,1,8:12 PM,4:13,Sykes Bad Pass Turnover (P1.T3),,Sanders STEAL (1 STL),,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,68,6,27,1,8:13 PM,4:08,Montgomery Personal Block Foul (P1.T1),,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041800312,70,9,4,1,8:13 PM,4:08,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,72,2,6,1,8:16 PM,4:02,Breland BLOCK (3 BLK),,MISS Atkins 2' Driving Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,74,4,0,1,8:16 PM,3:59,Sykes REBOUND (Off:0 Def:3),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,75,2,6,1,8:16 PM,3:54,MISS Sykes 1' Driving Layup,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,76,4,0,1,8:16 PM,3:49,Breland REBOUND (Off:1 Def:4),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,77,1,72,1,8:16 PM,3:49,Breland 1' Putback Layup (4 PTS),,,6 - 13,7,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,78,1,1,1,8:16 PM,3:30,,,Sanders 19' Jump Shot (4 PTS) (Delle Donne 2 AST),8 - 13,5,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,80,2,1,1,8:16 PM,3:13,MISS Williams 14' Jump Shot,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,81,4,0,1,8:17 PM,3:10,,,Delle Donne REBOUND (Off:1 Def:3),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,82,2,1,1,8:17 PM,3:05,,,MISS Delle Donne 25' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,83,4,0,1,8:17 PM,2:59,Williams REBOUND (Off:1 Def:1),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,86,2,79,1,8:17 PM,2:53,MISS Montgomery 21' Pullup Jump Shot,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,87,4,0,1,8:17 PM,2:49,,,Delle Donne REBOUND (Off:1 Def:4),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,89,8,0,1,8:17 PM,2:44,SUB: Bentley FOR Breland,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,90,8,0,1,8:17 PM,2:44,SUB: Billings FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,91,8,0,1,8:17 PM,2:44,,,SUB: Hawkins FOR Sanders,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,92,8,0,1,8:17 PM,2:44,,,SUB: Ruffin-Pratt FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,97,2,6,1,8:18 PM,2:38,,,MISS Atkins Driving Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,98,4,0,1,8:18 PM,2:36,Billings REBOUND (Off:0 Def:1),,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,99,5,45,1,8:18 PM,2:28,Sykes Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041800312,100,6,26,1,8:18 PM,2:16,,,Ruffin-Pratt Offensive Charge Foul (P1.T1),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,102,5,37,1,8:18 PM,2:16,,,Ruffin-Pratt Offensive Foul Turnover (P1.T2),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041800312,103,2,1,1,8:19 PM,2:01,MISS Williams 13' Jump Shot,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,104,4,0,1,8:19 PM,1:56,,,Delle Donne REBOUND (Off:1 Def:5),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,105,1,103,1,8:19 PM,1:50,,,Delle Donne 14' Running Pull-Up Jump Shot (4 PTS),10 - 13,3,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,106,6,2,1,8:19 PM,1:40,,,Hawkins S.FOUL (P1.T2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,108,3,11,1,8:19 PM,1:40,MISS Billings Free Throw 1 of 2,,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,109,4,1,1,8:19 PM,1:40,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,110,8,0,1,8:19 PM,1:40,,,SUB: Powers FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,112,3,12,1,8:20 PM,1:40,MISS Billings Free Throw 2 of 2,,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,113,4,0,1,8:20 PM,1:37,,,Delle Donne REBOUND (Off:1 Def:6),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,114,1,79,1,8:20 PM,1:17,,,Powers 8' Pullup Jump Shot (2 PTS),12 - 13,1,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,115,2,6,1,8:20 PM,0:58,MISS Billings 2' Driving Layup,,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,116,4,0,1,8:20 PM,0:55,,,Delle Donne REBOUND (Off:1 Def:7),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,117,2,79,1,8:21 PM,0:52,,,MISS Toliver 3PT Pullup Jump Shot,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,118,4,0,1,8:21 PM,0:51,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,119,6,3,1,8:21 PM,0:51,,,Powers L.B.FOUL (P1.PN),,,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,121,3,11,1,8:21 PM,0:51,Hayes Free Throw 1 of 2 (3 PTS),,,12 - 14,2,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,122,8,0,1,8:21 PM,0:51,SUB: Dietrick FOR Sykes,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,124,3,12,1,8:21 PM,0:51,Hayes Free Throw 2 of 2 (4 PTS),,,12 - 15,3,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,126,1,79,1,8:22 PM,0:34,,,Powers 18' Pullup Jump Shot (4 PTS),14 - 15,1,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,127,1,79,1,8:22 PM,0:15,Bentley 16' Pullup Jump Shot (2 PTS),,,14 - 17,3,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,128,6,2,1,8:22 PM,0:00,Billings S.FOUL (P1.T2),,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,130,3,13,1,8:23 PM,0:00,,,MISS Toliver Free Throw 1 of 3,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,131,4,1,1,8:23 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,132,3,14,1,8:23 PM,0:00,,,Toliver Free Throw 2 of 3 (3 PTS),15 - 17,2,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,133,8,0,1,8:23 PM,0:00,,,SUB: Sanders FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,135,3,15,1,8:23 PM,0:00,,,Toliver Free Throw 3 of 3 (4 PTS),16 - 17,1,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,136,13,0,1,8:23 PM,0:00,,End of 1st Period (8:23 PM EST),,16 - 17,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1041800312,139,12,0,2,8:27 PM,10:00,,Start of 2nd Period (8:27 PM EST),,16 - 17,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,140,2,6,2,8:27 PM,9:39,McGee-Stafford BLOCK (1 BLK),,MISS Toliver 2' Driving Layup,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,142,4,0,2,8:27 PM,9:38,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,143,5,11,2,8:28 PM,9:35,,,Mystics Turnover: Shot Clock (T#3),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041800312,144,2,6,2,8:28 PM,9:24,MISS Bentley 3' Driving Layup,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,145,4,0,2,8:28 PM,9:20,McGee-Stafford REBOUND (Off:1 Def:0),,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,146,1,72,2,8:28 PM,9:20,McGee-Stafford 1' Putback Layup (2 PTS),,,16 - 19,3,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,147,6,1,2,8:28 PM,9:08,Hayes P.FOUL (P1.T1),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,149,8,0,2,8:29 PM,9:08,SUB: Breland FOR Billings,,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,150,8,0,2,8:29 PM,9:08,,,SUB: Cloud FOR Toliver,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,151,8,0,2,8:29 PM,9:08,,,SUB: Delle Donne FOR Hawkins,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,156,1,79,2,8:29 PM,8:56,,,Ruffin-Pratt 19' Pullup Jump Shot (2 PTS) (Sanders 1 AST),18 - 19,1,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,157,6,1,2,8:30 PM,8:41,,,Powers P.FOUL (P2.T1),,,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,159,8,0,2,8:30 PM,8:41,,,SUB: Atkins FOR Powers,,,5,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,161,6,1,2,8:30 PM,8:40,,,Cloud P.FOUL (P1.T2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,164,2,6,2,8:31 PM,8:35,MISS Hayes 2' Driving Layup,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,165,4,0,2,8:31 PM,8:33,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,166,6,3,2,8:31 PM,8:33,McGee-Stafford L.B.FOUL (P1.T2),,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,168,8,0,2,8:31 PM,8:33,SUB: Sykes FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,170,2,79,2,8:31 PM,8:20,,,MISS Atkins 17' Pullup Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,171,4,0,2,8:31 PM,8:17,Breland REBOUND (Off:1 Def:5),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,172,1,6,2,8:31 PM,8:09,Bentley 2' Driving Layup (4 PTS),,,18 - 21,3,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,174,1,6,2,8:32 PM,8:05,,,Ruffin-Pratt 2' Driving Layup (4 PTS) (Cloud 2 AST),20 - 21,1,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,175,6,2,2,8:32 PM,8:05,Sykes S.FOUL (P1.T3),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,177,3,10,2,8:32 PM,8:05,,,Ruffin-Pratt Free Throw 1 of 1 (5 PTS),21 - 21,TIE,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,178,2,79,2,8:32 PM,7:49,MISS Bentley 12' Pullup Jump Shot,,Ruffin-Pratt BLOCK (1 BLK),,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1
+1041800312,180,4,0,2,8:33 PM,7:45,,,Atkins REBOUND (Off:0 Def:1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,181,2,1,2,8:33 PM,7:35,,,MISS Delle Donne 20' Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,182,4,0,2,8:33 PM,7:32,Sykes REBOUND (Off:0 Def:4),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,183,6,1,2,8:33 PM,7:30,,,Ruffin-Pratt P.FOUL (P2.T3),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,186,8,0,2,8:33 PM,7:30,,,SUB: Toliver FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,188,2,57,2,8:33 PM,7:24,MISS Breland 10' Driving Hook Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,189,4,0,2,8:33 PM,7:22,McGee-Stafford REBOUND (Off:2 Def:0),,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,190,1,79,2,8:33 PM,7:18,Bentley 13' Pullup Jump Shot (6 PTS),,,21 - 23,2,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,191,5,45,2,8:34 PM,7:00,,,Toliver Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041800312,192,2,1,2,8:34 PM,6:48,MISS Dietrick 3PT Jump Shot,,,,,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,193,4,0,2,8:34 PM,6:44,,,Sanders REBOUND (Off:0 Def:1),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,194,1,1,2,8:34 PM,6:24,,,Sanders 15' Jump Shot (6 PTS) (Delle Donne 3 AST),23 - 23,TIE,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,196,5,2,2,8:35 PM,6:15,Bentley Lost Ball Turnover (P1.T5),,Cloud STEAL (1 STL),,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,198,2,6,2,8:35 PM,6:08,,,MISS Atkins 2' Driving Layup,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,199,4,0,2,8:35 PM,6:05,Sykes REBOUND (Off:0 Def:5),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,200,1,1,2,8:35 PM,5:53,Bentley 24' 3PT Jump Shot (9 PTS) (Breland 1 AST),,,23 - 26,3,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,202,9,1,2,8:35 PM,5:46,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,203,8,0,2,8:37 PM,5:46,SUB: Williams FOR Dietrick,,,,,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,204,8,0,2,8:37 PM,5:46,SUB: Montgomery FOR McGee-Stafford,,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,207,2,1,2,8:39 PM,5:32,,,MISS Sanders 14' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,208,4,0,2,8:39 PM,5:28,Williams REBOUND (Off:1 Def:2),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,209,1,5,2,8:39 PM,5:24,Breland Layup (6 PTS) (Bentley 1 AST),,,23 - 28,5,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,211,1,101,2,8:39 PM,5:04,,,Toliver 4' Driving Floating Jump Shot (6 PTS) (Delle Donne 4 AST),25 - 28,3,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,213,5,19,2,8:39 PM,4:49,Breland Kicked Ball Violation Turnover (P1.T6),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,214,2,1,2,8:40 PM,4:32,,,MISS Cloud 17' Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,215,4,0,2,8:40 PM,4:28,Williams REBOUND (Off:1 Def:3),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,216,2,1,2,8:40 PM,4:18,MISS Bentley 18' Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,217,4,0,2,8:40 PM,4:15,,,Delle Donne REBOUND (Off:1 Def:8),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,218,1,6,2,8:40 PM,4:07,,,Delle Donne 2' Driving Layup (6 PTS),27 - 28,1,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,243,6,26,2,8:41 PM,3:59,Sykes Offensive Charge Foul (P2.T4),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,244,5,37,2,8:41 PM,3:59,Sykes Offensive Foul Turnover (P3.T7),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041800312,221,8,0,2,8:41 PM,3:59,SUB: Hayes FOR Bentley,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,223,2,1,2,8:41 PM,3:42,,,MISS Delle Donne 24' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,224,4,0,2,8:41 PM,3:37,Hayes REBOUND (Off:1 Def:2),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,225,6,29,2,8:41 PM,3:31,,,Cloud Shooting Block Foul (P2.T4),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,227,3,11,2,8:42 PM,3:31,MISS Sykes Free Throw 1 of 2,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,228,4,1,2,8:42 PM,3:31,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,229,8,0,2,8:42 PM,3:31,,,SUB: Ruffin-Pratt FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,231,3,12,2,8:42 PM,3:31,MISS Sykes Free Throw 2 of 2,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,232,4,0,2,8:42 PM,3:28,Breland REBOUND (Off:2 Def:5),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,233,2,79,2,8:42 PM,3:23,MISS Montgomery 15' Pullup Jump Shot,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,234,4,0,2,8:42 PM,3:20,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,235,2,1,2,8:43 PM,3:07,MISS Breland 18' Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,236,4,0,2,8:43 PM,3:04,Breland REBOUND (Off:3 Def:5),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,237,5,1,2,8:43 PM,3:01,Breland Bad Pass Turnover (P2.T8),,Atkins STEAL (2 STL),,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,239,1,103,2,8:43 PM,2:54,,,Delle Donne 7' Running Pull-Up Jump Shot (8 PTS) (Ruffin-Pratt 1 AST),29 - 28,-1,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,241,6,2,2,8:43 PM,2:34,,,Ruffin-Pratt S.FOUL (P3.PN),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,246,9,1,2,8:43 PM,2:34,DREAM Timeout: Regular (Full 1 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,253,8,0,2,8:45 PM,2:34,,,SUB: Currie FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,247,3,11,2,8:47 PM,2:34,Hayes Free Throw 1 of 2 (5 PTS),,,29 - 29,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,248,3,12,2,8:47 PM,2:34,Hayes Free Throw 2 of 2 (6 PTS),,,29 - 30,1,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,249,2,1,2,8:48 PM,2:14,,,MISS Sanders 19' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,250,4,0,2,8:48 PM,2:12,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,251,6,3,2,8:48 PM,2:12,Montgomery L.B.FOUL (P2.PN),,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,255,1,79,2,8:48 PM,1:58,,,Atkins 3PT Pullup Jump Shot (3 PTS),32 - 30,-2,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,256,2,79,2,8:48 PM,1:33,MISS Breland 18' Pullup Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,257,4,0,2,8:49 PM,1:30,,,Currie REBOUND (Off:0 Def:1),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,258,6,2,2,8:49 PM,1:23,Williams S.FOUL (P1.PN),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,260,3,11,2,8:49 PM,1:23,,,Delle Donne Free Throw 1 of 2 (9 PTS),33 - 30,-3,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,261,3,12,2,8:49 PM,1:23,,,Delle Donne Free Throw 2 of 2 (10 PTS),34 - 30,-4,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,262,1,6,2,8:50 PM,1:09,Hayes 2' Driving Layup (8 PTS),,,34 - 32,-2,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,263,1,1,2,8:50 PM,0:54,,,Sanders 3' Jump Shot (8 PTS) (Toliver 2 AST),36 - 32,-4,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,265,2,79,2,8:50 PM,0:37,MISS Hayes 7' Pullup Jump Shot,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,266,4,0,2,8:50 PM,0:34,Breland REBOUND (Off:4 Def:5),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,277,2,5,2,8:50 PM,0:33,MISS Breland 1' Layup,,Delle Donne BLOCK (2 BLK),,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041800312,279,4,0,2,8:50 PM,0:32,,,Sanders REBOUND (Off:0 Def:2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,269,2,6,2,8:51 PM,0:22,Breland BLOCK (4 BLK),,MISS Delle Donne 2' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,271,4,0,2,8:51 PM,0:17,Williams REBOUND (Off:1 Def:4),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,273,1,6,2,8:51 PM,0:03,Hayes 2' Driving Layup (10 PTS),,,36 - 34,-2,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,274,2,79,2,8:51 PM,0:00,,,MISS Currie 39' 3PT Pullup Jump Shot,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,275,4,0,2,8:51 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,276,13,0,2,8:51 PM,0:00,,End of 2nd Period (8:51 PM EST),,36 - 34,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1041800312,282,12,0,3,9:10 PM,10:00,,Start of 3rd Period (9:10 PM EST),,36 - 34,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,283,5,1,3,9:10 PM,9:45,Hayes STEAL (1 STL),,Toliver Bad Pass Turnover (P2.T5),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,285,2,1,3,9:10 PM,9:30,MISS Breland 18' Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,286,4,0,3,9:10 PM,9:27,,,Delle Donne REBOUND (Off:1 Def:9),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,287,2,6,3,9:11 PM,9:10,,,MISS Delle Donne 8' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,288,4,0,3,9:11 PM,9:07,,,Atkins REBOUND (Off:1 Def:1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,289,2,1,3,9:11 PM,9:06,Breland BLOCK (5 BLK),,MISS Atkins 2' Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,291,4,0,3,9:11 PM,9:03,Hayes REBOUND (Off:1 Def:3),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,292,1,6,3,9:11 PM,9:01,Williams Driving Layup (4 PTS) (Hayes 2 AST),,,36 - 36,TIE,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,294,2,1,3,9:11 PM,8:50,,,MISS Delle Donne 20' Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,295,4,0,3,9:11 PM,8:48,Sykes REBOUND (Off:0 Def:6),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,296,6,26,3,9:11 PM,8:38,Sykes Offensive Charge Foul (P3.T1),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,298,5,37,3,9:11 PM,8:38,Sykes Offensive Foul Turnover (P4.T9),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041800312,299,1,79,3,9:12 PM,8:21,,,Toliver 24' 3PT Pullup Jump Shot (9 PTS) (Sanders 2 AST),39 - 36,-3,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,302,6,17,3,9:12 PM,8:05,,,Mystics T.Foul (Def. 3 Sec Sanders ),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041800312,303,3,16,3,9:13 PM,8:05,Montgomery Free Throw Technical (1 PTS),,,39 - 37,-2,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,304,2,6,3,9:13 PM,7:56,MISS Hayes 4' Driving Layup,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,305,4,0,3,9:13 PM,7:54,Williams REBOUND (Off:2 Def:4),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,306,2,1,3,9:13 PM,7:52,MISS Sykes 24' 3PT Jump Shot,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,307,4,0,3,9:13 PM,7:50,,,Cloud REBOUND (Off:0 Def:2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,308,1,1,3,9:13 PM,7:45,,,Delle Donne 25' 3PT Jump Shot (13 PTS) (Cloud 3 AST),42 - 37,-5,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,310,6,6,3,9:13 PM,7:45,Sykes AWAY.FROM.PLAY.FOUL (P4.T2),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,313,8,0,3,9:13 PM,7:45,SUB: Bentley FOR Sykes,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,363,3,10,3,9:14 PM,7:45,,,MISS Atkins Free Throw 1 of 1,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,364,4,0,3,9:14 PM,7:45,Breland REBOUND (Off:4 Def:6),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,315,6,2,3,9:14 PM,7:39,,,Atkins S.FOUL (P1.T1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,317,3,11,3,9:14 PM,7:39,Bentley Free Throw 1 of 2 (10 PTS),,,42 - 38,-4,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,319,3,12,3,9:14 PM,7:39,Bentley Free Throw 2 of 2 (11 PTS),,,42 - 39,-3,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,320,1,1,3,9:15 PM,7:22,,,Delle Donne 3PT Jump Shot (16 PTS) (Cloud 4 AST),45 - 39,-6,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,322,2,79,3,9:15 PM,7:12,MISS Bentley 25' 3PT Pullup Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,323,4,0,3,9:15 PM,7:12,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,324,2,1,3,9:15 PM,6:56,,,MISS Atkins 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,325,4,0,3,9:15 PM,6:53,Bentley REBOUND (Off:0 Def:1),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,326,1,1,3,9:15 PM,6:46,Bentley 3PT Jump Shot (14 PTS) (Breland 2 AST),,,45 - 42,-3,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,328,1,98,3,9:16 PM,6:30,,,Atkins 2' Cutting Layup Shot (5 PTS) (Delle Donne 5 AST),47 - 42,-5,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,330,2,79,3,9:16 PM,6:09,MISS Bentley 16' Pullup Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,331,4,0,3,9:16 PM,6:07,,,Atkins REBOUND (Off:1 Def:2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,332,2,79,3,9:16 PM,5:55,,,MISS Delle Donne 15' Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,333,4,0,3,9:16 PM,5:50,Williams REBOUND (Off:2 Def:5),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,334,2,6,3,9:16 PM,5:45,MISS Hayes 1' Driving Layup,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,335,4,0,3,9:16 PM,5:45,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,336,10,0,3,9:17 PM,5:40,Jump Ball Hayes vs. Atkins: Tip to Montgomery,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,339,1,6,3,9:17 PM,5:36,Montgomery 1' Driving Layup (3 PTS),,,47 - 44,-3,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,340,2,1,3,9:18 PM,5:21,,,MISS Sanders 18' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,341,4,0,3,9:18 PM,5:18,,,Atkins REBOUND (Off:2 Def:2),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,342,2,1,3,9:18 PM,5:16,,,MISS Toliver 25' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,343,4,0,3,9:18 PM,5:14,Hayes REBOUND (Off:1 Def:4),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,345,10,0,3,9:18 PM,5:03,Jump Ball Hayes vs. Sanders: Tip to Delle Donne,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041800312,348,5,2,3,9:18 PM,5:03,Hayes Lost Ball Turnover (P2.T10),,Sanders STEAL (2 STL),,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,350,1,1,3,9:19 PM,4:57,,,Delle Donne 25' 3PT Jump Shot (19 PTS) (Cloud 5 AST),50 - 44,-6,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,352,5,1,3,9:19 PM,4:39,Bentley Bad Pass Turnover (P2.T11),,Atkins STEAL (3 STL),,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,354,1,1,3,9:19 PM,4:30,,,Cloud 24' 3PT Jump Shot (3 PTS) (Toliver 3 AST),53 - 44,-9,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,356,1,98,3,9:20 PM,4:10,Williams 1' Cutting Layup Shot (6 PTS) (Hayes 3 AST),,,53 - 46,-7,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,358,1,79,3,9:20 PM,3:47,,,Delle Donne 19' Pullup Jump Shot (21 PTS) (Cloud 6 AST),55 - 46,-9,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,360,6,6,3,9:20 PM,3:47,Bentley AWAY.FROM.PLAY.FOUL (P1.T3),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,365,9,4,3,9:21 PM,3:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,366,3,10,3,9:24 PM,3:47,,,Sanders Free Throw 1 of 1 (9 PTS),56 - 46,-10,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,367,1,1,3,9:24 PM,3:32,Montgomery 24' 3PT Jump Shot (6 PTS) (Hayes 4 AST),,,56 - 49,-7,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,369,5,4,3,9:24 PM,3:20,,,Toliver Traveling Turnover (P3.T6),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041800312,370,2,6,3,9:25 PM,3:06,MISS Bentley 4' Driving Layup,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,371,4,0,3,9:25 PM,3:03,,,Delle Donne REBOUND (Off:1 Def:10),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,372,2,79,3,9:25 PM,2:54,,,MISS Cloud 16' Pullup Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,373,4,0,3,9:25 PM,2:51,Williams REBOUND (Off:2 Def:6),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,374,6,2,3,9:25 PM,2:41,,,Sanders S.FOUL (P1.T2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,376,3,11,3,9:26 PM,2:41,Williams Free Throw 1 of 2 (7 PTS),,,56 - 50,-6,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,377,3,12,3,9:26 PM,2:41,Williams Free Throw 2 of 2 (8 PTS),,,56 - 51,-5,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,378,6,1,3,9:26 PM,2:34,Hayes P.FOUL (P2.T4),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,380,2,47,3,9:27 PM,2:20,Breland BLOCK (6 BLK),,MISS Atkins 13' Turnaround Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,382,4,0,3,9:27 PM,2:16,Breland REBOUND (Off:4 Def:7),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,383,2,5,3,9:27 PM,2:09,MISS Williams 8' Layup,,Sanders BLOCK (2 BLK),,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1
+1041800312,385,4,0,3,9:27 PM,2:09,Williams REBOUND (Off:3 Def:6),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,467,2,72,3,9:27 PM,2:09,MISS Williams 5' Putback Layup,,Sanders BLOCK (3 BLK),,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0
+1041800312,469,4,0,3,9:27 PM,2:09,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,386,10,0,3,9:28 PM,2:03,,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,3,1611661322,,,,,,1
+1041800312,391,5,45,3,9:28 PM,1:48,,,Toliver Out of Bounds - Bad Pass Turnover Turnover (P4.T7),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041800312,392,6,2,3,9:29 PM,1:25,,,Atkins S.FOUL (P2.T3),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,394,3,11,3,9:29 PM,1:25,Breland Free Throw 1 of 2 (7 PTS),,,56 - 52,-4,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,395,8,0,3,9:29 PM,1:25,SUB: McGee-Stafford FOR Williams,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,396,8,0,3,9:29 PM,1:25,,,SUB: Currie FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,399,3,12,3,9:29 PM,1:25,Breland Free Throw 2 of 2 (8 PTS),,,56 - 53,-3,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,400,2,79,3,9:30 PM,1:04,,,MISS Currie 16' Pullup Jump Shot,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,401,4,0,3,9:30 PM,0:58,,,Sanders REBOUND (Off:1 Def:2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,402,1,72,3,9:30 PM,0:58,,,Sanders 1' Putback Layup (11 PTS),58 - 53,-5,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,403,1,1,3,9:30 PM,0:46,Breland 13' Jump Shot (10 PTS) (Hayes 5 AST),,,58 - 55,-3,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,405,2,79,3,9:30 PM,0:39,Breland BLOCK (7 BLK),,MISS Delle Donne 18' Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1041800312,407,4,0,3,9:30 PM,0:35,McGee-Stafford REBOUND (Off:2 Def:1),,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,408,1,41,3,9:30 PM,0:30,Bentley 1' Running Layup (16 PTS) (Montgomery 3 AST),,,58 - 57,-1,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,410,2,1,3,9:31 PM,0:13,,,MISS Sanders 16' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,411,4,0,3,9:31 PM,0:13,Breland REBOUND (Off:4 Def:8),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,412,6,2,3,9:31 PM,0:00,,,Sanders S.FOUL (P2.PN),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,414,3,11,3,9:31 PM,0:00,Bentley Free Throw 1 of 2 (17 PTS),,,58 - 58,TIE,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,419,8,0,3,9:31 PM,0:00,SUB: Billings FOR Breland,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,417,3,12,3,9:32 PM,0:00,MISS Bentley Free Throw 2 of 2,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,418,4,0,3,9:32 PM,0:00,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,420,13,0,3,9:32 PM,0:00,,End of 3rd Period (9:32 PM EST),,58 - 58,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1041800312,425,12,0,4,9:35 PM,10:00,,Start of 4th Period (9:35 PM EST),,58 - 58,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,426,5,45,4,9:36 PM,9:46,Bentley Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041800312,427,2,6,4,9:36 PM,9:27,,,MISS Hawkins 2' Driving Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,428,4,0,4,9:36 PM,9:23,,,Delle Donne REBOUND (Off:2 Def:10),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,429,1,47,4,9:36 PM,9:19,,,Delle Donne 12' Turnaround Jump Shot (23 PTS),60 - 58,-2,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,430,1,1,4,9:37 PM,8:57,McGee-Stafford 18' Jump Shot (4 PTS) (Bentley 2 AST),,,60 - 60,TIE,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,432,6,4,4,9:37 PM,8:36,,,Currie OFF.Foul (P1),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,434,5,37,4,9:37 PM,8:36,,,Currie Offensive Foul Turnover (P1.T8),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041800312,435,1,75,4,9:38 PM,8:10,Bentley 5' Driving Finger Roll Layup (19 PTS),,,60 - 62,2,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,436,6,2,4,9:38 PM,8:01,Bentley S.FOUL (P2.T1),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,438,3,11,4,9:38 PM,8:01,,,Toliver Free Throw 1 of 2 (10 PTS),61 - 62,1,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,439,8,0,4,9:38 PM,8:01,SUB: Sykes FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,441,3,12,4,9:38 PM,8:01,,,Toliver Free Throw 2 of 2 (11 PTS),62 - 62,TIE,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,442,1,79,4,9:39 PM,7:40,Bentley 13' Pullup Jump Shot (21 PTS) (Sykes 1 AST),,,62 - 64,2,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,444,6,2,4,9:39 PM,7:22,Billings S.FOUL (P2.T2),,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,446,3,11,4,9:40 PM,7:22,,,Delle Donne Free Throw 1 of 2 (24 PTS),63 - 64,1,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,447,8,0,4,9:40 PM,7:22,SUB: Williams FOR Billings,,,,,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,448,8,0,4,9:40 PM,7:22,SUB: Breland FOR McGee-Stafford,,,,,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,451,3,12,4,9:40 PM,7:22,,,Delle Donne Free Throw 2 of 2 (25 PTS),64 - 64,TIE,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,452,1,6,4,9:40 PM,7:09,Hayes 2' Driving Layup (12 PTS) (Williams 1 AST),,,64 - 66,2,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,454,2,1,4,9:40 PM,6:50,,,MISS Hawkins 24' 3PT Jump Shot,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,455,4,0,4,9:41 PM,6:48,Hayes REBOUND (Off:1 Def:5),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,456,5,1,4,9:41 PM,6:40,Bentley Bad Pass Turnover (P4.T13),,Delle Donne STEAL (1 STL),,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,458,1,1,4,9:41 PM,6:21,,,Ruffin-Pratt 18' Jump Shot (7 PTS) (Delle Donne 6 AST),66 - 66,TIE,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041800312,460,2,1,4,9:41 PM,6:05,MISS Breland 13' Jump Shot,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,461,4,0,4,9:41 PM,5:59,,,Ruffin-Pratt REBOUND (Off:0 Def:1),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,462,2,41,4,9:41 PM,5:57,,,MISS Ruffin-Pratt 2' Running Layup,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,463,4,0,4,9:41 PM,5:54,Breland REBOUND (Off:4 Def:9),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,464,6,1,4,9:41 PM,5:51,,,Hawkins P.FOUL (P2.T1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,466,9,1,4,9:42 PM,5:51,DREAM Timeout: Regular (Full 2 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,470,8,0,4,9:44 PM,5:51,,,SUB: Cloud FOR Currie,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,472,2,3,4,9:45 PM,5:38,MISS Williams 6' Hook Shot,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,473,4,0,4,9:45 PM,5:35,,,Delle Donne REBOUND (Off:2 Def:11),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,474,1,6,4,9:46 PM,5:26,,,Cloud 1' Driving Layup (5 PTS),68 - 66,-2,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,475,1,41,4,9:46 PM,5:18,Sykes 1' Running Layup (7 PTS),,,68 - 68,TIE,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,477,1,79,4,9:46 PM,5:00,,,Delle Donne 18' Pullup Jump Shot (27 PTS),70 - 68,-2,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,478,5,45,4,9:46 PM,4:49,Bentley Out of Bounds - Bad Pass Turnover Turnover (P5.T14),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041800312,479,8,0,4,9:46 PM,4:49,,,SUB: Sanders FOR Hawkins,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,481,2,1,4,9:47 PM,4:34,,,MISS Cloud 25' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,482,4,0,4,9:47 PM,4:31,Breland REBOUND (Off:4 Def:10),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,483,5,45,4,9:47 PM,4:29,Sykes Out of Bounds - Bad Pass Turnover Turnover (P5.T15),,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041800312,485,8,0,4,9:47 PM,4:29,SUB: Montgomery FOR Bentley,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,487,2,1,4,9:47 PM,4:06,,,MISS Ruffin-Pratt 24' 3PT Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,488,4,0,4,9:47 PM,4:02,Hayes REBOUND (Off:1 Def:6),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,489,5,45,4,9:48 PM,3:50,Hayes Out of Bounds - Bad Pass Turnover Turnover (P3.T16),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041800312,490,8,0,4,9:48 PM,3:50,,,SUB: Atkins FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,492,2,3,4,9:48 PM,3:25,,,MISS Sanders 2' Hook Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,493,4,0,4,9:48 PM,3:22,Williams REBOUND (Off:3 Def:7),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,494,2,79,4,9:48 PM,3:17,MISS Montgomery 24' 3PT Pullup Jump Shot,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,495,4,0,4,9:48 PM,3:14,,,Delle Donne REBOUND (Off:2 Def:12),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,496,5,2,4,9:49 PM,3:07,Hayes STEAL (2 STL),,Delle Donne Lost Ball Turnover (P1.T9),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,498,6,2,4,9:49 PM,3:04,,,Sanders S.FOUL (P3.T2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,500,9,1,4,9:49 PM,3:04,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,501,8,0,4,9:52 PM,3:04,,,SUB: Ruffin-Pratt FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,503,3,11,4,9:53 PM,3:04,Hayes Free Throw 1 of 2 (13 PTS),,,70 - 69,-1,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,504,3,12,4,9:53 PM,3:04,Hayes Free Throw 2 of 2 (14 PTS),,,70 - 70,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041800312,505,1,47,4,9:53 PM,2:48,,,Toliver 14' Turnaround Jump Shot (13 PTS),72 - 70,-2,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,506,6,1,4,9:53 PM,2:31,,,Atkins P.FOUL (P3.T3),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,508,1,101,4,9:54 PM,2:23,Hayes 8' Driving Floating Jump Shot (16 PTS),,,72 - 72,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,509,6,2,4,9:54 PM,2:02,Breland S.FOUL (P1.T3),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,511,3,11,4,9:55 PM,2:02,,,Toliver Free Throw 1 of 2 (14 PTS),73 - 72,-1,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,512,3,12,4,9:55 PM,2:02,,,Toliver Free Throw 2 of 2 (15 PTS),74 - 72,-2,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041800312,513,1,79,4,9:55 PM,1:47,Sykes 13' Pullup Jump Shot (9 PTS),,,74 - 74,TIE,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,514,5,4,4,9:55 PM,1:34,,,Sanders Traveling Turnover (P2.T10),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041800312,515,2,79,4,9:56 PM,1:20,MISS Sykes 8' Pullup Jump Shot,,Sanders BLOCK (4 BLK),,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1
+1041800312,517,4,0,4,9:56 PM,1:20,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,518,9,1,4,9:56 PM,1:20,DREAM Timeout: Regular (Full 3 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,519,8,0,4,9:57 PM,1:20,,,SUB: Hawkins FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,521,2,6,4,9:58 PM,1:11,MISS Williams 5' Driving Layup,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,522,4,0,4,9:58 PM,1:09,Williams REBOUND (Off:4 Def:7),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,523,2,72,4,9:58 PM,1:09,MISS Williams 1' Putback Layup,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,524,4,0,4,9:58 PM,1:09,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,525,18,0,4,9:58 PM,1:09,,Instant Replay4th Period (9:58 PM EST),,74 - 74,TIE,0,523,,,,,,0,0,,,,,,1,0,,,,,,0
+1041800312,526,1,98,4,10:00 PM,1:07,Williams 1' Cutting Layup Shot (10 PTS) (Hayes 6 AST),,,74 - 76,2,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,528,9,2,4,10:00 PM,1:07,,,Mystics Timeout: Short (Reg.2 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,529,8,0,4,10:01 PM,1:06,SUB: Dietrick FOR Sykes,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,530,8,0,4,10:01 PM,1:06,SUB: Bentley FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,533,2,1,4,10:01 PM,0:51,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,534,4,0,4,10:01 PM,0:47,Dietrick REBOUND (Off:0 Def:1),,,,,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,535,5,10,4,10:02 PM,0:41,DREAM Turnover: 8 Second Violation (T#17),,,,,2,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1041800312,536,9,2,4,10:02 PM,0:41,,,Mystics Timeout: Short (Reg.2 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,537,6,1,4,10:03 PM,0:35,Breland P.FOUL (P2.T4),,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,539,6,3,4,10:04 PM,0:22,Bentley L.B.FOUL (P3.PN),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041800312,541,3,11,4,10:05 PM,0:22,,,MISS Toliver Free Throw 1 of 2,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,542,4,1,4,10:05 PM,0:22,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,543,8,0,4,10:05 PM,0:22,SUB: Montgomery FOR Dietrick,,,,,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,545,3,12,4,10:05 PM,0:22,,,Toliver Free Throw 2 of 2 (16 PTS),75 - 76,1,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,546,9,2,4,10:05 PM,0:22,DREAM Timeout: Short (Full 3 Short 1),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,547,8,0,4,10:06 PM,0:22,,,SUB: Ruffin-Pratt FOR Toliver,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,549,6,28,4,10:06 PM,0:21,,,Ruffin-Pratt Personal Take Foul (P4.T4),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,551,6,28,4,10:06 PM,0:20,,,Ruffin-Pratt Personal Take Foul (P5.PN),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,553,3,11,4,10:07 PM,0:20,MISS Hayes Free Throw 1 of 2,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,554,4,1,4,10:07 PM,0:20,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,555,8,0,4,10:07 PM,0:20,SUB: Dietrick FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041800312,557,3,12,4,10:07 PM,0:20,Hayes Free Throw 2 of 2 (17 PTS),,,75 - 77,2,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,558,9,1,4,10:07 PM,0:20,,,Mystics Timeout: Regular (Reg.3 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,559,8,0,4,10:08 PM,0:20,,,SUB: Toliver FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041800312,561,5,1,4,10:09 PM,0:14,Bentley STEAL (1 STL),,Atkins Bad Pass Turnover (P1.T11),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041800312,563,6,1,4,10:09 PM,0:14,,,Toliver P.FOUL (P1.PN),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041800312,565,3,11,4,10:09 PM,0:14,MISS Bentley Free Throw 1 of 2,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,566,4,1,4,10:09 PM,0:14,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,567,3,12,4,10:10 PM,0:14,Bentley Free Throw 2 of 2 (22 PTS),,,75 - 78,3,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041800312,568,2,79,4,10:10 PM,0:00,,,MISS Toliver 3PT Pullup Jump Shot,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041800312,569,4,0,4,10:10 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041800312,570,13,0,4,10:10 PM,0:00,,End of 4th Period (10:10 PM EST),,75 - 78,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

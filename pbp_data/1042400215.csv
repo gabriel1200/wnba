@@ -1,0 +1,381 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042400215,2,12,0,1,8:04 PM,10:00,,Start of 1st Period (8:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,4,10,0,1,8:04 PM,10:00,Jump Ball Collier vs. Jones: Tip to McBride,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,7,2,86,1,8:04 PM,9:45,MISS Collier 10' Turnaround Fadeaway Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,8,4,0,1,8:04 PM,9:43,,,Carrington REBOUND (Off:0 Def:1),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,9,5,2,1,8:05 PM,9:34,,,Bonner Lost Ball Turnover (P1.T1),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,10,2,1,1,8:05 PM,9:27,MISS McBride 26' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,11,4,0,1,8:05 PM,9:25,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,13,1,1,1,8:05 PM,9:10,,,Jones 13' Jump Shot (2 PTS) (Harris 1 AST),2 - 0,-2,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,15,1,101,1,8:06 PM,8:56,McBride 7' Driving Floating Jump Shot (2 PTS),,,2 - 2,TIE,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,17,1,79,1,8:06 PM,8:29,,,Harris 18' Pullup Jump Shot (2 PTS),4 - 2,-2,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,18,2,73,1,8:06 PM,8:06,MISS McBride 2' Driving Reverse Layup,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,19,4,0,1,8:06 PM,8:01,,,Thomas REBOUND (Off:0 Def:1),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,20,1,103,1,8:07 PM,7:57,,,Harris 24' 3PT Running Pull-Up Jump Shot (5 PTS) (Thomas 1 AST),7 - 2,-5,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,22,1,103,1,8:07 PM,7:46,Williams 13' Running Pull-Up Jump Shot (2 PTS),,,7 - 4,-3,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,23,2,47,1,8:07 PM,7:28,,,MISS Thomas 6' Turnaround Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,24,4,0,1,8:07 PM,7:25,,,Jones REBOUND (Off:1 Def:0),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,25,1,72,1,8:07 PM,7:24,,,Jones 2' Putback Layup (4 PTS),9 - 4,-5,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,27,1,1,1,8:08 PM,7:05,Williams 24' 3PT Jump Shot (5 PTS) (Smith 1 AST),,,9 - 7,-2,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,29,2,1,1,8:08 PM,6:38,,,MISS Bonner 24' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,30,4,0,1,8:08 PM,6:35,Williams REBOUND (Off:0 Def:1),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,31,2,1,1,8:08 PM,6:24,MISS Carleton 24' 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,32,4,0,1,8:08 PM,6:22,Collier REBOUND (Off:1 Def:0),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,33,6,2,1,8:08 PM,6:22,,,Harris S.FOUL (P1.T1),,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,35,3,11,1,8:09 PM,6:22,Collier Free Throw 1 of 2 (1 PTS),,,9 - 8,-1,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,36,8,0,1,8:09 PM,6:22,,,SUB: Mabrey FOR Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,38,3,12,1,8:09 PM,6:22,Collier Free Throw 2 of 2 (2 PTS),,,9 - 9,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,39,5,2,1,8:09 PM,6:06,Williams STEAL (1 STL),,Bonner Lost Ball Turnover (P2.T2),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,41,2,6,1,8:10 PM,5:59,MISS Collier 4' Driving Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,42,4,0,1,8:10 PM,5:57,Collier REBOUND (Off:2 Def:0),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,43,2,1,1,8:10 PM,5:56,MISS Carleton 24' 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,44,4,0,1,8:10 PM,5:56,Collier REBOUND (Off:3 Def:0),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,45,10,0,1,8:10 PM,5:47,Jump Ball Collier vs. Bonner: Tip to McBride,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,49,6,2,1,8:11 PM,5:36,,,Thomas S.FOUL (P1.T2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,51,3,11,1,8:11 PM,5:36,MISS Smith Free Throw 1 of 2,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,52,4,1,1,8:11 PM,5:36,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,53,3,12,1,8:11 PM,5:36,Smith Free Throw 2 of 2 (1 PTS),,,9 - 10,1,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,54,5,13,1,8:12 PM,5:24,,,Thomas Backcourt Turnover (P1.T3),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,55,1,6,1,8:12 PM,5:06,Carleton 2' Driving Layup (2 PTS) (McBride 1 AST),,,9 - 12,3,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,58,9,4,1,8:13 PM,4:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,59,2,1,1,8:16 PM,4:50,,,MISS Bonner 16' Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,60,4,0,1,8:16 PM,4:47,Collier REBOUND (Off:3 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,61,1,102,1,8:16 PM,4:39,Williams 8' Driving Floating Bank Jump Shot (7 PTS),,,9 - 14,5,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,62,1,1,1,8:16 PM,4:25,,,Mabrey 16' Jump Shot (2 PTS),11 - 14,3,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,63,6,17,1,8:17 PM,4:07,,,Sun T.Foul (Def. 3 Sec Thomas ),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,64,3,16,1,8:17 PM,4:07,MISS McBride Free Throw Technical,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,65,4,1,1,8:17 PM,4:07,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,66,1,80,1,8:18 PM,3:58,McBride 17' Step Back Jump Shot (4 PTS),,,11 - 16,5,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,67,2,1,1,8:18 PM,3:43,,,MISS Harris 15' Jump Shot,,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,68,4,0,1,8:18 PM,3:42,Smith REBOUND (Off:0 Def:1),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,69,1,1,1,8:18 PM,3:34,Smith 25' 3PT Jump Shot (4 PTS) (Williams 1 AST),,,11 - 19,8,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,71,1,80,1,8:18 PM,3:16,,,Mabrey 24' 3PT Step Back Jump Shot (5 PTS),14 - 19,5,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,72,1,1,1,8:18 PM,3:06,McBride 24' 3PT Jump Shot (7 PTS) (Williams 2 AST),,,14 - 22,8,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,74,2,6,1,8:19 PM,2:50,,,MISS Carrington 4' Driving Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,75,4,0,1,8:19 PM,2:47,Carleton REBOUND (Off:0 Def:1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,76,1,1,1,8:19 PM,2:42,McBride 3PT Jump Shot (10 PTS) (Williams 3 AST),,,14 - 25,11,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,78,9,1,1,8:19 PM,2:40,,,Sun Timeout: Regular (Reg.1 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,79,8,0,1,8:20 PM,2:40,,,SUB: Burton FOR Carrington,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,81,1,6,1,8:21 PM,2:26,,,Thomas 1' Driving Layup (2 PTS),16 - 25,9,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,82,6,1,1,8:21 PM,2:17,,,Mabrey P.FOUL (P1.T3),,,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,84,2,63,1,8:22 PM,2:04,MISS Collier 13' Fadeaway Jumper,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,85,4,0,1,8:22 PM,2:01,,,Bonner REBOUND (Off:0 Def:1),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,86,2,1,1,8:22 PM,1:52,,,MISS Mabrey 24' 3PT Jump Shot,,,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,87,4,0,1,8:22 PM,1:50,Collier REBOUND (Off:3 Def:2),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,88,1,44,1,8:22 PM,1:35,Collier 3' Reverse Layup (4 PTS) (Smith 2 AST),,,16 - 27,11,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,90,1,6,1,8:23 PM,1:14,,,Bonner 2' Driving Layup (2 PTS) (Burton 1 AST),18 - 27,9,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,92,1,79,1,8:23 PM,1:03,Williams 12' Pullup Jump Shot (9 PTS),,,18 - 29,11,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,93,2,41,1,8:23 PM,0:56,,,MISS Bonner 2' Running Layup,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,94,4,0,1,8:23 PM,0:53,,,Bonner REBOUND (Off:1 Def:1),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,95,5,11,1,8:23 PM,0:39,,,Sun Turnover: Shot Clock (T#4),,,3,1611661323,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400215,96,8,0,1,8:23 PM,0:39,SUB: Zandalasini FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,97,8,0,1,8:23 PM,0:39,SUB: Hines-Allen FOR Smith,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,98,8,0,1,8:23 PM,0:39,SUB: Hiedeman FOR Williams,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,99,8,0,1,8:23 PM,0:39,,,SUB: Jones FOR Bonner,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,104,1,1,1,8:24 PM,0:31,Collier 12' Jump Shot (6 PTS) (Hiedeman 1 AST),,,18 - 31,13,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,106,2,1,1,8:24 PM,0:10,,,MISS Jones 16' Jump Shot,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,107,4,0,1,8:24 PM,0:07,Zandalasini REBOUND (Off:0 Def:1),,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,108,2,6,1,8:24 PM,0:00,MISS Hines-Allen 3' Driving Layup,,Jones BLOCK (1 BLK),,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1042400215,110,4,0,1,8:24 PM,0:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,111,13,0,1,8:24 PM,0:00,,End of 1st Period (8:24 PM EST),,18 - 31,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,112,12,0,2,8:28 PM,10:00,,Start of 2nd Period (8:28 PM EST),,18 - 31,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,113,1,79,2,8:29 PM,9:40,,,Thomas 12' Pullup Jump Shot (4 PTS) (Burton 2 AST),20 - 31,11,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,115,2,1,2,8:29 PM,9:17,MISS McBride 25' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,116,4,0,2,8:29 PM,9:14,,,Harris REBOUND (Off:0 Def:1),,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,117,1,5,2,8:29 PM,9:02,,,Jones 1' Layup (6 PTS),22 - 31,9,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,118,1,75,2,8:30 PM,8:50,McBride 2' Driving Finger Roll Layup (12 PTS) (Hines-Allen 1 AST),,,22 - 33,11,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,120,2,1,2,8:30 PM,8:35,Hines-Allen BLOCK (1 BLK),,MISS Burton 3PT Jump Shot,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,122,4,0,2,8:30 PM,8:32,,,Jones REBOUND (Off:2 Def:0),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,123,2,1,2,8:30 PM,8:30,Collier BLOCK (1 BLK),,MISS Jones 6' Jump Shot,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,124,4,0,2,8:30 PM,8:28,Collier REBOUND (Off:3 Def:3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,125,1,41,2,8:30 PM,8:27,Hiedeman 1' Running Layup (2 PTS) (Collier 1 AST),,,22 - 35,13,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,127,9,1,2,8:30 PM,8:22,,,Sun Timeout: Regular (Reg.2 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,129,8,0,2,8:33 PM,8:22,SUB: Carleton FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,130,8,0,2,8:33 PM,8:22,,,SUB: Bonner FOR Mabrey,,,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,131,8,0,2,8:33 PM,8:22,,,SUB: Carrington FOR Harris,,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,135,2,1,2,8:34 PM,8:03,,,MISS Carrington 24' 3PT Jump Shot,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,136,4,0,2,8:34 PM,7:59,Hiedeman REBOUND (Off:0 Def:1),,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,137,1,98,2,8:34 PM,7:52,Collier 2' Cutting Layup Shot (8 PTS) (Hiedeman 2 AST),,,22 - 37,15,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,139,6,2,2,8:34 PM,7:40,Hiedeman S.FOUL (P1.T1),,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,141,3,11,2,8:35 PM,7:40,,,MISS Thomas Free Throw 1 of 2,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,142,4,1,2,8:35 PM,7:40,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,143,3,12,2,8:35 PM,7:40,,,Thomas Free Throw 2 of 2 (5 PTS),23 - 37,14,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,145,8,0,2,8:35 PM,7:22,,,SUB: Harris FOR Burton,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,147,2,47,2,8:36 PM,7:15,MISS Zandalasini 9' Turnaround Jump Shot,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,148,4,0,2,8:36 PM,7:12,,,Carrington REBOUND (Off:0 Def:2),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,149,5,45,2,8:36 PM,7:06,,,Carrington Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,150,1,79,2,8:36 PM,6:58,Hiedeman 24' 3PT Pullup Jump Shot (5 PTS),,,23 - 40,17,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,151,5,1,2,8:37 PM,6:34,Collier STEAL (1 STL),,Carrington Bad Pass Turnover (P2.T6),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,154,8,0,2,8:37 PM,6:29,SUB: Smith FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,156,2,6,2,8:37 PM,6:24,MISS Hines-Allen 3' Driving Layup,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,157,4,0,2,8:37 PM,6:23,,,Jones REBOUND (Off:2 Def:1),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,158,2,1,2,8:37 PM,6:07,,,MISS Carrington 24' 3PT Jump Shot,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,159,4,0,2,8:37 PM,6:03,Zandalasini REBOUND (Off:0 Def:2),,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,160,2,41,2,8:38 PM,5:57,MISS Hiedeman 3' Running Layup,,Jones BLOCK (2 BLK),,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1042400215,162,4,0,2,8:38 PM,5:55,,,Jones REBOUND (Off:2 Def:2),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,163,2,1,2,8:38 PM,5:34,,,MISS Carrington 11' Jump Shot,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,164,4,0,2,8:38 PM,5:34,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,166,8,0,2,8:38 PM,5:34,SUB: Williams FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,168,2,1,2,8:39 PM,5:21,MISS Zandalasini 24' 3PT Jump Shot,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,169,4,0,2,8:39 PM,5:18,,,Bonner REBOUND (Off:1 Def:2),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,170,6,4,2,8:39 PM,5:12,,,Jones OFF.Foul (P1),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,172,5,37,2,8:39 PM,5:12,,,Jones Offensive Foul Turnover (P1.T7),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,173,6,4,2,8:39 PM,5:04,Hines-Allen OFF.Foul (P1),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,175,5,37,2,8:39 PM,5:04,Hines-Allen Offensive Foul Turnover (P1.T1),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,176,2,6,2,8:40 PM,4:45,Smith BLOCK (1 BLK),,MISS Bonner 5' Driving Layup,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,178,4,0,2,8:40 PM,4:42,Carleton REBOUND (Off:0 Def:2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,179,2,1,2,8:40 PM,4:35,MISS Carleton 24' 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,180,4,0,2,8:40 PM,4:31,,,Carrington REBOUND (Off:0 Def:3),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,181,6,17,2,8:40 PM,4:20,LYNX T.Foul (Def. 3 Sec Smith ),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,182,3,16,2,8:41 PM,4:20,,,Bonner Free Throw Technical (3 PTS),24 - 40,16,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,183,8,0,2,8:41 PM,4:20,SUB: McBride FOR Hines-Allen,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,184,8,0,2,8:41 PM,4:20,SUB: Collier FOR Zandalasini,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,185,8,0,2,8:41 PM,4:20,,,SUB: Mabrey FOR Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,189,5,45,2,8:41 PM,4:09,,,Thomas Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,190,1,101,2,8:42 PM,3:57,McBride 14' Driving Floating Jump Shot (14 PTS),,,24 - 42,18,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,191,5,45,2,8:42 PM,3:41,,,Carrington Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,192,5,1,2,8:42 PM,3:32,McBride Bad Pass Turnover (P1.T2),,Bonner STEAL (1 STL),,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,194,5,2,2,8:42 PM,3:29,Carleton STEAL (1 STL),,Bonner Lost Ball Turnover (P3.T10),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,196,2,1,2,8:42 PM,3:26,MISS Smith 24' 3PT Jump Shot,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,197,4,0,2,8:42 PM,3:25,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,198,6,3,2,8:42 PM,3:25,,,Thomas L.B.FOUL (P2.T1),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,200,1,47,2,8:43 PM,3:18,Collier 8' Turnaround Jump Shot (10 PTS) (McBride 2 AST),,,24 - 44,20,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,202,6,1,2,8:43 PM,3:07,Carleton P.FOUL (P1.T2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,204,18,3,2,8:44 PM,3:07,,Instant Replay2nd Period (8:44 PM EST),,24 - 44,20,0,202,Gary Grant,,,,,0,0,,,,,,1,0,,,,,,0
+1042400215,205,1,79,2,8:46 PM,2:53,,,Bonner 30' 3PT Pullup Jump Shot (6 PTS),27 - 44,17,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,206,2,1,2,8:47 PM,2:36,MISS McBride 25' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,207,4,0,2,8:47 PM,2:33,,,Carrington REBOUND (Off:0 Def:4),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,208,1,1,2,8:47 PM,2:20,,,Mabrey 25' 3PT Jump Shot (8 PTS) (Thomas 2 AST),30 - 44,14,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,210,9,1,2,8:47 PM,2:11,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,211,1,1,2,8:51 PM,1:59,Williams 24' 3PT Jump Shot (12 PTS) (Collier 2 AST),,,30 - 47,17,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,213,6,2,2,8:51 PM,1:59,,,Carrington S.FOUL (P1.T2),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,215,3,10,2,8:51 PM,1:59,Williams Free Throw 1 of 1 (13 PTS),,,30 - 48,18,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,216,6,1,2,8:51 PM,1:42,Carleton P.FOUL (P2.T3),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,219,2,1,2,8:52 PM,1:31,,,MISS Bonner 3' Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,221,4,0,2,8:52 PM,1:29,Smith REBOUND (Off:0 Def:2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,222,5,40,2,8:52 PM,1:27,McBride Out of Bounds Lost Ball Turnover (P2.T3),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,223,2,6,2,8:53 PM,1:14,,,MISS Harris 3' Driving Layup,,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,224,4,0,2,8:53 PM,1:11,Williams REBOUND (Off:0 Def:2),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,225,5,45,2,8:53 PM,1:09,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,226,2,1,2,8:53 PM,0:54,,,MISS Mabrey 24' 3PT Jump Shot,,,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,227,4,0,2,8:53 PM,0:52,Collier REBOUND (Off:3 Def:4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,228,1,5,2,8:53 PM,0:44,Collier 2' Layup (12 PTS) (Williams 4 AST),,,30 - 50,20,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,230,6,2,2,8:54 PM,0:44,,,Thomas S.FOUL (P3.PN),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,232,3,10,2,8:54 PM,0:44,Collier Free Throw 1 of 1 (13 PTS),,,30 - 51,21,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,233,6,1,2,8:54 PM,0:26,Collier P.FOUL (P1.PN),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,235,3,11,2,8:55 PM,0:26,,,Thomas Free Throw 1 of 2 (6 PTS),31 - 51,20,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,236,3,12,2,8:55 PM,0:26,,,Thomas Free Throw 2 of 2 (7 PTS),32 - 51,19,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,237,1,79,2,8:55 PM,0:08,Williams 18' Pullup Jump Shot (15 PTS) (Collier 3 AST),,,32 - 53,21,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,239,6,2,2,8:55 PM,0:03,Carleton S.FOUL (P3.PN),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,241,3,11,2,8:56 PM,0:03,,,Harris Free Throw 1 of 2 (6 PTS),33 - 53,20,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,242,8,0,2,8:56 PM,0:03,SUB: Zandalasini FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,244,3,12,2,8:56 PM,0:03,,,Harris Free Throw 2 of 2 (7 PTS),34 - 53,19,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,245,2,78,2,8:56 PM,0:00,MISS McBride 40' 3PT Floating Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,246,4,0,2,8:56 PM,0:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,247,13,0,2,8:56 PM,0:00,,End of 2nd Period (8:56 PM EST),,34 - 53,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,252,12,0,3,9:12 PM,10:00,,Start of 3rd Period (9:12 PM EST),,34 - 53,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,253,2,6,3,9:13 PM,9:42,,,MISS Thomas 3' Driving Layup,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042400215,254,4,0,3,9:13 PM,9:39,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,256,2,1,3,9:14 PM,9:30,,,MISS Carrington 11' Jump Shot,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,257,4,0,3,9:14 PM,9:27,,,Carrington REBOUND (Off:1 Def:4),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,258,6,2,3,9:14 PM,9:27,Smith S.FOUL (P1.T1),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,260,3,11,3,9:14 PM,9:27,,,Carrington Free Throw 1 of 2 (1 PTS),35 - 53,18,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,261,3,12,3,9:15 PM,9:27,,,Carrington Free Throw 2 of 2 (2 PTS),36 - 53,17,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,262,5,1,3,9:15 PM,9:10,Williams Bad Pass Turnover (P2.T5),,Carrington STEAL (1 STL),,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,264,1,41,3,9:15 PM,9:07,,,Carrington 2' Running Layup (4 PTS),38 - 53,15,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,265,5,2,3,9:15 PM,8:50,Collier Lost Ball Turnover (P1.T6),,Carrington STEAL (2 STL),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,267,5,8,3,9:16 PM,8:41,,,Jones 3 Second Violation Turnover (P2.T11),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,268,2,101,3,9:16 PM,8:31,MISS McBride 8' Driving Floating Jump Shot,,Jones BLOCK (3 BLK),,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1042400215,270,4,0,3,9:16 PM,8:28,,,Bonner REBOUND (Off:1 Def:3),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,271,6,2,3,9:16 PM,8:28,Williams S.FOUL (P1.T2),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,273,3,11,3,9:16 PM,8:28,,,Carrington Free Throw 1 of 2 (5 PTS),39 - 53,14,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,274,3,12,3,9:16 PM,8:28,,,MISS Carrington Free Throw 2 of 2,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042400215,275,4,0,3,9:16 PM,8:24,,,Carrington REBOUND (Off:2 Def:4),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,276,2,72,3,9:17 PM,8:23,,,MISS Carrington 3' Putback Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,277,10,0,3,9:17 PM,8:19,Jump Ball Collier vs. Carrington: Tip to Bonner,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1042400215,280,4,0,3,9:17 PM,8:19,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,281,2,6,3,9:17 PM,8:16,Smith BLOCK (2 BLK),,MISS Thomas 5' Driving Layup,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,283,4,0,3,9:17 PM,8:14,,,Carrington REBOUND (Off:3 Def:4),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,284,2,6,3,9:17 PM,8:12,Collier BLOCK (2 BLK),,MISS Carrington 4' Driving Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,286,4,0,3,9:17 PM,8:12,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,288,2,79,3,9:18 PM,7:47,MISS Williams 16' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,289,4,0,3,9:18 PM,7:42,,,Bonner REBOUND (Off:1 Def:4),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,290,6,2,3,9:18 PM,7:37,Williams S.FOUL (P2.T3),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,292,3,11,3,9:19 PM,7:37,,,Bonner Free Throw 1 of 2 (7 PTS),40 - 53,13,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,293,3,12,3,9:19 PM,7:37,,,Bonner Free Throw 2 of 2 (8 PTS),41 - 53,12,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,294,5,45,3,9:19 PM,7:22,McBride Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,295,9,1,3,9:19 PM,7:22,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,296,2,5,3,9:23 PM,6:58,,,MISS Jones 3' Layup,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,297,4,0,3,9:23 PM,6:55,Collier REBOUND (Off:3 Def:5),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,298,6,1,3,9:23 PM,6:47,,,Bonner P.FOUL (P1.T1),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,300,7,4,3,9:24 PM,6:36,,,Carrington Violation:Jump Ball,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1042400215,302,2,79,3,9:25 PM,6:24,MISS Williams 17' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,303,4,0,3,9:25 PM,6:22,Williams REBOUND (Off:1 Def:2),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,304,2,1,3,9:26 PM,6:09,MISS Carleton 25' 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,305,4,0,3,9:26 PM,6:09,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,306,5,11,3,9:26 PM,6:09,LYNX Turnover: Shot Clock (T#8),,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400215,307,2,1,3,9:26 PM,5:50,,,MISS Bonner 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,308,4,0,3,9:26 PM,5:47,McBride REBOUND (Off:0 Def:1),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,309,1,1,3,9:26 PM,5:38,Smith 3PT Jump Shot (7 PTS) (Carleton 1 AST),,,41 - 56,15,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,311,2,1,3,9:27 PM,5:26,,,MISS Thomas 15' Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,312,4,0,3,9:27 PM,5:25,,,Jones REBOUND (Off:3 Def:2),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,313,2,72,3,9:27 PM,5:24,Collier BLOCK (3 BLK),,MISS Jones 2' Putback Layup,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,315,4,0,3,9:27 PM,5:22,,,Jones REBOUND (Off:4 Def:2),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,316,5,40,3,9:27 PM,5:22,,,Jones Out of Bounds Lost Ball Turnover (P3.T12),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,317,2,79,3,9:27 PM,5:14,MISS Williams 20' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,318,4,0,3,9:27 PM,5:10,,,Carrington REBOUND (Off:3 Def:5),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,319,5,45,3,9:27 PM,4:56,,,Carrington Out of Bounds - Bad Pass Turnover Turnover (P4.T13),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,320,8,0,3,9:28 PM,4:56,,,SUB: Mabrey FOR Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,322,5,45,3,9:28 PM,4:45,Williams Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,323,5,2,3,9:28 PM,4:33,Williams STEAL (2 STL),,Bonner Lost Ball Turnover (P4.T14),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,325,1,41,3,9:28 PM,4:29,Williams 1' Running Layup (17 PTS),,,41 - 58,17,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,327,8,0,3,9:29 PM,4:16,SUB: Hiedeman FOR Williams,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,329,2,1,3,9:29 PM,4:04,,,MISS Carrington 26' 3PT Jump Shot,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,330,4,0,3,9:29 PM,4:01,Collier REBOUND (Off:3 Def:6),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,331,2,1,3,9:29 PM,3:53,MISS Carleton 24' 3PT Jump Shot,,Carrington BLOCK (1 BLK),,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1
+1042400215,333,4,0,3,9:29 PM,3:53,Collier REBOUND (Off:4 Def:6),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,334,1,86,3,9:29 PM,3:47,Collier 10' Turnaround Fadeaway (15 PTS),,,41 - 60,19,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,335,5,2,3,9:30 PM,3:29,Smith STEAL (1 STL),,Carrington Lost Ball Turnover (P5.T15),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,337,1,41,3,9:30 PM,3:23,Collier 1' Running Layup (17 PTS) (Smith 3 AST),,,41 - 62,21,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,339,9,1,3,9:30 PM,3:23,,,Sun Timeout: Regular (Reg.3 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,340,8,0,3,9:31 PM,3:23,,,SUB: Jones FOR Mabrey,,,5,1629497,Marina Mabrey,1611661323.0,Connecticut,Sun,CON,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,341,8,0,3,9:31 PM,3:23,,,SUB: Burton FOR Harris,,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,344,6,26,3,9:32 PM,3:13,,,Thomas Offensive Charge Foul (P4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,346,5,37,3,9:32 PM,3:13,,,Thomas Offensive Foul Turnover (P3.T16),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,347,2,1,3,9:32 PM,2:57,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,348,4,0,3,9:32 PM,2:54,,,Bonner REBOUND (Off:1 Def:5),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,349,10,0,3,9:33 PM,2:39,Jump Ball Collier vs. Burton: Tip to Burton,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,1
+1042400215,352,2,1,3,9:33 PM,2:37,,,MISS Bonner 25' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,356,4,0,3,9:33 PM,2:33,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,353,10,0,3,9:33 PM,2:33,Jump Ball Collier vs. Jones: Tip to Thomas,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042400215,357,5,1,3,9:33 PM,2:31,Hiedeman STEAL (1 STL),,Thomas Bad Pass Turnover (P4.T17),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,359,6,1,3,9:33 PM,2:27,,,Jones P.FOUL (P2.T2),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,361,1,1,3,9:34 PM,2:21,Collier 3PT Jump Shot (20 PTS) (Carleton 2 AST),,,41 - 65,24,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,363,1,98,3,9:34 PM,2:04,,,Jones 2' Cutting Layup Shot (8 PTS) (Carrington 1 AST),43 - 65,22,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,365,2,101,3,9:35 PM,1:49,MISS Collier 6' Driving Floating Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,366,4,0,3,9:35 PM,1:48,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,368,8,0,3,9:35 PM,1:48,SUB: Hines-Allen FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,369,8,0,3,9:35 PM,1:48,SUB: Zandalasini FOR Smith,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,372,6,2,3,9:35 PM,1:31,Collier S.FOUL (P2.T4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,374,3,11,3,9:36 PM,1:31,,,MISS Carrington Free Throw 1 of 2,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,375,4,1,3,9:36 PM,1:31,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,376,8,0,3,9:36 PM,1:31,SUB: Williams FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,378,3,12,3,9:36 PM,1:31,,,Carrington Free Throw 2 of 2 (6 PTS),44 - 65,21,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,379,5,1,3,9:36 PM,1:15,Hines-Allen Bad Pass Turnover (P2.T10),,Carrington STEAL (3 STL),,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,382,2,6,3,9:37 PM,1:07,,,MISS Burton 8' Driving Layup,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,383,4,0,3,9:37 PM,1:05,,,Jones REBOUND (Off:5 Def:2),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,384,1,72,3,9:37 PM,1:04,,,Jones 6' Putback Layup (10 PTS),46 - 65,19,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,385,2,79,3,9:37 PM,0:46,MISS Williams 19' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,386,4,0,3,9:37 PM,0:42,,,Thomas REBOUND (Off:0 Def:2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,387,6,2,3,9:37 PM,0:39,Hines-Allen S.FOUL (P2.PN),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,389,3,11,3,9:38 PM,0:39,,,Carrington Free Throw 1 of 2 (7 PTS),47 - 65,18,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,390,3,12,3,9:38 PM,0:39,,,Carrington Free Throw 2 of 2 (8 PTS),48 - 65,17,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,391,2,79,3,9:38 PM,0:17,MISS Zandalasini 9' Pullup Jump Shot,,Burton BLOCK (1 BLK),,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,1
+1042400215,393,4,0,3,9:38 PM,0:14,,,Jones REBOUND (Off:5 Def:3),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,394,2,41,3,9:38 PM,0:12,,,MISS Bonner 3' Running Layup,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,395,4,0,3,9:38 PM,0:10,Williams REBOUND (Off:1 Def:3),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,396,2,6,3,9:38 PM,0:00,MISS Williams 1' Driving Layup,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,397,4,0,3,9:38 PM,0:00,,,Bonner REBOUND (Off:1 Def:6),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,398,13,0,3,9:38 PM,0:00,,End of 3rd Period (9:38 PM EST),,48 - 65,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,401,12,0,4,9:43 PM,10:00,,Start of 4th Period (9:43 PM EST),,48 - 65,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,402,6,1,4,9:43 PM,9:41,,,Jones P.FOUL (P3.T1),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,404,1,78,4,9:44 PM,9:33,Hines-Allen 7' Floating Jump Shot (2 PTS) (Williams 5 AST),,,48 - 67,19,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,406,2,1,4,9:44 PM,9:09,,,MISS Burton 25' 3PT Jump Shot,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,407,4,0,4,9:44 PM,9:05,Hines-Allen REBOUND (Off:0 Def:1),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,409,5,40,4,9:45 PM,9:05,Williams Out of Bounds Lost Ball Turnover (P4.T11),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400215,410,1,98,4,9:45 PM,8:54,,,Jones 2' Cutting Layup Shot (12 PTS) (Thomas 3 AST),50 - 67,17,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,412,2,6,4,9:45 PM,8:39,MISS Collier 8' Driving Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,413,4,0,4,9:45 PM,8:36,,,Jones REBOUND (Off:5 Def:4),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,414,2,1,4,9:45 PM,8:22,,,MISS Harris 25' 3PT Jump Shot,,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,415,4,0,4,9:45 PM,8:21,Hiedeman REBOUND (Off:0 Def:2),,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,416,1,6,4,9:46 PM,8:13,Collier 2' Driving Layup (22 PTS) (Williams 6 AST),,,50 - 69,19,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,418,6,2,4,9:46 PM,8:13,,,Carrington S.FOUL (P2.T2),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,420,8,0,4,9:46 PM,8:13,SUB: Carleton FOR Hines-Allen,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,421,8,0,4,9:46 PM,8:13,SUB: Smith FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,422,8,0,4,9:46 PM,8:13,SUB: McBride FOR Zandalasini,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,426,3,10,4,9:46 PM,8:13,Collier Free Throw 1 of 1 (23 PTS),,,50 - 70,20,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,427,1,6,4,9:46 PM,8:02,,,Carrington 4' Driving Layup (10 PTS),52 - 70,18,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,428,6,2,4,9:46 PM,8:02,Collier S.FOUL (P3.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,430,3,10,4,9:47 PM,8:02,,,Carrington Free Throw 1 of 1 (11 PTS),53 - 70,17,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,431,5,1,4,9:47 PM,7:41,Smith Bad Pass Turnover (P1.T12),,Burton STEAL (1 STL),,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,433,2,6,4,9:47 PM,7:35,,,MISS Carrington 3' Driving Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,434,4,0,4,9:47 PM,7:32,,,Jones REBOUND (Off:6 Def:4),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,435,1,72,4,9:47 PM,7:31,,,Jones 3' Putback Layup (14 PTS),55 - 70,15,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,436,6,1,4,9:48 PM,7:23,,,Carrington P.FOUL (P3.T3),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,438,2,1,4,9:48 PM,7:18,MISS McBride 25' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,439,4,0,4,9:48 PM,7:16,Collier REBOUND (Off:5 Def:6),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,440,6,2,4,9:48 PM,7:15,,,Burton S.FOUL (P1.T4),,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,442,3,11,4,9:49 PM,7:15,Collier Free Throw 1 of 2 (24 PTS),,,55 - 71,16,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,443,3,12,4,9:49 PM,7:15,MISS Collier Free Throw 2 of 2,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,444,4,0,4,9:49 PM,7:13,,,Carrington REBOUND (Off:3 Def:6),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,445,5,1,4,9:49 PM,7:00,McBride STEAL (1 STL),,Carrington Bad Pass Turnover (P6.T18),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,447,2,41,4,9:49 PM,6:54,MISS Williams 3' Running Layup,,Burton BLOCK (2 BLK),,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,1
+1042400215,449,4,0,4,9:49 PM,6:52,Williams REBOUND (Off:2 Def:3),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,450,1,1,4,9:49 PM,6:45,Williams 3PT Jump Shot (20 PTS) (McBride 3 AST),,,55 - 74,19,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,452,6,2,4,9:50 PM,6:24,Smith S.FOUL (P2.T2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,454,3,11,4,9:50 PM,6:24,,,Jones Free Throw 1 of 2 (15 PTS),56 - 74,18,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,455,3,12,4,9:50 PM,6:24,,,Jones Free Throw 2 of 2 (16 PTS),57 - 74,17,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,456,1,75,4,9:51 PM,6:11,Williams 2' Driving Finger Roll Layup (22 PTS),,,57 - 76,19,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,457,2,6,4,9:51 PM,5:51,Carleton BLOCK (1 BLK),,MISS Jones 2' Driving Layup,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,459,4,0,4,9:51 PM,5:50,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,461,9,4,4,9:51 PM,5:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,462,8,0,4,9:54 PM,5:50,,,SUB: Bonner FOR Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,464,1,47,4,9:55 PM,5:44,,,Carrington 10' Turnaround Jump Shot (13 PTS),59 - 76,17,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,465,1,80,4,9:55 PM,5:29,Collier 13' Step Back Jump Shot (26 PTS) (McBride 4 AST),,,59 - 78,19,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,467,2,6,4,9:55 PM,5:17,Collier BLOCK (4 BLK),,MISS Carrington 9' Driving Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,469,4,0,4,9:55 PM,5:15,,,Carrington REBOUND (Off:4 Def:6),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,478,2,1,4,9:55 PM,5:13,Williams BLOCK (1 BLK),,MISS Burton 8' Jump Shot,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1
+1042400215,479,4,0,4,9:55 PM,5:13,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,472,9,1,4,9:56 PM,5:13,,,Sun Timeout: Regular (Reg.4 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,473,18,5,4,9:56 PM,5:13,,Instant Replay4th Period (9:56 PM EST),,59 - 78,19,0,470,Doc Rivers,,,,,0,0,,,,,,1,0,,,,,,0
+1042400215,474,10,1,4,9:59 PM,5:11,Jump Ball (CC) Collier vs. Bonner: Tip to Carrington,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1
+1042400215,477,2,1,4,10:00 PM,4:59,,,MISS Burton 24' 3PT Jump Shot,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,480,4,0,4,10:00 PM,4:55,McBride REBOUND (Off:0 Def:2),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,482,2,79,4,10:00 PM,4:36,MISS Williams 16' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,483,4,0,4,10:00 PM,4:34,Smith REBOUND (Off:1 Def:2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,484,2,1,4,10:00 PM,4:30,MISS Collier 24' 3PT Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,485,4,0,4,10:00 PM,4:27,,,Thomas REBOUND (Off:0 Def:3),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,486,1,1,4,10:00 PM,4:13,,,Bonner 3PT Jump Shot (11 PTS) (Thomas 4 AST),62 - 78,16,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,488,2,1,4,10:01 PM,3:55,MISS Carleton 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,489,4,0,4,10:01 PM,3:52,,,Carrington REBOUND (Off:4 Def:7),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,490,1,1,4,10:01 PM,3:40,,,Bonner 24' 3PT Jump Shot (14 PTS) (Burton 3 AST),65 - 78,13,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,492,9,1,4,10:01 PM,3:39,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,493,8,0,4,10:02 PM,3:39,SUB: Hiedeman FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,495,1,6,4,10:03 PM,3:25,McBride 3' Driving Layup (16 PTS) (Collier 4 AST),,,65 - 80,15,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,497,6,2,4,10:03 PM,3:25,,,Harris S.FOUL (P2.PN),,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,499,3,10,4,10:03 PM,3:25,MISS McBride Free Throw 1 of 1,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,500,4,0,4,10:03 PM,3:22,,,Bonner REBOUND (Off:1 Def:7),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,501,1,47,4,10:03 PM,3:09,,,Burton 25' 3PT Turnaround Jump Shot (3 PTS) (Thomas 5 AST),68 - 80,12,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,503,1,79,4,10:04 PM,2:40,McBride 24' 3PT Pullup Jump Shot (19 PTS),,,68 - 83,15,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,504,1,6,4,10:04 PM,2:27,,,Carrington 2' Driving Layup (15 PTS),70 - 83,13,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,506,1,6,4,10:05 PM,2:11,Hiedeman 1' Driving Layup (7 PTS) (Williams 7 AST),,,70 - 85,15,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400215,508,1,79,4,10:05 PM,2:00,,,Harris 20' Pullup Jump Shot (9 PTS),72 - 85,13,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,509,6,2,4,10:05 PM,1:47,,,Bonner S.FOUL (P2.PN),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,511,3,11,4,10:06 PM,1:47,MISS Collier Free Throw 1 of 2,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,512,4,1,4,10:06 PM,1:47,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400215,513,8,0,4,10:06 PM,1:47,SUB: Hines-Allen FOR Smith,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,515,3,12,4,10:06 PM,1:47,Collier Free Throw 2 of 2 (27 PTS),,,72 - 86,14,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,516,2,1,4,10:06 PM,1:33,,,MISS Bonner 25' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,517,4,0,4,10:06 PM,1:32,,,Carrington REBOUND (Off:5 Def:7),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,518,6,2,4,10:06 PM,1:32,Williams S.FOUL (P3.T3),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042400215,520,3,11,4,10:07 PM,1:32,,,Carrington Free Throw 1 of 2 (16 PTS),73 - 86,13,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,521,3,12,4,10:07 PM,1:32,,,Carrington Free Throw 2 of 2 (17 PTS),74 - 86,12,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,522,6,1,4,10:07 PM,1:22,,,Carrington P.FOUL (P4.PN),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400215,524,3,11,4,10:08 PM,1:22,Williams Free Throw 1 of 2 (23 PTS),,,74 - 87,13,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,525,3,12,4,10:08 PM,1:22,Williams Free Throw 2 of 2 (24 PTS),,,74 - 88,14,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,526,1,1,4,10:08 PM,1:06,,,Harris 3PT Jump Shot (12 PTS) (Thomas 6 AST),77 - 88,11,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,528,5,1,4,10:08 PM,0:57,Collier Bad Pass Turnover (P2.T13),,Harris STEAL (1 STL),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042400215,530,5,40,4,10:08 PM,0:54,,,Harris Out of Bounds Lost Ball Turnover (P1.T19),,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042400215,531,8,0,4,10:09 PM,0:54,SUB: Zandalasini FOR Williams,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,532,8,0,4,10:09 PM,0:54,SUB: Juhász FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1641657,Dorka Juhász,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,533,8,0,4,10:09 PM,0:54,SUB: Miller FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1641649,Diamond Miller,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400215,534,8,0,4,10:09 PM,0:54,,,SUB: Nelson-Ododa FOR Carrington,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,535,8,0,4,10:09 PM,0:54,,,SUB: Ndour-Fall FOR Bonner,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,203838,Astou Ndour-Fall,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,536,8,0,4,10:09 PM,0:54,,,SUB: Bickle FOR Thomas,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1641698,Caitlin Bickle,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042400215,543,2,1,4,10:10 PM,0:31,MISS Zandalasini 26' 3PT Jump Shot,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,544,4,0,4,10:10 PM,0:29,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400215,546,2,1,4,10:10 PM,0:23,,,MISS Harris 25' 3PT Jump Shot,,,5,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,547,4,0,4,10:10 PM,0:19,,,Bickle REBOUND (Off:1 Def:0),,,5,1641698,Caitlin Bickle,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,549,2,80,4,10:10 PM,0:09,,,MISS Burton 24' 3PT Step Back Jump Shot,,,5,1631007,Veronica Burton,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042400215,550,4,0,4,10:10 PM,0:09,Hiedeman REBOUND (Off:0 Def:3),,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400215,551,13,0,4,10:11 PM,0:00,,End of 4th Period (10:11 PM EST),,77 - 88,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

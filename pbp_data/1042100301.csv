@@ -1,0 +1,482 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042100301,2,12,0,1,8:04 PM,10:00,,Start of 1st Period (8:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,4,10,0,1,8:04 PM,10:00,Jump Ball J. Jones vs. Stevens: Tip to J. Thomas,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042100301,7,2,1,1,8:04 PM,9:48,MISS Bonner 13' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,8,4,0,1,8:04 PM,9:43,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,9,2,79,1,8:04 PM,9:39,,,MISS Vandersloot 12' Pullup Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,10,4,0,1,8:04 PM,9:36,,,Stevens REBOUND (Off:1 Def:0),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,11,1,1,1,8:04 PM,9:34,,,Parker 24' 3PT Jump Shot (3 PTS) (Stevens 1 AST),3 - 0,-3,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,13,1,57,1,8:05 PM,9:17,J. Jones 7' Driving Hook Shot (2 PTS) (Bonner 1 AST),,,3 - 2,-1,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,15,2,79,1,8:05 PM,8:57,,,MISS Stevens 18' Pullup Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,16,4,0,1,8:05 PM,8:55,,,Copper REBOUND (Off:1 Def:0),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,17,6,1,1,8:05 PM,8:50,January P.FOUL (P1.T1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,19,2,101,1,8:06 PM,8:34,,,MISS Quigley 11' Driving Floating Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,20,4,0,1,8:06 PM,8:31,J. Jones REBOUND (Off:0 Def:1),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,21,2,1,1,8:06 PM,8:26,MISS J. Thomas 19' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,22,4,0,1,8:06 PM,8:25,,,Stevens REBOUND (Off:1 Def:1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,23,1,79,1,8:06 PM,8:13,,,Quigley 16' Pullup Jump Shot (2 PTS) (Parker 1 AST),5 - 2,-3,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,25,1,73,1,8:06 PM,7:53,B. Jones 2' Driving Reverse Layup (2 PTS) (J. Jones 1 AST),,,5 - 4,-1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,27,2,1,1,8:07 PM,7:33,,,MISS Copper 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,28,4,0,1,8:07 PM,7:32,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,30,2,6,1,8:07 PM,7:18,MISS Bonner 3' Driving Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,31,4,0,1,8:07 PM,7:18,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,33,1,6,1,8:07 PM,7:05,,,Copper 4' Driving Layup (2 PTS) (Parker 2 AST),7 - 4,-3,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,35,2,6,1,8:08 PM,6:53,MISS J. Thomas 3' Driving Layup,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,36,4,0,1,8:08 PM,6:52,J. Thomas REBOUND (Off:1 Def:0),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,131,2,1,1,8:08 PM,6:51,MISS J. Thomas 7' Jump Shot,,Stevens BLOCK (1 BLK),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1
+1042100301,133,4,0,1,8:08 PM,6:49,,,Stevens REBOUND (Off:1 Def:2),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,37,2,1,1,8:08 PM,6:35,,,MISS Stevens 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,38,4,0,1,8:08 PM,6:32,January REBOUND (Off:0 Def:1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,39,2,98,1,8:08 PM,6:19,MISS J. Jones 4' Cutting Layup Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,40,4,0,1,8:08 PM,6:17,B. Jones REBOUND (Off:1 Def:0),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,41,6,2,1,8:08 PM,6:16,,,Stevens S.FOUL (P1.T1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,43,3,11,1,8:09 PM,6:16,MISS B. Jones Free Throw 1 of 2,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,44,4,1,1,8:09 PM,6:16,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,45,3,12,1,8:09 PM,6:16,B. Jones Free Throw 2 of 2 (3 PTS),,,7 - 5,-2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,46,2,80,1,8:09 PM,6:02,,,MISS Parker 15' Step Back Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,47,4,0,1,8:09 PM,5:59,Bonner REBOUND (Off:0 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,48,2,1,1,8:10 PM,5:44,MISS J. Jones 13' Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,49,4,0,1,8:10 PM,5:42,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,50,2,1,1,8:10 PM,5:39,,,MISS Quigley 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,51,4,0,1,8:10 PM,5:38,J. Jones REBOUND (Off:0 Def:2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,52,1,41,1,8:10 PM,5:31,J. Jones 2' Running Layup (4 PTS),,,7 - 7,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,53,2,98,1,8:10 PM,5:09,Bonner BLOCK (1 BLK),,MISS Stevens 3' Cutting Layup Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1042100301,54,4,0,1,8:10 PM,5:08,,,Stevens REBOUND (Off:2 Def:2),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,55,1,72,1,8:10 PM,5:06,,,Stevens 5' Putback Layup (2 PTS),9 - 7,-2,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,56,5,1,1,8:10 PM,4:49,J. Thomas Bad Pass Turnover (P1.T1),,Parker STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,58,1,6,1,8:11 PM,4:42,,,Copper 1' Driving Layup (4 PTS) (Parker 3 AST),11 - 7,-4,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,59,2,1,1,8:11 PM,4:24,MISS Bonner 18' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,60,4,0,1,8:11 PM,4:22,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,61,1,6,1,8:11 PM,4:18,,,Vandersloot 2' Driving Layup (2 PTS),13 - 7,-6,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,63,9,1,1,8:11 PM,4:18,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,65,8,0,1,8:13 PM,4:18,SUB: A. Thomas FOR B. Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,67,2,66,1,8:14 PM,4:07,MISS A. Thomas 8' Jump Bank Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,68,4,0,1,8:14 PM,4:04,,,Parker REBOUND (Off:0 Def:1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,69,5,2,1,8:14 PM,3:56,A. Thomas STEAL (1 STL),,Quigley Lost Ball Turnover (P1.T1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,71,2,5,1,8:15 PM,3:47,MISS Bonner 6' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,72,4,0,1,8:15 PM,3:45,,,Vandersloot REBOUND (Off:0 Def:4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,73,6,1,1,8:15 PM,3:45,January P.FOUL (P2.T2),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,75,8,0,1,8:15 PM,3:45,SUB: Charles FOR January,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,77,1,79,1,8:15 PM,3:33,,,Parker 25' 3PT Pullup Jump Shot (6 PTS) (Stevens 2 AST),16 - 7,-9,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,79,1,66,1,8:16 PM,3:18,J. Jones 12' Jump Bank Shot (6 PTS),,,16 - 9,-7,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,81,1,1,1,8:16 PM,2:57,,,Quigley 24' 3PT Jump Shot (5 PTS) (Parker 4 AST),19 - 9,-10,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,83,1,47,1,8:16 PM,2:44,A. Thomas 7' Turnaround Jump Shot (2 PTS),,,19 - 11,-8,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,84,1,1,1,8:16 PM,2:33,,,Quigley 3PT Jump Shot (8 PTS) (Vandersloot 1 AST),22 - 11,-11,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,87,2,1,1,8:17 PM,2:19,MISS J. Thomas 25' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,88,4,0,1,8:17 PM,2:15,Charles REBOUND (Off:1 Def:0),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,89,1,72,1,8:17 PM,2:14,Charles 2' Putback Layup (2 PTS),,,22 - 13,-9,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,91,8,0,1,8:17 PM,2:07,SUB: Hiedeman FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,92,8,0,1,8:17 PM,2:07,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,95,8,0,1,8:17 PM,2:07,,,SUB: DeShields FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,97,2,6,1,8:18 PM,1:54,Hiedeman BLOCK (1 BLK),,MISS Vandersloot 5' Driving Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1
+1042100301,99,4,0,1,8:18 PM,1:53,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,101,5,45,1,8:18 PM,1:53,,,Vandersloot Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,102,2,6,1,8:18 PM,1:46,MISS Charles 2' Driving Layup,,Parker BLOCK (1 BLK),,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1
+1042100301,104,4,0,1,8:18 PM,1:45,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,106,8,0,1,8:18 PM,1:45,,,SUB: Evans FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,108,1,6,1,8:19 PM,1:27,,,Parker 2' Driving Layup (8 PTS) (Quigley 1 AST),24 - 13,-11,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,111,6,1,1,8:20 PM,1:19,,,Dolson P.FOUL (P1.T2),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,113,1,1,1,8:20 PM,1:10,J. Jones 25' 3PT Jump Shot (9 PTS) (Hiedeman 1 AST),,,24 - 16,-8,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,115,5,1,1,8:20 PM,0:53,J. Jones STEAL (1 STL),,DeShields Bad Pass Turnover (P1.T3),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,117,1,98,1,8:20 PM,0:49,Charles 4' Cutting Layup Shot (4 PTS) (J. Jones 2 AST),,,24 - 18,-6,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,119,6,1,1,8:21 PM,0:30,A. Thomas P.FOUL (P1.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,121,5,4,1,8:21 PM,0:27,,,Dolson Traveling Turnover (P1.T4),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,123,8,0,1,8:22 PM,0:07,,,SUB: Copper FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,128,6,2,1,8:23 PM,0:03,,,Dolson S.FOUL (P2.PN),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,130,18,0,1,8:23 PM,0:03,,Instant Replay1st Period (8:23 PM EST),,24 - 18,-6,0,128,David Benoit,,,,,0,0,,,,,,1,0,,,,,,0
+1042100301,134,3,13,1,8:25 PM,0:03,Hiedeman Free Throw 1 of 3 (1 PTS),,,24 - 19,-5,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,135,3,14,1,8:25 PM,0:03,Hiedeman Free Throw 2 of 3 (2 PTS),,,24 - 20,-4,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,136,3,15,1,8:25 PM,0:03,Hiedeman Free Throw 3 of 3 (3 PTS),,,24 - 21,-3,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,137,5,1,1,8:26 PM,0:00,Hiedeman STEAL (1 STL),,DeShields Bad Pass Turnover (P2.T5),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,139,13,0,1,8:26 PM,0:00,,End of 1st Period (8:26 PM EST),,24 - 21,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,150,12,0,2,8:29 PM,10:00,,Start of 2nd Period (8:29 PM EST),,24 - 21,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,151,5,4,2,8:29 PM,9:42,,,Ndour-Fall Traveling Turnover (P1.T6),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,152,2,86,2,8:30 PM,9:29,MISS Bonner 17' Turnaround Fadeaway Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,153,4,0,2,8:30 PM,9:24,J. Jones REBOUND (Off:1 Def:2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,154,2,5,2,8:30 PM,9:22,MISS A. Thomas 2' Layup,,Ndour-Fall BLOCK (1 BLK),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,1
+1042100301,156,4,0,2,8:30 PM,9:16,,,Ndour-Fall REBOUND (Off:0 Def:1),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,157,2,5,2,8:30 PM,9:12,J. Jones BLOCK (1 BLK),,MISS Copper 3' Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1042100301,159,4,0,2,8:30 PM,9:11,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,161,2,58,2,8:31 PM,8:56,MISS A. Thomas 5' Turnaround Hook Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,162,4,0,2,8:31 PM,8:49,Bonner REBOUND (Off:1 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,163,2,5,2,8:31 PM,8:48,MISS Bonner 2' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,164,4,0,2,8:31 PM,8:42,,,Dolson REBOUND (Off:0 Def:1),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,165,2,1,2,8:31 PM,8:40,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,166,4,0,2,8:31 PM,8:37,J. Jones REBOUND (Off:1 Def:3),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,167,1,98,2,8:31 PM,8:32,Bonner 2' Cutting Layup Shot (2 PTS) (J. Jones 3 AST),,,24 - 23,-1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,169,6,2,2,8:31 PM,8:32,,,Copper S.FOUL (P1.T1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,171,3,10,2,8:31 PM,8:32,MISS Bonner Free Throw 1 of 1,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,172,4,0,2,8:32 PM,8:29,,,Ndour-Fall REBOUND (Off:0 Def:2),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,173,1,98,2,8:32 PM,8:18,,,Dolson 1' Cutting Layup Shot (2 PTS) (Vandersloot 2 AST),26 - 23,-3,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,175,2,44,2,8:32 PM,8:05,MISS A. Thomas 2' Reverse Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,176,4,0,2,8:32 PM,8:03,,,Dolson REBOUND (Off:0 Def:2),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,177,6,2,2,8:32 PM,7:58,Hiedeman S.FOUL (P1.T1),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,179,3,11,2,8:32 PM,7:58,,,Vandersloot Free Throw 1 of 2 (3 PTS),27 - 23,-4,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,182,3,12,2,8:32 PM,7:58,,,Vandersloot Free Throw 2 of 2 (4 PTS),28 - 23,-5,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,180,8,0,2,8:32 PM,7:58,SUB: B. Jones FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,183,6,2,2,8:33 PM,7:45,,,Ndour-Fall S.FOUL (P1.T2),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,185,3,11,2,8:33 PM,7:45,B. Jones Free Throw 1 of 2 (4 PTS),,,28 - 24,-4,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,186,3,12,2,8:33 PM,7:45,MISS B. Jones Free Throw 2 of 2,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,187,4,0,2,8:33 PM,7:42,,,Ndour-Fall REBOUND (Off:0 Def:3),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,188,2,79,2,8:34 PM,7:28,,,MISS Ndour-Fall 12' Pullup Jump Shot,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,189,4,0,2,8:34 PM,7:26,J. Jones REBOUND (Off:1 Def:4),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,190,2,1,2,8:34 PM,7:22,MISS J. Jones 25' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,191,4,0,2,8:34 PM,7:21,,,Copper REBOUND (Off:1 Def:1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,192,1,98,2,8:34 PM,7:03,,,Ndour-Fall 3' Cutting Layup Shot (2 PTS) (Vandersloot 3 AST),30 - 24,-6,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,194,6,2,2,8:35 PM,6:44,,,Dolson S.FOUL (P3.T3),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,196,3,11,2,8:35 PM,6:44,B. Jones Free Throw 1 of 2 (5 PTS),,,30 - 25,-5,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,199,3,12,2,8:35 PM,6:44,MISS B. Jones Free Throw 2 of 2,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,197,8,0,2,8:35 PM,6:44,,,SUB: Parker FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,200,4,0,2,8:35 PM,6:43,B. Jones REBOUND (Off:2 Def:0),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,233,5,1,2,8:35 PM,6:39,Bonner Bad Pass Turnover (P1.T2),,Ndour-Fall STEAL (1 STL),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,203,2,79,2,8:36 PM,6:32,,,MISS Vandersloot 10' Pullup Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,204,4,0,2,8:36 PM,6:29,B. Jones REBOUND (Off:2 Def:1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,205,1,5,2,8:36 PM,6:06,B. Jones 3' Layup (7 PTS),,,30 - 27,-3,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,206,2,79,2,8:36 PM,5:52,,,MISS Copper 15' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,207,4,0,2,8:36 PM,5:50,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,208,6,3,2,8:37 PM,5:50,,,Ndour-Fall L.B.FOUL (P2.T4),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,210,9,4,2,8:37 PM,5:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,211,8,0,2,8:39 PM,5:50,,,SUB: Stevens FOR Ndour-Fall,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,213,1,1,2,8:40 PM,5:30,Bonner 25' 3PT Jump Shot (5 PTS) (Hiedeman 2 AST),,,30 - 30,TIE,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,215,1,6,2,8:40 PM,5:02,,,Stevens 3' Driving Layup (4 PTS) (Vandersloot 4 AST),32 - 30,-2,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,217,2,98,2,8:41 PM,4:47,MISS B. Jones 1' Cutting Layup Shot,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,218,4,0,2,8:41 PM,4:46,J. Jones REBOUND (Off:2 Def:4),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,254,2,5,2,8:41 PM,4:44,MISS J. Jones 4' Layup,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,255,4,0,2,8:41 PM,4:44,J. Jones REBOUND (Off:4 Def:4),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,252,2,5,2,8:41 PM,4:43,MISS J. Jones 6' Layup,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,253,4,0,2,8:41 PM,4:43,J. Jones REBOUND (Off:4 Def:4),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,219,1,72,2,8:41 PM,4:40,J. Jones 2' Putback Layup (11 PTS),,,32 - 32,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,220,2,98,2,8:41 PM,4:31,,,MISS Vandersloot 1' Cutting Layup Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,221,4,0,2,8:41 PM,4:29,B. Jones REBOUND (Off:2 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,222,2,78,2,8:41 PM,4:15,MISS Hiedeman 12' Floating Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,223,4,0,2,8:41 PM,4:12,,,Stevens REBOUND (Off:2 Def:3),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,224,1,75,2,8:41 PM,4:06,,,Vandersloot 2' Driving Finger Roll Layup (6 PTS) (Parker 5 AST),34 - 32,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,226,1,47,2,8:42 PM,3:40,J. Jones 15' Turnaround Jump Shot (13 PTS),,,34 - 34,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,227,2,1,2,8:42 PM,3:28,,,MISS Parker 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,228,4,0,2,8:42 PM,3:26,Bonner REBOUND (Off:1 Def:2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,229,1,75,2,8:42 PM,3:10,Bonner 2' Driving Finger Roll Layup (7 PTS),,,34 - 36,2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,230,6,2,2,8:42 PM,2:54,J. Jones S.FOUL (P1.T2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,232,9,1,2,8:43 PM,2:54,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,235,8,0,2,8:45 PM,2:54,SUB: J. Thomas FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,236,8,0,2,8:45 PM,2:54,SUB: A. Thomas FOR J. Jones,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,237,8,0,2,8:45 PM,2:54,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,241,3,11,2,8:46 PM,2:54,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,242,4,1,2,8:46 PM,2:54,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,243,3,12,2,8:46 PM,2:54,,,Copper Free Throw 2 of 2 (5 PTS),35 - 36,1,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,244,2,6,2,8:47 PM,2:39,MISS B. Jones 3' Driving Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,245,4,0,2,8:47 PM,2:37,B. Jones REBOUND (Off:3 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,246,1,72,2,8:47 PM,2:36,B. Jones 3' Putback Layup (9 PTS),,,35 - 38,3,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,248,5,1,2,8:47 PM,2:18,J. Thomas STEAL (1 STL),,Copper Bad Pass Turnover (P1.T7),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,250,1,41,2,8:47 PM,2:15,J. Thomas 1' Running Layup (2 PTS),,,35 - 40,5,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,251,9,1,2,8:48 PM,2:08,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,256,1,5,2,8:49 PM,1:57,,,Parker 3' Layup (10 PTS) (Vandersloot 5 AST),37 - 40,3,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,258,6,2,2,8:49 PM,1:57,B. Jones S.FOUL (P1.T3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,260,3,10,2,8:50 PM,1:57,,,Parker Free Throw 1 of 1 (11 PTS),38 - 40,2,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,261,1,43,2,8:50 PM,1:46,Bonner 2' Alley Oop Layup (9 PTS) (A. Thomas 1 AST),,,38 - 42,4,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,263,6,1,2,8:50 PM,1:36,Bonner P.FOUL (P1.PN),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,265,3,11,2,8:51 PM,1:36,,,Parker Free Throw 1 of 2 (12 PTS),39 - 42,3,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,266,3,12,2,8:51 PM,1:36,,,Parker Free Throw 2 of 2 (13 PTS),40 - 42,2,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,267,6,1,2,8:51 PM,1:18,,,Stevens P.FOUL (P2.PN),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,269,3,11,2,8:52 PM,1:18,January Free Throw 1 of 2 (1 PTS),,,40 - 43,3,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,270,3,12,2,8:52 PM,1:18,January Free Throw 2 of 2 (2 PTS),,,40 - 44,4,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,271,1,98,2,8:52 PM,0:58,,,DeShields 2' Cutting Layup Shot (2 PTS) (Vandersloot 6 AST),42 - 44,2,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,273,2,1,2,8:52 PM,0:53,MISS J. Thomas 25' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,274,4,0,2,8:52 PM,0:47,,,Vandersloot REBOUND (Off:0 Def:5),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,275,1,41,2,8:52 PM,0:46,,,DeShields 1' Running Layup (4 PTS) (Vandersloot 7 AST),44 - 44,TIE,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,277,9,1,2,8:53 PM,0:41,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,278,8,0,2,8:54 PM,0:41,SUB: J. Jones FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,280,1,98,2,8:55 PM,0:25,B. Jones 3' Cutting Layup Shot (11 PTS) (January 1 AST),,,44 - 46,2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,282,1,1,2,8:55 PM,0:01,,,DeShields 3PT Jump Shot (7 PTS) (Vandersloot 8 AST),47 - 46,-1,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,284,13,0,2,8:55 PM,0:00,,End of 2nd Period (8:55 PM EST),,47 - 46,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,287,12,0,3,9:12 PM,10:00,,Start of 3rd Period (9:12 PM EST),,47 - 46,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,288,5,2,3,9:12 PM,9:35,Bonner STEAL (1 STL),,Copper Lost Ball Turnover (P2.T8),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,290,2,3,3,9:12 PM,9:16,MISS J. Jones 4' Hook Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,291,4,0,3,9:12 PM,9:13,,,Parker REBOUND (Off:0 Def:2),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,292,2,1,3,9:13 PM,9:03,,,MISS Parker 24' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,293,4,0,3,9:13 PM,8:59,J. Thomas REBOUND (Off:1 Def:1),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,294,2,75,3,9:13 PM,8:53,MISS Bonner 4' Driving Finger Roll Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,295,4,0,3,9:13 PM,8:51,,,Stevens REBOUND (Off:2 Def:4),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,296,1,41,3,9:13 PM,8:46,,,Parker 2' Running Layup (15 PTS),49 - 46,-3,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,297,6,2,3,9:13 PM,8:33,,,Stevens S.FOUL (P3.T1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,299,3,11,3,9:14 PM,8:33,J. Jones Free Throw 1 of 2 (14 PTS),,,49 - 47,-2,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,300,3,12,3,9:14 PM,8:33,J. Jones Free Throw 2 of 2 (15 PTS),,,49 - 48,-1,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,301,1,1,3,9:14 PM,8:14,,,Stevens 12' Jump Shot (6 PTS) (Vandersloot 9 AST),51 - 48,-3,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,303,1,1,3,9:14 PM,8:01,J. Jones 3PT Jump Shot (18 PTS) (J. Thomas 1 AST),,,51 - 51,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,305,2,1,3,9:15 PM,7:50,,,MISS Stevens 25' 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,306,4,0,3,9:15 PM,7:45,Bonner REBOUND (Off:1 Def:3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,307,2,6,3,9:15 PM,7:29,MISS B. Jones 2' Driving Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,308,4,0,3,9:15 PM,7:27,,,Stevens REBOUND (Off:2 Def:5),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,309,6,1,3,9:15 PM,7:24,J. Jones P.FOUL (P2.T1),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,311,2,6,3,9:16 PM,7:08,,,MISS Parker 3' Driving Layup,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,312,4,0,3,9:16 PM,7:05,Bonner REBOUND (Off:1 Def:4),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,313,5,2,3,9:16 PM,6:59,Bonner Lost Ball Turnover (P2.T3),,Vandersloot STEAL (1 STL),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,315,2,1,3,9:16 PM,6:54,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,316,4,0,3,9:16 PM,6:51,Bonner REBOUND (Off:1 Def:5),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,317,6,2,3,9:16 PM,6:47,,,Quigley S.FOUL (P1.T2),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,319,3,11,3,9:17 PM,6:47,B. Jones Free Throw 1 of 2 (12 PTS),,,51 - 52,1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,320,3,12,3,9:17 PM,6:47,MISS B. Jones Free Throw 2 of 2,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,321,4,0,3,9:17 PM,6:43,,,Parker REBOUND (Off:0 Def:3),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,322,6,2,3,9:17 PM,6:28,January S.FOUL (P3.T2),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,324,3,11,3,9:17 PM,6:28,,,Quigley Free Throw 1 of 2 (9 PTS),52 - 52,TIE,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,325,3,12,3,9:18 PM,6:28,,,Quigley Free Throw 2 of 2 (10 PTS),53 - 52,-1,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,326,5,1,3,9:18 PM,6:14,January Bad Pass Turnover (P1.T4),,Stevens STEAL (1 STL),,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,328,1,41,3,9:18 PM,6:10,,,Stevens 3' Running Layup (8 PTS),55 - 52,-3,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,329,5,4,3,9:18 PM,5:54,J. Thomas Traveling Turnover (P2.T5),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042100301,330,2,47,3,9:19 PM,5:37,J. Jones BLOCK (2 BLK),,MISS Stevens 11' Turnaround Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1042100301,332,4,0,3,9:19 PM,5:33,B. Jones REBOUND (Off:3 Def:3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,333,2,1,3,9:19 PM,5:30,MISS Bonner 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,334,4,0,3,9:19 PM,5:30,,,Copper REBOUND (Off:1 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,335,2,73,3,9:19 PM,5:18,,,MISS Copper 3' Driving Reverse Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,336,4,0,3,9:19 PM,5:15,Bonner REBOUND (Off:1 Def:6),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,337,6,2,3,9:20 PM,5:05,,,Copper S.FOUL (P2.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,339,3,11,3,9:20 PM,5:05,J. Thomas Free Throw 1 of 2 (3 PTS),,,55 - 53,-2,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,344,3,12,3,9:20 PM,5:05,MISS J. Thomas Free Throw 2 of 2,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,340,8,0,3,9:20 PM,5:05,,,SUB: DeShields FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,342,8,0,3,9:20 PM,5:05,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,345,4,0,3,9:20 PM,5:03,J. Jones REBOUND (Off:5 Def:4),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,346,1,72,3,9:20 PM,5:02,J. Jones 2' Putback Layup (20 PTS),,,55 - 55,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,347,1,98,3,9:21 PM,4:44,,,Dolson 2' Cutting Layup Shot (4 PTS) (Vandersloot 10 AST),57 - 55,-2,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,349,6,1,3,9:21 PM,4:28,,,DeShields P.FOUL (P1.T4),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,351,9,4,3,9:21 PM,4:28,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,352,8,0,3,9:23 PM,4:28,SUB: Hiedeman FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,354,2,101,3,9:25 PM,4:20,MISS January 6' Driving Floating Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,355,4,0,3,9:25 PM,4:18,January REBOUND (Off:1 Def:1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,356,1,1,3,9:25 PM,4:16,Hiedeman 3PT Jump Shot (6 PTS) (January 2 AST),,,57 - 58,1,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,358,5,4,3,9:25 PM,3:49,,,Dolson Traveling Turnover (P2.T9),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,359,2,80,3,9:26 PM,3:27,MISS Bonner 24' 3PT Step Back Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,360,4,0,3,9:26 PM,3:26,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,362,8,0,3,9:26 PM,3:26,,,SUB: Ndour-Fall FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,363,8,0,3,9:26 PM,3:26,,,SUB: Copper FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,366,2,1,3,9:26 PM,3:11,,,MISS DeShields 25' 3PT Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,367,4,0,3,9:26 PM,3:11,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,368,6,3,3,9:26 PM,3:11,January L.B.FOUL (P4.T3),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,370,8,0,3,9:27 PM,3:11,SUB: J. Thomas FOR January,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,372,1,1,3,9:27 PM,2:57,,,Ndour-Fall 26' 3PT Jump Shot (5 PTS) (Vandersloot 11 AST),60 - 58,-2,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,374,2,6,3,9:27 PM,2:39,MISS Hiedeman 6' Driving Layup,,Vandersloot BLOCK (1 BLK),,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1
+1042100301,376,4,0,3,9:27 PM,2:38,Hiedeman REBOUND (Off:1 Def:0),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,419,5,40,3,9:27 PM,2:38,Hiedeman Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042100301,378,5,1,3,9:28 PM,2:22,B. Jones STEAL (1 STL),,DeShields Bad Pass Turnover (P3.T10),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,380,5,1,3,9:28 PM,2:11,B. Jones Bad Pass Turnover (P1.T7),,Vandersloot STEAL (2 STL),,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,382,2,6,3,9:28 PM,1:57,B. Jones BLOCK (1 BLK),,MISS DeShields 4' Driving Layup,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1042100301,384,4,0,3,9:28 PM,1:56,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,386,8,0,3,9:28 PM,1:56,SUB: A. Thomas FOR B. Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,388,2,79,3,9:29 PM,1:52,,,MISS DeShields 17' Pullup Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,389,4,0,3,9:29 PM,1:49,J. Jones REBOUND (Off:5 Def:5),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,390,1,6,3,9:29 PM,1:38,J. Jones 2' Driving Layup (22 PTS),,,60 - 60,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,391,1,79,3,9:29 PM,1:26,,,Vandersloot 12' Pullup Jump Shot (8 PTS),62 - 60,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,393,2,79,3,9:30 PM,1:07,MISS A. Thomas 9' Pullup Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,394,4,0,3,9:30 PM,1:05,,,Dolson REBOUND (Off:0 Def:3),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,395,1,47,3,9:30 PM,0:54,,,Vandersloot 13' Turnaround Jump Shot (10 PTS),64 - 60,-4,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,396,1,63,3,9:30 PM,0:34,Hiedeman 3PT Fadeaway Jumper (9 PTS) (J. Thomas 2 AST),,,64 - 63,-1,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,399,2,6,3,9:31 PM,0:25,,,MISS Vandersloot 2' Driving Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,400,4,0,3,9:31 PM,0:23,J. Jones REBOUND (Off:5 Def:6),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,401,5,1,3,9:31 PM,0:17,Bonner Bad Pass Turnover (P3.T8),,Vandersloot STEAL (3 STL),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,403,1,6,3,9:31 PM,0:11,,,Copper 2' Driving Layup (7 PTS) (Vandersloot 12 AST),66 - 63,-3,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,405,2,79,3,9:31 PM,0:01,MISS J. Thomas 17' Pullup Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,406,4,0,3,9:31 PM,0:01,,,Vandersloot REBOUND (Off:0 Def:6),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,407,13,0,3,9:31 PM,0:00,,End of 3rd Period (9:31 PM EST),,66 - 63,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,415,12,0,4,9:34 PM,10:00,,Start of 4th Period (9:34 PM EST),,66 - 63,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,416,6,2,4,9:35 PM,9:44,,,Copper S.FOUL (P3.T1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,418,3,11,4,9:35 PM,9:44,Bonner Free Throw 1 of 2 (10 PTS),,,66 - 64,-2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,420,3,12,4,9:35 PM,9:44,Bonner Free Throw 2 of 2 (11 PTS),,,66 - 65,-1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,421,5,45,4,9:36 PM,9:27,,,Evans Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,422,6,2,4,9:36 PM,9:10,,,Evans S.FOUL (P1.T2),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,424,3,11,4,9:37 PM,9:10,J. Thomas Free Throw 1 of 2 (4 PTS),,,66 - 66,TIE,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,425,3,12,4,9:37 PM,9:10,J. Thomas Free Throw 2 of 2 (5 PTS),,,66 - 67,1,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,426,6,2,4,9:37 PM,8:56,Charles S.FOUL (P1.T1),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,428,3,11,4,9:37 PM,8:56,,,Quigley Free Throw 1 of 2 (11 PTS),67 - 67,TIE,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,429,3,12,4,9:38 PM,8:56,,,Quigley Free Throw 2 of 2 (12 PTS),68 - 67,-1,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,430,6,1,4,9:38 PM,8:45,,,Copper P.FOUL (P4.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,432,8,0,4,9:38 PM,8:45,,,SUB: DeShields FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,434,2,47,4,9:39 PM,8:33,MISS J. Jones 18' Turnaround Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,435,4,0,4,9:39 PM,8:30,,,Ndour-Fall REBOUND (Off:0 Def:4),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,436,1,1,4,9:39 PM,8:10,,,Ndour-Fall 18' Jump Shot (7 PTS) (Dolson 1 AST),70 - 67,-3,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,438,2,1,4,9:39 PM,7:52,MISS J. Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,439,4,0,4,9:39 PM,7:50,A. Thomas REBOUND (Off:1 Def:0),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,440,2,72,4,9:39 PM,7:48,MISS A. Thomas 3' Putback Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,441,4,0,4,9:39 PM,7:48,Charles REBOUND (Off:2 Def:0),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,525,2,97,4,9:39 PM,7:48,MISS Charles 6' Tip Layup Shot,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,526,4,0,4,9:39 PM,7:48,,,Evans REBOUND (Off:0 Def:1),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,442,1,1,4,9:40 PM,7:30,,,Dolson 26' 3PT Jump Shot (7 PTS) (Quigley 2 AST),73 - 67,-6,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,444,9,1,4,9:40 PM,7:29,SUN Timeout: Regular (Full 3 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,445,8,0,4,9:41 PM,7:29,SUB: B. Jones FOR Charles,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,446,8,0,4,9:41 PM,7:29,SUB: January FOR J. Jones,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,449,6,1,4,9:43 PM,7:22,,,DeShields P.FOUL (P2.T4),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,451,1,98,4,9:44 PM,7:09,A. Thomas 2' Cutting Layup Shot (4 PTS) (B. Jones 1 AST),,,73 - 69,-4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,453,6,1,4,9:44 PM,6:53,January P.FOUL (P5.T2),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,455,5,2,4,9:45 PM,6:41,B. Jones STEAL (2 STL),,Dolson Lost Ball Turnover (P3.T12),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,457,2,78,4,9:45 PM,6:28,MISS January 14' Floating Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,458,4,0,4,9:45 PM,6:25,,,Evans REBOUND (Off:0 Def:2),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,459,5,1,4,9:45 PM,6:14,A. Thomas STEAL (2 STL),,Dolson Bad Pass Turnover (P4.T13),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,461,2,1,4,9:45 PM,6:09,MISS Bonner 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,462,4,0,4,9:45 PM,6:08,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,464,8,0,4,9:45 PM,6:08,,,SUB: Parker FOR Evans,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,465,8,0,4,9:45 PM,6:08,,,SUB: Vandersloot FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,468,1,98,4,9:46 PM,5:57,B. Jones 1' Cutting Layup Shot (14 PTS),,,73 - 71,-2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,470,1,44,4,9:46 PM,5:41,,,Quigley 2' Reverse Layup (14 PTS) (DeShields 1 AST),75 - 71,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,472,1,98,4,9:46 PM,5:25,A. Thomas 2' Cutting Layup Shot (6 PTS) (January 3 AST),,,75 - 73,-2,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,475,1,98,4,9:47 PM,5:06,,,Parker 2' Cutting Layup Shot (17 PTS) (Vandersloot 13 AST),77 - 73,-4,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,477,6,2,4,9:47 PM,5:06,A. Thomas S.FOUL (P2.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,479,3,10,4,9:47 PM,5:06,,,Parker Free Throw 1 of 1 (18 PTS),78 - 73,-5,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,480,2,101,4,9:47 PM,4:55,MISS A. Thomas 7' Driving Floating Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,481,4,0,4,9:48 PM,4:53,,,Ndour-Fall REBOUND (Off:0 Def:5),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,482,2,1,4,9:48 PM,4:43,,,MISS Quigley 25' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,483,4,0,4,9:48 PM,4:41,Bonner REBOUND (Off:1 Def:7),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,484,6,1,4,9:48 PM,4:35,,,DeShields P.FOUL (P3.PN),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,486,3,11,4,9:48 PM,4:35,January Free Throw 1 of 2 (3 PTS),,,78 - 74,-4,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,489,3,12,4,9:48 PM,4:35,January Free Throw 2 of 2 (4 PTS),,,78 - 75,-3,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,487,8,0,4,9:48 PM,4:35,SUB: J. Jones FOR B. Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,490,1,98,4,9:49 PM,4:18,,,DeShields 2' Cutting Layup Shot (9 PTS) (Parker 6 AST),80 - 75,-5,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,492,2,79,4,9:49 PM,4:02,MISS J. Jones 12' Pullup Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,493,4,0,4,9:49 PM,3:58,,,Parker REBOUND (Off:0 Def:4),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,494,5,2,4,9:50 PM,3:53,January STEAL (1 STL),,Parker Lost Ball Turnover (P1.T14),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,496,1,41,4,9:50 PM,3:49,January 2' Running Layup (6 PTS) (A. Thomas 2 AST),,,80 - 77,-3,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,498,1,5,4,9:50 PM,3:27,,,Ndour-Fall 3' Layup (9 PTS) (Vandersloot 14 AST),82 - 77,-5,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,539,2,98,4,9:50 PM,3:12,MISS A. Thomas 12' Cutting Layup Shot,,Vandersloot BLOCK (2 BLK),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1
+1042100301,541,4,0,4,9:50 PM,3:11,,,Vandersloot REBOUND (Off:0 Def:7),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,502,2,6,4,9:50 PM,3:06,,,MISS Parker 2' Driving Layup,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,503,4,0,4,9:50 PM,3:04,A. Thomas REBOUND (Off:1 Def:1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,504,6,1,4,9:51 PM,3:04,,,Ndour-Fall P.FOUL (P3.PN),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,506,3,11,4,9:51 PM,3:04,A. Thomas Free Throw 1 of 2 (7 PTS),,,82 - 78,-4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,509,3,12,4,9:51 PM,3:04,MISS A. Thomas Free Throw 2 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,507,8,0,4,9:51 PM,3:04,,,SUB: Copper FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,510,4,0,4,9:51 PM,3:01,,,Ndour-Fall REBOUND (Off:0 Def:6),,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,511,6,1,4,9:52 PM,2:45,A. Thomas P.FOUL (P3.T4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,513,9,1,4,9:52 PM,2:45,,,Sky Timeout: Regular (Reg.3 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,514,8,0,4,9:54 PM,2:45,SUB: B. Jones FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,516,2,6,4,9:55 PM,2:33,,,MISS Vandersloot 2' Driving Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,517,4,0,4,9:55 PM,2:30,B. Jones REBOUND (Off:3 Def:4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,519,1,6,4,9:56 PM,2:10,January 2' Driving Layup (8 PTS) (Bonner 2 AST),,,82 - 80,-2,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,521,6,2,4,9:56 PM,2:10,,,Quigley S.FOUL (P2.PN),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,523,3,10,4,9:57 PM,2:10,MISS January Free Throw 1 of 1,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,524,4,0,4,9:57 PM,2:05,,,Quigley REBOUND (Off:0 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,528,5,1,4,9:57 PM,1:44,B. Jones STEAL (3 STL),,Vandersloot Bad Pass Turnover (P2.T15),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,530,2,5,4,9:58 PM,1:29,MISS B. Jones 2' Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,531,4,0,4,9:58 PM,1:29,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,532,6,3,4,9:58 PM,1:29,,,Quigley L.B.FOUL (P3.PN),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,534,3,11,4,9:58 PM,1:29,J. Jones Free Throw 1 of 2 (23 PTS),,,82 - 81,-1,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,535,3,12,4,9:59 PM,1:29,J. Jones Free Throw 2 of 2 (24 PTS),,,82 - 82,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042100301,536,2,1,4,9:59 PM,1:12,,,MISS Ndour-Fall 25' 3PT Jump Shot,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,537,4,0,4,9:59 PM,1:09,Bonner REBOUND (Off:1 Def:8),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,538,9,2,4,9:59 PM,1:09,SUN Timeout: Short (Full 3 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,542,8,0,4,10:00 PM,1:09,,,SUB: Stevens FOR Ndour-Fall,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,544,5,2,4,10:00 PM,1:01,J. Jones Lost Ball Turnover (P1.T9),,Parker STEAL (2 STL),,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,547,9,1,4,10:01 PM,0:50,,,Sky Timeout: Regular (Reg.4 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,548,2,63,4,10:03 PM,0:38,,,MISS Parker 18' Fadeaway Jumper,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,549,4,0,4,10:03 PM,0:37,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,550,5,11,4,10:03 PM,0:37,,,Sky Turnover: Shot Clock (T#16),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100301,552,8,0,4,10:03 PM,0:37,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,554,2,98,4,10:04 PM,0:27,MISS B. Jones 2' Cutting Layup Shot,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,555,4,0,4,10:04 PM,0:25,B. Jones REBOUND (Off:4 Def:4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,556,1,72,4,10:04 PM,0:24,B. Jones 3' Putback Layup (16 PTS),,,82 - 84,2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,557,9,2,4,10:04 PM,0:24,,,Sky Timeout: Short (Reg.4 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,558,8,0,4,10:04 PM,0:24,,,SUB: Quigley FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,560,6,2,4,10:05 PM,0:19,Bonner S.FOUL (P2.PN),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,562,3,13,4,10:06 PM,0:19,,,MISS Copper Free Throw 1 of 3,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,563,4,1,4,10:06 PM,0:19,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,564,3,14,4,10:06 PM,0:19,,,Copper Free Throw 2 of 3 (8 PTS),83 - 84,1,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,565,8,0,4,10:06 PM,0:19,,,SUB: DeShields FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,566,8,0,4,10:06 PM,0:19,,,SUB: Ndour-Fall FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,569,3,15,4,10:07 PM,0:19,,,Copper Free Throw 3 of 3 (9 PTS),84 - 84,TIE,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,570,9,1,4,10:07 PM,0:19,SUN Timeout: Regular (Full 4 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,571,2,86,4,10:09 PM,0:00,MISS Bonner 13' Turnaround Fadeaway Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,572,4,0,4,10:09 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,573,13,0,4,10:09 PM,0:00,,End of 4th Period (10:09 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,576,12,0,5,10:11 PM,5:00,,Start of 1st OT (10:11 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,578,10,0,5,10:11 PM,5:00,Jump Ball J. Jones vs. Ndour-Fall: Tip to Copper,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1
+1042100301,581,2,1,5,10:12 PM,4:45,,,MISS Ndour-Fall 3PT Jump Shot,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,582,4,0,5,10:12 PM,4:43,,,Copper REBOUND (Off:2 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,583,1,1,5,10:12 PM,4:30,,,Quigley 25' 3PT Jump Shot (17 PTS),87 - 84,-3,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,584,5,1,5,10:12 PM,4:13,J. Thomas Bad Pass Turnover (P3.T10),,Vandersloot STEAL (4 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,586,2,79,5,10:12 PM,4:10,,,MISS Quigley 21' Pullup Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,587,4,0,5,10:12 PM,4:10,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,589,2,1,5,10:13 PM,3:53,MISS January 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,590,4,0,5,10:13 PM,3:50,,,Copper REBOUND (Off:2 Def:3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,591,5,40,5,10:13 PM,3:44,,,Copper Out of Bounds Lost Ball Turnover (P3.T17),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,592,1,47,5,10:13 PM,3:31,B. Jones 2' Turnaround Jump Shot (18 PTS) (J. Jones 4 AST),,,87 - 86,-1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,594,1,98,5,10:14 PM,3:15,,,Parker 2' Cutting Layup Shot (20 PTS) (Vandersloot 15 AST),89 - 86,-3,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,596,1,98,5,10:14 PM,2:57,J. Jones 2' Cutting Layup Shot (26 PTS) (January 4 AST),,,89 - 88,-1,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,598,2,1,5,10:14 PM,2:39,,,MISS Copper 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,599,4,0,5,10:14 PM,2:35,January REBOUND (Off:1 Def:2),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,600,2,1,5,10:14 PM,2:29,MISS J. Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,601,4,0,5,10:14 PM,2:28,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,603,2,101,5,10:15 PM,2:06,,,MISS Quigley 11' Driving Floating Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,604,4,0,5,10:15 PM,2:05,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,606,1,73,5,10:15 PM,1:50,B. Jones 1' Driving Reverse Layup (20 PTS),,,89 - 90,1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,607,2,6,5,10:16 PM,1:36,B. Jones BLOCK (2 BLK),,MISS Vandersloot 3' Driving Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1042100301,609,4,0,5,10:16 PM,1:36,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,611,2,6,5,10:16 PM,1:33,Bonner BLOCK (2 BLK),,MISS Copper 2' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1042100301,613,4,0,5,10:16 PM,1:28,B. Jones REBOUND (Off:4 Def:5),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,614,7,5,5,10:16 PM,1:20,,,Parker Violation:Kicked Ball,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1042100301,615,6,26,5,10:17 PM,1:06,Bonner Offensive Charge Foul (P3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,617,5,37,5,10:17 PM,1:06,Bonner Offensive Foul Turnover (P4.T11),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042100301,620,18,0,5,10:18 PM,0:56,,Instant Replay1st OT (10:18 PM EST),,89 - 90,1,0,619,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100301,621,1,98,5,10:20 PM,0:46,,,Copper 2' Cutting Layup Shot (11 PTS) (Vandersloot 16 AST),91 - 90,-1,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,623,9,2,5,10:20 PM,0:46,SUN Timeout: Short (Full 4 Short 2),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,624,8,0,5,10:20 PM,0:46,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,626,6,1,5,10:21 PM,0:38,,,Parker P.FOUL (P1.T1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,628,8,0,5,10:22 PM,0:38,,,SUB: Dolson FOR Ndour-Fall,,,5,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,630,6,1,5,10:23 PM,0:25,,,Parker P.FOUL (P2.PN),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042100301,632,3,11,5,10:23 PM,0:25,MISS January Free Throw 1 of 2,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,633,4,1,5,10:23 PM,0:25,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,634,3,12,5,10:24 PM,0:25,January Free Throw 2 of 2 (9 PTS),,,91 - 91,TIE,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,635,9,2,5,10:24 PM,0:25,,,Sky Timeout: Short (Reg.4 Short 2),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,636,8,0,5,10:24 PM,0:25,,,SUB: Quigley FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,638,5,2,5,10:25 PM,0:06,B. Jones STEAL (4 STL),,Vandersloot Lost Ball Turnover (P3.T18),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042100301,642,13,0,5,10:25 PM,0:00,,End of 1st OT (10:25 PM EST),,91 - 91,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100301,643,12,0,6,10:28 PM,5:00,,Start of 2nd OT (10:28 PM EST),,91 - 91,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,645,10,0,6,10:28 PM,5:00,Jump Ball J. Jones vs. Parker: Tip to J. Thomas,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042100301,649,1,6,6,10:28 PM,4:37,Bonner 2' Driving Layup (13 PTS),,,91 - 93,2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,650,5,45,6,10:29 PM,4:23,,,Copper Out of Bounds - Bad Pass Turnover Turnover (P4.T19),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,651,2,75,6,10:29 PM,4:07,MISS January 2' Driving Finger Roll Layup,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,652,4,0,6,10:29 PM,4:04,,,Quigley REBOUND (Off:0 Def:2),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,653,1,41,6,10:29 PM,4:00,,,Copper 4' Running Layup (13 PTS) (Quigley 3 AST),93 - 93,TIE,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,655,2,47,6,10:30 PM,3:38,MISS J. Jones 13' Turnaround Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,656,4,0,6,10:30 PM,3:35,,,Parker REBOUND (Off:0 Def:5),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,657,2,1,6,10:30 PM,3:23,,,MISS Copper 25' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,658,4,0,6,10:30 PM,3:20,January REBOUND (Off:1 Def:3),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,659,2,58,6,10:30 PM,3:06,MISS B. Jones 5' Turnaround Hook Shot,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,660,4,0,6,10:30 PM,3:04,,,Vandersloot REBOUND (Off:0 Def:8),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,661,2,101,6,10:30 PM,2:55,,,MISS Parker 10' Driving Floating Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,662,4,0,6,10:30 PM,2:54,Bonner REBOUND (Off:1 Def:9),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,663,9,2,6,10:30 PM,2:54,SUN Timeout: Short (Full 4 Short 3),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,664,2,6,6,10:32 PM,2:33,MISS Bonner 1' Driving Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,665,4,0,6,10:32 PM,2:28,,,Vandersloot REBOUND (Off:0 Def:9),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,666,1,98,6,10:32 PM,2:16,,,Parker 2' Cutting Layup Shot (22 PTS) (Vandersloot 17 AST),95 - 93,-2,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,668,2,1,6,10:32 PM,1:54,MISS J. Thomas 25' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,669,4,0,6,10:32 PM,1:54,,,Dolson REBOUND (Off:0 Def:4),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,670,1,98,6,10:33 PM,1:29,,,Dolson 3' Cutting Layup Shot (9 PTS) (Vandersloot 18 AST),97 - 93,-4,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100301,672,5,45,6,10:33 PM,1:13,J. Thomas Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042100301,674,18,1,6,10:34 PM,0:52,,Instant Replay2nd OT (10:34 PM EST),,97 - 93,-4,0,673,Alan Henderson,,,,,0,0,,,,,,1,0,,,,,,0
+1042100301,675,5,40,6,10:36 PM,0:52,,,Vandersloot Out of Bounds Lost Ball Turnover (P4.T20),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100301,676,8,0,6,10:36 PM,0:52,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,678,2,79,6,10:37 PM,0:31,MISS B. Jones 14' Pullup Jump Shot,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,679,4,0,6,10:37 PM,0:27,,,Dolson REBOUND (Off:0 Def:5),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,680,6,28,6,10:37 PM,0:22,January Personal Take Foul (P6.T1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,682,8,0,6,10:37 PM,0:22,SUB: Hiedeman FOR January,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,684,6,28,6,10:38 PM,0:21,Hiedeman Personal Take Foul (P2.PN),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,686,3,11,6,10:38 PM,0:21,,,MISS Vandersloot Free Throw 1 of 2,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,687,4,1,6,10:38 PM,0:21,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,688,3,12,6,10:38 PM,0:21,,,Vandersloot Free Throw 2 of 2 (11 PTS),98 - 93,-5,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,689,9,1,6,10:38 PM,0:21,SUN Timeout: Regular (Full 5 Short 3),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,690,2,1,6,10:40 PM,0:18,MISS Hiedeman 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,691,4,0,6,10:40 PM,0:14,B. Jones REBOUND (Off:5 Def:5),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,692,1,1,6,10:40 PM,0:13,B. Jones 8' Jump Shot (22 PTS),,,98 - 95,-3,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,693,9,2,6,10:40 PM,0:13,,,Sky Timeout: Short (Reg.4 Short 3),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,694,8,0,6,10:41 PM,0:13,SUB: A. Thomas FOR J. Jones,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,695,8,0,6,10:41 PM,0:13,,,SUB: Quigley FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,698,6,28,6,10:41 PM,0:12,J. Thomas Personal Take Foul (P1.PN),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,700,3,11,6,10:42 PM,0:12,,,Quigley Free Throw 1 of 2 (18 PTS),99 - 95,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,701,8,0,6,10:42 PM,0:12,SUB: J. Jones FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042100301,703,3,12,6,10:42 PM,0:12,,,Quigley Free Throw 2 of 2 (19 PTS),100 - 95,-5,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,704,9,2,6,10:42 PM,0:12,SUN Timeout: Short (Full 5 Short 4),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,705,8,0,6,10:43 PM,0:12,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100301,707,2,101,6,10:43 PM,0:08,MISS Hiedeman 11' Driving Floating Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,708,4,0,6,10:43 PM,0:07,,,Vandersloot REBOUND (Off:0 Def:10),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,710,6,28,6,10:43 PM,0:07,J. Thomas Personal Take Foul (P2.PN),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100301,712,3,11,6,10:44 PM,0:07,,,MISS Vandersloot Free Throw 1 of 2,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100301,713,4,1,6,10:44 PM,0:07,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,714,3,12,6,10:44 PM,0:07,,,Vandersloot Free Throw 2 of 2 (12 PTS),101 - 95,-6,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100301,715,2,79,6,10:44 PM,0:00,MISS J. Thomas 3PT Pullup Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042100301,716,4,0,6,10:44 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100301,717,13,0,6,10:44 PM,0:00,,End of 2nd OT (10:44 PM EST),,101 - 95,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

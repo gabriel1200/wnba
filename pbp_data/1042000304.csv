@@ -1,0 +1,354 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042000304,2,12,0,1,1:04 PM,10:00,,Start of 1st Period (1:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,4,10,0,1,1:04 PM,10:00,Jump Ball Jones vs. Swords: Tip to J. Thomas,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042000304,7,1,1,1,1:04 PM,9:41,Bonner 3PT Jump Shot (3 PTS),,,0 - 3,3,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,8,1,5,1,1:04 PM,9:25,,,Swords 2' Layup (2 PTS) (McCoughtry 1 AST),2 - 3,1,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,11,2,1,1,1:05 PM,9:09,MISS Bonner 20' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,12,4,0,1,1:05 PM,9:06,,,McCoughtry REBOUND (Off:0 Def:1),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,13,1,1,1,1:05 PM,8:57,,,Wilson 5' Jump Shot (2 PTS) (McCoughtry 2 AST),4 - 3,-1,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,15,5,45,1,1:05 PM,8:41,J. Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042000304,16,5,1,1,1:06 PM,8:33,J. Thomas STEAL (1 STL),,Robinson Bad Pass Turnover (P1.T1),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,18,1,5,1,1:06 PM,8:30,J. Thomas 2' Layup (2 PTS),,,4 - 5,1,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,19,2,79,1,1:06 PM,8:09,,,MISS Robinson 17' Pullup Jump Shot,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,20,4,0,1,1:06 PM,8:05,Bonner REBOUND (Off:0 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,23,2,1,1,1:07 PM,7:49,MISS J. Thomas 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,24,4,0,1,1:07 PM,7:46,A. Thomas REBOUND (Off:1 Def:0),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,25,2,1,1,1:07 PM,7:45,MISS January 25' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,26,4,0,1,1:07 PM,7:42,,,Swords REBOUND (Off:0 Def:1),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,27,1,1,1,1:07 PM,7:29,,,Wilson 14' Jump Shot (4 PTS) (Swords 1 AST),6 - 5,-1,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,29,2,5,1,1:07 PM,7:15,MISS A. Thomas 4' Layup,,Swords BLOCK (1 BLK),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,1
+1042000304,31,4,0,1,1:07 PM,7:15,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,32,5,2,1,1:08 PM,7:09,Bonner Lost Ball Turnover (P1.T2),,McCoughtry STEAL (1 STL),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,34,6,1,1,1:08 PM,7:08,A. Thomas P.FOUL (P1.T1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,36,1,1,1,1:08 PM,7:01,,,McBride 18' Jump Shot (2 PTS) (Robinson 1 AST),8 - 5,-3,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,38,1,1,1,1:09 PM,6:43,January 18' Jump Shot (2 PTS),,,8 - 7,-1,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,39,2,1,1,1:09 PM,6:26,,,MISS McCoughtry 12' Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,40,4,0,1,1:09 PM,6:25,January REBOUND (Off:0 Def:1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,41,6,2,1,1:09 PM,6:22,,,McCoughtry S.FOUL (P1.T1),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,43,3,11,1,1:09 PM,6:22,Jones Free Throw 1 of 2 (1 PTS),,,8 - 8,TIE,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,44,3,12,1,1:10 PM,6:22,Jones Free Throw 2 of 2 (2 PTS),,,8 - 9,1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,45,6,2,1,1:10 PM,6:13,J. Thomas S.FOUL (P1.T2),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,47,3,11,1,1:10 PM,6:13,,,Robinson Free Throw 1 of 2 (1 PTS),9 - 9,TIE,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,48,3,12,1,1:10 PM,6:13,,,Robinson Free Throw 2 of 2 (2 PTS),10 - 9,-1,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,49,2,1,1,1:11 PM,5:58,MISS Bonner 24' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,50,4,0,1,1:11 PM,5:55,,,McCoughtry REBOUND (Off:0 Def:2),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,51,6,2,1,1:11 PM,5:43,A. Thomas S.FOUL (P2.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,53,3,11,1,1:11 PM,5:43,,,Wilson Free Throw 1 of 2 (5 PTS),11 - 9,-2,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,54,3,12,1,1:12 PM,5:43,,,Wilson Free Throw 2 of 2 (6 PTS),12 - 9,-3,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,55,6,11,1,1:12 PM,5:43,A. Thomas T.FOUL (P2.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042000304,56,3,16,1,1:12 PM,5:43,,,McBride Free Throw Technical (3 PTS),13 - 9,-4,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,58,1,1,1,1:13 PM,5:18,J. Thomas 3PT Jump Shot (5 PTS) (Bonner 1 AST),,,13 - 12,-1,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,60,5,2,1,1:13 PM,5:01,Jones STEAL (1 STL),,Wilson Lost Ball Turnover (P1.T2),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,62,2,1,1,1:13 PM,4:56,MISS J. Thomas 24' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,63,4,0,1,1:14 PM,4:50,Bonner REBOUND (Off:1 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,64,2,72,1,1:14 PM,4:50,MISS Bonner 1' Putback Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,65,4,0,1,1:14 PM,4:49,,,McCoughtry REBOUND (Off:0 Def:3),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,66,1,6,1,1:14 PM,4:46,,,McCoughtry 3' Driving Layup (2 PTS),15 - 12,-3,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,68,1,1,1,1:14 PM,4:21,January 24' 3PT Jump Shot (5 PTS) (J. Thomas 1 AST),,,15 - 15,TIE,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,70,2,1,1,1:14 PM,4:02,,,MISS McBride 12' Jump Shot,,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,71,4,0,1,1:14 PM,4:00,Bonner REBOUND (Off:1 Def:2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,72,1,5,1,1:15 PM,3:50,Jones 4' Layup (4 PTS) (J. Thomas 2 AST),,,15 - 17,2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,74,2,79,1,1:15 PM,3:30,,,MISS McCoughtry 19' Pullup Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,75,4,0,1,1:15 PM,3:29,A. Thomas REBOUND (Off:1 Def:1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,77,2,1,1,1:15 PM,3:20,MISS January 19' Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,78,4,0,1,1:15 PM,3:17,,,Wilson REBOUND (Off:0 Def:1),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,79,1,79,1,1:15 PM,3:03,,,Robinson 18' Pullup Jump Shot (4 PTS),17 - 17,TIE,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,80,2,1,1,1:16 PM,2:41,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,81,4,0,1,1:16 PM,2:37,,,Swords REBOUND (Off:0 Def:2),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,82,5,1,1,1:16 PM,2:25,Jones STEAL (2 STL),,McCoughtry Bad Pass Turnover (P1.T3),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,84,1,5,1,1:16 PM,2:20,Bonner 2' Layup (5 PTS) (J. Thomas 3 AST),,,17 - 19,2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,87,1,99,1,1:17 PM,2:04,,,McCoughtry 3' Cutting Finger Roll Layup Shot (4 PTS) (Wilson 1 AST),19 - 19,TIE,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,89,1,79,1,1:17 PM,1:52,Bonner 25' 3PT Pullup Jump Shot (8 PTS) (A. Thomas 1 AST),,,19 - 22,3,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,91,1,1,1,1:17 PM,1:43,,,Wilson 8' Jump Shot (8 PTS) (McBride 1 AST),21 - 22,1,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,93,6,2,1,1:17 PM,1:43,Jones S.FOUL (P1.T4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,95,9,4,1,1:18 PM,1:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,96,8,0,1,1:19 PM,1:43,SUB: Hiedeman FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,97,8,0,1,1:19 PM,1:43,SUB: Charles FOR January,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,98,8,0,1,1:19 PM,1:43,,,SUB: Cannon FOR Swords,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,99,8,0,1,1:19 PM,1:43,,,SUB: Rodgers FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,100,8,0,1,1:19 PM,1:43,,,SUB: Young FOR McBride,,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,106,3,10,1,1:21 PM,1:43,,,Wilson Free Throw 1 of 1 (9 PTS),22 - 22,TIE,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,107,5,45,1,1:21 PM,1:30,Bonner Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042000304,108,2,101,1,1:21 PM,1:10,,,MISS Robinson 11' Driving Floating Jump Shot,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,109,4,0,1,1:21 PM,1:10,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,110,5,1,1,1:22 PM,1:00,Charles Bad Pass Turnover (P1.T4),,Robinson STEAL (1 STL),,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,112,2,1,1,1:22 PM,0:51,,,MISS Young 15' Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,113,4,0,1,1:22 PM,0:49,Bonner REBOUND (Off:1 Def:3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,114,6,1,1,1:22 PM,0:35,,,Cannon P.FOUL (P1.T2),,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,116,5,45,1,1:23 PM,0:31,Hiedeman Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042000304,117,5,8,1,1:23 PM,0:09,,,Cannon 3 Second Violation Turnover (P1.T4),,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042000304,118,1,78,1,1:24 PM,0:02,A. Thomas 10' Floating Jump Shot (2 PTS) (Hiedeman 1 AST),,,22 - 24,2,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,120,2,103,1,1:24 PM,0:00,,,MISS Rodgers 40' 3PT Running Pull-Up Jump Shot,,,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,121,4,0,1,1:24 PM,0:00,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,122,13,0,1,1:24 PM,0:00,,End of 1st Period (1:24 PM EST),,22 - 24,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000304,129,12,0,2,1:27 PM,10:00,,Start of 2nd Period (1:27 PM EST),,22 - 24,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,130,2,79,2,1:27 PM,9:39,,,MISS Wilson 21' Pullup Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,131,4,0,2,1:27 PM,9:36,Bonner REBOUND (Off:1 Def:4),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,132,5,4,2,1:28 PM,9:20,A. Thomas Traveling Turnover (P1.T6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042000304,133,6,1,2,1:28 PM,9:04,Mompremier P.FOUL (P1.T1),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,135,2,5,2,1:29 PM,8:53,,,MISS Young 6' Layup,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,136,4,0,2,1:29 PM,8:51,Bonner REBOUND (Off:1 Def:5),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,137,2,1,2,1:29 PM,8:36,MISS Mompremier 8' Jump Shot,,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,138,4,0,2,1:29 PM,8:34,Bonner REBOUND (Off:2 Def:5),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,139,6,1,2,1:29 PM,8:34,,,Young P.FOUL (P1.T1),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,141,2,1,2,1:29 PM,8:28,MISS Bonner 18' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,142,4,0,2,1:30 PM,8:24,,,Swords REBOUND (Off:0 Def:3),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,143,2,79,2,1:30 PM,8:12,,,MISS Young 16' Pullup Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,144,4,0,2,1:30 PM,8:11,Bonner REBOUND (Off:2 Def:6),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,145,1,78,2,1:30 PM,8:00,A. Thomas 15' Floating Jump Shot (4 PTS) (Charles 1 AST),,,22 - 26,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,147,2,1,2,1:30 PM,7:37,,,MISS McBride 25' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,148,4,0,2,1:30 PM,7:34,Mompremier REBOUND (Off:0 Def:1),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,149,6,2,2,1:31 PM,7:13,,,Swords S.FOUL (P1.T2),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,151,3,11,2,1:31 PM,7:13,Mompremier Free Throw 1 of 2 (1 PTS),,,22 - 27,5,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,152,8,0,2,1:31 PM,7:13,SUB: January FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,153,8,0,2,1:31 PM,7:13,SUB: J. Thomas FOR Charles,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,154,8,0,2,1:31 PM,7:13,,,SUB: McCoughtry FOR Young,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,155,8,0,2,1:31 PM,7:13,,,SUB: Robinson FOR Rodgers,,,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,160,3,12,2,1:31 PM,7:13,Mompremier Free Throw 2 of 2 (2 PTS),,,22 - 28,6,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,162,2,1,2,1:32 PM,6:58,,,MISS Wilson 12' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,163,4,0,2,1:32 PM,6:56,,,Robinson REBOUND (Off:1 Def:0),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,164,2,1,2,1:32 PM,6:53,,,MISS McCoughtry 25' 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,165,4,0,2,1:32 PM,6:53,Bonner REBOUND (Off:2 Def:7),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,166,2,6,2,1:32 PM,6:42,MISS Bonner 3' Driving Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,167,4,0,2,1:32 PM,6:40,,,Swords REBOUND (Off:0 Def:4),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,168,1,5,2,1:32 PM,6:37,,,Robinson 3' Layup (6 PTS),24 - 28,4,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,169,6,2,2,1:32 PM,6:15,,,Swords S.FOUL (P2.T3),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,171,3,11,2,1:33 PM,6:15,MISS J. Thomas Free Throw 1 of 2,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,172,4,1,2,1:33 PM,6:15,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,173,8,0,2,1:33 PM,6:15,SUB: Jones FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,174,8,0,2,1:33 PM,6:15,,,SUB: Cannon FOR Swords,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,177,3,12,2,1:33 PM,6:15,J. Thomas Free Throw 2 of 2 (6 PTS),,,24 - 29,5,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,178,5,2,2,1:33 PM,6:03,J. Thomas STEAL (2 STL),,Robinson Lost Ball Turnover (P2.T5),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,180,1,5,2,1:33 PM,5:57,January 4' Layup (7 PTS) (Bonner 2 AST),,,24 - 31,7,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,182,1,5,2,1:34 PM,5:43,,,McCoughtry 3' Layup (6 PTS) (Cannon 1 AST),26 - 31,5,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,184,6,1,2,1:34 PM,5:26,,,Cannon P.FOUL (P2.T4),,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,186,9,1,2,1:34 PM,5:26,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,187,2,1,2,1:37 PM,5:10,MISS Bonner 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,188,4,0,2,1:37 PM,5:07,Mompremier REBOUND (Off:1 Def:1),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,189,2,72,2,1:37 PM,5:07,MISS Mompremier 1' Putback Layup,,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,190,4,0,2,1:37 PM,5:05,Jones REBOUND (Off:1 Def:0),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,191,2,72,2,1:37 PM,5:05,MISS Jones 1' Putback Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,192,4,0,2,1:37 PM,5:05,,,Robinson REBOUND (Off:1 Def:1),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,193,2,1,2,1:38 PM,4:50,,,MISS McCoughtry 21' Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,194,4,0,2,1:38 PM,4:47,Bonner REBOUND (Off:2 Def:8),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,195,2,5,2,1:38 PM,4:28,MISS January 7' Layup,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,196,4,0,2,1:38 PM,4:27,,,Robinson REBOUND (Off:1 Def:2),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,197,1,1,2,1:38 PM,4:24,,,McBride 18' Jump Shot (5 PTS) (Robinson 2 AST),28 - 31,3,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,199,2,1,2,1:38 PM,4:07,MISS J. Thomas 15' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,200,4,0,2,1:38 PM,4:07,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,201,8,0,2,1:38 PM,4:07,SUB: A. Thomas FOR Mompremier,,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,203,2,1,2,1:39 PM,3:52,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,205,1,72,2,1:39 PM,3:45,,,McCoughtry 1' Putback Layup (8 PTS),30 - 31,1,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,204,4,0,2,1:39 PM,3:45,,,McCoughtry REBOUND (Off:1 Def:3),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,206,5,4,2,1:39 PM,3:33,J. Thomas Traveling Turnover (P2.T7),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042000304,207,6,2,2,1:40 PM,3:19,Jones S.FOUL (P2.T2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,209,3,11,2,1:40 PM,3:19,,,MISS Wilson Free Throw 1 of 2,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,210,4,1,2,1:40 PM,3:19,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,211,3,12,2,1:40 PM,3:19,,,Wilson Free Throw 2 of 2 (10 PTS),31 - 31,TIE,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,213,6,1,2,1:41 PM,2:56,,,Robinson P.FOUL (P1.PN),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,215,9,1,2,1:41 PM,2:56,,,Aces Timeout: Regular (Reg.1 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,216,3,11,2,1:44 PM,2:56,Bonner Free Throw 1 of 2 (9 PTS),,,31 - 32,1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,217,3,12,2,1:44 PM,2:56,Bonner Free Throw 2 of 2 (10 PTS),,,31 - 33,2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,218,2,6,2,1:44 PM,2:39,,,MISS Cannon 4' Driving Layup,,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,219,4,0,2,1:45 PM,2:37,Bonner REBOUND (Off:2 Def:9),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,220,1,1,2,1:45 PM,2:21,J. Thomas 24' 3PT Jump Shot (9 PTS) (Jones 1 AST),,,31 - 36,5,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,222,1,1,2,1:45 PM,2:05,,,McCoughtry 18' Jump Shot (10 PTS) (Robinson 3 AST),33 - 36,3,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,224,2,1,2,1:45 PM,1:51,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,225,4,0,2,1:45 PM,1:48,,,Wilson REBOUND (Off:0 Def:2),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,226,6,1,2,1:46 PM,1:36,January P.FOUL (P1.T3),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,228,2,5,2,1:46 PM,1:26,Bonner BLOCK (1 BLK),,MISS McCoughtry 7' Layup,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1042000304,230,4,0,2,1:46 PM,1:22,,,McCoughtry REBOUND (Off:2 Def:3),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,231,1,5,2,1:46 PM,1:21,,,Wilson 5' Layup (12 PTS) (McCoughtry 3 AST),35 - 36,1,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,233,2,1,2,1:46 PM,1:03,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,234,4,0,2,1:46 PM,1:02,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,235,6,3,2,1:47 PM,1:02,Jones L.B.FOUL (P3.PN),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,237,3,11,2,1:47 PM,1:02,,,Robinson Free Throw 1 of 2 (7 PTS),36 - 36,TIE,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,238,3,12,2,1:47 PM,1:02,,,Robinson Free Throw 2 of 2 (8 PTS),37 - 36,-1,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,239,2,6,2,1:48 PM,0:48,MISS January 3' Driving Layup,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,240,4,0,2,1:48 PM,0:46,,,Wilson REBOUND (Off:0 Def:3),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,241,2,1,2,1:48 PM,0:34,,,MISS McBride 25' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,242,4,0,2,1:48 PM,0:31,Bonner REBOUND (Off:2 Def:10),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,243,1,6,2,1:48 PM,0:23,A. Thomas 4' Driving Layup (6 PTS),,,37 - 38,1,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,244,6,2,2,1:48 PM,0:23,,,Cannon S.FOUL (P3.PN),,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,246,8,0,2,1:48 PM,0:23,,,SUB: Rodgers FOR Cannon,,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,248,3,10,2,1:49 PM,0:23,MISS A. Thomas Free Throw 1 of 1,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,249,4,0,2,1:49 PM,0:23,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,250,9,1,2,1:49 PM,0:23,,,Aces Timeout: Regular (Reg.2 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,251,8,0,2,1:50 PM,0:23,SUB: Mompremier FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,253,7,1,2,1:51 PM,0:23,,,Aces Violation: Delay of game Violation,,,3,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000304,254,2,79,2,1:51 PM,0:00,,,MISS McCoughtry 11' Pullup Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,255,4,0,2,1:51 PM,0:00,A. Thomas REBOUND (Off:1 Def:2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,256,13,0,2,1:51 PM,0:00,,End of 2nd Period (1:51 PM EST),,37 - 38,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000304,261,12,0,3,2:07 PM,10:00,,Start of 3rd Period (2:07 PM EST),,37 - 38,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,262,1,99,3,2:07 PM,9:51,,,McBride 3' Cutting Finger Roll Layup Shot (7 PTS) (McCoughtry 4 AST),39 - 38,-1,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,264,5,2,3,2:08 PM,9:35,A. Thomas Lost Ball Turnover (P2.T8),,McCoughtry STEAL (2 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,266,1,5,3,2:08 PM,9:30,,,McCoughtry 2' Layup (12 PTS),41 - 38,-3,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,267,1,1,3,2:08 PM,9:08,Jones 19' Jump Shot (6 PTS) (Bonner 3 AST),,,41 - 40,-1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,269,2,79,3,2:09 PM,8:50,,,MISS Robinson 17' Pullup Jump Shot,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,270,4,0,3,2:09 PM,8:47,Bonner REBOUND (Off:2 Def:11),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,271,2,1,3,2:09 PM,8:35,MISS Bonner 15' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,272,4,0,3,2:09 PM,8:35,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,273,1,1,3,2:09 PM,8:24,,,McCoughtry 16' Jump Shot (14 PTS) (Robinson 4 AST),43 - 40,-3,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,276,2,44,3,2:10 PM,8:00,MISS Jones 3' Reverse Layup,,Swords BLOCK (2 BLK),,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,1
+1042000304,278,4,0,3,2:10 PM,7:57,,,Wilson REBOUND (Off:0 Def:4),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,279,1,5,3,2:10 PM,7:45,,,McCoughtry 2' Layup (16 PTS) (Wilson 2 AST),45 - 40,-5,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,281,6,2,3,2:10 PM,7:30,,,Swords S.FOUL (P3.T1),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,283,3,11,3,2:11 PM,7:30,A. Thomas Free Throw 1 of 2 (7 PTS),,,45 - 41,-4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,284,3,12,3,2:11 PM,7:30,A. Thomas Free Throw 2 of 2 (8 PTS),,,45 - 42,-3,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,285,1,1,3,2:11 PM,7:15,,,Swords 14' Jump Shot (4 PTS) (McCoughtry 5 AST),47 - 42,-5,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,287,2,1,3,2:12 PM,6:57,MISS January 19' Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,288,4,0,3,2:12 PM,6:55,,,McBride REBOUND (Off:0 Def:1),,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,289,10,0,3,2:12 PM,6:43,Jump Ball A. Thomas vs. Wilson: Tip to McCoughtry,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,1
+1042000304,292,6,2,3,2:12 PM,6:42,Jones S.FOUL (P4.T1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,294,3,11,3,2:13 PM,6:42,,,McCoughtry Free Throw 1 of 2 (17 PTS),48 - 42,-6,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,295,3,12,3,2:13 PM,6:42,,,MISS McCoughtry Free Throw 2 of 2,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,296,4,0,3,2:13 PM,6:40,A. Thomas REBOUND (Off:1 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,297,1,79,3,2:13 PM,6:25,J. Thomas 16' Pullup Jump Shot (11 PTS),,,48 - 44,-4,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,298,5,45,3,2:13 PM,6:12,,,Robinson Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042000304,299,8,0,3,2:14 PM,6:12,SUB: Mompremier FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,301,2,1,3,2:14 PM,6:00,MISS A. Thomas 13' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,302,4,0,3,2:14 PM,5:56,,,Wilson REBOUND (Off:0 Def:5),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,303,1,1,3,2:14 PM,5:43,,,McCoughtry 25' 3PT Jump Shot (20 PTS) (Wilson 3 AST),51 - 44,-7,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,305,5,2,3,2:14 PM,5:30,January Lost Ball Turnover (P1.T9),,McCoughtry STEAL (3 STL),,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,307,1,5,3,2:14 PM,5:26,,,McCoughtry 3' Layup (22 PTS),53 - 44,-9,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,309,9,1,3,2:16 PM,5:26,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,310,1,1,3,2:18 PM,5:13,J. Thomas 20' Jump Shot (13 PTS) (A. Thomas 2 AST),,,53 - 46,-7,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,312,1,1,3,2:18 PM,4:57,,,McCoughtry 11' Jump Shot (24 PTS),55 - 46,-9,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,314,5,2,3,2:19 PM,4:33,A. Thomas Lost Ball Turnover (P3.T10),,Robinson STEAL (2 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,316,2,98,3,2:19 PM,4:24,,,MISS Swords 3' Cutting Layup Shot,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,317,4,0,3,2:19 PM,4:22,Mompremier REBOUND (Off:1 Def:2),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,318,2,1,3,2:19 PM,4:18,MISS January 18' Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,319,4,0,3,2:19 PM,4:16,A. Thomas REBOUND (Off:2 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,320,2,1,3,2:19 PM,4:11,MISS Bonner 25' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,321,4,0,3,2:19 PM,4:10,,,Wilson REBOUND (Off:0 Def:6),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,322,1,79,3,2:19 PM,3:56,,,Robinson 18' Pullup Jump Shot (10 PTS),57 - 46,-11,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,323,2,1,3,2:20 PM,3:36,MISS J. Thomas 25' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,324,4,0,3,2:20 PM,3:35,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,325,6,3,3,2:20 PM,3:35,,,McBride L.B.FOUL (P1.T2),,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,327,8,0,3,2:20 PM,3:35,,,SUB: Cannon FOR Swords,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,329,1,1,3,2:20 PM,3:24,J. Thomas 27' 3PT Jump Shot (16 PTS) (January 1 AST),,,57 - 49,-8,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,331,1,1,3,2:21 PM,3:01,,,McCoughtry 14' Jump Shot (26 PTS),59 - 49,-10,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,333,2,1,3,2:21 PM,2:43,MISS J. Thomas 25' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,334,4,0,3,2:21 PM,2:40,,,Wilson REBOUND (Off:0 Def:7),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,335,1,5,3,2:21 PM,2:34,,,Cannon 3' Layup (2 PTS) (McCoughtry 6 AST),61 - 49,-12,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,337,2,5,3,2:21 PM,2:15,MISS A. Thomas 9' Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,338,4,0,3,2:21 PM,2:13,,,Wilson REBOUND (Off:0 Def:8),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,339,2,5,3,2:22 PM,2:02,,,MISS Robinson 2' Layup,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,340,4,0,3,2:22 PM,1:59,Bonner REBOUND (Off:2 Def:12),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,343,6,2,3,2:22 PM,1:56,,,McCoughtry S.FOUL (P2.T3),,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,345,3,11,3,2:22 PM,1:56,MISS A. Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,346,4,1,3,2:22 PM,1:56,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,347,8,0,3,2:22 PM,1:56,SUB: Hiedeman FOR January,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,348,8,0,3,2:22 PM,1:56,SUB: Carson FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,349,8,0,3,2:22 PM,1:56,,,SUB: Young FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,353,3,12,3,2:23 PM,1:56,A. Thomas Free Throw 2 of 2 (9 PTS),,,61 - 50,-11,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,354,6,2,3,2:23 PM,1:45,Mompremier S.FOUL (P2.T2),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,356,3,11,3,2:23 PM,1:45,,,Young Free Throw 1 of 2 (1 PTS),62 - 50,-12,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,357,8,0,3,2:23 PM,1:45,,,SUB: Rodgers FOR McBride,,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,359,3,12,3,2:23 PM,1:45,,,Young Free Throw 2 of 2 (2 PTS),63 - 50,-13,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,360,5,1,3,2:24 PM,1:34,Hiedeman Bad Pass Turnover (P2.T11),,Wilson STEAL (1 STL),,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,362,1,5,3,2:24 PM,1:30,,,Robinson 3' Layup (12 PTS) (Wilson 4 AST),65 - 50,-15,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,364,2,75,3,2:24 PM,1:16,MISS J. Thomas 3' Driving Finger Roll Layup,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,365,4,0,3,2:24 PM,1:14,,,Wilson REBOUND (Off:0 Def:9),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,366,2,1,3,2:24 PM,1:11,,,MISS Rodgers 24' 3PT Jump Shot,,,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,367,4,0,3,2:24 PM,1:06,A. Thomas REBOUND (Off:2 Def:4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,368,1,79,3,2:24 PM,0:59,Carson 17' Pullup Jump Shot (2 PTS),,,65 - 52,-13,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,369,2,1,3,2:25 PM,0:38,,,MISS Wilson 17' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,370,4,0,3,2:25 PM,0:34,A. Thomas REBOUND (Off:2 Def:5),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,371,1,98,3,2:25 PM,0:21,Mompremier 3' Cutting Layup Shot (4 PTS) (J. Thomas 4 AST),,,65 - 54,-11,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,373,6,2,3,2:25 PM,0:21,,,Rodgers S.FOUL (P1.PN),,,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,375,8,0,3,2:25 PM,0:21,,,SUB: McBride FOR Cannon,,,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,377,3,10,3,2:26 PM,0:21,MISS Mompremier Free Throw 1 of 1,,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,378,4,0,3,2:26 PM,0:19,,,McBride REBOUND (Off:0 Def:2),,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,379,2,6,3,2:26 PM,0:03,Hiedeman BLOCK (1 BLK),,MISS Robinson 4' Driving Layup,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1
+1042000304,381,4,0,3,2:26 PM,0:03,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,382,2,1,3,2:26 PM,0:00,Carson BLOCK (1 BLK),,MISS Young 5' Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,1
+1042000304,384,4,0,3,2:26 PM,0:00,Mompremier REBOUND (Off:1 Def:3),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,385,13,0,3,2:26 PM,0:00,,End of 3rd Period (2:26 PM EST),,65 - 54,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000304,390,12,0,4,2:29 PM,10:00,,Start of 4th Period (2:29 PM EST),,65 - 54,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,391,6,2,4,2:30 PM,9:51,,,Wilson S.FOUL (P1.T1),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1042000304,393,3,11,4,2:30 PM,9:51,A. Thomas Free Throw 1 of 2 (10 PTS),,,65 - 55,-10,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,394,8,0,4,2:30 PM,9:51,,,SUB: McCoughtry FOR Robinson,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,396,3,12,4,2:30 PM,9:51,A. Thomas Free Throw 2 of 2 (11 PTS),,,65 - 56,-9,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,397,1,5,4,2:31 PM,9:34,,,Wilson 3' Layup (14 PTS) (Young 1 AST),67 - 56,-11,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,399,2,1,4,2:31 PM,9:21,MISS January 26' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,400,4,0,4,2:31 PM,9:18,,,Young REBOUND (Off:0 Def:1),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,401,5,45,4,2:31 PM,9:14,,,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042000304,402,6,2,4,2:31 PM,8:56,,,Rodgers S.FOUL (P2.T2),,,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,406,3,11,4,2:32 PM,8:56,A. Thomas Free Throw 1 of 2 (12 PTS),,,67 - 57,-10,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,407,3,12,4,2:32 PM,8:56,MISS A. Thomas Free Throw 2 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,408,4,0,4,2:32 PM,8:56,,,Wilson REBOUND (Off:0 Def:10),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,404,8,0,4,2:32 PM,8:56,SUB: Jones FOR Mompremier,,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,409,2,6,4,2:32 PM,8:39,,,MISS Young 4' Driving Layup,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,410,4,0,4,2:33 PM,8:37,Jones REBOUND (Off:1 Def:1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,411,6,2,4,2:33 PM,8:28,,,Swords S.FOUL (P4.T3),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042000304,413,3,11,4,2:33 PM,8:28,MISS A. Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,414,4,1,4,2:33 PM,8:28,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,415,8,0,4,2:33 PM,8:28,,,SUB: Robinson FOR Young,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,416,8,0,4,2:33 PM,8:28,,,SUB: McBride FOR Rodgers,,,5,203411,Sugar Rodgers,1611661319.0,Las Vegas,Aces,LVA,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,419,3,12,4,2:33 PM,8:28,A. Thomas Free Throw 2 of 2 (13 PTS),,,67 - 58,-9,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042000304,420,6,1,4,2:34 PM,8:11,A. Thomas P.FOUL (P3.T1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,422,2,98,4,2:34 PM,8:04,,,MISS Swords 4' Cutting Layup Shot,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,423,4,0,4,2:34 PM,8:02,A. Thomas REBOUND (Off:2 Def:6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,424,2,5,4,2:34 PM,7:54,MISS Jones 5' Layup,,Wilson BLOCK (1 BLK),,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042000304,426,4,0,4,2:34 PM,7:54,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,427,2,1,4,2:35 PM,7:44,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,428,4,0,4,2:35 PM,7:42,,,Swords REBOUND (Off:0 Def:5),,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,429,2,1,4,2:35 PM,7:34,,,MISS McCoughtry 24' 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,430,4,0,4,2:35 PM,7:32,,,Wilson REBOUND (Off:1 Def:10),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,431,1,5,4,2:35 PM,7:30,,,Wilson 2' Layup (16 PTS),69 - 58,-11,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,433,8,0,4,2:35 PM,7:16,SUB: Bonner FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,434,8,0,4,2:35 PM,7:16,SUB: J. Thomas FOR Carson,,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042000304,437,5,11,4,2:36 PM,7:03,SUN Turnover: Shot Clock (T#12),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000304,438,1,6,4,2:36 PM,6:53,,,McCoughtry 6' Driving Layup (28 PTS),71 - 58,-13,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,439,6,2,4,2:36 PM,6:53,Jones S.FOUL (P5.T2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,441,3,10,4,2:37 PM,6:53,,,McCoughtry Free Throw 1 of 1 (29 PTS),72 - 58,-14,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,442,1,1,4,2:37 PM,6:39,J. Thomas 27' 3PT Jump Shot (19 PTS) (January 2 AST),,,72 - 61,-11,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,444,2,5,4,2:37 PM,6:14,,,MISS Robinson 7' Layup,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,445,4,0,4,2:37 PM,6:12,J. Thomas REBOUND (Off:0 Def:1),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,446,1,5,4,2:37 PM,6:07,A. Thomas 5' Layup (15 PTS) (J. Thomas 5 AST),,,72 - 63,-9,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,448,1,1,4,2:38 PM,5:52,,,McBride 18' Jump Shot (9 PTS),74 - 63,-11,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,449,1,5,4,2:38 PM,5:35,Jones 4' Layup (8 PTS) (A. Thomas 3 AST),,,74 - 65,-9,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,451,6,1,4,2:38 PM,5:19,Bonner P.FOUL (P1.T3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,453,9,4,4,2:38 PM,5:19,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,454,2,1,4,2:42 PM,5:10,,,MISS McCoughtry 18' Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,455,4,0,4,2:42 PM,5:07,Jones REBOUND (Off:1 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,456,2,1,4,2:42 PM,4:53,MISS January 26' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,457,4,0,4,2:42 PM,4:49,,,Robinson REBOUND (Off:1 Def:3),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,458,2,1,4,2:42 PM,4:31,,,MISS Robinson 24' 3PT Jump Shot,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,462,4,0,4,2:42 PM,4:25,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,459,10,0,4,2:43 PM,4:25,Jump Ball Bonner vs. McCoughtry: Tip to McBride,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,1
+1042000304,463,1,75,4,2:43 PM,4:17,,,Robinson 3' Driving Finger Roll Layup (14 PTS),76 - 65,-11,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,464,2,5,4,2:43 PM,4:05,MISS A. Thomas 2' Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,465,4,0,4,2:43 PM,4:04,,,Robinson REBOUND (Off:1 Def:4),,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,466,1,5,4,2:44 PM,4:01,,,Robinson 3' Layup (16 PTS),78 - 65,-13,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,468,2,1,4,2:44 PM,3:41,MISS J. Thomas 25' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,469,4,0,4,2:44 PM,3:37,,,Wilson REBOUND (Off:1 Def:11),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,470,2,1,4,2:44 PM,3:22,,,MISS Robinson 18' Jump Shot,,,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,471,4,0,4,2:44 PM,3:20,,,McBride REBOUND (Off:1 Def:2),,,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,472,2,1,4,2:45 PM,3:05,,,MISS Wilson 13' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,473,4,0,4,2:45 PM,3:05,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,474,2,1,4,2:45 PM,2:58,,,MISS McCoughtry 13' Jump Shot,,,5,201881,Angel McCoughtry,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,475,4,0,4,2:45 PM,2:58,Jones REBOUND (Off:1 Def:3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,476,9,2,4,2:45 PM,2:58,SUN Timeout: Short (Full 2 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,477,9,1,4,2:46 PM,2:58,,,Aces Timeout: Regular (Reg.3 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,478,1,1,4,2:48 PM,2:39,January 15' Jump Shot (9 PTS) (J. Thomas 6 AST),,,78 - 67,-11,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,480,1,79,4,2:48 PM,2:20,,,Wilson 14' Pullup Jump Shot (18 PTS) (Swords 2 AST),80 - 67,-13,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,482,1,1,4,2:49 PM,2:06,J. Thomas 26' 3PT Jump Shot (22 PTS) (January 3 AST),,,80 - 70,-10,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,484,2,1,4,2:49 PM,1:46,,,MISS Wilson 12' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,485,4,0,4,2:49 PM,1:43,Bonner REBOUND (Off:2 Def:13),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,486,5,2,4,2:49 PM,1:39,J. Thomas Lost Ball Turnover (P3.T13),,Robinson STEAL (3 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042000304,488,1,5,4,2:49 PM,1:36,,,Robinson 2' Layup (18 PTS),82 - 70,-12,5,202658,Danielle Robinson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,489,9,1,4,2:49 PM,1:35,SUN Timeout: Regular (Full 3 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,490,8,0,4,2:51 PM,1:35,,,SUB: Young FOR Swords,,,5,202670,Carolyn Swords,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,494,2,1,4,2:52 PM,1:24,MISS A. Thomas 19' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,495,4,0,4,2:52 PM,1:22,,,Wilson REBOUND (Off:1 Def:12),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,496,2,1,4,2:52 PM,1:02,,,MISS Wilson 17' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042000304,497,4,0,4,2:52 PM,1:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000304,498,1,6,4,2:52 PM,0:45,Jones 2' Driving Layup (10 PTS) (Bonner 4 AST),,,82 - 72,-10,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042000304,500,6,2,4,2:53 PM,0:25,January S.FOUL (P2.T4),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042000304,502,3,11,4,2:53 PM,0:25,,,McBride Free Throw 1 of 2 (10 PTS),83 - 72,-11,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,503,8,0,4,2:53 PM,0:25,,,SUB: Cannon FOR Wilson,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1628242,Emma Cannon,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042000304,505,3,12,4,2:54 PM,0:25,,,McBride Free Throw 2 of 2 (11 PTS),84 - 72,-12,5,203825,Kayla McBride,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042000304,506,1,79,4,2:54 PM,0:16,J. Thomas 26' 3PT Pullup Jump Shot (25 PTS),,,84 - 75,-9,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042000304,507,13,0,4,2:54 PM,0:00,,End of 4th Period (2:54 PM EST),,84 - 75,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

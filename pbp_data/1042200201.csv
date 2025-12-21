@@ -1,0 +1,351 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042200201,2,12,0,1,4:03 PM,10:00,,Start of 1st Period (4:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,4,10,0,1,4:03 PM,10:00,Jump Ball Stokes vs. Stewart: Tip to Gray,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,7,2,98,1,4:03 PM,9:43,MISS Stokes 4' Cutting Layup Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,8,4,0,1,4:03 PM,9:43,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,10,1,1,1,4:03 PM,9:31,,,Loyd 24' 3PT Jump Shot (3 PTS) (Bird 1 AST),3 - 0,-3,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,12,5,1,1,4:03 PM,9:20,Stokes Bad Pass Turnover (P1.T1),,Talbot STEAL (1 STL),,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,14,1,41,1,4:04 PM,9:15,,,Talbot 3' Running Layup (2 PTS),5 - 0,-5,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,15,1,5,1,4:04 PM,9:03,Stokes 3' Layup (2 PTS) (Plum 1 AST),,,5 - 2,-3,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,17,6,1,1,4:04 PM,8:54,Plum P.FOUL (P1.T1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,19,2,63,1,4:04 PM,8:43,,,MISS Stewart 12' Fadeaway Jumper,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,20,4,0,1,4:04 PM,8:40,Stokes REBOUND (Off:0 Def:1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,21,1,63,1,4:05 PM,8:27,Gray 10' Fadeaway Jumper (2 PTS),,,5 - 4,-1,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,22,1,86,1,4:05 PM,8:03,,,Charles 11' Turnaround Fadeaway (2 PTS),7 - 4,-3,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,23,6,1,1,4:05 PM,7:52,,,Bird P.FOUL (P1.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,25,2,6,1,4:06 PM,7:47,MISS Plum 2' Driving Layup,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,26,4,0,1,4:06 PM,7:44,,,Charles REBOUND (Off:0 Def:1),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,27,2,6,1,4:06 PM,7:37,Stokes BLOCK (1 BLK),,MISS Bird 3' Driving Layup,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,29,4,0,1,4:06 PM,7:36,Stokes REBOUND (Off:0 Def:2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,30,5,39,1,4:06 PM,7:36,Stokes Step Out of Bounds Turnover (P2.T2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200201,32,1,5,1,4:06 PM,7:33,,,Stewart 4' Layup (2 PTS) (Bird 2 AST),9 - 4,-5,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,34,2,79,1,4:06 PM,7:21,MISS Gray 27' 3PT Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,35,4,0,1,4:06 PM,7:18,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,36,2,5,1,4:07 PM,7:02,,,MISS Charles 3' Layup,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,37,4,0,1,4:07 PM,7:00,,,Charles REBOUND (Off:1 Def:1),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,38,2,72,1,4:07 PM,7:00,,,MISS Charles 3' Putback Layup,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,39,4,0,1,4:07 PM,7:00,,,Charles REBOUND (Off:2 Def:1),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,40,6,2,1,4:07 PM,7:00,Wilson S.FOUL (P1.T2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,42,3,11,1,4:07 PM,7:00,,,MISS Charles Free Throw 1 of 2,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,43,4,1,1,4:07 PM,7:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,44,3,12,1,4:07 PM,7:00,,,Charles Free Throw 2 of 2 (3 PTS),10 - 4,-6,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,45,2,1,1,4:08 PM,6:48,MISS Plum 26' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,46,4,0,1,4:08 PM,6:43,,,Charles REBOUND (Off:2 Def:2),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,47,1,1,1,4:08 PM,6:38,,,Talbot 3PT Jump Shot (5 PTS) (Bird 3 AST),13 - 4,-9,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,49,9,1,1,4:08 PM,6:36,ACES Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,50,2,1,1,4:11 PM,6:19,MISS Wilson 16' Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,51,4,0,1,4:11 PM,6:16,,,Charles REBOUND (Off:2 Def:3),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,52,2,6,1,4:11 PM,6:04,,,MISS Charles 4' Driving Layup,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,53,4,0,1,4:11 PM,6:03,Stokes REBOUND (Off:0 Def:3),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,54,2,1,1,4:11 PM,5:54,MISS Wilson 25' 3PT Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,55,4,0,1,4:11 PM,5:49,,,Bird REBOUND (Off:0 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,56,2,1,1,4:11 PM,5:43,,,MISS Talbot 25' 3PT Jump Shot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,57,4,0,1,4:12 PM,5:40,Plum REBOUND (Off:0 Def:1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,58,2,6,1,4:12 PM,5:30,MISS Plum 4' Driving Layup,,Stewart BLOCK (1 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1042200201,60,4,0,1,4:12 PM,5:27,,,Charles REBOUND (Off:2 Def:4),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,61,2,1,1,4:12 PM,5:15,,,MISS Bird 24' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,62,4,0,1,4:12 PM,5:13,Stokes REBOUND (Off:0 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,63,6,1,1,4:12 PM,5:06,,,Bird P.FOUL (P2.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,65,8,0,1,4:12 PM,5:06,SUB: Williams FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,67,2,79,1,4:13 PM,4:57,MISS Williams 28' 3PT Pullup Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,68,4,0,1,4:13 PM,4:53,,,Stewart REBOUND (Off:0 Def:1),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,69,2,79,1,4:13 PM,4:47,,,MISS Bird 13' Pullup Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,70,4,0,1,4:13 PM,4:41,,,Stewart REBOUND (Off:1 Def:1),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,71,2,1,1,4:13 PM,4:40,,,MISS Charles 25' 3PT Jump Shot,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,72,4,0,1,4:13 PM,4:36,Young REBOUND (Off:0 Def:1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,73,5,40,1,4:13 PM,4:32,Young Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200201,74,2,79,1,4:14 PM,4:19,,,MISS Stewart 15' Pullup Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,75,4,0,1,4:14 PM,4:16,Wilson REBOUND (Off:0 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,76,2,1,1,4:14 PM,4:04,MISS Stokes 3PT Jump Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,77,4,0,1,4:14 PM,4:02,,,Talbot REBOUND (Off:0 Def:1),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,78,2,79,1,4:14 PM,3:53,,,MISS Charles 18' Pullup Jump Shot,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,79,4,0,1,4:14 PM,3:53,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,81,2,1,1,4:15 PM,3:35,MISS Williams 25' 3PT Jump Shot,,Talbot BLOCK (1 BLK),,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,1
+1042200201,83,4,0,1,4:15 PM,3:35,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,85,2,1,1,4:15 PM,3:32,MISS Plum 29' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,86,4,0,1,4:15 PM,3:30,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,88,6,2,1,4:15 PM,3:19,Wilson S.FOUL (P2.T3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,90,3,11,1,4:16 PM,3:19,,,Stewart Free Throw 1 of 2 (3 PTS),14 - 4,-10,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,91,3,12,1,4:16 PM,3:19,,,Stewart Free Throw 2 of 2 (4 PTS),15 - 4,-11,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,92,2,47,1,4:16 PM,3:02,MISS Wilson 7' Turnaround Jump Shot,,Stewart BLOCK (2 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1042200201,94,4,0,1,4:16 PM,2:57,,,Charles REBOUND (Off:2 Def:5),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,95,2,41,1,4:16 PM,2:54,,,MISS Loyd 4' Running Layup,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,96,4,0,1,4:16 PM,2:54,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,97,8,0,1,4:16 PM,2:54,SUB: Gray FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,98,8,0,1,4:16 PM,2:54,SUB: Rupert FOR Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,99,8,0,1,4:16 PM,2:54,,,SUB: Magbegor FOR Charles,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,103,1,1,1,4:17 PM,2:36,Rupert 26' 3PT Jump Shot (3 PTS) (Young 1 AST),,,15 - 7,-8,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,105,1,1,1,4:17 PM,2:14,,,Stewart 16' Jump Shot (6 PTS) (Loyd 1 AST),17 - 7,-10,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,107,1,6,1,4:18 PM,2:02,Gray 5' Driving Layup (4 PTS),,,17 - 9,-8,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,108,6,2,1,4:18 PM,2:02,,,Magbegor S.FOUL (P1.T3),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,110,8,0,1,4:18 PM,2:02,,,SUB: January FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,112,3,10,1,4:18 PM,2:02,Gray Free Throw 1 of 1 (5 PTS),,,17 - 10,-7,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,113,1,6,1,4:18 PM,1:44,,,Talbot 4' Driving Layup (7 PTS),19 - 10,-9,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,114,5,2,1,4:19 PM,1:29,Stokes Lost Ball Turnover (P3.T4),,Loyd STEAL (1 STL),,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,116,1,1,1,4:19 PM,1:24,,,Loyd 24' 3PT Jump Shot (6 PTS) (Magbegor 1 AST),22 - 10,-12,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,118,6,2,1,4:19 PM,1:04,,,Loyd S.FOUL (P1.T4),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,120,3,11,1,4:19 PM,1:04,Young Free Throw 1 of 2 (1 PTS),,,22 - 11,-11,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,122,8,0,1,4:19 PM,1:04,SUB: Wilson FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,123,8,0,1,4:19 PM,1:04,,,SUB: Charles FOR Stewart,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,126,3,12,1,4:20 PM,1:04,Young Free Throw 2 of 2 (2 PTS),,,22 - 12,-10,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,127,2,5,1,4:20 PM,0:49,Wilson BLOCK (1 BLK),,MISS Magbegor 5' Layup,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,129,4,0,1,4:20 PM,0:45,,,Charles REBOUND (Off:3 Def:5),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,130,1,47,1,4:20 PM,0:43,,,Magbegor 5' Turnaround Jump Shot (2 PTS) (Charles 1 AST),24 - 12,-12,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,132,2,1,1,4:20 PM,0:32,MISS Wilson 26' 3PT Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,133,4,0,1,4:20 PM,0:31,,,Talbot REBOUND (Off:0 Def:2),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,139,5,2,1,4:20 PM,0:28,Gray STEAL (1 STL),,Talbot Lost Ball Turnover (P1.T1),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,134,1,1,1,4:20 PM,0:24,Young 26' 3PT Jump Shot (5 PTS) (Gray 1 AST),,,24 - 15,-9,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,136,1,47,1,4:21 PM,0:00,,,Magbegor 6' Turnaround Jump Shot (4 PTS) (Loyd 2 AST),26 - 15,-11,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,138,13,0,1,4:21 PM,0:00,,End of 1st Period (4:21 PM EST),,26 - 15,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,147,12,0,2,4:24 PM,10:00,,Start of 2nd Period (4:24 PM EST),,26 - 15,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,148,5,2,2,4:25 PM,9:43,Gray STEAL (2 STL),,Charles Lost Ball Turnover (P1.T2),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,150,1,5,2,4:25 PM,9:32,Wilson 1' Layup (2 PTS) (Gray 2 AST),,,26 - 17,-9,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,152,6,1,2,4:25 PM,9:17,Rupert P.FOUL (P1.T1),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,154,2,6,2,4:25 PM,9:09,,,MISS Charles 6' Driving Layup,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,156,4,0,2,4:25 PM,9:05,Wilson REBOUND (Off:0 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,157,1,79,2,4:26 PM,8:59,Gray 9' Pullup Jump Shot (7 PTS),,,26 - 19,-7,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,158,1,5,2,4:26 PM,8:41,,,Charles 5' Layup (5 PTS) (Bird 4 AST),28 - 19,-9,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,160,2,79,2,4:26 PM,8:23,MISS Plum 26' 3PT Pullup Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,161,4,0,2,4:26 PM,8:20,,,Prince REBOUND (Off:0 Def:1),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,162,2,1,2,4:27 PM,8:02,,,MISS Prince 3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,163,4,0,2,4:27 PM,7:59,Wilson REBOUND (Off:0 Def:3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,164,2,1,2,4:27 PM,7:52,MISS Wilson 15' Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,165,4,0,2,4:27 PM,7:51,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,166,8,0,2,4:27 PM,7:51,SUB: Young FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,167,8,0,2,4:27 PM,7:51,SUB: Stokes FOR Rupert,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,168,8,0,2,4:27 PM,7:51,,,SUB: Stewart FOR Magbegor,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,172,1,86,2,4:27 PM,7:34,,,Stewart 12' Turnaround Fadeaway (8 PTS) (Bird 5 AST),30 - 19,-11,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,173,6,3,2,4:28 PM,7:34,,,Charles L.B.FOUL (P1.T1),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,175,8,0,2,4:28 PM,7:34,,,SUB: Loyd FOR January,,,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,177,1,5,2,4:28 PM,7:19,Plum 2' Layup (2 PTS) (Wilson 1 AST),,,30 - 21,-9,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,178,2,1,2,4:28 PM,6:57,,,MISS Loyd 24' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,179,4,0,2,4:28 PM,6:54,Plum REBOUND (Off:0 Def:2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,180,1,79,2,4:29 PM,6:46,Plum 15' Pullup Jump Shot (4 PTS),,,30 - 23,-7,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,182,2,3,2,4:29 PM,6:29,,,MISS Charles 6' Hook Shot,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,183,4,0,2,4:29 PM,6:28,,,Charles REBOUND (Off:4 Def:5),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,226,2,72,2,4:29 PM,6:25,Gray BLOCK (1 BLK),,MISS Charles 4' Putback Layup,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,228,4,0,2,4:29 PM,6:25,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,184,8,0,2,4:29 PM,6:24,,,SUB: Talbot FOR Prince,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,186,10,0,2,4:30 PM,6:24,Jump Ball Young vs. Charles: Tip to Stokes,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,191,2,41,2,4:30 PM,6:15,MISS Plum 3' Running Layup,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,192,4,0,2,4:30 PM,6:12,,,Charles REBOUND (Off:4 Def:6),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,193,2,63,2,4:30 PM,5:58,,,MISS Stewart 11' Fadeaway Jumper,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,194,4,0,2,4:30 PM,5:55,Wilson REBOUND (Off:0 Def:4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,195,6,1,2,4:30 PM,5:44,,,Talbot P.FOUL (P1.T2),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,197,9,4,2,4:30 PM,5:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,198,8,0,2,4:32 PM,5:44,,,SUB: Magbegor FOR Charles,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,200,2,6,2,4:33 PM,5:33,MISS Young 12' Driving Layup,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,201,4,0,2,4:33 PM,5:29,,,Talbot REBOUND (Off:0 Def:3),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,202,2,1,2,4:34 PM,5:20,,,MISS Talbot 26' 3PT Jump Shot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,203,4,0,2,4:34 PM,5:17,Wilson REBOUND (Off:0 Def:5),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,204,2,86,2,4:34 PM,4:58,MISS Gray 13' Turnaround Fadeaway Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,205,4,0,2,4:34 PM,4:55,Stokes REBOUND (Off:1 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,206,2,72,2,4:34 PM,4:55,MISS Stokes 2' Putback Layup,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,207,4,0,2,4:34 PM,4:52,,,Talbot REBOUND (Off:0 Def:4),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,208,2,101,2,4:34 PM,4:42,,,MISS Bird 11' Driving Floating Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,209,4,0,2,4:34 PM,4:40,Stokes REBOUND (Off:1 Def:5),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,210,6,2,2,4:34 PM,4:32,,,Talbot S.FOUL (P2.T3),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,213,3,11,2,4:35 PM,4:32,Wilson Free Throw 1 of 2 (3 PTS),,,30 - 24,-6,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,214,3,12,2,4:35 PM,4:32,Wilson Free Throw 2 of 2 (4 PTS),,,30 - 25,-5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,215,2,1,2,4:35 PM,4:16,Wilson BLOCK (2 BLK),,MISS Magbegor 7' Jump Shot,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,217,4,0,2,4:35 PM,4:16,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,219,2,1,2,4:36 PM,4:09,,,MISS Stewart 19' Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,220,4,0,2,4:36 PM,4:05,Stokes REBOUND (Off:1 Def:6),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,222,1,1,2,4:36 PM,3:46,Wilson 10' Jump Shot (6 PTS) (Young 2 AST),,,30 - 27,-3,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,224,1,79,2,4:37 PM,3:27,,,Bird 18' Pullup Jump Shot (2 PTS) (Stewart 1 AST),32 - 27,-5,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,229,5,1,2,4:37 PM,2:59,Stokes Bad Pass Turnover (P4.T5),,Stewart STEAL (1 STL),,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,231,6,2,2,4:37 PM,2:59,Stokes S.FOUL (P1.T2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,233,9,4,2,4:37 PM,2:59,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,234,8,0,2,4:38 PM,2:59,,,SUB: Charles FOR Magbegor,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,236,3,11,2,4:41 PM,2:59,,,Stewart Free Throw 1 of 2 (9 PTS),33 - 27,-6,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,237,3,12,2,4:41 PM,2:59,,,Stewart Free Throw 2 of 2 (10 PTS),34 - 27,-7,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,238,1,1,2,4:41 PM,2:44,Plum 27' 3PT Jump Shot (7 PTS) (Gray 3 AST),,,34 - 30,-4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,240,1,79,2,4:41 PM,2:28,,,Stewart 9' Pullup Jump Shot (12 PTS) (Bird 6 AST),36 - 30,-6,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,242,1,98,2,4:42 PM,2:14,Plum 2' Cutting Layup Shot (9 PTS) (Gray 4 AST),,,36 - 32,-4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,244,9,1,2,4:42 PM,2:06,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,245,2,1,2,4:44 PM,1:54,,,MISS Talbot 19' Jump Shot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,246,4,0,2,4:44 PM,1:50,Young REBOUND (Off:0 Def:2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,247,2,63,2,4:44 PM,1:32,MISS Gray 7' Fadeaway Jumper,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,248,4,0,2,4:44 PM,1:27,,,Charles REBOUND (Off:4 Def:7),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,249,2,6,2,4:44 PM,1:16,,,MISS Loyd 7' Driving Layup,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,250,4,0,2,4:44 PM,1:13,,,Charles REBOUND (Off:5 Def:7),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,251,1,72,2,4:44 PM,1:12,,,Charles 3' Putback Layup (7 PTS),38 - 32,-6,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,252,2,6,2,4:45 PM,0:56,MISS Plum 5' Driving Layup,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,253,4,0,2,4:45 PM,0:54,,,Talbot REBOUND (Off:0 Def:5),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,254,1,2,2,4:45 PM,0:49,,,Loyd 3PT Running Jump Shot (9 PTS) (Stewart 2 AST),41 - 32,-9,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,256,9,1,2,4:45 PM,0:49,ACES Timeout: Regular (Full 2 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,258,8,0,2,4:46 PM,0:49,,,SUB: January FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,260,6,1,2,4:47 PM,0:39,,,Talbot P.FOUL (P3.T4),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,262,8,0,2,4:47 PM,0:39,,,SUB: Prince FOR Talbot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,264,1,79,2,4:47 PM,0:30,Gray 10' Pullup Jump Shot (9 PTS),,,41 - 34,-7,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,265,1,63,2,4:48 PM,0:10,,,Stewart 12' Fadeaway Jumper (14 PTS),43 - 34,-9,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,266,1,63,2,4:48 PM,0:02,Gray 14' Fadeaway Jumper (11 PTS),,,43 - 36,-7,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,267,2,1,2,4:48 PM,0:00,,,MISS January 56' 3PT Jump Shot,,,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,268,4,0,2,4:48 PM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,269,13,0,2,4:48 PM,0:00,,End of 2nd Period (4:48 PM EST),,43 - 36,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,274,12,0,3,5:04 PM,10:00,,Start of 3rd Period (5:04 PM EST),,43 - 36,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,275,6,1,3,5:05 PM,9:43,Plum P.FOUL (P2.T1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,277,1,79,3,5:05 PM,9:28,,,Charles 14' Pullup Jump Shot (9 PTS) (Talbot 1 AST),45 - 36,-9,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,279,2,1,3,5:05 PM,9:09,MISS Plum 25' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,280,4,0,3,5:05 PM,9:05,,,Charles REBOUND (Off:5 Def:8),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,281,2,86,3,5:06 PM,8:56,,,MISS Charles 10' Turnaround Fadeaway Shot,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,282,4,0,3,5:06 PM,8:53,Young REBOUND (Off:0 Def:3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,283,2,1,3,5:06 PM,8:42,MISS Stokes 3PT Jump Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,284,4,0,3,5:06 PM,8:39,Plum REBOUND (Off:1 Def:2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,285,2,1,3,5:06 PM,8:39,MISS Plum 12' Jump Shot,,Stewart BLOCK (3 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1042200201,287,4,0,3,5:06 PM,8:39,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,289,5,45,3,5:06 PM,8:24,,,Loyd Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1042200201,290,1,79,3,5:07 PM,8:06,Stokes 15' Pullup Jump Shot (4 PTS) (Young 3 AST),,,45 - 38,-7,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,292,2,79,3,5:07 PM,7:56,,,MISS Talbot 19' Pullup Jump Shot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,293,4,0,3,5:07 PM,7:54,Stokes REBOUND (Off:1 Def:7),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,294,2,3,3,5:07 PM,7:40,MISS Wilson 4' Hook Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,295,4,0,3,5:07 PM,7:39,,,Charles REBOUND (Off:5 Def:9),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,296,5,2,3,5:07 PM,7:35,Stokes STEAL (1 STL),,Loyd Lost Ball Turnover (P2.T4),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,298,2,79,3,5:08 PM,7:20,MISS Gray 14' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,299,4,0,3,5:08 PM,7:17,,,Talbot REBOUND (Off:0 Def:6),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,300,2,47,3,5:08 PM,6:57,,,MISS Loyd 19' Turnaround Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,301,4,0,3,5:08 PM,6:53,Stokes REBOUND (Off:1 Def:8),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,302,1,6,3,5:08 PM,6:49,Plum 3' Driving Layup (11 PTS) (Young 4 AST),,,45 - 40,-5,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,304,6,2,3,5:08 PM,6:49,,,Loyd S.FOUL (P2.T1),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,306,3,10,3,5:09 PM,6:49,Plum Free Throw 1 of 1 (12 PTS),,,45 - 41,-4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,307,2,1,3,5:09 PM,6:36,,,MISS Stewart 27' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,308,4,0,3,5:09 PM,6:34,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,310,1,79,3,5:09 PM,6:22,Young 12' Pullup Jump Shot (7 PTS) (Wilson 2 AST),,,45 - 43,-2,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,312,1,101,3,5:10 PM,6:05,,,Stewart 12' Driving Floating Jump Shot (16 PTS),47 - 43,-4,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,313,2,6,3,5:10 PM,5:53,MISS Gray 3' Driving Layup,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,314,4,0,3,5:10 PM,5:51,,,Charles REBOUND (Off:5 Def:10),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,316,2,79,3,5:11 PM,5:30,,,MISS Loyd 27' 3PT Pullup Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,317,4,0,3,5:11 PM,5:26,Gray REBOUND (Off:0 Def:1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,318,2,5,3,5:11 PM,5:14,MISS Stokes 5' Layup,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,319,4,0,3,5:11 PM,5:12,,,Charles REBOUND (Off:5 Def:11),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,320,1,98,3,5:11 PM,5:04,,,Charles 3' Cutting Layup Shot (11 PTS) (Bird 7 AST),49 - 43,-6,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,322,6,2,3,5:11 PM,4:43,,,Talbot S.FOUL (P4.T2),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,324,9,4,3,5:12 PM,4:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,325,8,0,3,5:14 PM,4:43,SUB: Rupert FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,326,8,0,3,5:14 PM,4:43,,,SUB: January FOR Talbot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,329,3,11,3,5:15 PM,4:43,Young Free Throw 1 of 2 (8 PTS),,,49 - 44,-5,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,330,3,12,3,5:15 PM,4:43,Young Free Throw 2 of 2 (9 PTS),,,49 - 45,-4,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,331,2,1,3,5:16 PM,4:24,,,MISS Charles 18' Jump Shot,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,332,4,0,3,5:16 PM,4:20,Wilson REBOUND (Off:0 Def:6),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,333,2,1,3,5:16 PM,4:02,MISS Plum 26' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,334,4,0,3,5:16 PM,4:00,,,Bird REBOUND (Off:0 Def:3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,335,1,41,3,5:16 PM,3:56,,,Loyd 4' Running Layup (11 PTS) (Bird 8 AST),51 - 45,-6,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,337,1,79,3,5:16 PM,3:33,Wilson 7' Pullup Jump Shot (8 PTS) (Plum 2 AST),,,51 - 47,-4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,339,2,6,3,5:17 PM,3:14,,,MISS Charles 5' Driving Layup,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,340,4,0,3,5:17 PM,3:12,Rupert REBOUND (Off:0 Def:1),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,341,1,79,3,5:17 PM,3:03,Young 15' Pullup Jump Shot (11 PTS),,,51 - 49,-2,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,342,1,79,3,5:17 PM,2:47,,,Loyd 15' Pullup Jump Shot (13 PTS) (Bird 9 AST),53 - 49,-4,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,344,1,75,3,5:18 PM,2:29,Gray 3' Driving Finger Roll Layup (13 PTS),,,53 - 51,-2,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,345,1,98,3,5:18 PM,2:23,,,Stewart 4' Cutting Layup Shot (18 PTS) (Bird 10 AST),55 - 51,-4,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,347,5,2,3,5:18 PM,2:12,Plum Lost Ball Turnover (P1.T6),,Bird STEAL (1 STL),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,349,1,41,3,5:18 PM,2:09,,,Loyd 3' Running Layup (15 PTS) (Bird 11 AST),57 - 51,-6,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,351,6,2,3,5:18 PM,2:09,Young S.FOUL (P1.T2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,353,8,0,3,5:18 PM,2:09,SUB: Williams FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,354,8,0,3,5:18 PM,2:09,,,SUB: Magbegor FOR Charles,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,357,3,10,3,5:18 PM,2:09,,,Loyd Free Throw 1 of 1 (16 PTS),58 - 51,-7,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,358,9,2,3,5:19 PM,1:55,ACES Timeout: Short (Full 2 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,359,2,79,3,5:20 PM,1:45,MISS Young 20' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,360,4,0,3,5:20 PM,1:39,Williams REBOUND (Off:1 Def:0),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,361,2,1,3,5:20 PM,1:35,MISS Williams 25' 3PT Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,362,4,0,3,5:20 PM,1:33,,,Stewart REBOUND (Off:1 Def:2),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,363,2,103,3,5:20 PM,1:28,,,MISS Loyd 26' 3PT Running Pull-Up Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,364,4,0,3,5:21 PM,1:25,Williams REBOUND (Off:1 Def:1),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,365,6,1,3,5:21 PM,1:23,,,January P.FOUL (P1.T3),,,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,367,1,1,3,5:21 PM,1:11,Williams 3PT Jump Shot (3 PTS) (Young 5 AST),,,58 - 54,-4,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,369,6,1,3,5:21 PM,0:54,Young P.FOUL (P2.T3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,384,8,0,3,5:22 PM,0:54,,,SUB: Prince FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,371,1,47,3,5:22 PM,0:43,,,Stewart 15' Turnaround Jump Shot (20 PTS) (Prince 1 AST),60 - 54,-6,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,373,1,6,3,5:23 PM,0:33,Plum 3' Driving Layup (14 PTS),,,60 - 56,-4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,374,6,2,3,5:23 PM,0:33,,,Magbegor S.FOUL (P2.PN),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,389,8,0,3,5:23 PM,0:33,,,SUB: Bird FOR January,,,5,201896,Briann January,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,378,3,10,3,5:23 PM,0:33,Plum Free Throw 1 of 1 (15 PTS),,,60 - 57,-3,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,379,2,1,3,5:23 PM,0:16,,,MISS Stewart 26' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,380,4,0,3,5:24 PM,0:14,Plum REBOUND (Off:1 Def:3),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,381,2,47,3,5:24 PM,0:00,MISS Plum 7' Turnaround Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,382,4,0,3,5:24 PM,0:00,,,Bird REBOUND (Off:0 Def:4),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,383,13,0,3,5:24 PM,0:00,,End of 3rd Period (5:24 PM EST),,60 - 57,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,388,12,0,4,5:27 PM,10:00,,Start of 4th Period (5:27 PM EST),,60 - 57,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,391,2,57,4,5:27 PM,9:43,MISS Plum 7' Driving Hook Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,392,4,0,4,5:27 PM,9:40,,,Stewart REBOUND (Off:1 Def:3),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,393,2,79,4,5:28 PM,9:19,,,MISS Loyd 27' 3PT Pullup Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,394,4,0,4,5:28 PM,9:16,Wilson REBOUND (Off:0 Def:7),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,395,6,1,4,5:28 PM,9:06,,,Magbegor P.FOUL (P3.T1),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,397,8,0,4,5:28 PM,9:06,SUB: Stokes FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,398,8,0,4,5:28 PM,9:06,SUB: Gray FOR Rupert,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,401,1,79,4,5:28 PM,8:54,Gray 20' Pullup Jump Shot (15 PTS),,,60 - 59,-1,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,402,1,1,4,5:29 PM,8:37,,,Stewart 11' Jump Shot (22 PTS) (Loyd 3 AST),62 - 59,-3,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,404,6,1,4,5:29 PM,8:18,,,Stewart P.FOUL (P1.T2),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,406,2,79,4,5:29 PM,8:13,MISS Gray 26' 3PT Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,407,4,0,4,5:30 PM,8:09,,,Stewart REBOUND (Off:1 Def:4),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,408,2,1,4,5:30 PM,8:01,,,MISS Prince 26' 3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,409,4,0,4,5:30 PM,7:58,,,Magbegor REBOUND (Off:1 Def:0),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,410,2,1,4,5:30 PM,7:53,,,MISS Bird 27' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,411,4,0,4,5:30 PM,7:50,Wilson REBOUND (Off:0 Def:8),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,412,2,79,4,5:30 PM,7:44,MISS Young 15' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,413,4,0,4,5:30 PM,7:42,,,Magbegor REBOUND (Off:1 Def:1),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,414,2,103,4,5:30 PM,7:37,,,MISS Loyd 25' 3PT Running Pull-Up Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,415,4,0,4,5:30 PM,7:34,Wilson REBOUND (Off:0 Def:9),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,416,5,1,4,5:30 PM,7:19,Gray Bad Pass Turnover (P1.T7),,Prince STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,418,6,2,4,5:31 PM,7:13,Wilson S.FOUL (P3.T1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,420,3,11,4,5:31 PM,7:13,,,Stewart Free Throw 1 of 2 (23 PTS),63 - 59,-4,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,421,8,0,4,5:31 PM,7:13,SUB: Plum FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,422,8,0,4,5:31 PM,7:13,,,SUB: Talbot FOR Prince,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,425,3,12,4,5:31 PM,7:13,,,Stewart Free Throw 2 of 2 (24 PTS),64 - 59,-5,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1042200201,426,1,1,4,5:32 PM,6:52,Plum 3PT Jump Shot (18 PTS) (Wilson 3 AST),,,64 - 62,-2,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,428,2,47,4,5:32 PM,6:35,Wilson BLOCK (3 BLK),,MISS Magbegor 6' Turnaround Jump Shot,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,430,4,0,4,5:32 PM,6:35,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,432,6,1,4,5:32 PM,6:31,Plum P.FOUL (P3.T2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,434,2,1,4,5:33 PM,6:27,,,MISS Stewart 25' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,435,4,0,4,5:33 PM,6:24,Wilson REBOUND (Off:0 Def:10),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,436,1,1,4,5:33 PM,6:15,Williams 24' 3PT Jump Shot (6 PTS) (Gray 5 AST),,,64 - 65,1,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,438,9,1,4,5:33 PM,6:09,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,439,8,0,4,5:35 PM,6:09,,,SUB: Charles FOR Magbegor,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1042200201,441,6,4,4,5:37 PM,6:02,,,Stewart OFF.Foul (P2),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,443,5,37,4,5:37 PM,6:02,,,Stewart Offensive Foul Turnover (P1.T5),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1042200201,444,6,4,4,5:37 PM,5:53,Williams OFF.Foul (P1),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,446,5,37,4,5:37 PM,5:53,Williams Offensive Foul Turnover (P1.T8),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200201,447,2,101,4,5:38 PM,5:34,,,MISS Charles 6' Driving Floating Jump Shot,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,448,4,0,4,5:38 PM,5:29,Williams REBOUND (Off:1 Def:2),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,449,1,6,4,5:38 PM,5:16,Plum 3' Driving Layup (20 PTS) (Stokes 1 AST),,,64 - 67,3,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,451,1,79,4,5:38 PM,5:04,,,Loyd 11' Pullup Jump Shot (18 PTS),66 - 67,1,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,452,2,79,4,5:39 PM,4:42,MISS Williams 12' Pullup Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,453,4,0,4,5:39 PM,4:41,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200201,455,5,1,4,5:39 PM,4:19,Williams STEAL (1 STL),,Talbot Bad Pass Turnover (P2.T6),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,457,6,2,4,5:39 PM,4:11,,,Bird S.FOUL (P3.T3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200201,459,3,11,4,5:40 PM,4:11,Gray Free Throw 1 of 2 (16 PTS),,,66 - 68,2,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,460,3,12,4,5:40 PM,4:11,Gray Free Throw 2 of 2 (17 PTS),,,66 - 69,3,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200201,461,1,102,4,5:40 PM,3:59,,,Loyd 10' Driving Floating Bank Jump Shot (20 PTS) (Bird 12 AST),68 - 69,1,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,463,1,79,4,5:40 PM,3:44,Gray 18' Pullup Jump Shot (19 PTS),,,68 - 71,3,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,464,1,6,4,5:41 PM,3:20,,,Charles 4' Driving Layup (13 PTS) (Loyd 4 AST),70 - 71,1,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,466,8,0,4,5:41 PM,3:01,SUB: Young FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,468,10,0,4,5:41 PM,3:01,Jump Ball Gray vs. Charles: Tip to Talbot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,1
+1042200201,471,5,2,4,5:41 PM,3:01,Gray Lost Ball Turnover (P2.T9),,Charles STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,473,5,2,4,5:42 PM,2:52,Young STEAL (1 STL),,Talbot Lost Ball Turnover (P3.T7),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200201,475,2,98,4,5:42 PM,2:30,MISS Wilson 5' Cutting Layup Shot,,Charles BLOCK (1 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,1
+1042200201,477,4,0,4,5:42 PM,2:30,Wilson REBOUND (Off:1 Def:10),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,478,9,4,4,5:42 PM,2:30,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,479,10,0,4,5:45 PM,2:28,Jump Ball Wilson vs. Stewart: Tip to Stokes,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042200201,482,2,1,4,5:45 PM,2:25,MISS Plum 32' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,483,4,0,4,5:45 PM,2:22,,,Charles REBOUND (Off:5 Def:12),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,484,2,6,4,5:45 PM,2:07,,,MISS Stewart 4' Driving Layup,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,485,4,0,4,5:45 PM,2:04,Wilson REBOUND (Off:1 Def:11),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,487,5,45,4,5:45 PM,2:04,Wilson Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200201,489,1,1,4,5:46 PM,1:45,,,Loyd 25' 3PT Jump Shot (23 PTS) (Talbot 2 AST),73 - 71,-2,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1042200201,491,1,47,4,5:46 PM,1:29,Gray 17' Turnaround Jump Shot (21 PTS),,,73 - 73,TIE,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,492,6,2,4,5:47 PM,1:16,Plum S.FOUL (P4.T3),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1042200201,494,3,11,4,5:47 PM,1:16,,,MISS Loyd Free Throw 1 of 2,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,495,4,1,4,5:47 PM,1:16,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,496,3,12,4,5:47 PM,1:16,,,Loyd Free Throw 2 of 2 (24 PTS),74 - 73,-1,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,497,5,40,4,5:48 PM,0:56,Plum Out of Bounds Lost Ball Turnover (P2.T11),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200201,499,1,80,4,5:49 PM,0:34,,,Loyd 20' Step Back Jump Shot (26 PTS),76 - 73,-3,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,500,9,1,4,5:49 PM,0:34,ACES Timeout: Regular (Full 3 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,501,8,0,4,5:50 PM,0:34,SUB: Williams FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,503,2,1,4,5:50 PM,0:32,MISS Plum 26' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,504,4,0,4,5:50 PM,0:29,,,Charles REBOUND (Off:5 Def:13),,,5,202250,Tina Charles,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,505,2,79,4,5:51 PM,0:10,,,MISS Loyd 27' 3PT Pullup Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,506,4,0,4,5:51 PM,0:07,Williams REBOUND (Off:1 Def:3),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,507,9,2,4,5:51 PM,0:06,ACES Timeout: Short (Full 3 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200201,508,8,0,4,5:52 PM,0:06,SUB: Stokes FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200201,510,2,1,4,5:52 PM,0:02,MISS Plum 25' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200201,511,4,0,4,5:52 PM,0:02,,,Stewart REBOUND (Off:1 Def:5),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1042200201,512,13,0,4,5:53 PM,0:00,,End of 4th Period (5:53 PM EST),,76 - 73,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

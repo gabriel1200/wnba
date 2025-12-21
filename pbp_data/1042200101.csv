@@ -1,0 +1,387 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042200101,2,12,0,1,10:11 PM,10:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,4,10,0,1,10:11 PM,10:00,Jump Ball Stokes vs. B. Turner: Tip to Wilson,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,7,2,86,1,10:11 PM,9:43,MISS Wilson 7' Turnaround Fadeaway Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,8,4,0,1,10:11 PM,9:40,,,B. Turner REBOUND (Off:0 Def:1),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,9,1,1,1,10:11 PM,9:32,,,DeShields 25' 3PT Jump Shot (3 PTS) (Peddy 1 AST),3 - 0,-3,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,11,2,1,1,10:12 PM,9:18,MISS Young 24' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,12,4,0,1,10:12 PM,9:15,Stokes REBOUND (Off:1 Def:0),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,13,1,1,1,10:12 PM,9:12,Gray 25' 3PT Jump Shot (3 PTS) (Stokes 1 AST),,,3 - 3,TIE,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,15,2,79,1,10:12 PM,8:57,,,MISS DeShields 13' Pullup Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,16,4,0,1,10:12 PM,8:55,Plum REBOUND (Off:0 Def:1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,17,2,6,1,10:12 PM,8:47,MISS Wilson 8' Driving Layup,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,18,4,0,1,10:12 PM,8:45,,,Cunningham REBOUND (Off:0 Def:1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,19,1,2,1,10:12 PM,8:41,,,Cunningham 25' 3PT Running Jump Shot (3 PTS) (Simms 1 AST),6 - 3,-3,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,21,2,1,1,10:13 PM,8:25,MISS Plum 24' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,22,4,0,1,10:13 PM,8:23,,,B. Turner REBOUND (Off:0 Def:2),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,23,2,79,1,10:13 PM,8:13,,,MISS DeShields 11' Pullup Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,24,4,0,1,10:13 PM,8:10,Gray REBOUND (Off:0 Def:1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,25,5,1,1,10:13 PM,8:05,Gray Bad Pass Turnover (P1.T1),,Peddy STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,27,1,41,1,10:13 PM,8:00,,,Simms 3' Running Layup (2 PTS) (Peddy 2 AST),8 - 3,-5,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,30,2,1,1,10:14 PM,7:35,MISS Wilson 25' 3PT Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,31,4,0,1,10:14 PM,7:32,,,Simms REBOUND (Off:0 Def:1),,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,32,2,1,1,10:14 PM,7:22,,,MISS Simms 24' 3PT Jump Shot,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,33,4,0,1,10:14 PM,7:19,Young REBOUND (Off:0 Def:1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,34,1,101,1,10:14 PM,7:12,Plum 12' Driving Floating Jump Shot (2 PTS) (Young 1 AST),,,8 - 5,-3,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,36,2,6,1,10:14 PM,6:57,,,MISS Peddy 4' Driving Layup,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,37,4,0,1,10:14 PM,6:55,Gray REBOUND (Off:0 Def:2),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,38,1,98,1,10:14 PM,6:48,Wilson 3' Cutting Layup Shot (2 PTS) (Gray 1 AST),,,8 - 7,-1,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,40,2,6,1,10:15 PM,6:23,,,MISS Peddy 6' Driving Layup,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,41,4,0,1,10:15 PM,6:22,Wilson REBOUND (Off:0 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,42,2,79,1,10:15 PM,6:14,MISS Gray 27' 3PT Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,43,4,0,1,10:15 PM,6:11,,,DeShields REBOUND (Off:0 Def:1),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,44,2,1,1,10:15 PM,5:55,,,MISS Peddy 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,45,4,0,1,10:15 PM,5:53,,,B. Turner REBOUND (Off:1 Def:2),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,46,1,6,1,10:15 PM,5:47,,,DeShields 3' Driving Layup (5 PTS),10 - 7,-3,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,47,2,79,1,10:16 PM,5:33,MISS Plum 26' 3PT Pullup Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,48,4,0,1,10:16 PM,5:31,,,B. Turner REBOUND (Off:1 Def:3),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,49,1,79,1,10:16 PM,5:23,,,DeShields 16' Pullup Jump Shot (7 PTS),12 - 7,-5,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,50,6,1,1,10:16 PM,5:11,,,Simms P.FOUL (P1.T1),,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,125,8,0,1,10:16 PM,5:11,SUB: Williams FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,126,8,0,1,10:16 PM,5:11,SUB: Rupert FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,56,1,1,1,10:17 PM,4:59,Rupert 3PT Jump Shot (3 PTS) (Young 2 AST),,,12 - 10,-2,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,58,5,1,1,10:17 PM,4:44,Young STEAL (1 STL),,B. Turner Bad Pass Turnover (P1.T1),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,60,5,39,1,10:17 PM,4:38,Plum Step Out of Bounds Turnover (P1.T2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200101,61,9,4,1,10:17 PM,4:38,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,99,8,0,1,10:19 PM,4:38,,,SUB: Y. Turner FOR Peddy,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,62,2,1,1,10:20 PM,4:27,,,MISS DeShields 26' 3PT Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,63,4,0,1,10:20 PM,4:26,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,64,2,3,1,10:21 PM,4:04,MISS Wilson 7' Hook Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,65,4,0,1,10:21 PM,4:01,Rupert REBOUND (Off:1 Def:0),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,66,2,79,1,10:21 PM,4:00,MISS Williams 26' 3PT Pullup Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,67,4,0,1,10:21 PM,4:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200101,68,6,1,1,10:21 PM,3:58,Young P.FOUL (P1.T1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,73,2,5,1,10:22 PM,3:35,Wilson BLOCK (1 BLK),,MISS Y. Turner 2' Layup,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0
+1042200101,75,4,0,1,10:22 PM,3:31,Wilson REBOUND (Off:0 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,76,2,79,1,10:22 PM,3:31,MISS Wilson 15' Pullup Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,77,4,0,1,10:22 PM,3:29,,,DeShields REBOUND (Off:0 Def:2),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,78,1,79,1,10:22 PM,3:05,,,DeShields 12' Pullup Jump Shot (9 PTS),14 - 10,-4,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,79,1,79,1,10:22 PM,2:52,Plum 16' Pullup Jump Shot (4 PTS) (Williams 1 AST),,,14 - 12,-2,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,81,2,63,1,10:23 PM,2:37,,,MISS DeShields 12' Fadeaway Jumper,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,82,4,0,1,10:23 PM,2:34,Young REBOUND (Off:0 Def:2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,83,2,6,1,10:23 PM,2:25,MISS Young 5' Driving Layup,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,84,4,0,1,10:23 PM,2:23,Wilson REBOUND (Off:1 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,85,6,2,1,10:23 PM,2:23,,,B. Turner S.FOUL (P1.T2),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,87,3,11,1,10:23 PM,2:23,Wilson Free Throw 1 of 2 (3 PTS),,,14 - 13,-1,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,88,8,0,1,10:23 PM,2:23,,,SUB: Peddy FOR DeShields,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,89,8,0,1,10:23 PM,2:23,,,SUB: Gustafson FOR Simms,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,92,3,12,1,10:24 PM,2:23,Wilson Free Throw 2 of 2 (4 PTS),,,14 - 14,TIE,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,93,2,57,1,10:24 PM,2:09,,,MISS Gustafson 7' Driving Hook Shot,,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,94,4,0,1,10:24 PM,2:07,Williams REBOUND (Off:0 Def:1),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,95,6,1,1,10:24 PM,1:59,,,Cunningham P.FOUL (P1.T3),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,97,8,0,1,10:24 PM,1:59,SUB: Gray FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,101,2,1,1,10:25 PM,1:46,MISS Rupert 4' Jump Shot,,Gustafson BLOCK (1 BLK),,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,1
+1042200101,102,4,0,1,10:25 PM,1:46,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200101,105,2,79,1,10:25 PM,1:45,MISS Wilson 15' Pullup Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,106,4,0,1,10:25 PM,1:42,,,B. Turner REBOUND (Off:1 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,107,1,6,1,10:25 PM,1:24,,,Peddy 7' Driving Layup (2 PTS) (B. Turner 1 AST),16 - 14,-2,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,109,1,1,1,10:25 PM,1:19,Young 15' Jump Shot (2 PTS) (Gray 2 AST),,,16 - 16,TIE,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,111,1,6,1,10:26 PM,0:59,,,Cunningham 4' Driving Layup (5 PTS) (Gustafson 1 AST),18 - 16,-2,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,113,1,1,1,10:26 PM,0:47,Young 24' 3PT Jump Shot (5 PTS) (Gray 3 AST),,,18 - 19,1,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,115,1,6,1,10:26 PM,0:28,,,Gustafson 5' Driving Layup (2 PTS) (Y. Turner 1 AST),20 - 19,-1,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,117,6,2,1,10:27 PM,0:09,,,Gustafson S.FOUL (P1.PN),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,119,3,11,1,10:27 PM,0:09,Wilson Free Throw 1 of 2 (5 PTS),,,20 - 20,TIE,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,120,8,0,1,10:27 PM,0:09,,,SUB: Davis FOR Y. Turner,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,122,3,12,1,10:27 PM,0:09,Wilson Free Throw 2 of 2 (6 PTS),,,20 - 21,1,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,129,13,0,1,10:31 PM,0:00,,End of 1st Period (10:31 PM EST),,20 - 21,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200101,138,12,0,2,10:31 PM,10:00,,Start of 2nd Period (10:31 PM EST),,20 - 21,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,139,1,6,2,10:31 PM,9:43,,,Davis 5' Driving Layup (2 PTS) (Peddy 3 AST),22 - 21,-1,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,141,1,6,2,10:32 PM,9:25,Plum 3' Driving Layup (6 PTS),,,22 - 23,1,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,142,2,5,2,10:32 PM,9:06,,,MISS Gray 3' Layup,,,5,204334,Reshanda Gray,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,143,4,0,2,10:32 PM,9:04,,,Gray REBOUND (Off:1 Def:0),,,5,204334,Reshanda Gray,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,144,2,1,2,10:32 PM,8:56,,,MISS DeShields 22' Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,145,4,0,2,10:32 PM,8:53,Stokes REBOUND (Off:1 Def:1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,146,2,79,2,10:32 PM,8:45,MISS Gray 9' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,147,4,0,2,10:32 PM,8:43,,,DeShields REBOUND (Off:0 Def:3),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,148,6,1,2,10:32 PM,8:39,Gray P.FOUL (P1.T1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,204334,Reshanda Gray,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,150,5,1,2,10:33 PM,8:36,Williams STEAL (1 STL),,Peddy Bad Pass Turnover (P1.T2),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,153,5,45,2,10:33 PM,8:31,Gray Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200101,154,2,1,2,10:34 PM,8:13,Stokes BLOCK (1 BLK),,MISS Gray 13' Jump Shot,,,5,204334,Reshanda Gray,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,156,4,0,2,10:34 PM,8:08,Stokes REBOUND (Off:1 Def:2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,157,6,4,2,10:34 PM,8:01,Rupert OFF.Foul (P1),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,159,5,37,2,10:34 PM,8:01,Rupert Offensive Foul Turnover (P1.T4),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200101,160,8,0,2,10:34 PM,8:01,SUB: Wilson FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,161,8,0,2,10:34 PM,8:01,SUB: Young FOR Rupert,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,162,8,0,2,10:34 PM,8:01,,,SUB: Simms FOR Gustafson,,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,163,8,0,2,10:34 PM,8:01,,,SUB: B. Turner FOR Davis,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,164,8,0,2,10:34 PM,8:01,,,SUB: Cunningham FOR Gray,,,5,204334,Reshanda Gray,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,170,2,6,2,10:34 PM,7:50,,,MISS DeShields 4' Driving Layup,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,171,4,0,2,10:34 PM,7:47,,,Cunningham REBOUND (Off:1 Def:1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,172,2,6,2,10:35 PM,7:42,,,MISS Peddy 5' Driving Layup,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,173,4,0,2,10:35 PM,7:40,Stokes REBOUND (Off:1 Def:3),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,174,1,5,2,10:35 PM,7:32,Stokes 3' Layup (2 PTS) (Wilson 1 AST),,,22 - 25,3,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,176,2,5,2,10:35 PM,7:21,,,MISS B. Turner 3' Layup,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,177,4,0,2,10:35 PM,7:19,Stokes REBOUND (Off:1 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,178,5,40,2,10:35 PM,7:16,Plum Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200101,179,5,4,2,10:35 PM,7:04,,,Simms Traveling Turnover (P1.T3),,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042200101,180,6,2,2,10:36 PM,6:50,,,Cunningham S.FOUL (P2.T1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,182,3,11,2,10:36 PM,6:50,Plum Free Throw 1 of 2 (7 PTS),,,22 - 26,4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,183,3,12,2,10:36 PM,6:50,Plum Free Throw 2 of 2 (8 PTS),,,22 - 27,5,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,184,2,1,2,10:37 PM,6:37,,,MISS DeShields 22' Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,185,4,0,2,10:37 PM,6:33,Young REBOUND (Off:0 Def:3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,186,5,4,2,10:37 PM,6:16,Young Traveling Turnover (P1.T6),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200101,187,2,1,2,10:37 PM,6:05,,,MISS Peddy 24' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,188,4,0,2,10:38 PM,6:02,Wilson REBOUND (Off:1 Def:3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,189,1,1,2,10:38 PM,5:52,Gray 3PT Jump Shot (6 PTS) (Wilson 2 AST),,,22 - 30,8,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,191,2,5,2,10:38 PM,5:40,Wilson BLOCK (2 BLK),,MISS B. Turner 3' Layup,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,193,4,0,2,10:38 PM,5:40,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,195,9,4,2,10:38 PM,5:40,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,196,2,6,2,10:41 PM,5:29,,,MISS DeShields 9' Driving Layup,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,197,4,0,2,10:41 PM,5:29,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200101,199,6,3,2,10:41 PM,5:28,,,Simms L.B.FOUL (P2.T2),,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,202,2,79,2,10:42 PM,5:19,MISS Young 11' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,203,4,0,2,10:42 PM,5:15,,,DeShields REBOUND (Off:0 Def:4),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,204,6,2,2,10:42 PM,5:07,Stokes S.FOUL (P1.T2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1042200101,206,3,11,2,10:42 PM,5:07,,,DeShields Free Throw 1 of 2 (10 PTS),23 - 30,7,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,207,8,0,2,10:42 PM,5:07,SUB: Williams FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,209,3,12,2,10:43 PM,5:07,,,DeShields Free Throw 2 of 2 (11 PTS),24 - 30,6,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,210,1,101,2,10:43 PM,4:46,Young 7' Driving Floating Jump Shot (7 PTS),,,24 - 32,8,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,211,2,1,2,10:43 PM,4:36,,,MISS Cunningham 27' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,212,4,0,2,10:43 PM,4:33,Young REBOUND (Off:0 Def:4),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,213,1,2,2,10:43 PM,4:28,Young 24' 3PT Running Jump Shot (10 PTS),,,24 - 35,11,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,214,9,1,2,10:43 PM,4:27,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,215,1,1,2,10:47 PM,4:11,,,Peddy 29' 3PT Jump Shot (5 PTS) (DeShields 1 AST),27 - 35,8,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,217,2,1,2,10:47 PM,3:57,MISS Young 26' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,218,4,0,2,10:47 PM,3:53,,,Cunningham REBOUND (Off:1 Def:2),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,219,1,1,2,10:47 PM,3:38,,,Peddy 26' 3PT Jump Shot (8 PTS) (B. Turner 2 AST),30 - 35,5,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,221,9,1,2,10:48 PM,3:38,ACES Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,222,8,0,2,10:49 PM,3:38,SUB: Gray FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,224,1,1,2,10:50 PM,3:19,Plum 25' 3PT Jump Shot (11 PTS),,,30 - 38,8,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,226,2,1,2,10:50 PM,2:56,,,MISS Simms 24' 3PT Jump Shot,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,227,4,0,2,10:50 PM,2:55,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,228,6,3,2,10:50 PM,2:55,Young L.B.FOUL (P2.T3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,230,2,57,2,10:51 PM,2:43,,,MISS Simms 8' Driving Hook Shot,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,231,4,0,2,10:51 PM,2:41,,,B. Turner REBOUND (Off:2 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,232,5,11,2,10:51 PM,2:41,,,Mercury Turnover: Shot Clock (T#4),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,233,1,98,2,10:51 PM,2:26,Young 4' Cutting Layup Shot (12 PTS) (Wilson 3 AST),,,30 - 40,10,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,235,2,6,2,10:51 PM,2:12,Stokes BLOCK (2 BLK),,MISS B. Turner 4' Driving Layup,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,237,4,0,2,10:51 PM,2:12,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,239,8,0,2,10:52 PM,2:12,,,SUB: Gustafson FOR Simms,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,241,6,1,2,10:52 PM,2:04,,,B. Turner P.FOUL (P2.T3),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,243,2,47,2,10:52 PM,1:57,MISS Young 13' Turnaround Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,244,4,0,2,10:52 PM,1:55,,,Gustafson REBOUND (Off:0 Def:1),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,245,1,6,2,10:53 PM,1:37,,,Cunningham 5' Driving Layup (7 PTS) (Peddy 4 AST),32 - 40,8,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,247,6,2,2,10:53 PM,1:37,Wilson S.FOUL (P1.T4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,249,3,10,2,10:53 PM,1:37,,,Cunningham Free Throw 1 of 1 (8 PTS),33 - 40,7,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,250,2,79,2,10:53 PM,1:26,MISS Young 18' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,251,4,0,2,10:53 PM,1:24,,,DeShields REBOUND (Off:0 Def:5),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,252,1,98,2,10:53 PM,1:13,,,DeShields 3' Cutting Layup Shot (13 PTS) (Cunningham 1 AST),35 - 40,5,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,254,2,79,2,10:54 PM,0:59,MISS Wilson 15' Pullup Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,255,4,0,2,10:54 PM,0:57,,,Peddy REBOUND (Off:0 Def:1),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,256,2,1,2,10:54 PM,0:40,,,MISS Peddy 28' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,257,4,0,2,10:54 PM,0:36,,,B. Turner REBOUND (Off:3 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,258,2,1,2,10:54 PM,0:30,,,MISS Cunningham 24' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,259,4,0,2,10:54 PM,0:30,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,261,2,1,2,10:54 PM,0:29,,,MISS DeShields 14' Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,262,4,0,2,10:54 PM,0:25,Gray REBOUND (Off:0 Def:3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,263,1,103,2,10:55 PM,0:22,Gray 12' Running Pull-Up Jump Shot (8 PTS),,,35 - 42,7,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,264,2,80,2,10:55 PM,0:03,,,MISS Peddy 15' Step Back Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,265,4,0,2,10:55 PM,0:02,,,Peddy REBOUND (Off:1 Def:1),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,266,2,78,2,10:55 PM,0:01,,,MISS Peddy 5' Floating Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,267,4,0,2,10:55 PM,0:01,,,B. Turner REBOUND (Off:4 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,268,1,72,2,10:55 PM,0:00,,,B. Turner 1' Putback Layup (2 PTS),37 - 42,5,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,269,13,0,2,10:55 PM,0:00,,End of 2nd Period (10:55 PM EST),,37 - 42,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200101,272,12,0,3,11:11 PM,10:00,,Start of 3rd Period (11:11 PM EST),,37 - 42,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,273,2,1,3,11:12 PM,9:40,,,MISS Peddy 26' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,274,4,0,3,11:12 PM,9:35,,,B. Turner REBOUND (Off:5 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,276,2,79,3,11:12 PM,9:27,,,MISS DeShields 17' Pullup Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,277,4,0,3,11:12 PM,9:23,Plum REBOUND (Off:0 Def:2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,278,1,79,3,11:12 PM,9:17,Plum 24' 3PT Pullup Jump Shot (14 PTS),,,37 - 45,8,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,279,1,6,3,11:13 PM,8:54,,,DeShields 4' Driving Layup (15 PTS),39 - 45,6,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,280,6,2,3,11:13 PM,8:41,,,DeShields S.FOUL (P1.T1),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,282,3,11,3,11:13 PM,8:41,Plum Free Throw 1 of 2 (15 PTS),,,39 - 46,7,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,283,3,12,3,11:14 PM,8:41,Plum Free Throw 2 of 2 (16 PTS),,,39 - 47,8,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,284,2,1,3,11:14 PM,8:25,,,MISS Simms 25' 3PT Jump Shot,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,285,4,0,3,11:14 PM,8:25,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,286,6,3,3,11:14 PM,8:25,Plum L.B.FOUL (P1.T1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,288,2,78,3,11:14 PM,8:12,,,MISS Simms 6' Floating Jump Shot,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,289,4,0,3,11:15 PM,8:08,Wilson REBOUND (Off:1 Def:4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,290,6,26,3,11:15 PM,8:05,Wilson Offensive Charge Foul (P2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,292,5,37,3,11:15 PM,8:05,Wilson Offensive Foul Turnover (P1.T7),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200101,293,8,0,3,11:15 PM,8:05,,,SUB: Gustafson FOR Simms,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,295,2,43,3,11:15 PM,7:46,,,MISS B. Turner 4' Alley Oop Layup,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,296,4,0,3,11:15 PM,7:45,,,B. Turner REBOUND (Off:6 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,297,2,97,3,11:15 PM,7:44,,,MISS B. Turner 4' Tip Layup Shot,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,298,4,0,3,11:15 PM,7:43,Wilson REBOUND (Off:1 Def:5),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,299,2,41,3,11:16 PM,7:37,MISS Plum 8' Running Layup,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,300,4,0,3,11:16 PM,7:36,Stokes REBOUND (Off:2 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,340,2,97,3,11:16 PM,7:36,MISS Stokes 4' Tip Layup Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,341,4,0,3,11:16 PM,7:33,Plum REBOUND (Off:1 Def:2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,301,2,1,3,11:16 PM,7:28,MISS Plum 25' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,302,4,0,3,11:16 PM,7:26,,,B. Turner REBOUND (Off:6 Def:5),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,303,2,6,3,11:16 PM,7:09,,,MISS DeShields 6' Driving Layup,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,304,4,0,3,11:16 PM,7:07,Wilson REBOUND (Off:1 Def:6),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,305,6,1,3,11:16 PM,7:01,,,DeShields P.FOUL (P2.T2),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,307,2,1,3,11:17 PM,6:49,MISS Stokes 25' 3PT Jump Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,308,4,0,3,11:17 PM,6:46,,,DeShields REBOUND (Off:0 Def:6),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,309,2,1,3,11:17 PM,6:26,,,MISS Peddy 27' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,310,4,0,3,11:17 PM,6:24,Wilson REBOUND (Off:1 Def:7),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,311,5,1,3,11:17 PM,6:21,Wilson Bad Pass Turnover (P2.T8),,Peddy STEAL (2 STL),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,557,2,41,3,11:17 PM,6:19,,,MISS DeShields 6' Running Layup,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,558,4,0,3,11:17 PM,6:19,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,314,8,0,3,11:17 PM,6:18,SUB: Williams FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,316,2,6,3,11:18 PM,6:09,Williams BLOCK (1 BLK),,MISS Cunningham 11' Driving Layup,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,318,4,0,3,11:18 PM,6:06,Plum REBOUND (Off:1 Def:3),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,319,2,103,3,11:18 PM,6:02,MISS Young 12' Running Pull-Up Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,320,4,0,3,11:18 PM,5:59,,,B. Turner REBOUND (Off:6 Def:6),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,321,6,26,3,11:18 PM,5:55,,,Cunningham Offensive Charge Foul (P3),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,323,5,37,3,11:18 PM,5:55,,,Cunningham Offensive Foul Turnover (P1.T5),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042200101,324,2,79,3,11:19 PM,5:37,MISS Plum 21' Pullup Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,325,4,0,3,11:19 PM,5:35,,,B. Turner REBOUND (Off:6 Def:7),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,326,5,40,3,11:19 PM,5:18,,,Cunningham Out of Bounds Lost Ball Turnover (P2.T6),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042200101,327,2,79,3,11:20 PM,4:53,MISS Wilson 17' Pullup Jump Shot,,B. Turner BLOCK (1 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042200101,329,4,0,3,11:20 PM,4:53,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,330,5,11,3,11:20 PM,4:53,ACES Turnover: Shot Clock (T#9),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,398,9,1,3,11:21 PM,4:53,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,332,8,0,3,11:23 PM,4:53,SUB: Rupert FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,333,8,0,3,11:23 PM,4:53,,,SUB: Davis FOR DeShields,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,336,2,79,3,11:23 PM,4:40,,,MISS Davis 20' Pullup Jump Shot,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,337,4,0,3,11:23 PM,4:37,Young REBOUND (Off:0 Def:5),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,338,6,1,3,11:23 PM,4:28,,,B. Turner P.FOUL (P3.T3),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,342,6,1,3,11:24 PM,4:19,,,Gustafson P.FOUL (P2.T4),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,344,2,1,3,11:24 PM,4:11,MISS Williams 24' 3PT Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,345,4,0,3,11:24 PM,4:08,,,B. Turner REBOUND (Off:6 Def:8),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,346,6,2,3,11:25 PM,3:53,Rupert S.FOUL (P2.T2),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,348,3,13,3,11:25 PM,3:53,,,Cunningham Free Throw 1 of 3 (9 PTS),40 - 47,7,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,349,3,14,3,11:26 PM,3:53,,,MISS Cunningham Free Throw 2 of 3,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,350,4,1,3,11:26 PM,3:53,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,351,3,15,3,11:26 PM,3:53,,,MISS Cunningham Free Throw 3 of 3,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,352,4,0,3,11:26 PM,3:50,Wilson REBOUND (Off:1 Def:8),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,353,1,79,3,11:26 PM,3:36,Williams 18' Pullup Jump Shot (2 PTS) (Plum 1 AST),,,40 - 49,9,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,355,1,5,3,11:26 PM,3:14,,,Gustafson 4' Layup (4 PTS) (Peddy 5 AST),42 - 49,7,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,357,2,1,3,11:27 PM,3:01,MISS Rupert 24' 3PT Jump Shot,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,358,4,0,3,11:27 PM,2:58,,,Cunningham REBOUND (Off:1 Def:3),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,359,1,6,3,11:27 PM,2:41,,,Davis 4' Driving Layup (4 PTS),44 - 49,5,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,360,2,1,3,11:27 PM,2:26,MISS Wilson 11' Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,361,4,0,3,11:27 PM,2:24,,,Gustafson REBOUND (Off:0 Def:2),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,362,6,1,3,11:28 PM,2:06,Plum P.FOUL (P2.T3),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,364,8,0,3,11:28 PM,2:06,SUB: Gray FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,365,8,0,3,11:28 PM,2:06,SUB: Stokes FOR Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,369,5,4,3,11:28 PM,2:03,,,Gustafson Traveling Turnover (P1.T7),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,370,9,2,3,11:28 PM,2:03,,,Mercury Timeout: Short (Reg.2 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,371,8,0,3,11:30 PM,2:03,,,SUB: Y. Turner FOR Peddy,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,373,2,1,3,11:30 PM,1:42,MISS Rupert 25' 3PT Jump Shot,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,374,4,0,3,11:30 PM,1:39,,,Y. Turner REBOUND (Off:0 Def:1),,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,375,2,2,3,11:31 PM,1:34,,,MISS Davis 20' Running Jump Shot,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,376,4,0,3,11:31 PM,1:34,Stokes REBOUND (Off:2 Def:5),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,377,1,5,3,11:31 PM,1:21,Stokes 3' Layup (4 PTS) (Gray 4 AST),,,44 - 51,7,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,379,10,0,3,11:32 PM,1:08,Jump Ball Williams vs. Y. Turner: Tip to Gustafson,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,1
+1042200101,382,5,2,3,11:32 PM,1:01,Gray STEAL (1 STL),,Cunningham Lost Ball Turnover (P3.T8),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,384,2,2,3,11:32 PM,0:55,MISS Williams 3PT Running Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,385,4,0,3,11:32 PM,0:51,,,Gustafson REBOUND (Off:0 Def:3),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,386,6,1,3,11:32 PM,0:39,Rupert P.FOUL (P3.T4),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,388,8,0,3,11:32 PM,0:39,,,SUB: DeShields FOR B. Turner,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,390,2,6,3,11:33 PM,0:25,,,MISS Davis 6' Driving Layup,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,391,4,0,3,11:33 PM,0:25,,,Gustafson REBOUND (Off:1 Def:3),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,392,1,72,3,11:33 PM,0:25,,,Gustafson 3' Putback Layup (6 PTS),46 - 51,5,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,393,2,1,3,11:33 PM,0:03,MISS Rupert 3PT Jump Shot,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,394,4,0,3,11:33 PM,0:01,Stokes REBOUND (Off:3 Def:5),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,395,2,80,3,11:33 PM,0:00,MISS Stokes 14' Step Back Jump Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,396,4,0,3,11:33 PM,0:00,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,397,13,0,3,11:33 PM,0:00,,End of 3rd Period (11:33 PM EST),,46 - 51,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200101,401,12,0,4,11:36 PM,10:00,,Start of 4th Period (11:36 PM EST),,46 - 51,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,402,2,1,4,11:37 PM,9:41,MISS Gray 26' 3PT Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,403,4,0,4,11:37 PM,9:36,,,DeShields REBOUND (Off:0 Def:7),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,404,6,2,4,11:37 PM,9:26,Stokes S.FOUL (P2.T1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1042200101,406,3,11,4,11:37 PM,9:26,,,Gustafson Free Throw 1 of 2 (7 PTS),47 - 51,4,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,407,3,12,4,11:37 PM,9:26,,,Gustafson Free Throw 2 of 2 (8 PTS),48 - 51,3,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,408,2,1,4,11:38 PM,9:09,MISS Rupert 24' 3PT Jump Shot,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,409,4,0,4,11:38 PM,9:06,,,DeShields REBOUND (Off:0 Def:8),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,410,1,73,4,11:38 PM,8:48,,,Gustafson 3' Driving Reverse Layup (10 PTS) (Cunningham 2 AST),50 - 51,1,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,412,5,2,4,11:38 PM,8:39,Gray Lost Ball Turnover (P3.T10),,Cunningham STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,414,6,28,4,11:38 PM,8:39,Gray Personal Take Foul (P2.T2),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,416,8,0,4,11:38 PM,8:39,SUB: Young FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,417,8,0,4,11:38 PM,8:39,SUB: Wilson FOR Rupert,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,421,2,47,4,11:39 PM,8:21,Stokes BLOCK (3 BLK),,MISS DeShields 8' Turnaround Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,423,4,0,4,11:39 PM,8:18,Stokes REBOUND (Off:3 Def:6),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,424,2,2,4,11:39 PM,8:16,MISS Plum 24' 3PT Running Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,425,4,0,4,11:40 PM,8:12,,,Davis REBOUND (Off:0 Def:1),,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,426,2,79,4,11:40 PM,8:06,,,MISS Y. Turner 18' Pullup Jump Shot,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,427,4,0,4,11:40 PM,8:04,Wilson REBOUND (Off:1 Def:9),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,428,6,2,4,11:40 PM,7:51,,,Cunningham S.FOUL (P4.T1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,430,3,11,4,11:41 PM,7:51,Plum Free Throw 1 of 2 (17 PTS),,,50 - 52,2,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,431,3,12,4,11:41 PM,7:51,Plum Free Throw 2 of 2 (18 PTS),,,50 - 53,3,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,432,7,1,4,11:41 PM,7:50,,,Mercury Violation: Delay of game Violation,,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,433,6,2,4,11:41 PM,7:34,Young S.FOUL (P3.T3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,435,3,11,4,11:42 PM,7:34,,,MISS Davis Free Throw 1 of 2,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,436,4,1,4,11:42 PM,7:34,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,437,3,12,4,11:42 PM,7:34,,,Davis Free Throw 2 of 2 (5 PTS),51 - 53,2,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,438,1,79,4,11:42 PM,7:15,Wilson 18' Pullup Jump Shot (8 PTS) (Plum 2 AST),,,51 - 55,4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,440,7,1,4,11:42 PM,7:15,ACES Violation: Delay of game Violation,,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,441,5,1,4,11:43 PM,7:01,Stokes STEAL (1 STL),,Davis Bad Pass Turnover (P1.T9),,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,443,6,14,4,11:43 PM,6:54,,,Gustafson FLAGRANT.FOUL.TYPE1 (P3.T2),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,445,18,1,4,11:44 PM,6:54,,Instant Replay4th Period (11:44 PM EST),,51 - 55,4,0,443,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,446,3,18,4,11:45 PM,6:54,Gray Free Throw Flagrant 1 of 2 (9 PTS),,,51 - 56,5,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,449,3,19,4,11:45 PM,6:54,Gray Free Throw Flagrant 2 of 2 (10 PTS),,,51 - 57,6,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,447,8,0,4,11:46 PM,6:54,,,SUB: B. Turner FOR Gustafson,,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,450,1,1,4,11:46 PM,6:47,Gray 26' 3PT Jump Shot (13 PTS),,,51 - 60,9,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,452,1,79,4,11:46 PM,6:33,,,Davis 17' Pullup Jump Shot (7 PTS) (Y. Turner 2 AST),53 - 60,7,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,454,1,80,4,11:47 PM,6:15,Gray 15' Step Back Jump Shot (15 PTS),,,53 - 62,9,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,456,9,4,4,11:47 PM,5:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,458,2,79,4,11:51 PM,5:48,,,MISS DeShields 18' Pullup Jump Shot,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,459,4,0,4,11:51 PM,5:44,Wilson REBOUND (Off:1 Def:10),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,460,2,1,4,11:51 PM,5:27,MISS Plum 27' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,461,4,0,4,11:51 PM,5:24,,,B. Turner REBOUND (Off:6 Def:9),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,462,2,79,4,11:52 PM,5:10,,,MISS Davis 15' Pullup Jump Shot,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,463,4,0,4,11:52 PM,5:08,Stokes REBOUND (Off:3 Def:7),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,471,6,14,4,11:53 PM,4:52,Young FLAGRANT.FOUL.TYPE1 (P4.T4),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,490,5,0,4,11:53 PM,4:52,Young Turnover Turnover (P2.T11),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,0
+1042200101,473,18,1,4,11:53 PM,4:52,,Instant Replay4th Period (11:53 PM EST),,53 - 62,9,0,471,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,474,3,18,4,11:54 PM,4:52,,,Davis Free Throw Flagrant 1 of 2 (8 PTS),54 - 62,8,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,475,3,19,4,11:54 PM,4:52,,,Davis Free Throw Flagrant 2 of 2 (9 PTS),55 - 62,7,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,476,6,2,4,11:55 PM,4:38,Stokes S.FOUL (P3.PN),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,478,3,11,4,11:55 PM,4:38,,,MISS Cunningham Free Throw 1 of 2,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,479,4,1,4,11:55 PM,4:38,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,480,3,12,4,11:55 PM,4:38,,,MISS Cunningham Free Throw 2 of 2,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,481,4,0,4,11:55 PM,4:36,Stokes REBOUND (Off:3 Def:8),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,482,6,2,4,11:56 PM,4:23,,,Davis S.FOUL (P1.T3),,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,484,3,11,4,11:56 PM,4:23,Young Free Throw 1 of 2 (13 PTS),,,55 - 63,8,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,485,3,12,4,11:56 PM,4:23,Young Free Throw 2 of 2 (14 PTS),,,55 - 64,9,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,486,2,6,4,11:57 PM,4:09,,,MISS Davis 9' Driving Layup,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,487,4,0,4,11:57 PM,4:07,Stokes REBOUND (Off:3 Def:9),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,488,1,80,4,11:57 PM,3:58,Gray 15' Step Back Jump Shot (17 PTS),,,55 - 66,11,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,489,9,1,4,11:57 PM,3:58,,,Mercury Timeout: Regular (Reg.3 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,491,8,0,4,11:58 PM,3:58,,,SUB: Simms FOR DeShields,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,493,2,6,4,12:00 AM,3:34,,,MISS Davis 5' Driving Layup,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,494,4,0,4,12:00 AM,3:32,Stokes REBOUND (Off:3 Def:10),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,495,5,10,4,12:01 AM,3:25,ACES Turnover: 8 Second Violation (T#12),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200101,496,8,0,4,12:01 AM,3:25,,,SUB: Gustafson FOR Y. Turner,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,497,8,0,4,12:01 AM,3:25,,,SUB: DeShields FOR Simms,,,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,500,1,101,4,12:01 AM,3:14,,,DeShields 4' Driving Floating Jump Shot (17 PTS),57 - 66,9,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,501,6,2,4,12:01 AM,3:14,Plum S.FOUL (P3.PN),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,503,3,10,4,12:01 AM,3:14,,,DeShields Free Throw 1 of 1 (18 PTS),58 - 66,8,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,504,6,2,4,12:02 AM,3:01,,,Cunningham S.FOUL (P5.T4),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,506,3,11,4,12:02 AM,3:01,Plum Free Throw 1 of 2 (19 PTS),,,58 - 67,9,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,507,3,12,4,12:02 AM,3:01,Plum Free Throw 2 of 2 (20 PTS),,,58 - 68,10,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,508,2,1,4,12:03 AM,2:49,Wilson BLOCK (3 BLK),,MISS Gustafson 27' 3PT Jump Shot,,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200101,510,4,0,4,12:03 AM,2:46,Plum REBOUND (Off:1 Def:4),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,511,1,41,4,12:03 AM,2:42,Plum 4' Running Layup (22 PTS),,,58 - 70,12,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,512,2,1,4,12:03 AM,2:22,,,MISS Gustafson 25' 3PT Jump Shot,,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,513,4,0,4,12:03 AM,2:19,Gray REBOUND (Off:0 Def:4),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,514,6,2,4,12:03 AM,2:14,,,Gustafson S.FOUL (P4.PN),,,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200101,516,3,11,4,12:04 AM,2:14,Stokes Free Throw 1 of 2 (5 PTS),,,58 - 71,13,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,517,3,12,4,12:04 AM,2:14,Stokes Free Throw 2 of 2 (6 PTS),,,58 - 72,14,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200101,518,5,2,4,12:04 AM,2:03,Plum STEAL (1 STL),,DeShields Lost Ball Turnover (P1.T10),,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,520,1,41,4,12:04 AM,1:57,Stokes 4' Running Layup (8 PTS) (Plum 3 AST),,,58 - 74,16,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,522,1,1,4,12:05 AM,1:43,,,Cunningham 25' 3PT Jump Shot (12 PTS) (DeShields 2 AST),61 - 74,13,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042200101,524,1,79,4,12:05 AM,1:35,Young 18' Pullup Jump Shot (16 PTS) (Plum 4 AST),,,61 - 76,15,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,526,2,6,4,12:05 AM,1:25,,,MISS DeShields 5' Driving Layup,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,527,4,0,4,12:05 AM,1:23,Wilson REBOUND (Off:1 Def:11),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,528,9,2,4,12:05 AM,1:17,ACES Timeout: Short (Full 1 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200101,529,8,0,4,12:05 AM,1:17,SUB: Sheppard FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1631013,Aisha Sheppard,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,530,8,0,4,12:05 AM,1:17,SUB: Plaisance FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203849,Theresa Plaisance,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,531,8,0,4,12:05 AM,1:17,SUB: Bell FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,532,8,0,4,12:05 AM,1:17,SUB: Rupert FOR Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,533,8,0,4,12:05 AM,1:17,SUB: Colson FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200101,534,8,0,4,12:05 AM,1:17,,,SUB: Gray FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,204334,Reshanda Gray,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,535,8,0,4,12:05 AM,1:17,,,SUB: Thomas FOR DeShields,,,5,1628890,Diamond DeShields,1611661317.0,Phoenix,Mercury,PHO,5,1631068,Sam Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,543,1,1,4,12:07 AM,1:04,Rupert 3PT Jump Shot (6 PTS) (Bell 1 AST),,,61 - 79,18,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200101,545,2,47,4,12:07 AM,0:46,,,MISS Davis 6' Turnaround Jump Shot,,,5,1628273,Kaela Davis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,546,4,0,4,12:07 AM,0:42,Colson REBOUND (Off:0 Def:1),,,,,4,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,547,2,2,4,12:07 AM,0:40,MISS Sheppard 25' 3PT Running Jump Shot,,,,,4,1631013,Aisha Sheppard,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200101,548,4,0,4,12:07 AM,0:37,,,B. Turner REBOUND (Off:6 Def:10),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042200101,549,6,2,4,12:07 AM,0:22,Plaisance S.FOUL (P1.PN),,,,,4,203849,Theresa Plaisance,1611661319.0,Las Vegas,Aces,LVA,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042200101,551,3,11,4,12:08 AM,0:22,,,Gustafson Free Throw 1 of 2 (11 PTS),62 - 79,17,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,552,8,0,4,12:08 AM,0:22,,,SUB: Simms FOR B. Turner,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628287,Jennie Simms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042200101,554,3,12,4,12:08 AM,0:22,,,Gustafson Free Throw 2 of 2 (12 PTS),63 - 79,16,5,1629484,Megan Gustafson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042200101,555,13,0,4,12:10 AM,0:00,,End of 4th Period (12:10 AM EST),,63 - 79,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

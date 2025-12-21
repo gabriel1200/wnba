@@ -1,0 +1,364 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041400203,0,12,0,1,7:08 PM,10:00,,Start of 1st Period (7:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,1,10,0,1,7:08 PM,10:00,Jump Ball Larkins vs. Fowles: Tip to Vandersloot,,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0
+1041400203,2,2,1,1,7:08 PM,9:45,,,MISS Prince  3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,3,4,0,1,7:08 PM,9:43,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,4,5,1,1,7:09 PM,9:29,Larkins Bad Pass Turnover (P1.T1),,Vandersloot STEAL (1 STL),,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,5,2,1,1,7:09 PM,9:08,,,MISS Fowles 5' Jump Shot,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,6,4,0,1,7:09 PM,9:06,January REBOUND (Off:0 Def:1),,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,7,5,41,1,7:09 PM,8:54,January Poss Lost Ball Turnover (P1.T2),,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,8,2,1,1,7:10 PM,8:35,,,MISS Young 19' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,9,4,0,1,7:10 PM,8:34,Coleman REBOUND (Off:0 Def:1),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,10,7,5,1,7:10 PM,8:27,,,Vandersloot Violation:Kicked Ball,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1041400203,11,2,1,1,7:10 PM,8:12,MISS Catchings 19' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,12,4,0,1,7:10 PM,8:11,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,13,1,79,1,7:11 PM,8:04,,,Vandersloot 21' Pullup Jump Shot (2 PTS),2 - 0,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,14,2,1,1,7:11 PM,7:45,MISS Coleman 24' 3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,15,4,0,1,7:11 PM,7:44,,,Fowles REBOUND (Off:0 Def:1),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,16,1,42,1,7:11 PM,7:36,,,Delle Donne  Driving Layup (2 PTS) (Vandersloot 1 AST),4 - 0,-4,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,17,1,1,1,7:11 PM,7:14,Zellous 24' 3PT Jump Shot (3 PTS) (January 1 AST),,,4 - 3,-1,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,18,2,5,1,7:12 PM,6:50,,,MISS Prince 3' Layup,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,19,4,0,1,7:12 PM,6:49,Coleman REBOUND (Off:0 Def:2),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,20,5,1,1,7:12 PM,6:37,Zellous Bad Pass Turnover (P1.T3),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,21,2,5,1,7:12 PM,6:22,,,MISS Young 2' Layup,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,22,4,0,1,7:12 PM,6:21,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,23,2,1,1,7:13 PM,6:03,MISS Coleman 20' Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,24,4,0,1,7:13 PM,6:02,Catchings REBOUND (Off:1 Def:0),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,25,5,1,1,7:13 PM,6:00,Catchings Bad Pass Turnover (P1.T4),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,26,1,1,1,7:13 PM,5:35,,,Prince 24' 3PT Jump Shot (3 PTS) (Young 1 AST),7 - 3,-4,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,27,1,1,1,7:14 PM,5:13,Zellous 19' Jump Shot (5 PTS) (January 2 AST),,,7 - 5,-2,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,28,6,2,1,7:14 PM,4:47,Coleman S.FOUL (P1.T1),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,29,9,4,1,7:14 PM,4:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,31,3,11,1,7:17 PM,4:47,,,Delle Donne Free Throw 1 of 2 (3 PTS),8 - 5,-3,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,33,3,12,1,7:17 PM,4:47,,,Delle Donne Free Throw 2 of 2 (4 PTS),9 - 5,-4,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,35,2,1,1,7:18 PM,4:24,MISS Catchings 17' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,36,4,0,1,7:18 PM,4:22,Larkins REBOUND (Off:1 Def:0),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,37,2,1,1,7:18 PM,4:01,MISS Catchings 12' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,38,4,0,1,7:18 PM,4:00,,,Young REBOUND (Off:0 Def:1),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,39,5,2,1,7:18 PM,3:52,Larkins STEAL (1 STL),,Prince Lost Ball Turnover (P1.T1),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,40,1,5,1,7:18 PM,3:47,Larkins 2' Layup (2 PTS) (Catchings 1 AST),,,9 - 7,-2,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,41,2,1,1,7:19 PM,3:26,,,MISS Delle Donne 24' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,42,4,0,1,7:19 PM,3:25,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,43,8,0,1,7:19 PM,3:24,,,SUB: Quigley FOR Prince,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,44,8,0,1,7:19 PM,3:24,SUB: Christmas-Kelly FOR Catchings,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,45,2,1,1,7:19 PM,3:22,,,MISS Delle Donne 14' Jump Shot,,,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,46,4,0,1,7:19 PM,3:22,,,Fowles REBOUND (Off:1 Def:1),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,47,6,3,1,7:19 PM,3:22,Larkins L.B.FOUL (P1.T2),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,48,2,1,1,7:20 PM,3:06,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,49,4,0,1,7:20 PM,3:04,Larkins REBOUND (Off:1 Def:1),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,50,5,1,1,7:20 PM,2:59,January Bad Pass Turnover (P2.T5),,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,51,5,8,1,7:20 PM,2:44,,,Vandersloot 3 Second Violation Turnover (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1041400203,52,8,0,1,7:20 PM,2:44,SUB: Lucas FOR Coleman,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,53,2,1,1,7:21 PM,2:31,MISS January 19' Jump Shot,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,54,4,0,1,7:21 PM,2:29,,,Quigley REBOUND (Off:0 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,55,1,5,1,7:21 PM,2:22,,,Fowles 2' Layup (2 PTS) (Quigley 1 AST),11 - 7,-4,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,56,6,2,1,7:21 PM,2:22,Lucas S.FOUL (P1.T3),,,,,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,57,8,0,1,7:21 PM,2:22,,,SUB: Breland FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,58,3,10,1,7:21 PM,2:22,,,Fowles Free Throw 1 of 1 (3 PTS),12 - 7,-5,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,60,1,44,1,7:22 PM,2:02,January 1' Reverse Layup (2 PTS),,,12 - 9,-3,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,61,8,0,1,7:22 PM,1:50,,,SUB: Faulkner FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,62,10,0,1,7:23 PM,1:50,Jump Ball Zellous vs. Fowles: Tip to,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,3,1611661329,,,,,,0
+1041400203,63,6,27,1,7:23 PM,1:43,Lucas Personal Block Foul (P2.T4),,,,,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,64,6,17,1,7:24 PM,1:33,FEVER T.Foul (Def. 3 Sec Zellous ),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041400203,65,3,16,1,7:24 PM,1:33,,,Quigley Free Throw Technical (1 PTS),13 - 9,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,67,2,5,1,7:24 PM,1:26,January BLOCK (1 BLK),,MISS Breland 3' Layup,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0
+1041400203,68,4,0,1,7:24 PM,1:23,January REBOUND (Off:0 Def:2),,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,69,1,43,1,7:24 PM,1:14,Larkins 1' Alley Oop Layup (4 PTS) (Christmas-Kelly 1 AST),,,13 - 11,-2,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,70,2,1,1,7:25 PM,0:48,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,71,4,0,1,7:25 PM,0:46,Zellous REBOUND (Off:0 Def:1),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,72,2,1,1,7:25 PM,0:32,MISS Christmas-Kelly 4' Jump Shot,,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,73,4,0,1,7:25 PM,0:31,,,Breland REBOUND (Off:0 Def:1),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,74,6,27,1,7:25 PM,0:21,Zellous Personal Block Foul (P1.PN),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,75,3,11,1,7:26 PM,0:21,,,Quigley Free Throw 1 of 2 (2 PTS),14 - 11,-3,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,77,8,0,1,7:26 PM,0:21,,,SUB: Goodlett FOR Fowles,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,203067,Sasha Goodlett,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,78,8,0,1,7:26 PM,0:21,SUB: Kizer FOR Larkins,,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,79,3,12,1,7:26 PM,0:21,,,Quigley Free Throw 2 of 2 (3 PTS),15 - 11,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,81,2,1,1,7:26 PM,0:01,MISS Christmas-Kelly 11' Jump Shot,,Breland BLOCK (1 BLK),,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0
+1041400203,82,4,0,1,7:26 PM,0:00,Kizer REBOUND (Off:1 Def:0),,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,83,13,0,1,7:26 PM,0:00,,End of 1st Period (7:26 PM EST),,15 - 11,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,85,12,0,2,7:29 PM,10:00,,Start of 2nd Period (7:29 PM EST),,15 - 11,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,86,2,1,2,7:29 PM,9:41,MISS Kizer 4' Jump Shot,,Breland BLOCK (2 BLK),,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0
+1041400203,87,4,0,2,7:30 PM,9:41,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,88,2,1,2,7:30 PM,9:39,MISS Coleman 17' Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,89,4,0,2,7:30 PM,9:38,Kizer REBOUND (Off:2 Def:0),,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,90,1,5,2,7:30 PM,9:35,Kizer 2' Layup (2 PTS),,,15 - 13,-2,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,91,2,1,2,7:30 PM,9:09,,,MISS Faulkner  3PT Jump Shot,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,92,4,0,2,7:30 PM,9:08,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,93,5,11,2,7:30 PM,9:08,,,Sky Turnover: Shot Clock (T#3),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,94,8,0,2,7:30 PM,9:08,SUB: Clarendon FOR January,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,95,8,0,2,7:30 PM,9:08,SUB: Catchings FOR Zellous,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,96,6,1,2,7:31 PM,8:59,,,Goodlett P.FOUL (P1.T1),,,5,203067,Sasha Goodlett,1611661329.0,Chicago,Sky,CHI,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,97,8,0,2,7:31 PM,8:59,,,SUB: Vandersloot FOR Faulkner,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,98,8,0,2,7:31 PM,8:59,,,SUB: Young FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,99,2,1,2,7:31 PM,8:46,MISS Kizer 8' Jump Shot,,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,100,4,0,2,7:31 PM,8:41,Christmas-Kelly REBOUND (Off:1 Def:0),,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,101,1,95,2,7:32 PM,8:33,Kizer 2' Running Bank Hook Shot (4 PTS),,,15 - 15,TIE,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,102,2,5,2,7:32 PM,8:11,Kizer BLOCK (1 BLK),,MISS Vandersloot 2' Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0
+1041400203,103,4,0,2,7:32 PM,8:09,Kizer REBOUND (Off:2 Def:1),,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,104,2,1,2,7:32 PM,8:01,MISS Christmas-Kelly 24' 3PT Jump Shot,,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,105,4,0,2,7:32 PM,7:59,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,106,8,0,2,7:32 PM,7:58,,,SUB: Fowles FOR Goodlett,,,5,203067,Sasha Goodlett,1611661329.0,Chicago,Sky,CHI,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,107,8,0,2,7:32 PM,7:58,,,SUB: Prince FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,108,6,1,2,7:33 PM,7:39,Kizer P.FOUL (P1.T1),,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,109,8,0,2,7:33 PM,7:39,SUB: Larkins FOR Kizer,,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,110,6,2,2,7:33 PM,7:30,Christmas-Kelly S.FOUL (P1.T2),,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,111,3,11,2,7:33 PM,7:30,,,Vandersloot Free Throw 1 of 2 (3 PTS),16 - 15,-1,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,113,3,12,2,7:34 PM,7:30,,,MISS Vandersloot Free Throw 2 of 2,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,115,4,0,2,7:34 PM,7:29,Catchings REBOUND (Off:1 Def:1),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,116,2,5,2,7:34 PM,7:16,MISS Clarendon 2' Layup,,,,,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,117,4,0,2,7:34 PM,7:14,Catchings REBOUND (Off:2 Def:1),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,118,1,1,2,7:34 PM,7:05,Coleman 20' Jump Shot (2 PTS) (Catchings 2 AST),,,16 - 17,1,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,119,1,1,2,7:34 PM,6:51,,,Prince  3PT Jump Shot (6 PTS) (Vandersloot 2 AST),19 - 17,-2,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,121,8,0,2,7:35 PM,6:38,SUB: Zellous FOR Christmas-Kelly,,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,123,2,1,2,7:35 PM,6:26,MISS Coleman 24' 3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,124,4,0,2,7:36 PM,6:24,,,Fowles REBOUND (Off:1 Def:2),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,125,5,2,2,7:36 PM,6:18,Coleman STEAL (1 STL),,Vandersloot Lost Ball Turnover (P2.T4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,126,1,5,2,7:36 PM,6:13,Catchings 2' Layup (2 PTS),,,19 - 19,TIE,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,127,6,2,2,7:36 PM,5:55,Larkins S.FOUL (P2.T3),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,128,9,1,2,7:36 PM,5:55,FEVER Timeout: Regular (Full 1 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,131,3,11,2,7:39 PM,5:55,,,Fowles Free Throw 1 of 2 (4 PTS),20 - 19,-1,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,133,3,12,2,7:39 PM,5:55,,,Fowles Free Throw 2 of 2 (5 PTS),21 - 19,-2,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,137,7,5,2,7:40 PM,5:45,,,Vandersloot Violation:Kicked Ball,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1041400203,138,6,27,2,7:40 PM,5:38,,,Fowles Personal Block Foul (P1.T2),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,139,5,2,2,7:41 PM,5:25,Clarendon Lost Ball Turnover (P1.T6),,Vandersloot STEAL (2 STL),,,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,140,2,1,2,7:41 PM,5:19,,,MISS Young 12' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,141,4,0,2,7:41 PM,5:17,Catchings REBOUND (Off:2 Def:2),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,142,2,1,2,7:41 PM,5:02,MISS Coleman  3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,143,4,0,2,7:41 PM,5:01,,,Prince REBOUND (Off:0 Def:1),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,144,2,1,2,7:41 PM,4:45,,,MISS Prince  3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,145,4,0,2,7:41 PM,4:44,,,Fowles REBOUND (Off:2 Def:2),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,146,2,5,2,7:41 PM,4:41,Zellous BLOCK (1 BLK),,MISS Fowles 2' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0
+1041400203,147,4,0,2,7:42 PM,4:40,Catchings REBOUND (Off:2 Def:3),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,148,6,2,2,7:42 PM,4:37,,,Vandersloot S.FOUL (P1.T3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,149,3,11,2,7:42 PM,4:37,MISS Zellous Free Throw 1 of 2,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,150,4,1,2,7:42 PM,4:37,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,151,8,0,2,7:42 PM,4:37,,,SUB: Quigley FOR Prince,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,152,8,0,2,7:42 PM,4:37,SUB: January FOR Clarendon,,,,,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,153,3,12,2,7:42 PM,4:37,Zellous Free Throw 2 of 2 (6 PTS),,,21 - 20,-1,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,155,1,79,2,7:43 PM,4:26,,,Quigley 24' 3PT Pullup Jump Shot (6 PTS),24 - 20,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,156,2,1,2,7:43 PM,4:01,MISS Catchings 14' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,157,4,0,2,7:43 PM,4:00,Larkins REBOUND (Off:2 Def:1),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,158,5,1,2,7:43 PM,3:58,Catchings Bad Pass Turnover (P2.T7),,Vandersloot STEAL (3 STL),,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,159,1,5,2,7:43 PM,3:52,,,Quigley 3' Layup (8 PTS) (Vandersloot 3 AST),26 - 20,-6,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,160,9,1,2,7:43 PM,3:46,FEVER Timeout: Regular (Full 2 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,162,1,42,2,7:46 PM,3:39,Zellous 2' Driving Layup (8 PTS) (Larkins 1 AST),,,26 - 22,-4,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,163,1,5,2,7:46 PM,3:16,,,Fowles 1' Layup (7 PTS),28 - 22,-6,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,164,6,2,2,7:47 PM,2:53,,,Young S.FOUL (P1.T4),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,165,3,11,2,7:47 PM,2:53,Catchings Free Throw 1 of 2 (3 PTS),,,28 - 23,-5,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,167,3,12,2,7:47 PM,2:53,Catchings Free Throw 2 of 2 (4 PTS),,,28 - 24,-4,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,169,1,1,2,7:48 PM,2:31,,,Quigley 25' 3PT Jump Shot (11 PTS) (Delle Donne 1 AST),31 - 24,-7,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,170,1,75,2,7:48 PM,2:18,Zellous  Driving Finger Roll Layup (10 PTS),,,31 - 26,-5,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,171,2,1,2,7:48 PM,1:54,,,MISS Young 20' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,172,4,0,2,7:48 PM,1:53,Coleman REBOUND (Off:0 Def:3),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,173,6,2,2,7:49 PM,1:44,,,Fowles S.FOUL (P2.PN),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,174,3,11,2,7:49 PM,1:44,MISS Catchings Free Throw 1 of 2,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,175,4,1,2,7:49 PM,1:44,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,176,3,12,2,7:49 PM,1:44,Catchings Free Throw 2 of 2 (5 PTS),,,31 - 27,-4,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,178,1,79,2,7:50 PM,1:30,,,Quigley 18' Pullup Jump Shot (13 PTS),33 - 27,-6,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,179,1,5,2,7:50 PM,1:18,Larkins 1' Layup (6 PTS) (January 3 AST),,,33 - 29,-4,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,181,2,5,2,7:50 PM,0:55,January BLOCK (2 BLK),,MISS Young 2' Layup,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0
+1041400203,182,4,0,2,7:50 PM,0:55,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,183,8,0,2,7:50 PM,0:55,,,SUB: Gatling FOR Fowles,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,203832,Markeisha Gatling,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,184,5,1,2,7:51 PM,0:39,January Bad Pass Turnover (P3.T8),,Young STEAL (1 STL),,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,185,1,5,2,7:51 PM,0:32,,,Young 1' Layup (2 PTS) (Vandersloot 4 AST),35 - 29,-6,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,186,2,1,2,7:51 PM,0:13,MISS Catchings 24' 3PT Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,187,4,0,2,7:51 PM,0:11,Larkins REBOUND (Off:3 Def:1),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,188,5,1,2,7:51 PM,0:06,January Bad Pass Turnover (P4.T9),,Young STEAL (2 STL),,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,189,1,5,2,7:52 PM,0:01,,,Vandersloot 2' Layup (5 PTS) (Young 2 AST),37 - 29,-8,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,190,2,1,2,7:52 PM,0:00,MISS January 61' 3PT Jump Shot,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,192,4,0,2,7:52 PM,0:00,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,191,13,0,2,7:52 PM,0:00,,End of 2nd Period (7:52 PM EST),,37 - 29,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,194,12,0,3,8:07 PM,10:00,,Start of 3rd Period (8:07 PM EST),,37 - 29,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,195,6,27,3,8:07 PM,9:49,,,Vandersloot Personal Block Foul (P2.T1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,196,6,27,3,8:08 PM,9:41,,,Vandersloot Personal Block Foul (P3.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,198,2,1,3,8:08 PM,9:26,MISS January 11' Jump Shot,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,199,4,0,3,8:08 PM,9:25,,,Fowles REBOUND (Off:2 Def:3),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,200,1,5,3,8:09 PM,9:09,,,Young 1' Layup (4 PTS),39 - 29,-10,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,201,1,42,3,8:09 PM,8:54,Coleman 1' Driving Layup (4 PTS),,,39 - 31,-8,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,202,2,5,3,8:09 PM,8:33,,,MISS Fowles 1' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,203,4,0,3,8:09 PM,8:32,Zellous REBOUND (Off:0 Def:2),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,204,1,79,3,8:09 PM,8:26,January 21' Pullup Jump Shot (4 PTS),,,39 - 33,-6,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,205,1,1,3,8:10 PM,7:57,,,Young 17' Jump Shot (6 PTS),41 - 33,-8,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,206,6,2,3,8:10 PM,7:57,January S.FOUL (P1.T1),,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,207,3,10,3,8:10 PM,7:57,,,MISS Young Free Throw 1 of 1,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,209,4,0,3,8:11 PM,7:56,Catchings REBOUND (Off:2 Def:4),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,210,2,1,3,8:11 PM,7:42,MISS Coleman 24' 3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,211,4,0,3,8:11 PM,7:40,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,212,2,1,3,8:11 PM,7:35,MISS Zellous 20' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,213,4,0,3,8:11 PM,7:34,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,214,2,1,3,8:12 PM,7:15,,,MISS Young 17' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,215,4,0,3,8:12 PM,7:14,Coleman REBOUND (Off:0 Def:4),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,216,2,1,3,8:12 PM,7:02,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,217,4,0,3,8:12 PM,6:59,,,Prince REBOUND (Off:0 Def:2),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,218,6,28,3,8:12 PM,6:58,Zellous Personal Take Foul (P2.T2),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,219,8,0,3,8:12 PM,6:58,,,SUB: Breland FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,220,5,38,3,8:12 PM,6:58,,,Sky Turnover: 5 Second Inbound (T#5),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,221,1,1,3,8:13 PM,6:34,Zellous 24' 3PT Jump Shot (13 PTS) (Catchings 3 AST),,,41 - 36,-5,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,222,2,1,3,8:13 PM,6:23,,,MISS Prince 16' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,223,4,0,3,8:13 PM,6:22,Larkins REBOUND (Off:3 Def:2),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,224,2,1,3,8:13 PM,6:10,MISS Catchings 18' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,225,4,0,3,8:13 PM,6:09,,,Breland REBOUND (Off:0 Def:2),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,226,2,1,3,8:14 PM,5:47,,,MISS Prince 5' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,227,4,0,3,8:14 PM,5:43,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,228,8,0,3,8:14 PM,5:43,,,SUB: Quigley FOR Prince,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,229,8,0,3,8:14 PM,5:43,SUB: Christmas-Kelly FOR Catchings,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,230,1,1,3,8:15 PM,5:24,Zellous 17' Jump Shot (15 PTS),,,41 - 38,-3,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,231,9,1,3,8:15 PM,5:22,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,233,6,1,3,8:18 PM,5:06,Coleman P.FOUL (P2.T3),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,234,5,11,3,8:18 PM,4:52,,,Sky Turnover: Shot Clock (T#6),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,235,8,0,3,8:18 PM,4:52,,,SUB: Prince FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,236,2,1,3,8:19 PM,4:38,MISS Zellous 15' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,237,4,0,3,8:19 PM,4:37,,,Fowles REBOUND (Off:2 Def:4),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,238,1,1,3,8:19 PM,4:25,,,Prince  3PT Jump Shot (9 PTS) (Vandersloot 5 AST),44 - 38,-6,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,239,5,2,3,8:19 PM,4:09,Coleman Lost Ball Turnover (P1.T10),,Prince STEAL (1 STL),,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,240,6,9,3,8:19 PM,4:09,Coleman C.P.FOUL (P3.T4),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,241,18,0,3,8:20 PM,4:09,,Support Ruling,,,,0,240,Brooks Thompson,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,242,3,25,3,8:21 PM,4:09,,,Prince Free Throw Clear Path 1 of 2 (10 PTS),45 - 38,-7,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,244,3,26,3,8:22 PM,4:09,,,Prince Free Throw Clear Path 2 of 2 (11 PTS),46 - 38,-8,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,246,8,0,3,8:23 PM,4:09,SUB: Lucas FOR Coleman,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,248,2,5,3,8:23 PM,3:48,,,MISS Fowles 3' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,249,4,0,3,8:23 PM,3:46,Lucas REBOUND (Off:0 Def:1),,,,,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,250,1,5,3,8:23 PM,3:32,Christmas-Kelly 3' Layup (2 PTS),,,46 - 40,-6,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,251,1,1,3,8:24 PM,3:17,,,Quigley 17' Jump Shot (15 PTS) (Vandersloot 6 AST),48 - 40,-8,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,252,6,1,3,8:24 PM,3:04,,,Prince P.FOUL (P1.T3),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,253,2,1,3,8:24 PM,2:51,MISS Zellous 24' 3PT Jump Shot,,Prince BLOCK (1 BLK),,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0
+1041400203,254,4,0,3,8:25 PM,2:50,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,255,2,5,3,8:25 PM,2:29,,,MISS Fowles 1' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,256,4,0,3,8:25 PM,2:27,Larkins REBOUND (Off:3 Def:3),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,257,1,1,3,8:25 PM,2:17,Larkins 16' Jump Shot (8 PTS) (Zellous 1 AST),,,48 - 42,-6,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,258,6,2,3,8:26 PM,1:51,Lucas S.FOUL (P3.PN),,,,,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,259,18,0,3,8:27 PM,1:51,,Support Ruling,,,,0,258,Brian Grant,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,260,3,11,3,8:27 PM,1:51,,,Quigley Free Throw 1 of 2 (16 PTS),49 - 42,-7,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,262,8,0,3,8:28 PM,1:51,SUB: Clarendon FOR January,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,263,3,12,3,8:28 PM,1:51,,,Quigley Free Throw 2 of 2 (17 PTS),50 - 42,-8,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,265,2,5,3,8:28 PM,1:32,MISS Christmas-Kelly 2' Layup,,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,266,4,0,3,8:28 PM,1:30,Larkins REBOUND (Off:4 Def:3),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,267,6,2,3,8:28 PM,1:29,,,Fowles S.FOUL (P3.T4),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,268,3,11,3,8:29 PM,1:29,Larkins Free Throw 1 of 2 (9 PTS),,,50 - 43,-7,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,270,8,0,3,8:29 PM,1:29,SUB: Kizer FOR Lucas,,,,,4,203843,Maggie Lucas,1611661325.0,Indiana,Fever,IND,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,271,3,12,3,8:29 PM,1:29,MISS Larkins Free Throw 2 of 2,,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,273,4,0,3,8:29 PM,1:29,Christmas-Kelly REBOUND (Off:2 Def:0),,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,274,2,1,3,8:30 PM,1:05,MISS Zellous 20' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,275,4,0,3,8:30 PM,1:05,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,276,5,11,3,8:30 PM,1:05,FEVER Turnover: Shot Clock (T#11),,,,,2,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,277,2,1,3,8:30 PM,0:52,,,MISS Breland 20' Jump Shot,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,278,4,0,3,8:30 PM,0:50,Christmas-Kelly REBOUND (Off:2 Def:1),,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,279,6,2,3,8:30 PM,0:38,,,Breland S.FOUL (P1.PN),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,280,3,11,3,8:31 PM,0:38,Kizer Free Throw 1 of 2 (5 PTS),,,50 - 44,-6,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,282,8,0,3,8:31 PM,0:38,,,SUB: Delle Donne FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,283,3,12,3,8:31 PM,0:38,Kizer Free Throw 2 of 2 (6 PTS),,,50 - 45,-5,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,285,1,5,3,8:32 PM,0:24,,,Fowles 2' Layup (9 PTS),52 - 45,-7,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,286,6,2,3,8:32 PM,0:24,Kizer S.FOUL (P2.PN),,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,287,8,0,3,8:32 PM,0:24,,,SUB: Breland FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,288,3,10,3,8:32 PM,0:24,,,MISS Fowles Free Throw 1 of 1,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,290,4,0,3,8:32 PM,0:24,Kizer REBOUND (Off:2 Def:2),,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,291,2,1,3,8:33 PM,0:03,MISS Clarendon 19' Jump Shot,,,,,4,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,292,4,0,3,8:33 PM,0:02,Larkins REBOUND (Off:5 Def:3),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,293,2,1,3,8:33 PM,0:00,MISS Larkins 3' Jump Shot,,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,294,4,0,3,8:33 PM,0:00,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,295,13,0,3,8:33 PM,0:00,,End of 3rd Period (8:33 PM EST),,52 - 45,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,297,12,0,4,8:35 PM,10:00,,Start of 4th Period (8:35 PM EST),,52 - 45,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,298,2,1,4,8:36 PM,9:39,Kizer BLOCK (2 BLK),,MISS Prince 4' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0
+1041400203,299,4,0,4,8:36 PM,9:37,Larkins REBOUND (Off:5 Def:4),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,300,6,2,4,8:36 PM,9:31,,,Prince S.FOUL (P2.T1),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,301,3,11,4,8:36 PM,9:31,Christmas-Kelly Free Throw 1 of 2 (3 PTS),,,52 - 46,-6,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,303,3,12,4,8:36 PM,9:31,Christmas-Kelly Free Throw 2 of 2 (4 PTS),,,52 - 47,-5,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,305,1,1,4,8:37 PM,9:18,,,Fowles 3' Jump Shot (11 PTS) (Breland 1 AST),54 - 47,-7,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,306,2,1,4,8:37 PM,9:03,MISS Coleman 14' Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,307,4,0,4,8:37 PM,9:02,,,Fowles REBOUND (Off:2 Def:5),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,308,1,5,4,8:37 PM,8:49,,,Fowles 1' Layup (13 PTS) (Vandersloot 7 AST),56 - 47,-9,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,309,6,2,4,8:37 PM,8:49,Larkins S.FOUL (P3.T1),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,310,3,10,4,8:38 PM,8:49,,,Fowles Free Throw 1 of 1 (14 PTS),57 - 47,-10,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,312,2,1,4,8:38 PM,8:32,MISS January 17' Jump Shot,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,313,4,0,4,8:38 PM,8:31,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,314,1,5,4,8:39 PM,8:15,,,Breland 2' Layup (2 PTS) (Vandersloot 8 AST),59 - 47,-12,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,315,2,1,4,8:39 PM,8:05,MISS Kizer 3' Jump Shot,,Fowles BLOCK (1 BLK),,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1041400203,316,4,0,4,8:39 PM,8:03,,,Prince REBOUND (Off:0 Def:3),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,317,5,4,4,8:39 PM,7:55,,,Fowles Traveling Turnover (P1.T7),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1041400203,318,8,0,4,8:39 PM,7:55,SUB: Zellous FOR Christmas-Kelly,,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,319,8,0,4,8:39 PM,7:55,SUB: Catchings FOR Kizer,,,,,4,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,320,2,1,4,8:40 PM,7:38,MISS Zellous 24' 3PT Jump Shot,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,321,4,0,4,8:40 PM,7:37,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,322,2,5,4,8:40 PM,7:23,,,MISS Vandersloot 2' Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,323,4,0,4,8:40 PM,7:22,,,Breland REBOUND (Off:1 Def:2),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,324,2,1,4,8:40 PM,7:19,,,MISS Prince 24' 3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,325,4,0,4,8:40 PM,7:18,Larkins REBOUND (Off:5 Def:5),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,326,6,3,4,8:40 PM,7:18,,,Prince L.B.FOUL (P3.T2),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,327,8,0,4,8:40 PM,7:18,,,SUB: Young FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,328,2,1,4,8:40 PM,7:06,MISS Coleman  3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,329,4,0,4,8:40 PM,7:05,Larkins REBOUND (Off:6 Def:5),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,330,1,5,4,8:41 PM,6:50,Coleman 1' Layup (6 PTS),,,59 - 49,-10,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,331,6,2,4,8:41 PM,6:50,,,Quigley S.FOUL (P1.T3),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,332,3,10,4,8:41 PM,6:50,Coleman Free Throw 1 of 1 (7 PTS),,,59 - 50,-9,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,334,5,1,4,8:41 PM,6:36,,,Young Bad Pass Turnover (P1.T8),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,335,2,1,4,8:42 PM,6:19,MISS January 3' Jump Shot,,Fowles BLOCK (2 BLK),,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1041400203,336,4,0,4,8:42 PM,6:17,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,337,2,5,4,8:42 PM,6:02,,,MISS Vandersloot 3' Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,338,4,0,4,8:42 PM,6:01,Catchings REBOUND (Off:2 Def:5),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,339,6,3,4,8:42 PM,6:00,,,Vandersloot L.B.FOUL (P4.T4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,340,2,1,4,8:43 PM,5:42,MISS Catchings 3' Jump Shot,,Young BLOCK (1 BLK),,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0
+1041400203,341,4,0,4,8:43 PM,5:40,,,Young REBOUND (Off:0 Def:2),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,343,9,4,4,8:43 PM,5:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,345,8,0,4,8:45 PM,5:37,,,SUB: Breland FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,347,1,3,4,8:46 PM,5:19,,,Fowles 5' Hook Shot (16 PTS) (Quigley 2 AST),61 - 50,-11,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,348,6,17,4,8:46 PM,5:07,,,Sky T.Foul (Def. 3 Sec Fowles ),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1041400203,349,3,16,4,8:46 PM,5:07,January Free Throw Technical (5 PTS),,,61 - 51,-10,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,351,2,1,4,8:47 PM,4:52,MISS Larkins 7' Jump Shot,,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,352,4,0,4,8:47 PM,4:50,,,Breland REBOUND (Off:1 Def:3),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,354,5,2,4,8:47 PM,4:49,January STEAL (1 STL),,Breland Lost Ball Turnover (P1.T9),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,353,10,0,4,8:48 PM,4:49,Jump Ball January vs. Breland: Tip to Larkins,,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0
+1041400203,355,2,1,4,8:48 PM,4:42,MISS Zellous  3PT Jump Shot,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,356,4,0,4,8:48 PM,4:41,,,Prince REBOUND (Off:0 Def:4),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,357,5,2,4,8:48 PM,4:22,January STEAL (2 STL),,Quigley Lost Ball Turnover (P1.T10),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,358,6,4,4,8:48 PM,4:21,Coleman OFF.Foul (P4),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,359,5,5,4,8:48 PM,4:21,Coleman Foul Turnover (P2.T12),,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041400203,360,9,1,4,8:49 PM,4:21,FEVER Timeout: Regular (Full 3 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,362,8,0,4,8:51 PM,4:21,SUB: Christmas-Kelly FOR Coleman,,,,,4,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,363,6,1,4,8:51 PM,4:04,Catchings P.FOUL (P1.T2),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,364,1,1,4,8:52 PM,3:52,,,Quigley  3PT Jump Shot (20 PTS),64 - 51,-13,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,365,2,1,4,8:52 PM,3:41,MISS Christmas-Kelly 17' Jump Shot,,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,366,4,0,4,8:52 PM,3:39,January REBOUND (Off:1 Def:2),,,,,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,367,6,1,4,8:52 PM,3:34,,,Prince P.FOUL (P4.PN),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,368,3,11,4,8:52 PM,3:34,MISS Zellous Free Throw 1 of 2,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,369,4,1,4,8:52 PM,3:34,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,370,3,12,4,8:53 PM,3:34,Zellous Free Throw 2 of 2 (16 PTS),,,64 - 52,-12,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,372,2,5,4,8:53 PM,3:18,,,MISS Fowles 2' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,373,4,0,4,8:53 PM,3:17,,,Breland REBOUND (Off:2 Def:3),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,374,1,4,4,8:53 PM,3:15,,,Breland 1' Tip Shot (4 PTS),66 - 52,-14,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,376,6,1,4,8:54 PM,3:05,,,Young P.FOUL (P2.PN),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,377,3,11,4,8:54 PM,3:05,Catchings Free Throw 1 of 2 (6 PTS),,,66 - 53,-13,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,379,3,12,4,8:54 PM,3:05,Catchings Free Throw 2 of 2 (7 PTS),,,66 - 54,-12,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,381,6,1,4,8:55 PM,2:52,Christmas-Kelly P.FOUL (P2.T3),,,,,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,382,5,2,4,8:55 PM,2:42,Christmas-Kelly STEAL (1 STL),,Quigley Lost Ball Turnover (P2.T11),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041400203,383,6,29,4,8:55 PM,2:38,,,Breland Shooting Block Foul (P2.PN),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,384,3,11,4,8:56 PM,2:38,January Free Throw 1 of 2 (6 PTS),,,66 - 55,-11,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,387,9,1,4,8:56 PM,2:38,FEVER Timeout: Regular (Full 4 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,389,3,12,4,8:58 PM,2:38,January Free Throw 2 of 2 (7 PTS),,,66 - 56,-10,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,391,6,1,4,8:58 PM,2:19,Zellous P.FOUL (P3.T4),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,392,8,0,4,8:58 PM,2:19,,,SUB: Vandersloot FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,393,6,2,4,8:59 PM,2:06,Larkins S.FOUL (P4.PN),,,,,4,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,394,3,11,4,8:59 PM,2:06,,,MISS Fowles Free Throw 1 of 2,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,395,4,1,4,8:59 PM,2:06,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,396,3,12,4,9:00 PM,2:06,,,Fowles Free Throw 2 of 2 (17 PTS),67 - 56,-11,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,398,1,5,4,9:00 PM,1:53,Catchings 3' Layup (9 PTS),,,67 - 58,-9,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,399,2,5,4,9:00 PM,1:40,,,MISS Prince 3' Layup,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,400,4,0,4,9:00 PM,1:39,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,401,6,3,4,9:01 PM,1:39,Catchings L.B.FOUL (P2.PN),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,402,6,11,4,9:01 PM,1:39,,Lin Dunn Foul:T.FOUL,,,,6,100914,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400203,403,3,16,4,9:01 PM,1:39,,,Quigley Free Throw Technical (21 PTS),68 - 58,-10,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,405,3,11,4,9:01 PM,1:39,,,Young Free Throw 1 of 2 (7 PTS),69 - 58,-11,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,407,3,12,4,9:01 PM,1:39,,,Young Free Throw 2 of 2 (8 PTS),70 - 58,-12,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,409,6,2,4,9:02 PM,1:27,,,Fowles S.FOUL (P4.PN),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041400203,410,3,11,4,9:02 PM,1:27,Christmas-Kelly Free Throw 1 of 2 (5 PTS),,,70 - 59,-11,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,412,3,12,4,9:02 PM,1:27,Christmas-Kelly Free Throw 2 of 2 (6 PTS),,,70 - 60,-10,4,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,414,9,1,4,9:03 PM,1:23,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,416,6,2,4,9:05 PM,1:10,Zellous S.FOUL (P4.PN),,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041400203,417,3,11,4,9:05 PM,1:10,,,Vandersloot Free Throw 1 of 2 (6 PTS),71 - 60,-11,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,419,3,12,4,9:05 PM,1:10,,,Vandersloot Free Throw 2 of 2 (7 PTS),72 - 60,-12,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,421,1,79,4,9:05 PM,1:04,January 15' Pullup Jump Shot (9 PTS),,,72 - 62,-10,4,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,422,1,1,4,9:06 PM,0:46,,,Quigley 24' 3PT Jump Shot (24 PTS) (Vandersloot 9 AST),75 - 62,-13,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041400203,423,2,1,4,9:06 PM,0:38,MISS Zellous 18' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041400203,424,4,0,4,9:06 PM,0:37,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400203,425,2,1,4,9:06 PM,0:16,,,MISS Prince  3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,426,4,0,4,9:06 PM,0:15,,,Young REBOUND (Off:1 Def:2),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041400203,427,13,0,4,9:07 PM,0:00,,End of 4th Period (9:07 PM EST),,75 - 62,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

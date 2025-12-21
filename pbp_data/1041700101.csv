@@ -1,0 +1,447 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041700101,0,12,0,1,8:05 PM,10:00,,Start of 1st Period (8:05 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,1,10,0,1,8:05 PM,10:00,Jump Ball Thomas vs. Johnson: Tip to Meesseman,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041700101,2,2,1,1,8:06 PM,9:42,MISS Delle Donne 24' 3PT Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,3,4,0,1,8:06 PM,9:40,,,Diggins-Smith REBOUND (Off:0 Def:1),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,4,2,1,1,8:06 PM,9:22,,,MISS Johnson 12' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,5,4,0,1,8:06 PM,9:21,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,6,5,45,1,8:06 PM,9:16,,,Plaisance Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1041700101,7,2,1,1,8:07 PM,8:57,MISS Ruffin-Pratt 9' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,8,4,0,1,8:07 PM,8:56,,,Johnson REBOUND (Off:0 Def:1),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,9,2,5,1,8:07 PM,8:39,Meesseman BLOCK (1 BLK),,MISS Christmas-Kelly 1' Layup,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041700101,10,4,0,1,8:07 PM,8:38,Thomas REBOUND (Off:0 Def:1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,11,1,75,1,8:08 PM,8:16,Ruffin-Pratt 2' Driving Finger Roll Layup (2 PTS),,,0 - 2,2,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,12,2,1,1,8:08 PM,8:01,,,MISS Gray 16' Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,13,4,0,1,8:08 PM,8:00,Thomas REBOUND (Off:0 Def:2),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,14,2,1,1,8:08 PM,7:53,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,15,4,0,1,8:08 PM,7:51,Meesseman REBOUND (Off:1 Def:0),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,16,2,1,1,8:08 PM,7:48,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,17,4,0,1,8:08 PM,7:47,Delle Donne REBOUND (Off:1 Def:0),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,18,5,1,1,8:08 PM,7:42,Delle Donne Bad Pass Turnover (P1.T1),,Christmas-Kelly STEAL (1 STL),,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,19,1,5,1,8:08 PM,7:39,,,Johnson 1' Layup (2 PTS) (Christmas-Kelly 1 AST),2 - 2,TIE,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,21,1,82,1,8:08 PM,7:19,Delle Donne 9' Driving Bank Shot (2 PTS),,,2 - 4,2,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,22,2,1,1,8:09 PM,7:06,,,MISS Christmas-Kelly 3PT Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,23,4,0,1,8:09 PM,7:05,Thomas REBOUND (Off:0 Def:3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,24,2,79,1,8:09 PM,6:58,MISS Toliver 24' 3PT Pullup Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,25,4,0,1,8:09 PM,6:55,,,Johnson REBOUND (Off:0 Def:2),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,26,6,1,1,8:09 PM,6:36,Ruffin-Pratt P.FOUL (P1.T1),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,27,2,5,1,8:10 PM,6:29,Thomas BLOCK (1 BLK),,MISS Gray 1' Layup,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1
+1041700101,28,4,0,1,8:10 PM,6:28,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,29,5,40,1,8:10 PM,6:13,Delle Donne Out of Bounds Lost Ball Turnover (P2.T2),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700101,30,2,1,1,8:10 PM,6:02,,,MISS Diggins-Smith 19' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,31,4,0,1,8:10 PM,6:01,Toliver REBOUND (Off:0 Def:1),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,32,1,80,1,8:11 PM,5:51,Toliver 21' Step Back Jump Shot (2 PTS),,,2 - 6,4,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,33,1,44,1,8:11 PM,5:26,,,Johnson 1' Reverse Layup (4 PTS) (Plaisance 1 AST),4 - 6,2,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,34,5,2,1,8:11 PM,5:15,Meesseman Lost Ball Turnover (P1.T3),,Gray STEAL (1 STL),,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,35,6,1,1,8:11 PM,5:15,Ruffin-Pratt P.FOUL (P2.T2),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,36,8,0,1,8:12 PM,5:15,SUB: Cloud FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,38,6,1,1,8:12 PM,5:05,Thomas P.FOUL (P1.T3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,39,8,0,1,8:12 PM,5:05,,,SUB: Paris FOR Plaisance,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,40,8,0,1,8:12 PM,5:05,,,SUB: Powers FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,41,1,1,1,8:13 PM,4:55,,,Christmas-Kelly 15' Jump Shot (2 PTS) (Diggins-Smith 1 AST),6 - 6,TIE,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,42,1,1,1,8:13 PM,4:46,Meesseman 22' Jump Shot (2 PTS),,,6 - 8,2,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,47,18,1,1,8:13 PM,4:46,,Overturn Ruling,,,,,42,Monty Williams,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,43,2,1,1,8:13 PM,4:27,,,MISS Christmas-Kelly 26' 3PT Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,44,4,0,1,8:13 PM,4:26,Meesseman REBOUND (Off:1 Def:1),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,45,6,2,1,8:13 PM,4:16,,,Paris S.FOUL (P1.T1),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,46,9,4,1,8:13 PM,4:16,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,50,3,11,1,8:17 PM,4:16,Delle Donne Free Throw 1 of 2 (3 PTS),,,6 - 9,3,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,52,3,12,1,8:17 PM,4:16,Delle Donne Free Throw 2 of 2 (4 PTS),,,6 - 10,4,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,54,1,79,1,8:17 PM,3:55,,,Diggins-Smith 16' Pullup Jump Shot (2 PTS) (Powers 1 AST),8 - 10,2,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,55,6,1,1,8:18 PM,3:44,,,Paris P.FOUL (P2.T2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,56,8,0,1,8:18 PM,3:44,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,57,2,1,1,8:18 PM,3:31,MISS Meesseman 17' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,58,4,0,1,8:18 PM,3:31,Thomas REBOUND (Off:1 Def:3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,59,1,66,1,8:18 PM,3:26,Meesseman 10' Jump Bank Shot (4 PTS) (Thomas 1 AST),,,8 - 12,4,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,60,1,86,1,8:18 PM,3:18,,,Johnson 8' Turnaround Fadeaway (6 PTS) (Diggins-Smith 2 AST),10 - 12,2,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,61,2,1,1,8:19 PM,3:00,MISS Delle Donne 9' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,62,4,0,1,8:19 PM,2:59,,,Powers REBOUND (Off:0 Def:1),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,63,2,1,1,8:19 PM,2:54,,,MISS Powers 19' Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,64,4,0,1,8:19 PM,2:52,Delle Donne REBOUND (Off:1 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,65,5,45,1,8:19 PM,2:40,Toliver Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700101,66,2,5,1,8:19 PM,2:26,Cloud BLOCK (1 BLK),,MISS Powers 1' Layup,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1
+1041700101,67,4,0,1,8:19 PM,2:24,Thomas REBOUND (Off:1 Def:4),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,68,10,0,1,8:21 PM,2:24,Jump Ball Thomas vs. Powers: Tip to Delle Donne,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041700101,69,2,1,1,8:21 PM,2:06,MISS Meesseman 12' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,70,4,0,1,8:21 PM,2:05,,,Powers REBOUND (Off:0 Def:2),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,71,1,5,1,8:21 PM,1:58,,,Johnson 1' Layup (8 PTS) (Powers 2 AST),12 - 12,TIE,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,72,2,1,1,8:21 PM,1:40,MISS Delle Donne 3' Jump Shot,,Plaisance BLOCK (1 BLK),,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,1
+1041700101,73,4,0,1,8:21 PM,1:39,Delle Donne REBOUND (Off:2 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,74,1,72,1,8:21 PM,1:37,Delle Donne 2' Putback Layup (6 PTS),,,12 - 14,2,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,75,2,1,1,8:22 PM,1:23,,,MISS Powers 10' Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,76,4,0,1,8:22 PM,1:22,Delle Donne REBOUND (Off:2 Def:2),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,77,2,5,1,8:22 PM,1:13,MISS Delle Donne 3' Layup,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,78,4,0,1,8:22 PM,1:12,Meesseman REBOUND (Off:2 Def:1),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,79,1,72,1,8:22 PM,1:10,Meesseman 2' Putback Layup (6 PTS),,,12 - 16,4,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,80,2,5,1,8:22 PM,0:48,,,MISS Christmas-Kelly Layup,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,81,4,0,1,8:22 PM,0:47,Thomas REBOUND (Off:1 Def:5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,82,2,5,1,8:22 PM,0:40,MISS Delle Donne 3' Layup,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,83,4,0,1,8:22 PM,0:39,,,Johnson REBOUND (Off:0 Def:3),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,84,2,1,1,8:22 PM,0:30,,,MISS Powers 24' 3PT Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,85,4,0,1,8:22 PM,0:29,Thomas REBOUND (Off:1 Def:6),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,86,2,1,1,8:23 PM,0:06,MISS Cloud 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,87,4,0,1,8:23 PM,0:04,Toliver REBOUND (Off:1 Def:1),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,88,2,5,1,8:23 PM,0:03,MISS Toliver 1' Layup,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,89,4,0,1,8:23 PM,0:02,Toliver REBOUND (Off:2 Def:1),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,90,2,97,1,8:23 PM,0:02,MISS Toliver 1' Tip Layup Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,91,4,0,1,8:23 PM,0:01,Meesseman REBOUND (Off:3 Def:1),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,92,1,72,1,8:23 PM,0:00,Meesseman Putback Layup (8 PTS),,,12 - 18,6,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,93,18,0,1,8:23 PM,0:00,,Support Ruling,,,,,92,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,94,13,0,1,8:24 PM,0:00,,End of 1st Period (8:24 PM EST),,12 - 18,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,96,12,0,2,8:27 PM,10:00,,Start of 2nd Period (8:27 PM EST),,12 - 18,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,97,1,1,2,8:27 PM,9:43,,,Powers 18' Jump Shot (2 PTS),14 - 18,4,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,98,2,1,2,8:27 PM,9:33,MISS Cloud 3' Jump Shot,,Paris BLOCK (1 BLK),,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,1
+1041700101,99,4,0,2,8:27 PM,9:32,,,Paris REBOUND (Off:0 Def:1),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,100,2,1,2,8:27 PM,9:27,,,MISS Powers 25' 3PT Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,101,4,0,2,8:27 PM,9:25,Cloud REBOUND (Off:0 Def:1),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,102,1,1,2,8:27 PM,9:17,Latta 27' 3PT Jump Shot (3 PTS) (Thomas 2 AST),,,14 - 21,7,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,103,1,1,2,8:28 PM,9:01,,,Paris 17' Jump Shot (2 PTS) (Chong 1 AST),16 - 21,5,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,104,2,1,2,8:28 PM,8:47,MISS Ruffin-Pratt 12' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,105,4,0,2,8:28 PM,8:46,,,Paris REBOUND (Off:0 Def:2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,106,2,78,2,8:28 PM,8:27,,,MISS Powers 8' Floating Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,107,4,0,2,8:28 PM,8:25,Thomas REBOUND (Off:1 Def:7),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,108,1,47,2,8:28 PM,8:12,Hawkins 5' Turnaround Jump Shot (2 PTS) (Latta 1 AST),,,16 - 23,7,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,109,2,1,2,8:29 PM,7:53,,,MISS Paris 17' Jump Shot,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,110,4,0,2,8:29 PM,7:53,Cloud REBOUND (Off:0 Def:2),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,111,2,1,2,8:29 PM,7:39,MISS Latta 6' Jump Shot,,Chong BLOCK (1 BLK),,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,1
+1041700101,112,4,0,2,8:29 PM,7:36,,,Paris REBOUND (Off:0 Def:3),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,113,5,45,2,8:29 PM,7:34,,,Chong Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1041700101,114,8,0,2,8:29 PM,7:34,,,SUB: Gray FOR Powers,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,115,8,0,2,8:29 PM,7:34,,,SUB: Diggins-Smith FOR Chong,,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,116,8,0,2,8:29 PM,7:34,SUB: Meesseman FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,117,8,0,2,8:29 PM,7:34,SUB: Delle Donne FOR Cloud,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,119,2,1,2,8:30 PM,7:11,MISS Delle Donne 13' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,120,4,0,2,8:30 PM,7:11,,,Thornton REBOUND (Off:0 Def:1),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,121,1,5,2,8:30 PM,7:05,,,Diggins-Smith 1' Layup (4 PTS) (Thornton 1 AST),18 - 23,5,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,122,2,5,2,8:30 PM,6:49,MISS Meesseman 2' Layup,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,123,4,0,2,8:30 PM,6:49,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,124,6,3,2,8:30 PM,6:49,Hawkins L.B.FOUL (P1.T1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,125,8,0,2,8:31 PM,6:49,,,SUB: Johnson FOR Davis,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,126,6,2,2,8:31 PM,6:39,Hawkins S.FOUL (P2.T2),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,127,3,11,2,8:31 PM,6:39,,,MISS Gray Free Throw 1 of 2,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,128,4,1,2,8:31 PM,6:39,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,129,3,12,2,8:31 PM,6:39,,,Gray Free Throw 2 of 2 (1 PTS),19 - 23,4,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,132,1,1,2,8:32 PM,6:30,Latta 25' 3PT Jump Shot (6 PTS),,,19 - 26,7,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,133,5,45,2,8:32 PM,6:15,,,Diggins-Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1041700101,134,8,0,2,8:32 PM,6:15,SUB: Toliver FOR Latta,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,135,2,1,2,8:33 PM,5:54,MISS Hawkins 17' Jump Shot,,Paris BLOCK (2 BLK),,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,1
+1041700101,136,4,0,2,8:33 PM,5:53,Hawkins REBOUND (Off:1 Def:0),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,137,1,5,2,8:33 PM,5:50,Hawkins 2' Layup (4 PTS),,,19 - 28,9,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,138,9,1,2,8:33 PM,5:44,,,Wings Timeout: Regular (Reg.1 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,140,8,0,2,8:35 PM,5:44,,,SUB: Christmas-Kelly FOR Thornton,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,141,2,1,2,8:36 PM,5:26,,,MISS Gray 28' 3PT Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,142,4,0,2,8:36 PM,5:25,Hawkins REBOUND (Off:1 Def:1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,143,6,1,2,8:36 PM,5:12,,,Christmas-Kelly P.FOUL (P1.T1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,144,1,42,2,8:37 PM,5:06,Toliver 2' Driving Layup (4 PTS),,,19 - 30,11,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,145,2,1,2,8:37 PM,4:40,,,MISS Johnson 14' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,146,4,0,2,8:37 PM,4:39,Delle Donne REBOUND (Off:2 Def:3),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,147,1,42,2,8:37 PM,4:31,Delle Donne 2' Driving Layup (8 PTS),,,19 - 32,13,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,148,2,1,2,8:38 PM,4:15,,,MISS Johnson 24' 3PT Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,149,4,0,2,8:38 PM,4:14,,,Christmas-Kelly REBOUND (Off:1 Def:0),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,150,2,1,2,8:38 PM,4:12,,,MISS Diggins-Smith 24' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,151,4,0,2,8:38 PM,4:10,,,Johnson REBOUND (Off:1 Def:3),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,152,6,3,2,8:38 PM,4:10,Meesseman L.B.FOUL (P1.T3),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,153,8,0,2,8:38 PM,4:10,SUB: Thomas FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,155,2,1,2,8:38 PM,3:59,,,MISS Diggins-Smith 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,156,4,0,2,8:39 PM,3:58,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,157,2,1,2,8:39 PM,3:41,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,158,4,0,2,8:39 PM,3:41,,,Gray REBOUND (Off:0 Def:1),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,159,6,2,2,8:39 PM,3:35,Ruffin-Pratt S.FOUL (P3.T4),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,160,3,11,2,8:39 PM,3:35,,,Gray Free Throw 1 of 2 (2 PTS),20 - 32,12,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,162,8,0,2,8:40 PM,3:35,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,163,8,0,2,8:40 PM,3:35,SUB: Cloud FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,164,3,12,2,8:40 PM,3:35,,,Gray Free Throw 2 of 2 (3 PTS),21 - 32,11,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,167,2,1,2,8:40 PM,3:17,MISS Delle Donne 12' Jump Shot,,Christmas-Kelly BLOCK (1 BLK),,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1
+1041700101,168,4,0,2,8:40 PM,3:15,Delle Donne REBOUND (Off:3 Def:3),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,169,1,1,2,8:40 PM,3:12,Meesseman 20' Jump Shot (10 PTS) (Delle Donne 1 AST),,,21 - 34,13,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,170,2,1,2,8:40 PM,2:59,,,MISS Diggins-Smith 18' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,171,4,0,2,8:40 PM,2:58,Delle Donne REBOUND (Off:3 Def:4),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,172,6,2,2,8:41 PM,2:51,,,Diggins-Smith S.FOUL (P1.T2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,173,9,1,2,8:41 PM,2:51,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,175,8,0,2,8:44 PM,2:51,,,SUB: Powers FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,176,3,11,2,8:44 PM,2:51,MISS Thomas Free Throw 1 of 2,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,177,4,1,2,8:44 PM,2:51,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,178,3,12,2,8:44 PM,2:51,MISS Thomas Free Throw 2 of 2,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,180,4,0,2,8:45 PM,2:50,,,Christmas-Kelly REBOUND (Off:1 Def:1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,181,2,1,2,8:45 PM,2:43,,,MISS Powers 19' Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,182,4,0,2,8:45 PM,2:42,Meesseman REBOUND (Off:3 Def:2),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,183,2,1,2,8:45 PM,2:36,MISS Cloud 10' Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,184,4,0,2,8:45 PM,2:34,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,185,5,4,2,8:45 PM,2:27,Toliver Traveling Turnover (P2.T5),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700101,187,1,47,2,8:46 PM,2:11,,,Plaisance 14' Turnaround Jump Shot (2 PTS),23 - 34,11,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,188,2,42,2,8:46 PM,2:00,MISS Cloud Driving Layup,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,189,4,0,2,8:46 PM,1:59,,,Plaisance REBOUND (Off:0 Def:1),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,190,1,1,2,8:46 PM,1:53,,,Powers 24' 3PT Jump Shot (5 PTS) (Plaisance 2 AST),26 - 34,8,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,191,6,1,2,8:46 PM,1:36,,,Christmas-Kelly P.FOUL (P2.T3),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,192,2,1,2,8:47 PM,1:28,MISS Meesseman 8' Jump Shot,,Johnson BLOCK (1 BLK),,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1
+1041700101,193,4,0,2,8:47 PM,1:27,,,Powers REBOUND (Off:0 Def:3),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,194,1,81,2,8:47 PM,1:23,,,Powers 12' Pullup Bank Shot (7 PTS),28 - 34,6,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,195,6,2,2,8:47 PM,1:23,Thomas S.FOUL (P2.PN),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,197,8,0,2,8:47 PM,1:23,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,198,3,10,2,8:48 PM,1:23,,,Powers Free Throw 1 of 1 (8 PTS),29 - 34,5,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,201,2,1,2,8:48 PM,1:05,MISS Delle Donne 25' 3PT Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,202,4,0,2,8:48 PM,1:04,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,203,6,3,2,8:48 PM,1:04,Hawkins L.B.FOUL (P3.PN),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,204,3,11,2,8:48 PM,1:04,,,MISS Powers Free Throw 1 of 2,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,205,4,1,2,8:48 PM,1:04,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,206,3,12,2,8:49 PM,1:04,,,Powers Free Throw 2 of 2 (9 PTS),30 - 34,4,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,208,2,1,2,8:49 PM,0:41,MISS Toliver 24' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,209,4,0,2,8:49 PM,0:40,,,Plaisance REBOUND (Off:0 Def:2),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,210,6,2,2,8:50 PM,0:34,Hawkins S.FOUL (P4.PN),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,211,3,11,2,8:50 PM,0:34,,,Diggins-Smith Free Throw 1 of 2 (5 PTS),31 - 34,3,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,213,8,0,2,8:50 PM,0:34,SUB: Latta FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,214,3,12,2,8:50 PM,0:34,,,Diggins-Smith Free Throw 2 of 2 (6 PTS),32 - 34,2,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,217,5,1,2,8:50 PM,0:25,Toliver Bad Pass Turnover (P3.T6),,Powers STEAL (1 STL),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,218,1,41,2,8:50 PM,0:21,,,Powers 2' Running Layup (11 PTS),34 - 34,TIE,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,219,2,1,2,8:51 PM,0:03,MISS Toliver 16' Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,220,4,0,2,8:51 PM,0:02,Cloud REBOUND (Off:1 Def:2),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,222,9,1,2,8:51 PM,0:00,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,224,8,0,2,8:53 PM,0:00,,,SUB: Thornton FOR Powers,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,225,13,0,2,8:53 PM,0:00,,End of 2nd Period (8:53 PM EST),,34 - 34,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,227,12,0,3,9:10 PM,10:00,,Start of 3rd Period (9:10 PM EST),,34 - 34,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,228,1,98,3,9:10 PM,9:50,,,Diggins-Smith 1' Cutting Layup Shot (8 PTS) (Plaisance 3 AST),36 - 34,-2,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,229,1,1,3,9:10 PM,9:28,Meesseman 25' 3PT Jump Shot (13 PTS) (Delle Donne 2 AST),,,36 - 37,1,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,230,2,1,3,9:10 PM,9:12,,,MISS Diggins-Smith 9' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,231,4,0,3,9:10 PM,9:11,Thomas REBOUND (Off:1 Def:8),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,232,2,1,3,9:11 PM,9:02,MISS Meesseman 15' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,233,4,0,3,9:11 PM,9:01,,,Diggins-Smith REBOUND (Off:0 Def:2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,234,6,1,3,9:11 PM,8:53,Thomas P.FOUL (P3.T1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,235,2,1,3,9:11 PM,8:47,,,MISS Gray 16' Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,236,4,0,3,9:11 PM,8:46,Toliver REBOUND (Off:2 Def:2),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,237,1,40,3,9:11 PM,8:32,Thomas 2' Layup (2 PTS) (Meesseman 1 AST),,,36 - 39,3,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,238,2,1,3,9:12 PM,8:12,,,MISS Plaisance 3PT Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,239,4,0,3,9:12 PM,8:11,Meesseman REBOUND (Off:3 Def:3),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,240,2,44,3,9:12 PM,8:01,MISS Toliver 1' Reverse Layup,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,241,4,0,3,9:12 PM,7:59,,,Plaisance REBOUND (Off:0 Def:3),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,242,2,44,3,9:12 PM,7:54,,,MISS Diggins-Smith 2' Reverse Layup,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,243,4,0,3,9:12 PM,7:53,,,Gray REBOUND (Off:1 Def:1),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,244,2,5,3,9:12 PM,7:50,,,MISS Gray Layup,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,245,4,0,3,9:12 PM,7:49,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,246,6,4,3,9:13 PM,7:41,Toliver OFF.Foul (P1),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,247,5,5,3,9:13 PM,7:41,Toliver Foul Turnover (P4.T7),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700101,248,18,0,3,9:13 PM,7:41,,Support Ruling,,,,,246,Greg Anderson,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,250,5,2,3,9:14 PM,7:21,Toliver STEAL (1 STL),,Gray Lost Ball Turnover (P1.T4),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,251,1,79,3,9:14 PM,7:14,Delle Donne 25' 3PT Pullup Jump Shot (11 PTS) (Ruffin-Pratt 1 AST),,,36 - 42,6,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,252,2,1,3,9:15 PM,7:01,Meesseman BLOCK (2 BLK),,MISS Diggins-Smith 6' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041700101,253,4,0,3,9:15 PM,6:58,Toliver REBOUND (Off:2 Def:3),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,254,2,1,3,9:15 PM,6:53,MISS Meesseman 12' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,255,4,0,3,9:15 PM,6:52,Thomas REBOUND (Off:2 Def:8),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,256,2,5,3,9:15 PM,6:50,MISS Thomas 3' Layup,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,257,4,0,3,9:15 PM,6:49,,,Johnson REBOUND (Off:1 Def:4),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,258,2,1,3,9:15 PM,6:31,,,MISS Diggins-Smith 26' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,259,4,0,3,9:15 PM,6:30,Meesseman REBOUND (Off:3 Def:4),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,260,6,2,3,9:15 PM,6:24,,,Plaisance S.FOUL (P1.T1),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,261,3,11,3,9:16 PM,6:24,Toliver Free Throw 1 of 2 (5 PTS),,,36 - 43,7,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,263,8,0,3,9:16 PM,6:24,,,SUB: Chong FOR Diggins-Smith,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,264,8,0,3,9:16 PM,6:24,,,SUB: Powers FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,265,8,0,3,9:16 PM,6:24,SUB: Hightower FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,266,3,12,3,9:16 PM,6:24,Toliver Free Throw 2 of 2 (6 PTS),,,36 - 44,8,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,268,1,1,3,9:16 PM,6:11,,,Plaisance 19' Jump Shot (4 PTS) (Christmas-Kelly 2 AST),38 - 44,6,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,270,2,1,3,9:17 PM,6:00,MISS Toliver 21' Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,271,4,0,3,9:17 PM,5:59,Delle Donne REBOUND (Off:4 Def:4),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,272,1,63,3,9:17 PM,5:55,Delle Donne 15' Fadeaway Jumper (13 PTS),,,38 - 46,8,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,273,2,1,3,9:17 PM,5:28,,,MISS Chong 24' 3PT Jump Shot,,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,274,4,0,3,9:17 PM,5:27,,,Powers REBOUND (Off:1 Def:3),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,275,2,1,3,9:17 PM,5:24,Delle Donne BLOCK (1 BLK),,MISS Powers 3' Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041700101,276,4,0,3,9:17 PM,5:22,,,Johnson REBOUND (Off:2 Def:4),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,277,2,5,3,9:17 PM,5:19,,,MISS Johnson 2' Layup,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,278,4,0,3,9:17 PM,5:18,Delle Donne REBOUND (Off:4 Def:5),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,279,5,1,3,9:17 PM,5:17,Delle Donne Bad Pass Turnover (P3.T8),,Johnson STEAL (1 STL),,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,280,6,2,3,9:17 PM,5:17,Delle Donne S.FOUL (P1.T2),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,281,3,11,3,9:18 PM,5:17,,,Johnson Free Throw 1 of 2 (9 PTS),39 - 46,7,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,283,3,12,3,9:18 PM,5:17,,,MISS Johnson Free Throw 2 of 2,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,285,4,0,3,9:18 PM,5:16,Thomas REBOUND (Off:2 Def:9),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,287,1,1,3,9:18 PM,5:01,Hightower 8' Jump Shot (2 PTS) (Meesseman 2 AST),,,39 - 48,9,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,288,1,78,3,9:19 PM,4:40,,,Powers 7' Floating Jump Shot (13 PTS),41 - 48,7,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,289,2,1,3,9:19 PM,4:26,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,290,4,0,3,9:19 PM,4:25,,,Plaisance REBOUND (Off:0 Def:4),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,291,2,1,3,9:19 PM,4:08,,,MISS Plaisance 27' 3PT Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,292,4,0,3,9:19 PM,4:07,Thomas REBOUND (Off:2 Def:10),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,293,2,3,3,9:19 PM,3:54,MISS Meesseman 9' Hook Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,294,4,0,3,9:19 PM,3:52,,,Johnson REBOUND (Off:2 Def:5),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,295,5,1,3,9:19 PM,3:51,Meesseman STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T5),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,296,1,1,3,9:19 PM,3:48,Toliver 3PT Jump Shot (9 PTS) (Meesseman 3 AST),,,41 - 51,10,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,297,2,1,3,9:20 PM,3:27,,,MISS Christmas-Kelly 24' 3PT Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,298,4,0,3,9:20 PM,3:24,,,Johnson REBOUND (Off:3 Def:5),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,299,2,5,3,9:20 PM,3:23,,,MISS Johnson 2' Layup,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,300,4,0,3,9:20 PM,3:23,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,301,6,3,3,9:20 PM,3:23,,,Johnson L.B.FOUL (P1.T2),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,302,9,4,3,9:20 PM,3:23,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,304,8,0,3,9:22 PM,3:23,,,SUB: Paris FOR Christmas-Kelly,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,305,8,0,3,9:22 PM,3:23,,,SUB: Thornton FOR Plaisance,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,306,8,0,3,9:22 PM,3:23,,,SUB: Diggins-Smith FOR Powers,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,307,8,0,3,9:22 PM,3:23,,,SUB: Gray FOR Chong,,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,308,1,79,3,9:24 PM,3:06,Delle Donne 12' Pullup Jump Shot (15 PTS),,,41 - 53,12,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,309,6,2,3,9:24 PM,3:06,,,Paris S.FOUL (P3.T3),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,310,3,10,3,9:24 PM,3:06,Delle Donne Free Throw 1 of 1 (16 PTS),,,41 - 54,13,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,312,2,1,3,9:25 PM,2:47,,,MISS Thornton 25' 3PT Jump Shot,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,313,4,0,3,9:25 PM,2:46,Meesseman REBOUND (Off:3 Def:5),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,314,6,1,3,9:25 PM,2:34,,,Thornton P.FOUL (P1.T4),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,315,6,1,3,9:25 PM,2:31,,,Gray P.FOUL (P1.PN),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,316,3,11,3,9:26 PM,2:31,Meesseman Free Throw 1 of 2 (14 PTS),,,41 - 55,14,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,318,3,12,3,9:26 PM,2:31,MISS Meesseman Free Throw 2 of 2,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,320,4,0,3,9:26 PM,2:30,,,Johnson REBOUND (Off:3 Def:6),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,321,1,5,3,9:26 PM,2:18,,,Paris 2' Layup (4 PTS) (Diggins-Smith 3 AST),43 - 55,12,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,322,2,1,3,9:26 PM,1:59,MISS Delle Donne 9' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,323,4,0,3,9:26 PM,1:58,Thomas REBOUND (Off:3 Def:10),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,324,1,72,3,9:26 PM,1:55,Thomas 2' Putback Layup (4 PTS),,,43 - 57,14,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,325,2,1,3,9:27 PM,1:42,,,MISS Gray 25' 3PT Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,326,4,0,3,9:27 PM,1:42,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,327,6,1,3,9:27 PM,1:42,Toliver P.FOUL (P2.T3),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,328,8,0,3,9:27 PM,1:42,,,SUB: Powers FOR Thornton,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,329,8,0,3,9:27 PM,1:42,,,SUB: Christmas-Kelly FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,330,9,1,3,9:27 PM,1:42,,,Wings Timeout: Regular (Reg.2 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,332,1,1,3,9:30 PM,1:31,,,Johnson 11' Jump Shot (11 PTS),45 - 57,12,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,333,2,3,3,9:30 PM,1:11,MISS Meesseman 7' Hook Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,334,4,0,3,9:30 PM,1:09,,,Powers REBOUND (Off:1 Def:4),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,335,2,1,3,9:30 PM,0:49,,,MISS Diggins-Smith 24' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,336,4,0,3,9:30 PM,0:48,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,337,6,2,3,9:31 PM,0:43,Thomas S.FOUL (P4.PN),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,338,3,11,3,9:31 PM,0:43,,,Powers Free Throw 1 of 2 (14 PTS),46 - 57,11,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,340,8,0,3,9:31 PM,0:43,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,341,3,12,3,9:31 PM,0:43,,,Powers Free Throw 2 of 2 (15 PTS),47 - 57,10,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,344,1,63,3,9:32 PM,0:25,Delle Donne 9' Fadeaway Jumper (18 PTS),,,47 - 59,12,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,345,2,1,3,9:32 PM,0:04,,,MISS Christmas-Kelly 6' Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,346,4,0,3,9:32 PM,0:03,,,Paris REBOUND (Off:1 Def:3),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,347,1,72,3,9:32 PM,0:03,,,Paris 3' Putback Layup (6 PTS),49 - 59,10,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,348,6,2,3,9:32 PM,0:03,Hawkins S.FOUL (P5.PN),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,349,3,10,3,9:33 PM,0:03,,,Paris Free Throw 1 of 1 (7 PTS),50 - 59,9,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,353,13,0,3,9:33 PM,0:00,,End of 3rd Period (9:33 PM EST),,50 - 59,9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,355,12,0,4,9:37 PM,10:00,,Start of 4th Period (9:37 PM EST),,50 - 59,9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,356,2,78,4,9:37 PM,9:40,MISS Hightower 5' Floating Jump Shot,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,357,4,0,4,9:37 PM,9:39,Hightower REBOUND (Off:1 Def:0),,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,358,1,1,4,9:37 PM,9:35,Hawkins 24' 3PT Jump Shot (7 PTS) (Hightower 1 AST),,,50 - 62,12,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,359,1,98,4,9:37 PM,9:15,,,Johnson Cutting Layup Shot (13 PTS) (Paris 1 AST),52 - 62,10,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,360,2,5,4,9:38 PM,8:59,MISS Meesseman 1' Layup,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,361,4,0,4,9:38 PM,8:58,Meesseman REBOUND (Off:4 Def:5),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,362,1,72,4,9:38 PM,8:56,Meesseman 1' Putback Layup (16 PTS),,,52 - 64,12,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,363,2,1,4,9:38 PM,8:36,,,MISS Johnson 12' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,364,4,0,4,9:38 PM,8:35,,,Christmas-Kelly REBOUND (Off:2 Def:1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,365,6,2,4,9:38 PM,8:24,Hightower S.FOUL (P1.T1),,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,366,3,11,4,9:38 PM,8:24,,,Powers Free Throw 1 of 2 (16 PTS),53 - 64,11,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,368,3,12,4,9:39 PM,8:24,,,Powers Free Throw 2 of 2 (17 PTS),54 - 64,10,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,371,1,1,4,9:39 PM,8:02,Hawkins 16' Jump Shot (9 PTS) (Meesseman 4 AST),,,54 - 66,12,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,372,2,47,4,9:40 PM,7:40,,,MISS Johnson 7' Turnaround Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,373,4,0,4,9:40 PM,7:39,,,Paris REBOUND (Off:2 Def:3),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,374,1,66,4,9:40 PM,7:36,,,Paris 6' Jump Bank Shot (9 PTS),56 - 66,10,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,375,1,85,4,9:40 PM,7:22,Delle Donne 7' Turnaround Bank Shot (20 PTS) (Meesseman 5 AST),,,56 - 68,12,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,376,6,2,4,9:40 PM,7:22,,,Christmas-Kelly S.FOUL (P3.T1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,377,3,10,4,9:40 PM,7:22,Delle Donne Free Throw 1 of 1 (21 PTS),,,56 - 69,13,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,380,2,5,4,9:41 PM,7:14,Delle Donne BLOCK (2 BLK),,MISS Diggins-Smith 3' Layup,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041700101,381,4,0,4,9:41 PM,7:14,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,382,8,0,4,9:41 PM,7:14,SUB: Thomas FOR Meesseman,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,383,8,0,4,9:41 PM,7:14,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,384,2,1,4,9:41 PM,7:10,,,MISS Plaisance 24' 3PT Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,385,4,0,4,9:41 PM,7:09,Delle Donne REBOUND (Off:4 Def:6),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,386,5,1,4,9:42 PM,6:52,Toliver Bad Pass Turnover (P5.T9),,Plaisance STEAL (1 STL),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,387,2,1,4,9:42 PM,6:46,,,MISS Diggins-Smith 3' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,388,4,0,4,9:42 PM,6:46,,,Christmas-Kelly REBOUND (Off:3 Def:1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,389,6,2,4,9:42 PM,6:46,Hawkins S.FOUL (P6.T2),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,390,8,0,4,9:42 PM,6:46,SUB: Meesseman FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,391,3,11,4,9:42 PM,6:46,,,Christmas-Kelly Free Throw 1 of 2 (3 PTS),57 - 69,12,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,393,3,12,4,9:43 PM,6:46,,,Christmas-Kelly Free Throw 2 of 2 (4 PTS),58 - 69,11,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,395,2,1,4,9:43 PM,6:27,MISS Hightower 14' Jump Shot,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,396,4,0,4,9:43 PM,6:26,,,Johnson REBOUND (Off:3 Def:7),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,398,8,0,4,9:43 PM,6:20,SUB: Ruffin-Pratt FOR Hightower,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,400,2,1,4,9:44 PM,6:10,Thomas BLOCK (2 BLK),,MISS Johnson 5' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1
+1041700101,401,4,0,4,9:44 PM,6:08,,,Johnson REBOUND (Off:4 Def:7),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,402,2,1,4,9:44 PM,6:06,,,MISS Johnson 3' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,403,4,0,4,9:44 PM,6:05,Delle Donne REBOUND (Off:4 Def:7),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,404,6,1,4,9:44 PM,6:03,,,Powers P.FOUL (P1.T2),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,405,18,2,4,9:45 PM,5:52,,Altercation Ruling,,,,,405,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,409,2,1,4,9:48 PM,5:41,MISS Meesseman 25' 3PT Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,410,4,0,4,9:48 PM,5:40,,,Johnson REBOUND (Off:4 Def:8),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,411,2,1,4,9:48 PM,5:28,,,MISS Plaisance 13' Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,412,4,0,4,9:48 PM,5:27,Ruffin-Pratt REBOUND (Off:0 Def:1),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,413,6,1,4,9:48 PM,5:25,,,Plaisance P.FOUL (P2.T3),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,414,9,1,4,9:49 PM,5:25,MYSTICS Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,416,1,86,4,9:52 PM,5:08,Toliver 17' Turnaround Fadeaway (11 PTS),,,58 - 71,13,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,417,1,47,4,9:53 PM,4:51,,,Plaisance 4' Turnaround Jump Shot (6 PTS),60 - 71,11,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,418,6,2,4,9:53 PM,4:51,Delle Donne S.FOUL (P2.T3),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,419,3,10,4,9:53 PM,4:51,,,Plaisance Free Throw 1 of 1 (7 PTS),61 - 71,10,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,421,2,1,4,9:53 PM,4:29,MISS Thomas 3' Jump Shot,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,422,4,0,4,9:53 PM,4:29,,,Johnson REBOUND (Off:4 Def:9),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,423,6,3,4,9:53 PM,4:29,Thomas L.B.FOUL (P5.T4),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,424,1,5,4,9:54 PM,4:17,,,Christmas-Kelly 2' Layup (6 PTS),63 - 71,8,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,425,2,1,4,9:54 PM,3:54,MISS Ruffin-Pratt 12' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,426,4,0,4,9:54 PM,3:53,Meesseman REBOUND (Off:5 Def:5),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,427,2,1,4,9:54 PM,3:41,MISS Toliver 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,428,4,0,4,9:54 PM,3:41,,,Christmas-Kelly REBOUND (Off:3 Def:2),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,429,1,42,4,9:55 PM,3:36,,,Diggins-Smith 1' Driving Layup (10 PTS) (Christmas-Kelly 3 AST),65 - 71,6,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,430,9,2,4,9:55 PM,3:35,MYSTICS Timeout: Short (Full 3 Short 1),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,432,5,2,4,9:56 PM,3:20,Ruffin-Pratt Lost Ball Turnover (P1.T10),,Powers STEAL (2 STL),,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,433,1,5,4,9:56 PM,3:13,,,Diggins-Smith 2' Layup (12 PTS) (Powers 3 AST),67 - 71,4,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1041700101,434,2,1,4,9:57 PM,2:51,MISS Delle Donne 20' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,435,4,0,4,9:57 PM,2:50,Ruffin-Pratt REBOUND (Off:1 Def:1),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,436,2,1,4,9:57 PM,2:42,MISS Toliver 26' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,437,4,0,4,9:57 PM,2:41,Thomas REBOUND (Off:4 Def:10),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,439,6,3,4,9:59 PM,2:41,,,Johnson L.B.FOUL (P2.T4),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,440,18,2,4,9:59 PM,2:41,,Altercation Ruling,,,,,439,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,442,9,1,4,10:00 PM,2:41,,,Wings Timeout: Regular (Reg.3 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,446,8,0,4,10:02 PM,2:41,,,SUB: Paris FOR Plaisance,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,447,1,1,4,10:03 PM,2:28,Ruffin-Pratt 14' Jump Shot (4 PTS) (Delle Donne 3 AST),,,67 - 73,6,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,448,2,1,4,10:04 PM,2:13,Ruffin-Pratt BLOCK (1 BLK),,MISS Powers 14' Jump Shot,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1
+1041700101,449,4,0,4,10:04 PM,2:11,,,Powers REBOUND (Off:2 Def:4),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,451,2,1,4,10:04 PM,2:02,,,MISS Diggins-Smith 15' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,452,4,0,4,10:04 PM,2:02,,,Paris REBOUND (Off:3 Def:3),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,453,5,11,4,10:04 PM,2:02,,,Wings Turnover: Shot Clock (T#6),,,3.0,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,455,1,71,4,10:05 PM,1:50,Ruffin-Pratt 1' Finger Roll Layup (6 PTS) (Thomas 3 AST),,,67 - 75,8,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,456,2,1,4,10:05 PM,1:33,,,MISS Johnson 13' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,457,4,0,4,10:05 PM,1:33,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,458,6,3,4,10:06 PM,1:33,Ruffin-Pratt L.B.FOUL (P4.PN),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,460,6,16,4,10:06 PM,1:33,,"Double Technical - Powers, Ruffin-Pratt",,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,459,18,2,4,10:06 PM,1:33,,Altercation Ruling,,,,,460,Trevor Ruffin,,,,,0,0,,,,,,1,0,,,,,,0
+1041700101,461,3,11,4,10:10 PM,1:33,,,Powers Free Throw 1 of 2 (18 PTS),68 - 75,7,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,463,3,12,4,10:10 PM,1:33,,,Powers Free Throw 2 of 2 (19 PTS),69 - 75,6,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1041700101,466,6,1,4,10:10 PM,1:23,,,Powers P.FOUL (P2.PN),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,467,3,11,4,10:11 PM,1:23,Ruffin-Pratt Free Throw 1 of 2 (7 PTS),,,69 - 76,7,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,469,3,12,4,10:11 PM,1:23,MISS Ruffin-Pratt Free Throw 2 of 2,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,471,4,0,4,10:11 PM,1:22,,,Johnson REBOUND (Off:4 Def:10),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,472,1,81,4,10:12 PM,1:11,,,Powers 6' Pullup Bank Shot (21 PTS),71 - 76,5,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,473,6,11,4,10:12 PM,1:11,,,Powers T.FOUL (P2.PN),,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1041700101,474,11,1,4,10:12 PM,1:11,,,Powers Ejection:Second Technical,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1041700101,475,8,0,4,10:12 PM,1:11,,,SUB: Gray FOR Powers,,,5.0,1627672,Aerial Powers,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,476,3,16,4,10:13 PM,1:11,Toliver Free Throw Technical (12 PTS),,,71 - 77,6,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,479,2,1,4,10:14 PM,0:51,MISS Ruffin-Pratt 18' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,480,4,0,4,10:14 PM,0:50,,,Gray REBOUND (Off:1 Def:2),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,481,6,1,4,10:14 PM,0:43,Meesseman P.FOUL (P2.PN),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1041700101,482,3,11,4,10:14 PM,0:43,,,Johnson Free Throw 1 of 2 (14 PTS),72 - 77,5,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,484,3,12,4,10:14 PM,0:43,,,Johnson Free Throw 2 of 2 (15 PTS),73 - 77,4,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,486,6,1,4,10:15 PM,0:43,,,Gray P.FOUL (P2.PN),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,487,3,11,4,10:15 PM,0:43,MISS Ruffin-Pratt Free Throw 1 of 2,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,488,4,1,4,10:15 PM,0:43,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,489,3,12,4,10:15 PM,0:43,MISS Ruffin-Pratt Free Throw 2 of 2,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,491,4,0,4,10:15 PM,0:42,Thomas REBOUND (Off:5 Def:10),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,492,6,1,4,10:15 PM,0:38,,,Diggins-Smith P.FOUL (P2.PN),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,493,3,11,4,10:16 PM,0:38,Delle Donne Free Throw 1 of 2 (22 PTS),,,73 - 78,5,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,495,3,12,4,10:16 PM,0:38,Delle Donne Free Throw 2 of 2 (23 PTS),,,73 - 79,6,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,497,9,2,4,10:16 PM,0:38,,,Wings Timeout: Short (Reg.3 Short 1),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,499,8,0,4,10:17 PM,0:38,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1041700101,500,8,0,4,10:17 PM,0:38,SUB: Hightower FOR Toliver,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,501,2,1,4,10:17 PM,0:33,,,MISS Gray 8' Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,502,4,0,4,10:17 PM,0:32,Thomas REBOUND (Off:5 Def:11),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,503,6,1,4,10:17 PM,0:32,,,Plaisance P.FOUL (P3.PN),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,504,3,11,4,10:18 PM,0:32,Thomas Free Throw 1 of 2 (5 PTS),,,73 - 80,7,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,506,3,12,4,10:18 PM,0:32,MISS Thomas Free Throw 2 of 2,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,508,4,0,4,10:18 PM,0:32,,,Plaisance REBOUND (Off:0 Def:5),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,509,9,2,4,10:18 PM,0:32,,,Wings Timeout: Short (Reg.3 Short 2),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,511,2,1,4,10:20 PM,0:28,,,MISS Christmas-Kelly 28' 3PT Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,512,4,0,4,10:20 PM,0:27,Thomas REBOUND (Off:5 Def:12),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,513,9,1,4,10:20 PM,0:27,MYSTICS Timeout: Regular (Full 4 Short 1),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700101,515,8,0,4,10:21 PM,0:27,SUB: Latta FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,516,8,0,4,10:21 PM,0:27,SUB: Toliver FOR Hightower,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,517,6,28,4,10:22 PM,0:25,,,Diggins-Smith Personal Take Foul (P3.PN),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,518,3,11,4,10:22 PM,0:25,Toliver Free Throw 1 of 2 (13 PTS),,,73 - 81,8,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,520,8,0,4,10:22 PM,0:25,SUB: Hightower FOR Latta,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700101,521,3,12,4,10:22 PM,0:25,Toliver Free Throw 2 of 2 (14 PTS),,,73 - 82,9,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,524,1,79,4,10:23 PM,0:20,,,Diggins-Smith 25' 3PT Pullup Jump Shot (15 PTS),76 - 82,6,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,526,6,28,4,10:23 PM,0:20,,,Christmas-Kelly Personal Take Foul (P4.PN),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,527,3,11,4,10:23 PM,0:20,Delle Donne Free Throw 1 of 2 (24 PTS),,,76 - 83,7,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,529,3,12,4,10:24 PM,0:20,Delle Donne Free Throw 2 of 2 (25 PTS),,,76 - 84,8,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,531,5,2,4,10:24 PM,0:13,Meesseman STEAL (2 STL),,Diggins-Smith Lost Ball Turnover (P2.T7),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700101,532,6,28,4,10:24 PM,0:09,,,Plaisance Personal Take Foul (P4.PN),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700101,533,3,11,4,10:24 PM,0:09,Toliver Free Throw 1 of 2 (15 PTS),,,76 - 85,9,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700101,535,3,12,4,10:24 PM,0:09,Toliver Free Throw 2 of 2 (16 PTS),,,76 - 86,10,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,538,2,1,4,10:25 PM,0:01,,,MISS Gray 3PT Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1041700101,539,4,0,4,10:25 PM,0:00,Ruffin-Pratt REBOUND (Off:1 Def:2),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700101,540,13,0,4,10:25 PM,0:00,,End of 4th Period (10:25 PM EST),,76 - 86,10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,389 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041300131,0,12,0,1,10:02 PM,10:00,,Start of 1st Period (10:02 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,1,10,0,1,10:03 PM,10:00,Jump Ball Ogwumike vs. Griner: Tip to Taurasi,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1041300131,2,1,5,1,10:03 PM,9:53,,,Griner 2' Layup (2 PTS) (Taurasi 1 AST),2 - 0,-2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,3,5,1,1,10:03 PM,9:43,Harding Bad Pass Turnover (P1.T1),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,4,2,1,1,10:03 PM,9:27,,,MISS Griner 6' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,5,4,0,1,10:03 PM,9:26,Ogwumike REBOUND (Off:0 Def:1),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,6,1,1,1,10:03 PM,9:13,Beard 16' Jump Shot (2 PTS),,,2 - 2,TIE,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,7,2,1,1,10:04 PM,9:04,,,MISS Taurasi 16' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,8,4,0,1,10:04 PM,9:01,Ogwumike REBOUND (Off:0 Def:2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,9,2,1,1,10:04 PM,8:55,MISS Toliver  3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,10,4,0,1,10:04 PM,8:54,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,11,6,1,1,10:04 PM,8:34,Beard P.FOUL (P1.T1),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,12,1,73,1,10:05 PM,8:21,,,Taurasi 3' Driving Reverse Layup (2 PTS) (Taylor 1 AST),4 - 2,-2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,13,1,42,1,10:05 PM,8:11,Harding 2' Driving Layup (2 PTS),,,4 - 4,TIE,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,14,1,44,1,10:05 PM,7:52,,,Griner 3' Reverse Layup (4 PTS) (Dupree 1 AST),6 - 4,-2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,15,5,1,1,10:05 PM,7:34,Parker Bad Pass Turnover (P1.T2),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,16,2,1,1,10:06 PM,7:19,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,17,4,0,1,10:06 PM,7:17,Harding REBOUND (Off:0 Def:1),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,18,2,1,1,10:06 PM,7:09,MISS Parker  3PT Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,19,4,0,1,10:06 PM,7:08,Toliver REBOUND (Off:1 Def:0),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,20,2,1,1,10:06 PM,7:02,MISS Ogwumike 19' Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,21,4,0,1,10:06 PM,7:01,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,23,2,1,1,10:06 PM,6:56,MISS Toliver 19' Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,24,4,0,1,10:07 PM,6:55,Ogwumike REBOUND (Off:1 Def:2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,25,1,1,1,10:07 PM,6:51,Beard 20' Jump Shot (4 PTS) (Ogwumike 1 AST),,,6 - 6,TIE,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,26,1,1,1,10:07 PM,6:30,,,Bonner 25' 3PT Jump Shot (3 PTS) (Dupree 2 AST),9 - 6,-3,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,27,6,4,1,10:07 PM,6:22,Harding OFF.Foul (P1),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,28,5,5,1,10:07 PM,6:22,Harding Foul Turnover (P2.T3),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041300131,29,2,1,1,10:08 PM,6:01,,,MISS Bonner 24' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,30,4,0,1,10:08 PM,6:00,Beard REBOUND (Off:0 Def:1),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,31,5,1,1,10:08 PM,5:53,Beard Bad Pass Turnover (P1.T4),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,32,2,42,1,10:08 PM,5:41,,,MISS Taurasi 1' Driving Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,33,4,0,1,10:08 PM,5:37,,,Griner REBOUND (Off:1 Def:0),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,34,2,5,1,10:08 PM,5:36,,,MISS Dupree 2' Layup,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,35,4,0,1,10:08 PM,5:34,Parker REBOUND (Off:0 Def:1),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,36,1,42,1,10:08 PM,5:31,Ogwumike 2' Driving Layup (2 PTS) (Beard 1 AST),,,9 - 8,-1,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,37,1,5,1,10:09 PM,5:18,,,Dupree 4' Layup (2 PTS) (Taurasi 2 AST),11 - 8,-3,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,38,2,1,1,10:09 PM,5:06,MISS Harding 20' Jump Shot,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,39,4,0,1,10:09 PM,5:05,,,Taylor REBOUND (Off:0 Def:1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,40,1,42,1,10:09 PM,4:55,,,Taylor 3' Driving Layup (2 PTS),13 - 8,-5,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,41,2,1,1,10:09 PM,4:38,MISS Ogwumike 5' Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,43,4,0,1,10:09 PM,4:36,Parker REBOUND (Off:1 Def:1),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,42,2,4,1,10:09 PM,4:36,MISS Parker  Tip Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,44,4,0,1,10:09 PM,4:35,Ogwumike REBOUND (Off:2 Def:2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,45,2,5,1,10:09 PM,4:35,MISS Ogwumike 2' Layup,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,46,4,0,1,10:09 PM,4:35,Parker REBOUND (Off:2 Def:1),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,47,1,5,1,10:09 PM,4:35,Parker 3' Layup (2 PTS),,,13 - 10,-3,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,48,6,2,1,10:09 PM,4:35,,,Griner S.FOUL (P1.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,49,9,4,1,10:10 PM,4:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,51,8,0,1,10:12 PM,4:35,SUB: Lavender FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,52,3,10,1,10:13 PM,4:35,Parker Free Throw 1 of 1 (3 PTS),,,13 - 11,-2,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,54,1,5,1,10:13 PM,4:16,,,Dupree 2' Layup (4 PTS) (Taylor 2 AST),15 - 11,-4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,55,6,2,1,10:14 PM,4:04,,,Griner S.FOUL (P2.T2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,56,3,11,1,10:14 PM,4:04,Parker Free Throw 1 of 2 (4 PTS),,,15 - 12,-3,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,57,8,0,1,10:14 PM,4:04,,,SUB: Thomas FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,58,8,0,1,10:14 PM,4:04,,,SUB: Butler FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,59,3,12,1,10:14 PM,4:04,Parker Free Throw 2 of 2 (5 PTS),,,15 - 13,-2,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,61,2,1,1,10:15 PM,3:47,,,MISS Taurasi 3' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,62,4,0,1,10:15 PM,3:45,Lavender REBOUND (Off:0 Def:1),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,63,1,5,1,10:15 PM,3:38,Parker 3' Layup (7 PTS) (Toliver 1 AST),,,15 - 15,TIE,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,64,2,1,1,10:15 PM,3:17,,,MISS Butler 11' Jump Shot,,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,65,4,0,1,10:15 PM,3:16,Parker REBOUND (Off:2 Def:2),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,66,1,42,1,10:15 PM,3:10,Parker 3' Driving Layup (9 PTS),,,15 - 17,2,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,67,9,1,1,10:15 PM,3:01,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,70,8,0,1,10:17 PM,3:01,SUB: Coleman FOR Beard,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,71,2,1,1,10:18 PM,2:44,,,MISS Dupree 6' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,72,4,0,1,10:18 PM,2:43,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,73,5,11,1,10:18 PM,2:43,,,Mercury Turnover: Shot Clock (T#1),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300131,75,1,1,1,10:18 PM,2:22,Lavender 9' Jump Shot (2 PTS) (Harding 1 AST),,,15 - 19,4,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,76,5,1,1,10:19 PM,1:58,,,Bonner Bad Pass Turnover (P1.T2),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,77,2,1,1,10:19 PM,1:46,MISS Parker 20' Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,78,4,0,1,10:19 PM,1:44,Coleman REBOUND (Off:1 Def:0),,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,79,1,1,1,10:19 PM,1:34,Harding 20' Jump Shot (4 PTS),,,15 - 21,6,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,80,1,42,1,10:20 PM,1:16,,,Taurasi 3' Driving Layup (4 PTS),17 - 21,4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,81,6,2,1,10:20 PM,1:16,Lavender S.FOUL (P1.T2),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,82,3,10,1,10:20 PM,1:16,,,Taurasi Free Throw 1 of 1 (5 PTS),18 - 21,3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,84,1,5,1,10:20 PM,1:00,Parker 3' Layup (11 PTS) (Harding 2 AST),,,18 - 23,5,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,85,2,1,1,10:20 PM,0:50,,,MISS Taurasi 11' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,86,4,0,1,10:20 PM,0:49,Parker REBOUND (Off:2 Def:3),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,87,6,2,1,10:21 PM,0:43,,,Thomas S.FOUL (P1.T3),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,88,3,11,1,10:21 PM,0:43,MISS Parker Free Throw 1 of 2,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,90,4,0,1,10:21 PM,0:43,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,89,8,0,1,10:21 PM,0:43,,,SUB: James FOR Dupree,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,203427,Jasmine James,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,91,3,12,1,10:21 PM,0:43,Parker Free Throw 2 of 2 (12 PTS),,,18 - 24,6,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,93,2,1,1,10:22 PM,0:22,,,MISS Bonner 24' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,94,4,0,1,10:22 PM,0:22,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,95,6,3,1,10:22 PM,0:22,,,James L.B.FOUL (P1.PN),,,5,203427,Jasmine James,1611661317.0,Phoenix,Mercury,PHO,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,96,3,11,1,10:22 PM,0:22,Harding Free Throw 1 of 2 (5 PTS),,,18 - 25,7,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,99,8,0,1,10:22 PM,0:22,,,SUB: Taylor FOR Butler,,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,100,3,12,1,10:22 PM,0:22,Harding Free Throw 2 of 2 (6 PTS),,,18 - 26,8,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,102,1,1,1,10:23 PM,0:04,,,James 12' Jump Shot (2 PTS) (Taurasi 3 AST),20 - 26,6,5,203427,Jasmine James,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,103,2,1,1,10:23 PM,0:00,MISS Harding 28' 3PT Jump Shot,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,104,4,0,1,10:23 PM,0:00,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,105,13,0,1,10:23 PM,0:00,,End of 1st Period (10:23 PM EST),,20 - 26,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,107,12,0,2,10:26 PM,10:00,,Start of 2nd Period (10:26 PM EST),,20 - 26,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,108,2,5,2,10:27 PM,9:47,MISS Toliver 3' Layup,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,109,4,0,2,10:27 PM,9:45,,,Bonner REBOUND (Off:0 Def:1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,110,2,1,2,10:27 PM,9:38,,,MISS James 5' Jump Shot,,,5,203427,Jasmine James,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,111,4,0,2,10:27 PM,9:37,Toliver REBOUND (Off:1 Def:1),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,112,5,1,2,10:27 PM,9:33,O'Hea Bad Pass Turnover (P1.T5),,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,114,2,1,2,10:27 PM,9:10,,,MISS Taylor  3PT Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,115,4,0,2,10:27 PM,9:09,Ogwumike REBOUND (Off:2 Def:3),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,116,1,1,2,10:28 PM,9:03,Lavender 13' Jump Shot (4 PTS) (Toliver 2 AST),,,20 - 28,8,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,117,1,5,2,10:28 PM,8:49,,,Bonner 1' Layup (5 PTS) (Taurasi 4 AST),22 - 28,6,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,118,6,2,2,10:28 PM,8:49,Ogwumike S.FOUL (P1.T1),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,119,8,0,2,10:28 PM,8:49,,,SUB: Butler FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,120,3,10,2,10:28 PM,8:49,,,Bonner Free Throw 1 of 1 (6 PTS),23 - 28,5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,122,2,5,2,10:29 PM,8:35,MISS Lavender 2' Layup,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,123,4,0,2,10:29 PM,8:34,,,Griner REBOUND (Off:1 Def:1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,124,1,5,2,10:29 PM,8:29,,,Butler 3' Layup (2 PTS) (Taurasi 5 AST),25 - 28,3,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,125,9,1,2,10:29 PM,8:22,SPARKS Timeout: Regular (Full 1 Short 0),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,126,8,0,2,10:30 PM,8:22,,,SUB: Dupree FOR James,,,5,203427,Jasmine James,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,128,8,0,2,10:32 PM,8:22,SUB: Harding FOR Toliver,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,129,8,0,2,10:32 PM,8:22,SUB: Parker FOR Lavender,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,130,2,47,2,10:33 PM,8:08,MISS Parker 11' Turnaround Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,131,4,0,2,10:33 PM,8:05,Ogwumike REBOUND (Off:3 Def:3),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,132,2,5,2,10:33 PM,8:04,MISS Ogwumike 2' Layup,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,133,4,0,2,10:33 PM,8:03,,,Butler REBOUND (Off:0 Def:1),,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,134,5,2,2,10:33 PM,8:02,Coleman STEAL (1 STL),,Butler Lost Ball Turnover (P1.T3),,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,135,1,5,2,10:33 PM,7:58,Parker 3' Layup (14 PTS) (Ogwumike 2 AST),,,25 - 30,5,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,136,6,1,2,10:33 PM,7:39,Ogwumike P.FOUL (P2.T2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,137,8,0,2,10:34 PM,7:39,,,SUB: Houston FOR Bonner,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,139,8,0,2,10:34 PM,7:39,SUB: Lavender FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,140,6,4,2,10:34 PM,7:38,,,Griner OFF.Foul (P3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,141,5,5,2,10:34 PM,7:38,,,Griner Foul Turnover (P1.T4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041300131,142,8,0,2,10:34 PM,7:38,,,SUB: Thomas FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,143,2,1,2,10:35 PM,7:14,MISS Coleman 24' 3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,144,4,0,2,10:35 PM,7:13,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,145,1,1,2,10:35 PM,6:59,,,Taurasi 25' 3PT Jump Shot (8 PTS) (Dupree 3 AST),28 - 30,2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,146,2,1,2,10:35 PM,6:41,MISS O'Hea 24' 3PT Jump Shot,,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,147,4,0,2,10:35 PM,6:40,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,148,6,2,2,10:35 PM,6:40,,,Dupree S.FOUL (P1.T1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,149,3,11,2,10:36 PM,6:40,Coleman Free Throw 1 of 2 (1 PTS),,,28 - 31,3,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,154,8,0,2,10:36 PM,6:40,,,SUB: Bonner FOR Thomas,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,150,8,0,2,10:36 PM,6:40,SUB: Beard FOR O'Hea,,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,151,8,0,2,10:36 PM,6:40,,,SUB: Taylor FOR Butler,,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,152,3,12,2,10:36 PM,6:40,Coleman Free Throw 2 of 2 (2 PTS),,,28 - 32,4,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,155,2,42,2,10:37 PM,6:21,,,MISS Taurasi 1' Driving Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,156,4,0,2,10:37 PM,6:19,Coleman REBOUND (Off:1 Def:1),,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,157,6,2,2,10:37 PM,6:15,,,Houston S.FOUL (P1.T2),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,158,3,11,2,10:37 PM,6:15,Lavender Free Throw 1 of 2 (5 PTS),,,28 - 33,5,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,160,3,12,2,10:37 PM,6:15,MISS Lavender Free Throw 2 of 2,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,162,4,0,2,10:37 PM,6:14,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,163,2,1,2,10:38 PM,5:52,,,MISS Houston 6' Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,164,4,0,2,10:38 PM,5:51,Parker REBOUND (Off:2 Def:4),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,165,2,1,2,10:38 PM,5:33,MISS Beard 19' Jump Shot,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,166,4,0,2,10:38 PM,5:32,,,Dupree REBOUND (Off:0 Def:1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,167,2,1,2,10:38 PM,5:23,,,MISS Houston 7' Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,168,4,0,2,10:38 PM,5:18,Parker REBOUND (Off:2 Def:5),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,169,2,1,2,10:39 PM,5:15,MISS Harding 13' Jump Shot,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,170,4,0,2,10:39 PM,5:13,,,Taurasi REBOUND (Off:0 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,171,2,1,2,10:39 PM,5:03,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,172,4,0,2,10:39 PM,5:02,,,Dupree REBOUND (Off:1 Def:1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,173,2,1,2,10:39 PM,4:56,,,MISS Taurasi 5' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,174,4,0,2,10:39 PM,4:56,Coleman REBOUND (Off:1 Def:2),,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,175,1,75,2,10:39 PM,4:30,Parker 3' Driving Finger Roll Layup (16 PTS),,,28 - 35,7,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,176,9,1,2,10:39 PM,4:21,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,177,18,0,2,10:40 PM,4:21,,Support Ruling,,,,0,175,Alton Lister,,,,,0,0,,,,,,1,0,,,,,,0
+1041300131,178,8,0,2,10:42 PM,4:21,,,SUB: Kizer FOR Houston,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,179,8,0,2,10:43 PM,4:21,SUB: Toliver FOR Lavender,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,180,8,0,2,10:43 PM,4:21,SUB: Ogwumike FOR Coleman,,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,181,1,1,2,10:44 PM,4:06,,,Taurasi 3' Jump Shot (10 PTS) (Dupree 4 AST),30 - 35,5,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,182,2,1,2,10:44 PM,3:49,MISS Toliver 9' Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,183,4,0,2,10:44 PM,3:48,,,Dupree REBOUND (Off:1 Def:2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,184,1,5,2,10:44 PM,3:40,,,Kizer 2' Layup (2 PTS) (Dupree 5 AST),32 - 35,3,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,185,2,1,2,10:45 PM,3:23,MISS Toliver 18' Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,186,4,0,2,10:45 PM,3:22,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,187,6,2,2,10:45 PM,3:06,,,Taurasi S.FOUL (P1.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,188,3,11,2,10:46 PM,3:06,Harding Free Throw 1 of 2 (7 PTS),,,32 - 36,4,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,190,3,12,2,10:46 PM,3:06,Harding Free Throw 2 of 2 (8 PTS),,,32 - 37,5,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,192,6,4,2,10:46 PM,2:47,,,Kizer OFF.Foul (P1),,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,193,5,5,2,10:46 PM,2:47,,,Kizer Foul Turnover (P1.T5),,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041300131,194,5,1,2,10:47 PM,2:31,Harding Bad Pass Turnover (P3.T6),,Dupree STEAL (1 STL),,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,195,1,1,2,10:47 PM,2:21,,,Kizer 11' Jump Shot (4 PTS) (Taylor 3 AST),34 - 37,3,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,196,6,3,2,10:47 PM,2:06,,,Kizer L.B.FOUL (P2.T4),,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,197,1,42,2,10:48 PM,1:57,Harding 3' Driving Layup (10 PTS),,,34 - 39,5,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,198,1,5,2,10:48 PM,1:51,,,Taylor 3' Layup (4 PTS) (Taurasi 6 AST),36 - 39,3,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,199,1,73,2,10:48 PM,1:34,Ogwumike 2' Driving Reverse Layup (4 PTS),,,36 - 41,5,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,203,5,1,2,10:49 PM,1:30,,,Taurasi Bad Pass Turnover (P1.T6),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,204,2,1,2,10:49 PM,1:15,MISS Toliver  3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,205,4,0,2,10:49 PM,1:13,Ogwumike REBOUND (Off:4 Def:3),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,206,1,5,2,10:49 PM,1:12,Ogwumike 2' Layup (6 PTS),,,36 - 43,7,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,207,2,1,2,10:49 PM,0:49,,,MISS Dupree 13' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,208,4,0,2,10:49 PM,0:47,Ogwumike REBOUND (Off:4 Def:4),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,211,2,3,2,10:50 PM,0:27,MISS Ogwumike 3' Hook Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,212,4,0,2,10:50 PM,0:26,,,Kizer REBOUND (Off:0 Def:1),,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,213,1,1,2,10:50 PM,0:04,,,Bonner 4' Jump Shot (8 PTS),38 - 43,5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,214,2,1,2,10:50 PM,0:01,MISS Parker 25' 3PT Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,215,4,0,2,10:50 PM,0:00,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,216,13,0,2,10:51 PM,0:00,,End of 2nd Period (10:51 PM EST),,38 - 43,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,218,12,0,3,11:08 PM,10:00,,Start of 3rd Period (11:08 PM EST),,38 - 43,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,219,1,5,3,11:08 PM,9:46,Parker 2' Layup (18 PTS) (Toliver 3 AST),,,38 - 45,7,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,220,1,85,3,11:08 PM,9:27,,,Griner 10' Turnaround Bank Shot (6 PTS),40 - 45,5,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,221,2,1,3,11:09 PM,9:13,MISS Beard 13' Jump Shot,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,222,4,0,3,11:09 PM,9:12,,,Griner REBOUND (Off:1 Def:2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,223,6,2,3,11:09 PM,9:02,Parker S.FOUL (P1.T1),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,224,3,11,3,11:09 PM,9:02,,,MISS Griner Free Throw 1 of 2,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,225,4,1,3,11:09 PM,9:02,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,226,3,12,3,11:10 PM,9:02,,,MISS Griner Free Throw 2 of 2,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,228,4,0,3,11:10 PM,9:00,Ogwumike REBOUND (Off:4 Def:5),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,229,2,1,3,11:10 PM,8:54,MISS Toliver 27' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,230,4,0,3,11:10 PM,8:52,,,Dupree REBOUND (Off:1 Def:3),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,231,1,1,3,11:10 PM,8:40,,,Taurasi 24' 3PT Jump Shot (13 PTS),43 - 45,2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,232,2,1,3,11:10 PM,8:22,MISS Toliver 24' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,234,4,0,3,11:10 PM,8:21,,,Taurasi REBOUND (Off:0 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,235,6,1,3,11:10 PM,8:21,Ogwumike P.FOUL (P3.T2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,236,2,1,3,11:11 PM,8:03,,,MISS Taylor 18' Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,237,4,0,3,11:11 PM,8:02,Ogwumike REBOUND (Off:4 Def:6),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,238,5,1,3,11:11 PM,7:56,Beard Bad Pass Turnover (P2.T7),,Taurasi STEAL (1 STL),,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,239,5,2,3,11:11 PM,7:49,Toliver STEAL (1 STL),,Dupree Lost Ball Turnover (P1.T7),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,240,2,1,3,11:11 PM,7:38,MISS Toliver 25' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,241,4,0,3,11:11 PM,7:37,Ogwumike REBOUND (Off:5 Def:6),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,242,1,5,3,11:11 PM,7:35,Ogwumike 2' Layup (8 PTS),,,43 - 47,4,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,243,2,1,3,11:12 PM,7:18,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,244,4,0,3,11:12 PM,7:16,Toliver REBOUND (Off:1 Def:2),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,245,5,1,3,11:12 PM,7:08,Ogwumike Bad Pass Turnover (P1.T8),,Bonner STEAL (1 STL),,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,246,1,82,3,11:12 PM,7:01,,,Bonner 3' Driving Bank Shot (10 PTS),45 - 47,2,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,247,1,42,3,11:12 PM,6:46,Harding 3' Driving Layup (12 PTS),,,45 - 49,4,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,248,6,2,3,11:12 PM,6:46,,,Griner S.FOUL (P4.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,249,8,0,3,11:12 PM,6:46,,,SUB: Kizer FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,250,3,10,3,11:13 PM,6:46,Harding Free Throw 1 of 1 (13 PTS),,,45 - 50,5,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,252,6,2,3,11:13 PM,6:24,Ogwumike S.FOUL (P4.T3),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,253,3,11,3,11:13 PM,6:24,,,MISS Taylor Free Throw 1 of 2,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,254,4,1,3,11:13 PM,6:24,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,255,8,0,3,11:14 PM,6:24,SUB: Lavender FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,256,3,12,3,11:14 PM,6:24,,,Taylor Free Throw 2 of 2 (5 PTS),46 - 50,4,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,258,2,1,3,11:15 PM,6:03,MISS Toliver 19' Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,259,4,0,3,11:15 PM,6:01,,,Dupree REBOUND (Off:1 Def:4),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,260,1,42,3,11:15 PM,5:50,,,Kizer 2' Driving Layup (6 PTS),48 - 50,2,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,261,2,1,3,11:15 PM,5:29,MISS Harding 18' Jump Shot,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,262,4,0,3,11:15 PM,5:28,,,Dupree REBOUND (Off:1 Def:5),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,263,1,1,3,11:15 PM,5:19,,,Dupree 15' Jump Shot (6 PTS) (Taylor 4 AST),50 - 50,TIE,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,264,9,1,3,11:15 PM,5:11,SPARKS Timeout: Regular (Full 2 Short 0),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,266,8,0,3,11:18 PM,5:11,,,SUB: Butler FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,267,8,0,3,11:18 PM,5:11,SUB: Hoffman FOR Lavender,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,268,5,2,3,11:19 PM,4:52,Hoffman Lost Ball Turnover (P1.T9),,Kizer STEAL (1 STL),,,4,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,269,1,5,3,11:19 PM,4:46,,,Dupree 2' Layup (8 PTS) (Bonner 1 AST),52 - 50,-2,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,270,1,1,3,11:19 PM,4:23,Beard 18' Jump Shot (6 PTS) (Harding 3 AST),,,52 - 52,TIE,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,271,2,1,3,11:20 PM,4:08,,,MISS Dupree 13' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,272,4,0,3,11:20 PM,4:07,Harding REBOUND (Off:0 Def:2),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,273,5,1,3,11:20 PM,4:03,Harding Bad Pass Turnover (P4.T10),,Taurasi STEAL (2 STL),,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,275,8,0,3,11:20 PM,3:58,SUB: Coleman FOR Toliver,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,276,1,1,3,11:20 PM,3:54,,,Bonner 14' Jump Shot (12 PTS) (Butler 1 AST),54 - 52,-2,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,277,1,1,3,11:20 PM,3:37,Coleman 18' Jump Shot (4 PTS),,,54 - 54,TIE,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,278,2,1,3,11:21 PM,3:24,,,MISS Taurasi 6' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,279,4,0,3,11:21 PM,3:24,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,280,1,1,3,11:21 PM,3:21,,,Taurasi 20' Jump Shot (15 PTS) (Butler 2 AST),56 - 54,-2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,281,2,1,3,11:21 PM,3:05,MISS Coleman 12' Jump Shot,,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,282,4,0,3,11:21 PM,3:03,Beard REBOUND (Off:1 Def:1),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,283,2,5,3,11:21 PM,3:02,MISS Beard 2' Layup,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,284,4,0,3,11:21 PM,3:00,,,Bonner REBOUND (Off:0 Def:2),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,285,6,2,3,11:21 PM,2:53,Hoffman S.FOUL (P1.T4),,,,,4,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,286,3,11,3,11:22 PM,2:53,,,Taurasi Free Throw 1 of 2 (16 PTS),57 - 54,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,288,8,0,3,11:22 PM,2:53,,,SUB: Thomas FOR Kizer,,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,289,3,12,3,11:22 PM,2:53,,,Taurasi Free Throw 2 of 2 (17 PTS),58 - 54,-4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,291,2,1,3,11:22 PM,2:38,MISS Harding 16' Jump Shot,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,292,4,0,3,11:22 PM,2:37,,,Thomas REBOUND (Off:0 Def:1),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,293,1,1,3,11:23 PM,2:28,,,Taurasi 25' 3PT Jump Shot (20 PTS),61 - 54,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,294,6,17,3,11:23 PM,2:09,,,Mercury T.Foul (Def. 3 Sec Thomas ),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041300131,295,3,16,3,11:23 PM,2:09,MISS Parker Free Throw Technical,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,296,4,1,3,11:23 PM,2:09,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,297,8,0,3,11:23 PM,2:09,SUB: Lavender FOR Hoffman,,,,,4,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,299,5,40,3,11:24 PM,1:59,Beard Out of Bounds Lost Ball Turnover (P3.T11),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,300,2,1,3,11:24 PM,1:46,,,MISS Bonner 25' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,301,4,0,3,11:24 PM,1:45,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,302,6,3,3,11:24 PM,1:45,,,Thomas L.B.FOUL (P2.T2),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,303,8,0,3,11:24 PM,1:45,SUB: O'Hea FOR Beard,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,304,8,0,3,11:25 PM,1:45,SUB: Mathies FOR Harding,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,4,203407,A'dia Mathies,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,305,1,42,3,11:25 PM,1:31,O'Hea 2' Driving Layup (2 PTS),,,61 - 56,-5,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,306,6,2,3,11:25 PM,1:31,,,Butler S.FOUL (P1.PN),,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,307,3,10,3,11:25 PM,1:31,MISS O'Hea Free Throw 1 of 1,,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,309,4,0,3,11:25 PM,1:29,,,Taurasi REBOUND (Off:0 Def:3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,310,6,2,3,11:25 PM,1:18,O'Hea S.FOUL (P1.PN),,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,311,3,11,3,11:26 PM,1:18,,,Taurasi Free Throw 1 of 2 (21 PTS),62 - 56,-6,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,314,8,0,3,11:26 PM,1:18,,,SUB: Taylor FOR Butler,,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,315,3,12,3,11:26 PM,1:18,,,Taurasi Free Throw 2 of 2 (22 PTS),63 - 56,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,317,2,1,3,11:26 PM,1:00,MISS Coleman 4' Jump Shot,,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,318,4,0,3,11:26 PM,0:59,Lavender REBOUND (Off:1 Def:1),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,319,1,5,3,11:26 PM,0:59,Lavender 2' Layup (7 PTS),,,63 - 58,-5,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,320,2,1,3,11:27 PM,0:45,,,MISS Dupree 20' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,321,4,0,3,11:27 PM,0:44,Lavender REBOUND (Off:1 Def:2),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,322,5,1,3,11:27 PM,0:32,Coleman Bad Pass Turnover (P1.T12),,Taylor STEAL (1 STL),,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,323,1,1,3,11:27 PM,0:19,,,Taurasi 17' Jump Shot (24 PTS),65 - 58,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,324,1,1,3,11:28 PM,0:00,Parker 19' Jump Shot (20 PTS),,,65 - 60,-5,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,325,13,0,3,11:28 PM,0:00,,End of 3rd Period (11:28 PM EST),,65 - 60,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,327,12,0,4,11:31 PM,10:00,,Start of 4th Period (11:31 PM EST),,65 - 60,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,328,6,1,4,11:31 PM,9:44,Mathies P.FOUL (P1.T1),,,,,4,203407,A'dia Mathies,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,329,2,42,4,11:32 PM,9:29,,,MISS Bonner 2' Driving Layup,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,330,4,0,4,11:32 PM,9:28,Parker REBOUND (Off:2 Def:6),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,331,2,1,4,11:32 PM,9:15,MISS O'Hea 25' 3PT Jump Shot,,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,332,4,0,4,11:32 PM,9:14,,,Griner REBOUND (Off:1 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,333,2,1,4,11:32 PM,9:06,,,MISS Taurasi 25' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,334,4,0,4,11:32 PM,9:04,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,335,5,1,4,11:33 PM,8:47,Parker Bad Pass Turnover (P2.T13),,Bonner STEAL (2 STL),,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,336,6,1,4,11:33 PM,8:34,O'Hea P.FOUL (P2.T2),,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,337,8,0,4,11:33 PM,8:34,SUB: Harding FOR Mathies,,,,,4,203407,A'dia Mathies,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,338,8,0,4,11:33 PM,8:34,SUB: Beard FOR Coleman,,,,,4,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,339,1,56,4,11:34 PM,8:22,,,Griner 7' Running Hook Shot (8 PTS) (Taylor 5 AST),67 - 60,-7,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,340,2,5,4,11:34 PM,8:05,MISS Ogwumike 1' Layup,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,341,4,0,4,11:34 PM,8:03,,,Griner REBOUND (Off:1 Def:4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,342,5,4,4,11:34 PM,7:51,,,Taylor Traveling Turnover (P1.T8),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041300131,343,1,1,4,11:35 PM,7:29,Harding 6' Jump Shot (15 PTS),,,67 - 62,-5,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,344,2,1,4,11:35 PM,7:11,Parker BLOCK (1 BLK),,MISS Dupree 5' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0
+1041300131,345,4,0,4,11:35 PM,7:08,O'Hea REBOUND (Off:0 Def:1),,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,346,1,5,4,11:35 PM,7:02,Parker 2' Layup (22 PTS) (Ogwumike 3 AST),,,67 - 64,-3,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,347,1,73,4,11:36 PM,6:41,,,Dupree 2' Driving Reverse Layup (10 PTS),69 - 64,-5,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,348,2,1,4,11:36 PM,6:27,MISS Parker 18' Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,349,4,0,4,11:36 PM,6:26,,,Taylor REBOUND (Off:0 Def:2),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,350,6,4,4,11:36 PM,6:08,,,Griner OFF.Foul (P5),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,351,5,5,4,11:36 PM,6:08,,,Griner Foul Turnover (P2.T9),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041300131,352,8,0,4,11:36 PM,6:08,,,SUB: Butler FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,353,5,4,4,11:37 PM,5:57,O'Hea Traveling Turnover (P2.T14),,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041300131,354,8,0,4,11:37 PM,5:57,,,SUB: Kizer FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,355,9,4,4,11:37 PM,5:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,358,8,0,4,11:40 PM,5:57,SUB: Toliver FOR O'Hea,,,,,4,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,359,1,73,4,11:40 PM,5:39,,,Dupree 3' Driving Reverse Layup (12 PTS),71 - 64,-7,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,360,2,1,4,11:41 PM,5:22,MISS Ogwumike 4' Jump Shot,,Kizer BLOCK (1 BLK),,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,0
+1041300131,361,4,0,4,11:41 PM,5:21,,,Bonner REBOUND (Off:0 Def:3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,362,1,5,4,11:41 PM,5:13,,,Dupree 2' Layup (14 PTS),73 - 64,-9,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,363,9,2,4,11:41 PM,5:08,SPARKS Timeout: Short (Full 2 Short 1),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,368,5,4,4,11:43 PM,4:57,Ogwumike Traveling Turnover (P2.T15),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041300131,369,2,42,4,11:43 PM,4:39,,,MISS Dupree 4' Driving Layup,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,370,4,0,4,11:43 PM,4:36,Ogwumike REBOUND (Off:5 Def:7),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,371,6,1,4,11:43 PM,4:35,,,Bonner P.FOUL (P1.T1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,372,2,1,4,11:44 PM,4:23,MISS Beard 13' Jump Shot,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,373,4,0,4,11:44 PM,4:21,,,Bonner REBOUND (Off:0 Def:4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,374,6,1,4,11:44 PM,4:08,Harding P.FOUL (P2.T3),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,375,2,1,4,11:44 PM,3:56,,,MISS Dupree 14' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,376,4,0,4,11:44 PM,3:56,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,377,6,3,4,11:44 PM,3:56,Parker L.B.FOUL (P2.T4),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,378,5,11,4,11:45 PM,3:42,,,Mercury Turnover: Shot Clock (T#10),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300131,379,1,1,4,11:45 PM,3:32,Toliver 20' Jump Shot (2 PTS) (Harding 4 AST),,,73 - 66,-7,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,380,1,1,4,11:46 PM,3:12,,,Butler 17' Jump Shot (4 PTS),75 - 66,-9,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,381,6,2,4,11:46 PM,3:00,,,Dupree S.FOUL (P2.T2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,382,3,11,4,11:46 PM,3:00,Parker Free Throw 1 of 2 (23 PTS),,,75 - 67,-8,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,383,8,0,4,11:47 PM,3:00,,,SUB: Griner FOR Kizer,,,5,203041,Lynetta Kizer,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,384,3,12,4,11:47 PM,3:00,Parker Free Throw 2 of 2 (24 PTS),,,75 - 68,-7,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,386,2,1,4,11:47 PM,2:48,Parker BLOCK (2 BLK),,MISS Taurasi 3' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0
+1041300131,387,4,0,4,11:47 PM,2:45,Harding REBOUND (Off:0 Def:3),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,388,6,2,4,11:47 PM,2:44,,,Butler S.FOUL (P2.T3),,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,389,9,1,4,11:48 PM,2:44,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,393,3,11,4,11:50 PM,2:44,MISS Harding Free Throw 1 of 2,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,394,4,1,4,11:50 PM,2:44,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,395,3,12,4,11:51 PM,2:44,Harding Free Throw 2 of 2 (16 PTS),,,75 - 69,-6,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,397,1,46,4,11:51 PM,2:28,,,Dupree 17' Running Jump Shot (16 PTS) (Taurasi 7 AST),77 - 69,-8,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,398,2,1,4,11:52 PM,2:16,MISS Toliver  3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,399,4,0,4,11:52 PM,2:15,,,Dupree REBOUND (Off:1 Def:6),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,400,2,1,4,11:52 PM,1:56,,,MISS Griner 5' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,401,4,0,4,11:52 PM,1:55,,,Griner REBOUND (Off:2 Def:4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,402,1,3,4,11:52 PM,1:53,,,Griner 4' Hook Shot (10 PTS),79 - 69,-10,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,403,2,1,4,11:52 PM,1:41,MISS Parker 19' Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,404,4,0,4,11:52 PM,1:40,,,Bonner REBOUND (Off:0 Def:5),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,405,2,1,4,11:52 PM,1:25,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,406,4,0,4,11:52 PM,1:24,,,Taurasi REBOUND (Off:1 Def:3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,407,6,1,4,11:53 PM,1:11,Harding P.FOUL (P3.PN),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,408,3,11,4,11:53 PM,1:11,,,Taurasi Free Throw 1 of 2 (25 PTS),80 - 69,-11,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,410,3,12,4,11:53 PM,1:11,,,Taurasi Free Throw 2 of 2 (26 PTS),81 - 69,-12,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,412,1,1,4,11:54 PM,1:02,Beard 17' Jump Shot (8 PTS) (Harding 5 AST),,,81 - 71,-10,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041300131,414,9,1,4,11:54 PM,0:51,,,Mercury Timeout: Regular (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,419,6,28,4,11:56 PM,0:49,Harding Personal Take Foul (P4.PN),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,420,3,11,4,11:56 PM,0:49,,,MISS Taurasi Free Throw 1 of 2,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,421,4,1,4,11:56 PM,0:49,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,422,3,12,4,11:56 PM,0:49,,,Taurasi Free Throw 2 of 2 (27 PTS),82 - 71,-11,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,424,6,1,4,11:57 PM,0:48,,,Taurasi P.FOUL (P2.T4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041300131,425,5,1,4,11:57 PM,0:47,Ogwumike Bad Pass Turnover (P3.T16),,Butler STEAL (1 STL),,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,426,6,28,4,11:57 PM,0:40,Beard Personal Take Foul (P2.PN),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,427,3,11,4,11:57 PM,0:40,,,Bonner Free Throw 1 of 2 (13 PTS),83 - 71,-12,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,429,3,12,4,11:57 PM,0:40,,,MISS Bonner Free Throw 2 of 2,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,431,4,0,4,11:58 PM,0:39,Toliver REBOUND (Off:1 Def:3),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,432,2,1,4,11:58 PM,0:30,MISS Parker 24' 3PT Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,433,4,0,4,11:58 PM,0:28,Harding REBOUND (Off:1 Def:3),,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,434,2,1,4,11:58 PM,0:23,MISS Toliver 24' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,435,4,0,4,11:58 PM,0:22,Ogwumike REBOUND (Off:6 Def:7),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,436,1,42,4,11:58 PM,0:17,Parker 3' Driving Layup (26 PTS),,,83 - 73,-10,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,437,9,2,4,11:58 PM,0:17,,,Mercury Timeout: Short (Reg.4 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,438,8,0,4,11:59 PM,0:17,,,SUB: Taylor FOR Butler,,,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,440,6,28,4,11:59 PM,0:15,Toliver Personal Take Foul (P1.PN),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,441,3,11,4,11:59 PM,0:15,,,Taurasi Free Throw 1 of 2 (28 PTS),84 - 73,-11,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,443,8,0,4,12:00 AM,0:15,,,SUB: Butler FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203046,Briana Butler,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041300131,444,3,12,4,12:00 AM,0:15,,,Taurasi Free Throw 2 of 2 (29 PTS),85 - 73,-12,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,446,1,42,4,12:00 AM,0:09,Parker 3' Driving Layup (28 PTS),,,85 - 75,-10,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,447,6,28,4,12:00 AM,0:08,Toliver Personal Take Foul (P2.PN),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041300131,448,3,11,4,12:00 AM,0:08,,,Taurasi Free Throw 1 of 2 (30 PTS),86 - 75,-11,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,450,3,12,4,12:00 AM,0:08,,,MISS Taurasi Free Throw 2 of 2,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041300131,452,4,0,4,12:01 AM,0:07,Ogwumike REBOUND (Off:6 Def:8),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,454,2,1,4,12:01 AM,0:02,MISS Harding 19' Jump Shot,,,,,4,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041300131,455,4,0,4,12:01 AM,0:00,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300131,456,13,0,4,12:01 AM,0:00,,End of 4th Period (12:01 AM EST),,86 - 75,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,394 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042300202,2,12,0,1,10:11 PM,10:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,4,10,0,1,10:11 PM,10:00,Jump Ball Wilson vs. McCowan: Tip to Ogunbowale,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1
+1042300202,7,2,98,1,10:11 PM,9:46,Stokes BLOCK (1 BLK),,MISS McCowan 5' Cutting Layup Shot,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042300202,9,4,0,1,10:11 PM,9:44,,,McCowan REBOUND (Off:1 Def:0),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,10,2,72,1,10:11 PM,9:43,,,MISS McCowan 4' Putback Layup,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,11,4,0,1,10:11 PM,9:43,Wilson REBOUND (Off:0 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,13,6,2,1,10:12 PM,9:20,,,McCowan S.FOUL (P1.T1),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,15,3,13,1,10:13 PM,9:20,MISS Young Free Throw 1 of 3,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,16,4,1,1,10:13 PM,9:20,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,17,3,14,1,10:13 PM,9:20,Young Free Throw 2 of 3 (1 PTS),,,0 - 1,1,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,18,3,15,1,10:13 PM,9:20,Young Free Throw 3 of 3 (2 PTS),,,0 - 2,2,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,19,1,5,1,10:13 PM,9:04,,,McCowan 5' Layup (2 PTS) (Sims 1 AST),2 - 2,TIE,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,21,2,47,1,10:14 PM,8:44,MISS Wilson 16' Turnaround Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,22,4,0,1,10:14 PM,8:41,,,McCowan REBOUND (Off:1 Def:1),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,23,2,79,1,10:14 PM,8:29,,,MISS Howard 17' Pullup Jump Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,24,4,0,1,10:14 PM,8:27,Young REBOUND (Off:0 Def:1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,25,1,79,1,10:14 PM,8:08,Gray 18' Pullup Jump Shot (2 PTS),,,2 - 4,2,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,27,2,1,1,10:15 PM,7:41,,,MISS McCowan 6' Jump Shot,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,28,4,0,1,10:15 PM,7:41,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,29,5,11,1,10:15 PM,7:41,,,Wings Turnover: Shot Clock (T#1),,,3,1611661321,,,,,,0,0,,,,,,1,0,,,,,,1
+1042300202,30,6,4,1,10:15 PM,7:31,Young OFF.Foul (P1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,32,5,37,1,10:15 PM,7:31,Young Offensive Foul Turnover (P1.T1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300202,33,2,47,1,10:16 PM,7:16,,,MISS Sabally 12' Turnaround Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,34,4,0,1,10:16 PM,7:12,Gray REBOUND (Off:0 Def:1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,35,1,79,1,10:16 PM,7:01,Gray 18' Pullup Jump Shot (4 PTS),,,2 - 6,4,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,36,6,2,1,10:16 PM,6:51,Gray S.FOUL (P1.T1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,38,3,11,1,10:17 PM,6:51,,,Sabally Free Throw 1 of 2 (1 PTS),3 - 6,3,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,39,3,12,1,10:17 PM,6:51,,,Sabally Free Throw 2 of 2 (2 PTS),4 - 6,2,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,40,1,79,1,10:17 PM,6:38,Young 18' Pullup Jump Shot (4 PTS),,,4 - 8,4,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,41,6,2,1,10:17 PM,6:30,Young S.FOUL (P2.T2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,43,3,11,1,10:18 PM,6:30,,,McCowan Free Throw 1 of 2 (3 PTS),5 - 8,3,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,44,8,0,1,10:18 PM,6:30,SUB: Clark FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,46,3,12,1,10:18 PM,6:30,,,McCowan Free Throw 2 of 2 (4 PTS),6 - 8,2,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,47,5,2,1,10:18 PM,6:18,Wilson Lost Ball Turnover (P1.T2),,Howard STEAL (1 STL),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,49,6,1,1,10:18 PM,6:18,Wilson P.FOUL (P1.T3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,51,2,102,1,10:19 PM,6:08,,,MISS Sabally 6' Driving Floating Bank Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,52,4,0,1,10:19 PM,6:05,Gray REBOUND (Off:0 Def:2),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,53,2,2,1,10:19 PM,5:59,MISS Clark 24' 3PT Running Jump Shot,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,54,4,0,1,10:19 PM,5:57,Wilson REBOUND (Off:1 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,55,1,72,1,10:19 PM,5:57,Wilson 5' Putback Layup (2 PTS),,,6 - 10,4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,56,6,2,1,10:19 PM,5:57,,,Howard S.FOUL (P1.T2),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,58,8,0,1,10:19 PM,5:57,,,SUB: Brown FOR McCowan,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,60,3,10,1,10:19 PM,5:57,Wilson Free Throw 1 of 1 (3 PTS),,,6 - 11,5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,61,2,102,1,10:20 PM,5:44,,,MISS Sims 6' Driving Floating Bank Jump Shot,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,62,4,0,1,10:20 PM,5:39,,,Howard REBOUND (Off:1 Def:0),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,63,5,2,1,10:20 PM,5:36,Plum STEAL (1 STL),,Howard Lost Ball Turnover (P1.T2),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,65,2,2,1,10:20 PM,5:28,MISS Plum 27' 3PT Running Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,66,4,0,1,10:20 PM,5:25,Wilson REBOUND (Off:2 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,67,2,72,1,10:20 PM,5:25,MISS Wilson 3' Putback Layup,,Brown BLOCK (1 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,1
+1042300202,69,4,0,1,10:20 PM,5:25,,,Howard REBOUND (Off:1 Def:1),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,70,1,41,1,10:20 PM,5:17,,,Sims 6' Running Layup (2 PTS),8 - 11,3,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,71,2,1,1,10:20 PM,5:04,MISS Plum 24' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,72,4,0,1,10:20 PM,5:01,Clark REBOUND (Off:1 Def:0),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,73,2,79,1,10:20 PM,4:57,MISS Gray 8' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,74,4,0,1,10:20 PM,4:54,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,75,6,3,1,10:21 PM,4:54,Wilson L.B.FOUL (P2.T4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,77,9,4,1,10:21 PM,4:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,78,8,0,1,10:22 PM,4:54,SUB: Young FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,80,1,5,1,10:24 PM,4:39,,,Brown 2' Layup (2 PTS) (Sims 2 AST),10 - 11,1,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,82,1,98,1,10:24 PM,4:19,Gray 5' Cutting Layup Shot (6 PTS) (Plum 1 AST),,,10 - 13,3,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,84,2,6,1,10:24 PM,4:03,,,MISS Brown 5' Driving Layup,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,85,4,0,1,10:24 PM,4:01,,,Howard REBOUND (Off:2 Def:1),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,86,2,1,1,10:25 PM,3:59,,,MISS Ogunbowale 26' 3PT Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,87,4,0,1,10:25 PM,3:54,,,Ogunbowale REBOUND (Off:1 Def:0),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,88,2,5,1,10:25 PM,3:51,,,MISS Brown 5' Layup,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,89,4,0,1,10:25 PM,3:49,,,Brown REBOUND (Off:1 Def:0),,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,90,2,72,1,10:25 PM,3:49,,,MISS Brown 5' Putback Layup,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,91,4,0,1,10:25 PM,3:47,Wilson REBOUND (Off:2 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,92,1,6,1,10:25 PM,3:31,Wilson 5' Driving Layup (5 PTS),,,10 - 15,5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,93,1,5,1,10:25 PM,3:13,,,Brown 5' Layup (4 PTS) (Sabally 1 AST),12 - 15,3,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,95,1,44,1,10:25 PM,3:05,Wilson 5' Reverse Layup (7 PTS) (Gray 1 AST),,,12 - 17,5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,97,2,6,1,10:26 PM,2:53,,,MISS Howard 5' Driving Layup,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,98,4,0,1,10:26 PM,2:51,,,Brown REBOUND (Off:2 Def:0),,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,99,2,72,1,10:26 PM,2:51,,,MISS Brown 5' Putback Layup,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,100,4,0,1,10:26 PM,2:49,,,Brown REBOUND (Off:3 Def:0),,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,101,1,72,1,10:26 PM,2:48,,,Brown 2' Putback Layup (6 PTS),14 - 17,3,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,102,1,1,1,10:26 PM,2:37,Gray 27' 3PT Jump Shot (9 PTS) (Young 1 AST),,,14 - 20,6,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,104,9,1,1,10:26 PM,2:32,,,Wings Timeout: Regular (Reg.1 Short 0),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,105,8,0,1,10:27 PM,2:32,SUB: Stokes FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,107,2,79,1,10:28 PM,2:25,,,MISS Ogunbowale 20' Pullup Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,108,4,0,1,10:28 PM,2:20,Gray REBOUND (Off:0 Def:3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,109,1,41,1,10:28 PM,2:16,Wilson 4' Running Layup (9 PTS),,,14 - 22,8,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,110,6,2,1,10:28 PM,2:16,,,Howard S.FOUL (P2.T3),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,112,3,10,1,10:28 PM,2:16,Wilson Free Throw 1 of 1 (10 PTS),,,14 - 23,9,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,113,2,6,1,10:29 PM,2:00,,,MISS Howard 5' Driving Layup,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,114,4,0,1,10:29 PM,1:59,,,Sabally REBOUND (Off:1 Def:0),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,115,1,72,1,10:29 PM,1:58,,,Sabally 5' Putback Layup (4 PTS),16 - 23,7,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,116,6,2,1,10:29 PM,1:50,,,Sabally S.FOUL (P1.T4),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,118,3,11,1,10:29 PM,1:50,MISS Plum Free Throw 1 of 2,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,119,4,1,1,10:29 PM,1:50,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,120,8,0,1,10:29 PM,1:50,,,SUB: Kuier FOR Brown,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,122,3,12,1,10:30 PM,1:50,Plum Free Throw 2 of 2 (1 PTS),,,16 - 24,8,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,123,5,45,1,10:30 PM,1:40,,,Howard Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300202,124,8,0,1,10:30 PM,1:40,SUB: George FOR Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,126,2,1,1,10:30 PM,1:28,MISS George 3PT Jump Shot,,,,,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,127,4,0,1,10:30 PM,1:23,Stokes REBOUND (Off:1 Def:0),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,128,2,6,1,10:31 PM,1:11,MISS Clark 7' Driving Layup,,Sabally BLOCK (1 BLK),,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1
+1042300202,130,4,0,1,10:31 PM,1:08,,,Ogunbowale REBOUND (Off:1 Def:1),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,131,1,41,1,10:31 PM,1:05,,,Sims 5' Running Layup (4 PTS) (Ogunbowale 1 AST),18 - 24,6,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,133,1,3,1,10:31 PM,0:43,Stokes 4' Hook Shot (2 PTS) (Clark 1 AST),,,18 - 26,8,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,136,6,2,1,10:31 PM,0:35,George S.FOUL (P1.PN),,,,,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,138,3,13,1,10:32 PM,0:35,,,MISS Sabally Free Throw 1 of 3,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,139,4,1,1,10:32 PM,0:35,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,140,3,14,1,10:32 PM,0:35,,,MISS Sabally Free Throw 2 of 3,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,141,4,1,1,10:32 PM,0:35,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,146,3,15,1,10:32 PM,0:35,,,MISS Sabally Free Throw 3 of 3,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,142,8,0,1,10:32 PM,0:35,,,SUB: Dangerfield FOR Sims,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,5,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,143,8,0,1,10:32 PM,0:35,,,SUB: McCowan FOR Howard,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,147,4,0,1,10:32 PM,0:33,Plum REBOUND (Off:0 Def:1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,148,5,45,1,10:32 PM,0:18,Plum Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300202,149,2,1,1,10:33 PM,0:01,,,MISS Dangerfield 29' 3PT Jump Shot,,,5,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,150,4,0,1,10:33 PM,0:01,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,151,13,0,1,10:33 PM,0:00,,End of 1st Period (10:33 PM EST),,18 - 26,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,156,12,0,2,10:37 PM,10:00,,Start of 2nd Period (10:37 PM EST),,18 - 26,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,157,1,63,2,10:37 PM,9:39,Gray 15' Fadeaway Jumper (11 PTS),,,18 - 28,10,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,158,2,79,2,10:38 PM,9:17,,,MISS Howard 17' Pullup Jump Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,159,4,0,2,10:38 PM,9:15,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,161,8,0,2,10:38 PM,9:15,,,SUB: Sabally FOR Kuier,,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,163,1,6,2,10:38 PM,9:09,,,Ogunbowale 3' Driving Layup (2 PTS),20 - 28,8,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,164,2,1,2,10:39 PM,8:57,MISS Clark 3PT Jump Shot,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,165,4,0,2,10:39 PM,8:56,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,167,1,6,2,10:39 PM,8:45,,,Howard 2' Driving Layup (2 PTS) (Sabally 2 AST),22 - 28,6,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,169,9,1,2,10:39 PM,8:44,ACES Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,170,8,0,2,10:41 PM,8:44,SUB: Plum FOR George,,,,,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,172,1,1,2,10:42 PM,8:27,Clark 26' 3PT Jump Shot (3 PTS) (Gray 2 AST),,,22 - 31,9,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,174,2,80,2,10:43 PM,8:08,,,MISS Ogunbowale 26' 3PT Step Back Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,175,4,0,2,10:43 PM,8:05,,,Dangerfield REBOUND (Off:1 Def:0),,,5,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,176,1,3,2,10:43 PM,7:58,,,Howard 8' Hook Shot (4 PTS),24 - 31,7,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,177,5,1,2,10:43 PM,7:42,Plum Bad Pass Turnover (P2.T4),,McCowan STEAL (1 STL),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,179,2,1,2,10:43 PM,7:29,,,MISS Howard 3PT Jump Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,180,4,0,2,10:43 PM,7:26,Gray REBOUND (Off:0 Def:4),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,181,1,63,2,10:44 PM,7:12,Gray 15' Fadeaway Jumper (13 PTS),,,24 - 33,9,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,182,5,1,2,10:44 PM,6:53,Stokes STEAL (1 STL),,Sabally Bad Pass Turnover (P1.T4),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,184,5,1,2,10:44 PM,6:47,Gray Bad Pass Turnover (P1.T5),,Ogunbowale STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,186,2,41,2,10:44 PM,6:42,,,MISS Ogunbowale 4' Running Layup,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,187,4,0,2,10:44 PM,6:37,Young REBOUND (Off:0 Def:2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,188,2,41,2,10:44 PM,6:34,MISS Plum 6' Running Layup,,Sabally BLOCK (2 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1
+1042300202,190,4,0,2,10:44 PM,6:34,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,192,8,0,2,10:44 PM,6:34,SUB: Wilson FOR Clark,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,193,8,0,2,10:44 PM,6:34,,,SUB: Sims FOR Dangerfield,,,5,1630101,Crystal Dangerfield,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,194,8,0,2,10:44 PM,6:34,,,SUB: Siegrist FOR Ogunbowale,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,198,2,1,2,10:45 PM,6:22,,,MISS Howard 25' 3PT Jump Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,199,4,0,2,10:45 PM,6:18,Wilson REBOUND (Off:2 Def:3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,200,1,80,2,10:45 PM,6:10,Young 25' 3PT Step Back Jump Shot (7 PTS),,,24 - 36,12,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,201,9,1,2,10:45 PM,6:09,,,Wings Timeout: Regular (Reg.2 Short 0),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,202,2,101,2,10:49 PM,5:56,,,MISS Sabally 6' Driving Floating Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,203,4,0,2,10:49 PM,5:52,Wilson REBOUND (Off:2 Def:4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,204,2,1,2,10:49 PM,5:39,MISS Young 25' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,205,4,0,2,10:49 PM,5:38,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,207,1,1,2,10:49 PM,5:26,,,Siegrist 24' 3PT Jump Shot (3 PTS) (McCowan 1 AST),27 - 36,9,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,209,2,79,2,10:50 PM,5:04,MISS Gray 16' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,210,4,0,2,10:50 PM,5:01,,,Howard REBOUND (Off:2 Def:2),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,211,2,47,2,10:50 PM,4:43,,,MISS Sabally 17' Turnaround Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,212,4,0,2,10:50 PM,4:41,,,Siegrist REBOUND (Off:1 Def:0),,,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,213,2,1,2,10:50 PM,4:40,,,MISS Siegrist 6' Jump Shot,,,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,214,4,0,2,10:50 PM,4:37,Wilson REBOUND (Off:2 Def:5),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,215,6,2,2,10:50 PM,4:31,,,Siegrist S.FOUL (P1.T1),,,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,217,3,11,2,10:51 PM,4:31,Wilson Free Throw 1 of 2 (11 PTS),,,27 - 37,10,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,218,8,0,2,10:51 PM,4:31,SUB: Clark FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,219,8,0,2,10:51 PM,4:31,,,SUB: Ogunbowale FOR Howard,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,222,3,12,2,10:51 PM,4:31,Wilson Free Throw 2 of 2 (12 PTS),,,27 - 38,11,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,223,2,1,2,10:52 PM,4:15,,,MISS Sims 24' 3PT Jump Shot,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,224,4,0,2,10:52 PM,4:12,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,226,2,79,2,10:52 PM,4:06,,,MISS Sabally 12' Pullup Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,227,4,0,2,10:52 PM,4:02,Young REBOUND (Off:0 Def:3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,229,2,79,2,10:53 PM,3:45,MISS Wilson 18' Pullup Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,230,4,0,2,10:53 PM,3:42,Clark REBOUND (Off:2 Def:0),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,231,1,1,2,10:53 PM,3:38,Wilson 14' Jump Shot (14 PTS) (Plum 2 AST),,,27 - 40,13,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,233,2,5,2,10:53 PM,3:21,,,MISS McCowan 5' Layup,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,235,4,0,2,10:53 PM,3:18,,,Sabally REBOUND (Off:2 Def:0),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,236,2,80,2,10:53 PM,3:15,,,MISS Sabally 16' Step Back Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,237,4,0,2,10:54 PM,3:13,Clark REBOUND (Off:2 Def:1),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,238,2,5,2,10:54 PM,3:06,MISS Wilson 2' Layup,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,239,4,0,2,10:54 PM,3:03,,,Sabally REBOUND (Off:2 Def:1),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,240,2,79,2,10:54 PM,2:48,,,MISS Siegrist 15' Pullup Jump Shot,,,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,241,4,0,2,10:54 PM,2:44,,,Ogunbowale REBOUND (Off:2 Def:1),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,242,5,1,2,10:54 PM,2:39,Stokes STEAL (2 STL),,Sims Bad Pass Turnover (P1.T5),,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,244,2,80,2,10:54 PM,2:23,MISS Young 25' 3PT Step Back Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,245,4,0,2,10:54 PM,2:18,Clark REBOUND (Off:3 Def:1),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,246,2,1,2,10:54 PM,2:17,MISS Young 25' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,247,4,0,2,10:54 PM,2:17,,,Siegrist REBOUND (Off:1 Def:1),,,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,248,1,1,2,10:55 PM,2:02,,,McCowan 21' Jump Shot (6 PTS) (Ogunbowale 2 AST),29 - 40,11,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,250,9,1,2,10:55 PM,1:52,ACES Timeout: Regular (Full 2 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,251,8,0,2,10:56 PM,1:52,SUB: Gray FOR Clark,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,252,8,0,2,10:56 PM,1:52,,,SUB: Burton FOR Sabally,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,253,8,0,2,10:56 PM,1:52,,,SUB: Howard FOR Sims,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,254,8,0,2,10:56 PM,1:52,,,SUB: Brown FOR McCowan,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,259,1,6,2,10:57 PM,1:40,Wilson 3' Driving Layup (16 PTS) (Gray 3 AST),,,29 - 42,13,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,261,1,1,2,10:57 PM,1:22,,,Ogunbowale 24' 3PT Jump Shot (5 PTS) (Burton 1 AST),32 - 42,10,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,263,6,1,2,10:58 PM,1:05,,,Howard P.FOUL (P3.T2),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,265,2,86,2,10:58 PM,0:53,MISS Gray 15' Turnaround Fadeaway Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,266,4,0,2,10:58 PM,0:51,,,Howard REBOUND (Off:2 Def:3),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,267,1,1,2,10:58 PM,0:41,,,Ogunbowale 28' 3PT Jump Shot (8 PTS) (Burton 2 AST),35 - 42,7,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,269,2,6,2,10:59 PM,0:28,MISS Gray 3' Driving Layup,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,270,4,0,2,10:59 PM,0:26,,,Siegrist REBOUND (Off:1 Def:2),,,5,1641652,Maddy Siegrist,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,271,2,41,2,10:59 PM,0:21,,,MISS Brown 7' Running Layup,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,272,4,0,2,10:59 PM,0:20,,,Howard REBOUND (Off:3 Def:3),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,273,1,72,2,10:59 PM,0:20,,,Howard 2' Putback Layup (6 PTS),37 - 42,5,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,274,1,98,2,10:59 PM,0:03,Stokes 4' Cutting Layup Shot (4 PTS) (Young 2 AST),,,37 - 44,7,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,276,2,79,2,10:59 PM,0:00,,,MISS Ogunbowale 32' 3PT Pullup Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,277,4,0,2,10:59 PM,0:00,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,278,13,0,2,10:59 PM,0:00,,End of 2nd Period (10:59 PM EST),,37 - 44,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,285,12,0,3,11:15 PM,10:00,,Start of 3rd Period (11:15 PM EST),,37 - 44,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,286,5,1,3,11:15 PM,9:49,Gray Bad Pass Turnover (P2.T6),,Howard STEAL (2 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,288,1,6,3,11:16 PM,9:36,,,Sabally 5' Driving Layup (6 PTS),39 - 44,5,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,289,2,6,3,11:16 PM,9:23,MISS Young 4' Driving Layup,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,290,4,0,3,11:16 PM,9:21,,,McCowan REBOUND (Off:1 Def:2),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,291,1,6,3,11:16 PM,9:13,,,Ogunbowale 5' Driving Layup (10 PTS),41 - 44,3,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,292,9,2,3,11:16 PM,9:13,ACES Timeout: Short (Full 2 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,293,5,2,3,11:17 PM,8:59,Plum Lost Ball Turnover (P3.T7),,Ogunbowale STEAL (2 STL),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,295,1,41,3,11:17 PM,8:55,,,Ogunbowale 5' Running Layup (12 PTS),43 - 44,1,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,296,1,1,3,11:18 PM,8:35,Gray 27' 3PT Jump Shot (16 PTS) (Young 3 AST),,,43 - 47,4,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,298,1,1,3,11:18 PM,8:19,,,Howard 24' 3PT Jump Shot (9 PTS) (Sims 3 AST),46 - 47,1,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,300,6,2,3,11:18 PM,8:05,,,McCowan S.FOUL (P2.T1),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,302,3,11,3,11:19 PM,8:05,Wilson Free Throw 1 of 2 (17 PTS),,,46 - 48,2,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,303,3,12,3,11:19 PM,8:05,Wilson Free Throw 2 of 2 (18 PTS),,,46 - 49,3,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,304,1,1,3,11:19 PM,7:49,,,Sabally 24' 3PT Jump Shot (9 PTS) (Ogunbowale 3 AST),49 - 49,TIE,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,307,2,79,3,11:20 PM,7:22,MISS Plum 7' Pullup Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,308,4,0,3,11:20 PM,7:19,Stokes REBOUND (Off:2 Def:0),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,309,1,1,3,11:20 PM,7:18,Plum 27' 3PT Jump Shot (4 PTS) (Stokes 1 AST),,,49 - 52,3,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,311,2,6,3,11:20 PM,7:02,,,MISS Sims 6' Driving Layup,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,312,4,0,3,11:20 PM,7:00,Young REBOUND (Off:0 Def:4),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,313,6,2,3,11:20 PM,6:56,,,Ogunbowale S.FOUL (P1.T2),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,315,3,11,3,11:21 PM,6:56,Plum Free Throw 1 of 2 (5 PTS),,,49 - 53,4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,316,3,12,3,11:21 PM,6:56,Plum Free Throw 2 of 2 (6 PTS),,,49 - 54,5,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,317,2,78,3,11:21 PM,6:39,,,MISS Ogunbowale 17' Floating Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,318,4,0,3,11:21 PM,6:37,,,Howard REBOUND (Off:4 Def:3),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,319,1,72,3,11:21 PM,6:35,,,Howard 3' Putback Layup (11 PTS),51 - 54,3,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,320,2,1,3,11:22 PM,6:20,MISS Young 26' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,321,4,0,3,11:22 PM,6:17,,,McCowan REBOUND (Off:1 Def:3),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,322,2,5,3,11:22 PM,6:04,Wilson BLOCK (1 BLK),,MISS Sabally 5' Layup,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042300202,324,4,0,3,11:22 PM,6:02,Wilson REBOUND (Off:2 Def:6),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,325,1,41,3,11:22 PM,5:55,Wilson 5' Running Layup (20 PTS) (Gray 4 AST),,,51 - 56,5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,327,2,79,3,11:22 PM,5:44,,,MISS Sabally 25' 3PT Pullup Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,328,4,0,3,11:22 PM,5:42,Stokes REBOUND (Off:2 Def:1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,329,1,6,3,11:22 PM,5:34,Wilson 5' Driving Layup (22 PTS) (Plum 3 AST),,,51 - 58,7,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,331,9,1,3,11:23 PM,5:34,,,Wings Timeout: Regular (Reg.3 Short 0),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,332,8,0,3,11:25 PM,5:34,,,SUB: Brown FOR McCowan,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,334,2,80,3,11:26 PM,5:19,,,MISS Ogunbowale 18' Step Back Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,335,4,0,3,11:26 PM,5:15,Stokes REBOUND (Off:2 Def:2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,336,1,75,3,11:27 PM,5:08,Gray 4' Driving Finger Roll Layup (18 PTS),,,51 - 60,9,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,337,6,2,3,11:27 PM,4:56,Wilson S.FOUL (P3.T1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,339,3,11,3,11:27 PM,4:56,,,Howard Free Throw 1 of 2 (12 PTS),52 - 60,8,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,340,3,12,3,11:27 PM,4:56,,,Howard Free Throw 2 of 2 (13 PTS),53 - 60,7,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,341,6,2,3,11:28 PM,4:38,,,Sabally S.FOUL (P2.T3),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,343,3,11,3,11:28 PM,4:38,Plum Free Throw 1 of 2 (7 PTS),,,53 - 61,8,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,344,3,12,3,11:28 PM,4:38,Plum Free Throw 2 of 2 (8 PTS),,,53 - 62,9,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,345,5,45,3,11:29 PM,4:20,,,Brown Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300202,346,1,103,3,11:29 PM,4:15,Plum 27' 3PT Running Pull-Up Jump Shot (11 PTS),,,53 - 65,12,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,347,9,2,3,11:29 PM,4:14,,,Wings Timeout: Short (Reg.3 Short 1),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,348,1,102,3,11:30 PM,3:58,,,Sabally 6' Driving Floating Bank Jump Shot (11 PTS),55 - 65,10,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,405,5,2,3,11:31 PM,3:39,Plum Lost Ball Turnover (P4.T8),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,349,6,3,3,11:31 PM,3:39,Plum L.B.FOUL (P1.T2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,352,6,1,3,11:31 PM,3:21,Gray P.FOUL (P2.T3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,354,8,0,3,11:31 PM,3:21,SUB: Clark FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,356,2,101,3,11:32 PM,3:12,,,MISS Ogunbowale 5' Driving Floating Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,357,4,0,3,11:32 PM,3:09,,,Howard REBOUND (Off:5 Def:3),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,358,2,72,3,11:32 PM,3:08,,,MISS Howard 1' Putback Layup,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,359,4,0,3,11:32 PM,3:06,Clark REBOUND (Off:3 Def:2),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,360,6,2,3,11:32 PM,3:02,,,Sims S.FOUL (P1.T4),,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,362,3,11,3,11:32 PM,3:02,MISS Plum Free Throw 1 of 2,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,363,4,1,3,11:32 PM,3:02,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,364,8,0,3,11:32 PM,3:02,,,SUB: Burton FOR Sims,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,366,3,12,3,11:33 PM,3:02,Plum Free Throw 2 of 2 (12 PTS),,,55 - 66,11,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,367,2,1,3,11:33 PM,2:45,,,MISS Burton 24' 3PT Jump Shot,,,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,368,4,0,3,11:33 PM,2:42,Wilson REBOUND (Off:2 Def:7),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,369,2,1,3,11:33 PM,2:32,MISS Clark 3PT Jump Shot,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,373,4,0,3,11:33 PM,2:24,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,370,10,0,3,11:34 PM,2:24,Jump Ball Plum vs. Burton: Tip to Ogunbowale,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0
+1042300202,374,2,5,3,11:35 PM,2:06,,,MISS Brown 3' Layup,,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,375,4,0,3,11:35 PM,2:04,Wilson REBOUND (Off:2 Def:8),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,376,2,5,3,11:35 PM,1:57,MISS Wilson 4' Layup,,Howard BLOCK (1 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,1
+1042300202,378,4,0,3,11:35 PM,1:57,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,380,1,1,3,11:35 PM,1:55,Wilson 15' Jump Shot (24 PTS) (Gray 5 AST),,,55 - 68,13,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,382,2,78,3,11:35 PM,1:30,,,MISS Sabally 12' Floating Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,383,4,0,3,11:35 PM,1:28,,,Brown REBOUND (Off:4 Def:0),,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,384,1,72,3,11:35 PM,1:27,,,Brown 4' Putback Layup (8 PTS),57 - 68,11,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,385,5,39,3,11:36 PM,1:16,Plum Step Out of Bounds Turnover (P5.T9),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300202,386,5,1,3,11:36 PM,0:56,Wilson STEAL (1 STL),,Howard Bad Pass Turnover (P3.T7),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,388,6,1,3,11:36 PM,0:53,,,Sabally P.FOUL (P3.PN),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,390,3,11,3,11:37 PM,0:53,Young Free Throw 1 of 2 (8 PTS),,,57 - 69,12,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,393,3,12,3,11:37 PM,0:53,Young Free Throw 2 of 2 (9 PTS),,,57 - 70,13,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,391,8,0,3,11:37 PM,0:53,SUB: Stokes FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,394,6,1,3,11:37 PM,0:37,Young P.FOUL (P3.T4),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,397,2,66,3,11:38 PM,0:34,,,MISS Ogunbowale 3PT Jump Bank Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,398,4,0,3,11:38 PM,0:31,Clark REBOUND (Off:3 Def:3),,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,399,2,63,3,11:38 PM,0:18,MISS Gray 14' Fadeaway Jumper,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,400,4,0,3,11:38 PM,0:16,,,Brown REBOUND (Off:4 Def:1),,,5,1629480,Kalani Brown,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,401,5,45,3,11:38 PM,0:03,,,Sabally Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042300202,402,2,79,3,11:38 PM,0:00,MISS Young 26' 3PT Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,403,4,0,3,11:38 PM,0:00,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,404,13,0,3,11:38 PM,0:00,,End of 3rd Period (11:38 PM EST),,57 - 70,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,412,12,0,4,11:43 PM,10:00,,Start of 4th Period (11:43 PM EST),,57 - 70,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,413,6,1,4,11:43 PM,9:49,George P.FOUL (P2.T1),,,,,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,0
+1042300202,415,1,73,4,11:43 PM,9:39,,,Sabally 3' Driving Reverse Layup (13 PTS),59 - 70,11,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,416,1,1,4,11:43 PM,9:23,Plum 25' 3PT Jump Shot (15 PTS) (Young 4 AST),,,59 - 73,14,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,418,2,1,4,11:44 PM,9:15,,,MISS Sabally 25' 3PT Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,419,4,0,4,11:44 PM,9:13,,,Burton REBOUND (Off:1 Def:0),,,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,420,2,58,4,11:44 PM,8:58,,,MISS Howard 6' Turnaround Hook Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,421,4,0,4,11:44 PM,8:57,,,McCowan REBOUND (Off:2 Def:3),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,422,1,72,4,11:44 PM,8:56,,,McCowan 4' Putback Layup (8 PTS),61 - 73,12,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,424,8,0,4,11:44 PM,8:37,SUB: Gray FOR Clark,,,,,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,425,8,0,4,11:44 PM,8:37,SUB: Wilson FOR George,,,,,4,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,428,2,6,4,11:45 PM,8:33,MISS Young 4' Driving Layup,,McCowan BLOCK (1 BLK),,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1
+1042300202,429,4,0,4,11:45 PM,8:30,,,McCowan REBOUND (Off:2 Def:4),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,430,1,5,4,11:45 PM,8:24,,,McCowan 6' Layup (10 PTS) (Howard 1 AST),63 - 73,10,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,433,2,1,4,11:45 PM,8:00,MISS Young 24' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,434,4,0,4,11:45 PM,7:57,,,Sabally REBOUND (Off:2 Def:2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,435,6,1,4,11:45 PM,7:54,Plum P.FOUL (P2.T2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,437,2,79,4,11:46 PM,7:49,,,MISS Ogunbowale 26' 3PT Pullup Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,438,4,0,4,11:46 PM,7:46,Gray REBOUND (Off:0 Def:5),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,439,2,86,4,11:46 PM,7:38,MISS Wilson 6' Turnaround Fadeaway Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,440,4,0,4,11:46 PM,7:38,,,Howard REBOUND (Off:5 Def:4),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,441,1,58,4,11:46 PM,7:24,,,Howard 9' Turnaround Hook Shot (15 PTS) (Sabally 3 AST),65 - 73,8,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,443,2,1,4,11:46 PM,7:13,MISS Plum 29' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,444,4,0,4,11:46 PM,7:10,,,Burton REBOUND (Off:1 Def:1),,,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,445,1,2,4,11:46 PM,7:04,,,Ogunbowale 25' 3PT Running Jump Shot (15 PTS) (Burton 3 AST),68 - 73,5,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,447,9,1,4,11:47 PM,6:53,ACES Timeout: Regular (Full 3 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,448,8,0,4,11:48 PM,6:53,,,SUB: Sims FOR Burton,,,5,1631007,Veronica Burton,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,450,2,66,4,11:50 PM,6:43,MISS Wilson 9' Jump Bank Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,451,4,0,4,11:50 PM,6:38,,,McCowan REBOUND (Off:2 Def:5),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,452,2,5,4,11:51 PM,6:27,Wilson BLOCK (2 BLK),,MISS McCowan 7' Layup,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042300202,454,4,0,4,11:51 PM,6:24,,,McCowan REBOUND (Off:3 Def:5),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,455,5,2,4,11:51 PM,6:22,Young STEAL (1 STL),,McCowan Lost Ball Turnover (P1.T9),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,457,1,2,4,11:51 PM,6:18,Plum 3PT Running Jump Shot (18 PTS) (Gray 6 AST),,,68 - 76,8,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,459,2,80,4,11:51 PM,6:02,,,MISS Sabally 25' 3PT Step Back Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,460,4,0,4,11:51 PM,6:00,Young REBOUND (Off:0 Def:5),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,461,2,6,4,11:51 PM,5:44,MISS Wilson 5' Driving Layup,,Sabally BLOCK (3 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1
+1042300202,463,4,0,4,11:51 PM,5:44,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,465,1,1,4,11:52 PM,5:41,Wilson 17' Jump Shot (26 PTS) (Gray 7 AST),,,68 - 78,10,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,467,1,1,4,11:52 PM,5:24,,,Howard 26' 3PT Jump Shot (18 PTS) (Sims 4 AST),71 - 78,7,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,469,6,4,4,11:52 PM,5:11,Stokes OFF.Foul (P1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,471,5,37,4,11:52 PM,5:11,Stokes Offensive Foul Turnover (P1.T10),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300202,472,2,1,4,11:53 PM,5:04,,,MISS Howard 14' Jump Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,473,4,0,4,11:53 PM,5:01,Young REBOUND (Off:0 Def:6),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,474,1,79,4,11:53 PM,4:49,Gray 27' 3PT Pullup Jump Shot (21 PTS),,,71 - 81,10,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,475,2,1,4,11:53 PM,4:34,,,MISS Sims 24' 3PT Jump Shot,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,476,4,0,4,11:53 PM,4:32,,,Sabally REBOUND (Off:3 Def:2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,477,1,1,4,11:53 PM,4:30,,,Ogunbowale 25' 3PT Jump Shot (18 PTS) (Sabally 4 AST),74 - 81,7,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,479,1,63,4,11:54 PM,4:09,Gray 8' Fadeaway Jumper (23 PTS),,,74 - 83,9,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,480,9,2,4,11:54 PM,4:09,,,Wings Timeout: Short (Reg.3 Short 2),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,481,2,6,4,11:55 PM,3:56,Stokes BLOCK (2 BLK),,MISS Sabally 6' Driving Layup,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,1
+1042300202,483,4,0,4,11:55 PM,3:53,Stokes REBOUND (Off:2 Def:3),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,485,2,80,4,11:56 PM,3:40,MISS Gray 26' 3PT Step Back Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,486,4,0,4,11:56 PM,3:37,,,Howard REBOUND (Off:5 Def:5),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,487,2,1,4,11:56 PM,3:26,Gray BLOCK (1 BLK),,MISS Howard 7' Jump Shot,,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1
+1042300202,489,4,0,4,11:56 PM,3:22,Young REBOUND (Off:0 Def:7),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,490,2,6,4,11:56 PM,3:10,MISS Plum 5' Driving Layup,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,491,4,0,4,11:56 PM,3:08,,,McCowan REBOUND (Off:3 Def:6),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,492,6,2,4,11:56 PM,2:58,Gray S.FOUL (P3.T3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,494,9,4,4,11:57 PM,2:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,495,3,11,4,12:00 AM,2:58,,,McCowan Free Throw 1 of 2 (11 PTS),75 - 83,8,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,496,3,12,4,12:00 AM,2:58,,,McCowan Free Throw 2 of 2 (12 PTS),76 - 83,7,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,497,1,98,4,12:00 AM,2:43,Young 5' Cutting Layup Shot (11 PTS) (Gray 8 AST),,,76 - 85,9,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300202,499,6,1,4,12:00 AM,2:29,Plum P.FOUL (P3.T4),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,501,1,1,4,12:01 AM,2:24,,,Ogunbowale 25' 3PT Jump Shot (21 PTS) (McCowan 2 AST),79 - 85,6,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042300202,503,5,2,4,12:01 AM,2:06,Plum Lost Ball Turnover (P6.T11),,Sabally STEAL (1 STL),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,505,2,103,4,12:01 AM,1:59,,,MISS Ogunbowale 14' Running Pull-Up Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,506,4,0,4,12:01 AM,1:55,Stokes REBOUND (Off:2 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,507,2,1,4,12:01 AM,1:41,MISS Young 25' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,508,4,0,4,12:01 AM,1:38,,,Sabally REBOUND (Off:3 Def:3),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,509,1,41,4,12:01 AM,1:36,,,Howard 2' Running Layup (20 PTS) (Ogunbowale 4 AST),81 - 85,4,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,511,9,2,4,12:02 AM,1:36,ACES Timeout: Short (Full 3 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,512,6,2,4,12:03 AM,1:19,,,Howard S.FOUL (P4.T1),,,5,203827,Natasha Howard,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,514,3,11,4,12:03 AM,1:19,Wilson Free Throw 1 of 2 (27 PTS),,,81 - 86,5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,515,3,12,4,12:04 AM,1:19,Wilson Free Throw 2 of 2 (28 PTS),,,81 - 87,6,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,516,2,6,4,12:04 AM,1:05,,,MISS Sims 7' Driving Layup,,,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,517,4,0,4,12:04 AM,1:04,,,McCowan REBOUND (Off:4 Def:6),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,518,6,2,4,12:04 AM,1:04,Stokes S.FOUL (P2.PN),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042300202,520,3,11,4,12:04 AM,1:04,,,MISS McCowan Free Throw 1 of 2,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,521,4,1,4,12:04 AM,1:04,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300202,522,3,12,4,12:04 AM,1:04,,,MISS McCowan Free Throw 2 of 2,,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042300202,523,4,0,4,12:04 AM,1:01,Young REBOUND (Off:0 Def:8),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,524,2,63,4,12:05 AM,0:40,MISS Gray 14' Fadeaway Jumper,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,525,4,0,4,12:05 AM,0:39,Wilson REBOUND (Off:3 Def:8),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,526,6,2,4,12:05 AM,0:39,,,McCowan S.FOUL (P3.PN),,,5,1629479,Teaira McCowan,1611661321.0,Dallas,Wings,DAL,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,528,18,3,4,12:05 AM,0:39,,Instant Replay4th Period (12:05 AM EST),,81 - 87,6,0,526,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300202,529,3,11,4,12:07 AM,0:39,Wilson Free Throw 1 of 2 (29 PTS),,,81 - 88,7,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,530,3,12,4,12:07 AM,0:39,Wilson Free Throw 2 of 2 (30 PTS),,,81 - 89,8,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300202,531,1,1,4,12:07 AM,0:27,,,Ogunbowale 26' 3PT Jump Shot (24 PTS) (Sims 5 AST),84 - 89,5,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,533,9,1,4,12:07 AM,0:27,ACES Timeout: Regular (Full 4 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,534,8,0,4,12:08 AM,0:27,SUB: Clark FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,536,6,1,4,12:09 AM,0:21,,,Ogunbowale P.FOUL (P2.PN),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300202,538,3,11,4,12:09 AM,0:21,Young Free Throw 1 of 2 (12 PTS),,,84 - 90,6,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,539,8,0,4,12:09 AM,0:21,SUB: Stokes FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300202,541,3,12,4,12:10 AM,0:21,Young Free Throw 2 of 2 (13 PTS),,,84 - 91,7,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,542,9,1,4,12:10 AM,0:21,,,Wings Timeout: Regular (Reg.4 Short 2),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300202,543,2,1,4,12:11 AM,0:18,Young BLOCK (1 BLK),,MISS Ogunbowale 25' 3PT Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1
+1042300202,545,4,0,4,12:11 AM,0:17,Stokes REBOUND (Off:2 Def:5),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,546,5,2,4,12:11 AM,0:16,Stokes Lost Ball Turnover (P2.T12),,Sims STEAL (1 STL),,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,203824,Odyssey Sims,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042300202,548,2,1,4,12:11 AM,0:14,,,MISS Ogunbowale 26' 3PT Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042300202,549,4,0,4,12:11 AM,0:11,Young REBOUND (Off:0 Def:9),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300202,550,13,0,4,12:12 AM,0:00,,End of 4th Period (12:12 AM EST),,84 - 91,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

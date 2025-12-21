@@ -1,0 +1,409 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042100402,2,12,0,1,9:07 PM,10:00,,Start of 1st Period (9:07 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,4,10,0,1,9:07 PM,10:00,Jump Ball Griner vs. Stevens: Tip to Taurasi,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,7,5,1,1,9:07 PM,9:37,Griner Bad Pass Turnover (P1.T1),,Parker STEAL (1 STL),,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,10,2,6,1,9:08 PM,9:16,,,MISS Quigley 4' Driving Layup,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,11,4,0,1,9:08 PM,9:13,,,Quigley REBOUND (Off:1 Def:0),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,12,1,6,1,9:08 PM,9:10,,,Parker 2' Driving Layup (2 PTS) (Vandersloot 1 AST),2 - 0,-2,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,14,2,5,1,9:08 PM,8:56,MISS Griner 3' Layup,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,15,4,0,1,9:08 PM,8:53,,,Quigley REBOUND (Off:1 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,16,1,1,1,9:08 PM,8:37,,,Stevens 26' 3PT Jump Shot (3 PTS) (Quigley 1 AST),5 - 0,-5,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,18,1,1,1,9:09 PM,8:13,Griner 20' Jump Shot (2 PTS) (Diggins-Smith 1 AST),,,5 - 2,-3,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,20,2,44,1,9:09 PM,7:54,,,MISS Stevens 3' Reverse Layup,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,21,4,0,1,9:09 PM,7:52,,,Stevens REBOUND (Off:1 Def:0),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,23,1,47,1,9:09 PM,7:46,,,Copper 4' Turnaround Jump Shot (2 PTS) (Vandersloot 2 AST),7 - 2,-5,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,25,1,6,1,9:09 PM,7:31,Griner 4' Driving Layup (4 PTS) (Diggins-Smith 2 AST),,,7 - 4,-3,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,27,2,1,1,9:10 PM,7:18,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,28,4,0,1,9:10 PM,7:16,Griner REBOUND (Off:0 Def:1),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,29,2,1,1,9:10 PM,7:10,MISS Taurasi 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,30,4,0,1,9:10 PM,7:06,,,Copper REBOUND (Off:0 Def:1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,31,2,6,1,9:10 PM,7:00,Cunningham BLOCK (1 BLK),,MISS Copper 2' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,33,4,0,1,9:10 PM,6:56,Cunningham REBOUND (Off:0 Def:1),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,34,5,1,1,9:10 PM,6:46,Cunningham Bad Pass Turnover (P1.T2),,Vandersloot STEAL (1 STL),,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,36,2,41,1,9:10 PM,6:44,Turner BLOCK (1 BLK),,MISS Parker 1' Running Layup,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,38,4,0,1,9:10 PM,6:44,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,40,5,1,1,9:11 PM,6:41,Cunningham STEAL (1 STL),,Vandersloot Bad Pass Turnover (P1.T1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,42,2,6,1,9:11 PM,6:34,MISS Diggins-Smith Driving Layup,,Stevens BLOCK (1 BLK),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1
+1042100402,44,4,0,1,9:11 PM,6:33,Griner REBOUND (Off:1 Def:1),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,45,1,72,1,9:11 PM,6:32,Griner 1' Putback Layup (6 PTS),,,7 - 6,-1,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,46,1,98,1,9:11 PM,6:09,,,Stevens 3' Cutting Layup Shot (5 PTS) (Vandersloot 3 AST),9 - 6,-3,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,48,5,1,1,9:11 PM,5:54,Turner Bad Pass Turnover (P1.T3),,Copper STEAL (1 STL),,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,50,5,45,1,9:11 PM,5:52,,,Copper Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,51,8,0,1,9:11 PM,5:52,SUB: Peddy FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,53,1,108,1,9:12 PM,5:35,Griner 2' Cutting Dunk Shot (8 PTS) (Peddy 1 AST),,,9 - 8,-1,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,55,1,79,1,9:12 PM,5:27,,,Vandersloot 9' Pullup Jump Shot (2 PTS),11 - 8,-3,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,56,6,1,1,9:12 PM,5:16,,,Stevens P.FOUL (P1.T1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,59,2,1,1,9:13 PM,5:04,MISS Diggins-Smith 25' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,60,4,0,1,9:13 PM,5:01,,,Copper REBOUND (Off:0 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,61,1,105,1,9:13 PM,4:54,,,Parker 10' Turnaround Fadeaway Bank Jump Shot (4 PTS),13 - 8,-5,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,62,1,47,1,9:13 PM,4:30,Griner 9' Turnaround Jump Shot (10 PTS) (Diggins-Smith 3 AST),,,13 - 10,-3,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,64,1,75,1,9:14 PM,4:16,,,Vandersloot 3' Driving Finger Roll Layup (4 PTS),15 - 10,-5,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,65,2,1,1,9:14 PM,4:07,MISS Taurasi 24' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,66,4,0,1,9:14 PM,4:06,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,67,9,4,1,9:14 PM,4:06,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,69,8,0,1,9:16 PM,4:06,SUB: Vaughn FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,70,8,0,1,9:16 PM,4:06,SUB: Cunningham FOR Griner,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,71,8,0,1,9:16 PM,4:06,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,75,5,1,1,9:17 PM,3:47,Peddy STEAL (1 STL),,Vandersloot Bad Pass Turnover (P2.T3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,77,1,41,1,9:17 PM,3:43,Peddy 1' Running Layup (2 PTS),,,15 - 12,-3,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,78,1,1,1,9:18 PM,3:31,,,Quigley 16' Jump Shot (2 PTS) (Copper 1 AST),17 - 12,-5,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,80,2,1,1,9:18 PM,3:10,MISS Vaughn 3' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,81,4,0,1,9:18 PM,3:07,,,Copper REBOUND (Off:0 Def:3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,82,1,98,1,9:18 PM,2:57,,,Copper 2' Cutting Layup Shot (4 PTS) (Dolson 1 AST),19 - 12,-7,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,84,2,78,1,9:18 PM,2:44,MISS Diggins-Smith 9' Floating Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,89,4,0,1,9:18 PM,2:44,,,Quigley REBOUND (Off:1 Def:2),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,85,5,2,1,9:19 PM,2:37,Peddy STEAL (2 STL),,Copper Lost Ball Turnover (P2.T4),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,157,2,1,1,9:19 PM,2:37,MISS Cunningham 3PT Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,158,4,0,1,9:19 PM,2:37,,,Parker REBOUND (Off:0 Def:1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,87,1,5,1,9:19 PM,2:12,,,Parker 3' Layup (6 PTS),21 - 12,-9,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,88,9,1,1,9:19 PM,2:04,MERCURY Timeout: Regular (Full 1 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,90,8,0,1,9:21 PM,2:04,SUB: Taurasi FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,91,8,0,1,9:21 PM,2:04,SUB: Griner FOR Turner,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,92,8,0,1,9:21 PM,2:04,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,93,8,0,1,9:21 PM,2:04,,,SUB: Evans FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,98,1,1,1,9:21 PM,1:54,Cunningham 24' 3PT Jump Shot (3 PTS),,,21 - 15,-6,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,99,2,5,1,9:21 PM,1:32,,,MISS DeShields 3' Layup,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,100,4,0,1,9:22 PM,1:28,Griner REBOUND (Off:1 Def:2),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,101,2,1,1,9:22 PM,1:22,MISS Vaughn 19' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,102,4,0,1,9:22 PM,1:18,,,DeShields REBOUND (Off:0 Def:1),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,103,2,1,1,9:22 PM,1:13,,,MISS Dolson 26' 3PT Jump Shot,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,104,4,0,1,9:22 PM,1:09,Taurasi REBOUND (Off:0 Def:1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,105,1,79,1,9:22 PM,1:05,Taurasi 18' Pullup Jump Shot (2 PTS),,,21 - 17,-4,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,106,1,6,1,9:22 PM,0:57,,,Copper 2' Driving Layup (6 PTS),23 - 17,-6,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,107,1,1,1,9:22 PM,0:44,Cunningham 27' 3PT Jump Shot (6 PTS) (Vaughn 1 AST),,,23 - 20,-3,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,109,9,1,1,9:23 PM,0:43,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,110,8,0,1,9:24 PM,0:43,SUB: Diggins-Smith FOR Peddy,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,111,8,0,1,9:24 PM,0:43,SUB: Hartley FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,203829,Bria Hartley,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,112,8,0,1,9:24 PM,0:43,,,SUB: Quigley FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,116,1,1,1,9:25 PM,0:24,,,Evans 25' 3PT Jump Shot (3 PTS) (Parker 1 AST),26 - 20,-6,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,118,2,1,1,9:25 PM,0:08,MISS Taurasi 27' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,119,4,0,1,9:25 PM,0:04,,,Quigley REBOUND (Off:1 Def:3),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,120,2,79,1,9:25 PM,0:01,,,MISS Quigley 24' 3PT Pullup Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,121,4,0,1,9:25 PM,0:01,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,122,13,0,1,9:25 PM,0:00,,End of 1st Period (9:25 PM EST),,26 - 20,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100402,127,12,0,2,9:28 PM,10:00,,Start of 2nd Period (9:28 PM EST),,26 - 20,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,128,2,79,2,9:29 PM,9:44,,,MISS Vandersloot 17' Pullup Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,129,4,0,2,9:29 PM,9:40,Hartley REBOUND (Off:0 Def:1),,,,,4,203829,Bria Hartley,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,130,2,47,2,9:29 PM,9:26,MISS Griner 10' Turnaround Jump Shot,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,131,4,0,2,9:29 PM,9:23,,,Copper REBOUND (Off:0 Def:4),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,132,2,1,2,9:29 PM,9:16,,,MISS Copper 14' Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,133,4,0,2,9:29 PM,9:14,,,Copper REBOUND (Off:1 Def:4),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,134,2,5,2,9:29 PM,9:11,Griner BLOCK (1 BLK),,MISS Copper 1' Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,136,4,0,2,9:29 PM,9:08,Griner REBOUND (Off:1 Def:3),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,137,2,1,2,9:29 PM,9:03,MISS Vaughn 17' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,138,4,0,2,9:29 PM,9:00,,,Stevens REBOUND (Off:1 Def:1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,139,5,4,2,9:30 PM,8:54,,,Vandersloot Traveling Turnover (P3.T5),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,140,8,0,2,9:30 PM,8:54,SUB: Turner FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,142,2,1,2,9:30 PM,8:41,MISS Griner 7' Jump Shot,,Dolson BLOCK (1 BLK),,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1
+1042100402,143,4,0,2,9:30 PM,8:41,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100402,144,8,0,2,9:30 PM,8:41,,,SUB: DeShields FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,148,2,1,2,9:31 PM,8:31,MISS Hartley 18' Jump Shot,,,,,4,203829,Bria Hartley,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,149,4,0,2,9:31 PM,8:28,,,Dolson REBOUND (Off:0 Def:1),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,150,1,79,2,9:31 PM,8:21,,,Quigley 17' Pullup Jump Shot (4 PTS),28 - 20,-8,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,151,6,2,2,9:31 PM,8:00,,,Quigley S.FOUL (P1.T1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,153,3,11,2,9:32 PM,8:00,Diggins-Smith Free Throw 1 of 2 (1 PTS),,,28 - 21,-7,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,154,8,0,2,9:32 PM,8:00,SUB: Cunningham FOR Hartley,,,,,4,203829,Bria Hartley,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,156,3,12,2,9:32 PM,8:00,Diggins-Smith Free Throw 2 of 2 (2 PTS),,,28 - 22,-6,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,159,1,98,2,9:32 PM,7:41,,,Dolson 2' Cutting Layup Shot (2 PTS) (Vandersloot 4 AST),30 - 22,-8,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,161,2,101,2,9:33 PM,7:26,MISS Diggins-Smith 7' Driving Floating Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,162,4,0,2,9:33 PM,7:24,Diggins-Smith REBOUND (Off:1 Def:0),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,163,1,1,2,9:33 PM,7:23,Diggins-Smith 3PT Jump Shot (5 PTS),,,30 - 25,-5,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,164,2,2,2,9:33 PM,7:12,,,MISS Quigley 26' 3PT Running Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,165,4,0,2,9:33 PM,7:08,Cunningham REBOUND (Off:0 Def:2),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,166,1,103,2,9:33 PM,7:05,Cunningham 25' 3PT Running Pull-Up Jump Shot (9 PTS),,,30 - 28,-2,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,167,6,1,2,9:33 PM,6:55,Diggins-Smith P.FOUL (P1.T1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,169,8,0,2,9:33 PM,6:55,,,SUB: Copper FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,170,8,0,2,9:33 PM,6:55,,,SUB: Parker FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,173,2,5,2,9:34 PM,6:45,,,MISS Stevens 6' Layup,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,174,4,0,2,9:34 PM,6:43,Cunningham REBOUND (Off:0 Def:3),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,175,6,1,2,9:34 PM,6:37,,,Vandersloot P.FOUL (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,177,8,0,2,9:34 PM,6:37,SUB: Vaughn FOR Griner,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,180,2,5,2,9:34 PM,6:29,MISS Cunningham 4' Layup,,Stevens BLOCK (2 BLK),,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1
+1042100402,182,4,0,2,9:35 PM,6:24,,,Stevens REBOUND (Off:1 Def:2),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,183,2,6,2,9:35 PM,6:16,,,MISS Quigley 2' Driving Layup,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,184,4,0,2,9:35 PM,6:13,Turner REBOUND (Off:0 Def:1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,185,2,41,2,9:35 PM,6:09,MISS Diggins-Smith 3' Running Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,186,4,0,2,9:35 PM,6:05,,,Parker REBOUND (Off:0 Def:2),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,187,2,2,2,9:35 PM,6:01,,,MISS Quigley 3PT Running Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,188,4,0,2,9:35 PM,5:57,Taurasi REBOUND (Off:0 Def:2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,189,2,41,2,9:35 PM,5:54,MISS Cunningham 2' Running Layup,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,190,4,0,2,9:35 PM,5:52,Cunningham REBOUND (Off:1 Def:3),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,191,6,1,2,9:36 PM,5:52,,,Copper P.FOUL (P1.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,193,9,1,2,9:36 PM,5:52,MERCURY Timeout: Regular (Full 2 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,194,18,0,2,9:37 PM,5:52,,Instant Replay2nd Period (9:37 PM EST),,30 - 28,-2,0,191,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,195,8,0,2,9:38 PM,5:52,SUB: Peddy FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,197,1,44,2,9:39 PM,5:44,Turner 3' Reverse Layup (2 PTS) (Diggins-Smith 4 AST),,,30 - 30,TIE,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,199,2,80,2,9:39 PM,5:19,,,MISS Parker 25' 3PT Step Back Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,200,4,0,2,9:39 PM,5:16,Diggins-Smith REBOUND (Off:1 Def:1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,201,2,2,2,9:39 PM,5:13,MISS Peddy 24' 3PT Running Jump Shot,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,202,4,0,2,9:40 PM,5:10,,,Quigley REBOUND (Off:1 Def:4),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,203,6,1,2,9:40 PM,5:08,Peddy P.FOUL (P1.T2),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,205,8,0,2,9:40 PM,5:08,SUB: Griner FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,206,8,0,2,9:40 PM,5:08,,,SUB: Brown FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,209,1,76,2,9:40 PM,5:02,,,Vandersloot 3' Running Finger Roll Layup (6 PTS),32 - 30,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,210,2,75,2,9:40 PM,4:47,MISS Diggins-Smith 2' Driving Finger Roll Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,211,4,0,2,9:40 PM,4:43,,,Parker REBOUND (Off:0 Def:3),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,212,2,78,2,9:40 PM,4:39,Turner BLOCK (2 BLK),,MISS Parker 7' Floating Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,214,4,0,2,9:40 PM,4:39,Turner REBOUND (Off:0 Def:2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,215,2,98,2,9:41 PM,4:25,MISS Turner 3' Cutting Layup Shot,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,216,4,0,2,9:41 PM,4:22,,,Copper REBOUND (Off:1 Def:5),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,217,2,1,2,9:41 PM,4:12,,,MISS Parker 25' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,218,4,0,2,9:41 PM,4:09,Griner REBOUND (Off:1 Def:4),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,219,6,2,2,9:41 PM,3:56,,,Stevens S.FOUL (P2.T4),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,221,3,11,2,9:42 PM,3:56,Griner Free Throw 1 of 2 (11 PTS),,,32 - 31,-1,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,222,8,0,2,9:42 PM,3:56,SUB: Taurasi FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,223,8,0,2,9:42 PM,3:56,,,SUB: Dolson FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,226,3,12,2,9:42 PM,3:56,Griner Free Throw 2 of 2 (12 PTS),,,32 - 32,TIE,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,227,1,1,2,9:43 PM,3:38,,,Stevens 9' Jump Shot (7 PTS) (Vandersloot 5 AST),34 - 32,-2,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,229,2,5,2,9:43 PM,3:20,MISS Peddy 3' Layup,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,230,4,0,2,9:43 PM,3:19,Turner REBOUND (Off:1 Def:2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,231,6,2,2,9:43 PM,3:18,,,Dolson S.FOUL (P1.PN),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,233,3,11,2,9:43 PM,3:18,Griner Free Throw 1 of 2 (13 PTS),,,34 - 33,-1,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,234,3,12,2,9:44 PM,3:18,Griner Free Throw 2 of 2 (14 PTS),,,34 - 34,TIE,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,235,5,4,2,9:44 PM,2:57,,,Vandersloot Traveling Turnover (P4.T6),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,236,9,1,2,9:44 PM,2:57,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,237,8,0,2,9:47 PM,2:57,,,SUB: Quigley FOR Brown,,,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,239,5,1,2,9:48 PM,2:45,Griner Bad Pass Turnover (P2.T4),,Vandersloot STEAL (2 STL),,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,241,1,41,2,9:48 PM,2:40,,,Copper 1' Running Layup (8 PTS) (Vandersloot 6 AST),36 - 34,-2,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,243,2,5,2,9:48 PM,2:20,MISS Turner 5' Layup,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,244,4,0,2,9:48 PM,2:18,,,Dolson REBOUND (Off:0 Def:2),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,245,5,2,2,9:48 PM,2:06,Turner STEAL (1 STL),,Copper Lost Ball Turnover (P3.T7),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,247,1,41,2,9:48 PM,2:01,Diggins-Smith 4' Running Layup (7 PTS) (Turner 1 AST),,,36 - 36,TIE,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,249,2,1,2,9:49 PM,1:50,,,MISS Dolson 24' 3PT Jump Shot,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,250,4,0,2,9:49 PM,1:47,Turner REBOUND (Off:1 Def:3),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,251,1,43,2,9:49 PM,1:41,Turner 3' Alley Oop Layup (4 PTS) (Diggins-Smith 5 AST),,,36 - 38,2,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,253,6,1,2,9:49 PM,1:17,Peddy P.FOUL (P2.T3),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,255,8,0,2,9:49 PM,1:17,SUB: Cunningham FOR Peddy,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,256,8,0,2,9:49 PM,1:17,,,SUB: Parker FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,259,1,79,2,9:50 PM,1:10,,,Quigley 12' Pullup Jump Shot (6 PTS) (Vandersloot 7 AST),38 - 38,TIE,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,261,1,101,2,9:50 PM,0:53,Diggins-Smith 8' Driving Floating Jump Shot (9 PTS),,,38 - 40,2,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,262,2,1,2,9:50 PM,0:37,,,MISS Quigley 29' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,263,4,0,2,9:50 PM,0:34,Cunningham REBOUND (Off:1 Def:4),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,264,2,5,2,9:50 PM,0:25,MISS Griner 3' Layup,,Stevens BLOCK (3 BLK),,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1
+1042100402,266,4,0,2,9:51 PM,0:22,Diggins-Smith REBOUND (Off:2 Def:1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,267,2,72,2,9:51 PM,0:21,MISS Diggins-Smith 2' Putback Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,268,4,0,2,9:51 PM,0:20,Diggins-Smith REBOUND (Off:3 Def:1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,269,2,5,2,9:51 PM,0:11,MISS Diggins-Smith 3' Layup,,Stevens BLOCK (4 BLK),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1
+1042100402,271,4,0,2,9:51 PM,0:11,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,273,2,1,2,9:51 PM,0:09,MISS Griner 3PT Jump Shot,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,274,4,0,2,9:51 PM,0:05,,,Copper REBOUND (Off:1 Def:6),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,275,1,79,2,9:51 PM,0:01,,,Copper 14' Pullup Jump Shot (10 PTS),40 - 40,TIE,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,278,13,0,2,9:51 PM,0:00,,End of 2nd Period (9:51 PM EST),,40 - 40,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100402,279,12,0,3,10:07 PM,10:00,,Start of 3rd Period (10:07 PM EST),,40 - 40,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,280,1,101,3,10:08 PM,9:43,,,Quigley 14' Driving Floating Jump Shot (8 PTS),42 - 40,-2,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,281,1,1,3,10:08 PM,9:26,Taurasi 17' Jump Shot (4 PTS) (Cunningham 1 AST),,,42 - 42,TIE,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,283,2,1,3,10:08 PM,9:13,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,284,4,0,3,10:08 PM,9:10,Diggins-Smith REBOUND (Off:3 Def:2),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,325,5,11,3,10:09 PM,8:46,MERCURY Turnover: Shot Clock (T#5),,,,,2,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,287,2,1,3,10:09 PM,8:23,Taurasi BLOCK (1 BLK),,MISS Stevens 10' Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,289,4,0,3,10:09 PM,8:22,,,Stevens REBOUND (Off:2 Def:2),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,290,5,11,3,10:09 PM,8:22,,,Sky Turnover: Shot Clock (T#8),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,291,1,98,3,10:10 PM,8:10,Taurasi 3' Cutting Layup Shot (6 PTS) (Diggins-Smith 6 AST),,,42 - 44,2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,293,1,1,3,10:10 PM,7:56,,,Parker 26' 3PT Jump Shot (9 PTS) (Vandersloot 8 AST),45 - 44,-1,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,295,2,1,3,10:10 PM,7:40,MISS Taurasi 25' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,296,4,0,3,10:10 PM,7:37,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,297,6,2,3,10:10 PM,7:32,Diggins-Smith S.FOUL (P2.T1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,299,3,11,3,10:11 PM,7:32,,,Quigley Free Throw 1 of 2 (9 PTS),46 - 44,-2,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100402,300,3,12,3,10:11 PM,7:32,,,Quigley Free Throw 2 of 2 (10 PTS),47 - 44,-3,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100402,301,2,1,3,10:11 PM,7:18,MISS Diggins-Smith 25' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,302,4,0,3,10:11 PM,7:15,,,Stevens REBOUND (Off:2 Def:3),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,303,2,1,3,10:12 PM,6:54,,,MISS Vandersloot 26' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,304,4,0,3,10:12 PM,6:53,,,Copper REBOUND (Off:2 Def:6),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,305,2,5,3,10:12 PM,6:52,,,MISS Copper 1' Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,306,4,0,3,10:12 PM,6:51,,,Stevens REBOUND (Off:3 Def:3),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,307,6,1,3,10:12 PM,6:50,Taurasi P.FOUL (P1.T2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,309,1,47,3,10:12 PM,6:36,,,Parker 10' Turnaround Jump Shot (11 PTS),49 - 44,-5,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,311,2,1,3,10:13 PM,6:19,MISS Taurasi 26' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,312,4,0,3,10:13 PM,6:16,,,Parker REBOUND (Off:0 Def:4),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,313,2,6,3,10:13 PM,6:09,,,MISS Quigley 3' Driving Layup,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,314,4,0,3,10:13 PM,6:04,Griner REBOUND (Off:1 Def:5),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,315,6,26,3,10:13 PM,5:57,Turner Offensive Charge Foul (P1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,317,5,37,3,10:13 PM,5:57,Turner Offensive Foul Turnover (P2.T6),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042100402,318,1,43,3,10:13 PM,5:44,,,Parker 2' Alley Oop Layup (13 PTS) (Vandersloot 9 AST),51 - 44,-7,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,320,18,1,3,10:13 PM,5:44,,Instant Replay3rd Period (10:13 PM EST),,51 - 44,-7,0,285,Greg Grant,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,359,9,1,3,10:13 PM,5:44,MERCURY Timeout: Regular (Full 3 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,321,8,0,3,10:16 PM,5:44,SUB: Peddy FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,322,8,0,3,10:16 PM,5:44,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,326,1,1,3,10:18 PM,5:24,Peddy 24' 3PT Jump Shot (5 PTS) (Diggins-Smith 7 AST),,,51 - 47,-4,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,328,6,1,3,10:18 PM,5:13,Taurasi P.FOUL (P2.T3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,330,1,1,3,10:18 PM,4:58,,,Vandersloot 24' 3PT Jump Shot (9 PTS) (Parker 2 AST),54 - 47,-7,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,333,1,79,3,10:19 PM,4:35,Peddy 17' Pullup Jump Shot (7 PTS),,,54 - 49,-5,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,334,1,6,3,10:19 PM,4:21,,,Copper 2' Driving Layup (12 PTS),56 - 49,-7,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,335,2,79,3,10:19 PM,4:09,MISS Diggins-Smith 27' 3PT Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,336,4,0,3,10:19 PM,4:05,,,Quigley REBOUND (Off:1 Def:5),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,337,2,80,3,10:20 PM,3:46,,,MISS Parker 17' Step Back Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,338,4,0,3,10:20 PM,3:46,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,340,8,0,3,10:20 PM,3:46,SUB: Cunningham FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,341,8,0,3,10:20 PM,3:46,SUB: Vaughn FOR Turner,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,342,8,0,3,10:20 PM,3:46,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,347,5,11,3,10:20 PM,3:44,,,Sky Turnover: Shot Clock (T#9),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,348,1,47,3,10:21 PM,3:31,Griner 3' Turnaround Jump Shot (16 PTS) (Peddy 2 AST),,,56 - 51,-5,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,350,1,79,3,10:21 PM,3:22,,,Vandersloot 24' 3PT Pullup Jump Shot (12 PTS),59 - 51,-8,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,351,2,3,3,10:22 PM,2:54,MISS Vaughn 5' Hook Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,352,4,0,3,10:22 PM,2:52,,,DeShields REBOUND (Off:0 Def:2),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,353,2,79,3,10:22 PM,2:46,,,MISS Parker 25' 3PT Pullup Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,354,4,0,3,10:22 PM,2:43,Peddy REBOUND (Off:0 Def:1),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,355,1,1,3,10:22 PM,2:29,Vaughn 20' Jump Shot (2 PTS) (Griner 1 AST),,,59 - 53,-6,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,357,5,1,3,10:22 PM,2:12,Peddy STEAL (3 STL),,Parker Bad Pass Turnover (P1.T10),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,360,1,41,3,10:22 PM,2:04,Griner 2' Running Layup (18 PTS) (Peddy 3 AST),,,59 - 55,-4,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,362,9,1,3,10:23 PM,2:04,,,Sky Timeout: Regular (Reg.3 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,363,8,0,3,10:24 PM,2:04,SUB: Taurasi FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,364,8,0,3,10:24 PM,2:04,,,SUB: Stevens FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,367,2,79,3,10:25 PM,1:51,,,MISS Copper 19' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,368,4,0,3,10:25 PM,1:48,Griner REBOUND (Off:1 Def:6),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,369,5,1,3,10:25 PM,1:34,Taurasi Bad Pass Turnover (P1.T7),,DeShields STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,371,1,1,3,10:25 PM,1:18,,,Vandersloot 17' Jump Shot (14 PTS),61 - 55,-6,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,372,1,1,3,10:26 PM,0:54,Griner 20' Jump Shot (20 PTS) (Vaughn 2 AST),,,61 - 57,-4,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,375,6,26,3,10:26 PM,0:41,,,Copper Offensive Charge Foul (P2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,377,5,37,3,10:26 PM,0:41,,,Copper Offensive Foul Turnover (P4.T11),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,378,2,5,3,10:26 PM,0:19,MISS Cunningham 7' Layup,,Vandersloot BLOCK (1 BLK),,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1
+1042100402,379,4,0,3,10:26 PM,0:18,,,Stevens REBOUND (Off:3 Def:4),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,380,1,41,3,10:27 PM,0:14,,,DeShields 2' Running Layup (2 PTS) (Vandersloot 10 AST),63 - 57,-6,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,382,2,1,3,10:27 PM,0:01,MISS Griner 20' Jump Shot,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,383,4,0,3,10:27 PM,0:01,,,DeShields REBOUND (Off:0 Def:3),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,384,13,0,3,10:27 PM,0:00,,End of 3rd Period (10:27 PM EST),,63 - 57,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100402,392,12,0,4,10:30 PM,10:00,,Start of 4th Period (10:30 PM EST),,63 - 57,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,393,1,47,4,10:31 PM,9:42,Griner 5' Turnaround Jump Shot (22 PTS) (Cunningham 2 AST),,,63 - 59,-4,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,444,5,11,4,10:31 PM,9:15,,,Sky Turnover: Shot Clock (T#12),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,397,2,1,4,10:31 PM,8:49,MISS Taurasi 25' 3PT Jump Shot,,Dolson BLOCK (2 BLK),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1
+1042100402,398,4,0,4,10:31 PM,8:49,,,DeShields REBOUND (Off:0 Def:4),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,415,5,2,4,10:32 PM,8:47,Turner STEAL (2 STL),,DeShields Lost Ball Turnover (P1.T13),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,421,1,1,4,10:32 PM,8:40,Taurasi 3PT Jump Shot (9 PTS) (Diggins-Smith 8 AST),,,63 - 62,-1,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,400,5,13,4,10:32 PM,8:28,,,Evans Backcourt Turnover (P1.T14),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,401,8,0,4,10:32 PM,8:28,,,SUB: Vandersloot FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,402,8,0,4,10:32 PM,8:28,,,SUB: Quigley FOR Evans,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,405,2,5,4,10:32 PM,8:13,MISS Griner 4' Layup,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,406,4,0,4,10:32 PM,8:10,,,Stevens REBOUND (Off:3 Def:5),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,407,2,1,4,10:33 PM,8:03,,,MISS Vandersloot 25' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,408,4,0,4,10:33 PM,8:00,Turner REBOUND (Off:1 Def:4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,409,5,1,4,10:33 PM,7:52,Diggins-Smith Bad Pass Turnover (P1.T8),,Vandersloot STEAL (3 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,411,2,1,4,10:33 PM,7:43,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,412,4,0,4,10:33 PM,7:40,Turner REBOUND (Off:1 Def:5),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,413,1,1,4,10:33 PM,7:30,Taurasi 26' 3PT Jump Shot (12 PTS) (Diggins-Smith 9 AST),,,63 - 65,2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,417,1,1,4,10:33 PM,7:11,,,Dolson 25' 3PT Jump Shot (5 PTS) (Vandersloot 11 AST),66 - 65,-1,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,419,5,2,4,10:34 PM,6:53,Taurasi Lost Ball Turnover (P2.T9),,Vandersloot STEAL (4 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,478,2,5,4,10:34 PM,6:48,Taurasi BLOCK (2 BLK),,MISS Dolson 1' Layup,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,480,4,0,4,10:34 PM,6:48,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,426,8,0,4,10:34 PM,6:46,,,SUB: Parker FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,427,8,0,4,10:34 PM,6:46,,,SUB: Copper FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,433,8,0,4,10:35 PM,6:46,SUB: Peddy FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,431,1,1,4,10:35 PM,6:37,,,Quigley 3PT Jump Shot (13 PTS) (Parker 3 AST),69 - 65,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,435,6,4,4,10:35 PM,6:17,Turner OFF.Foul (P2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,437,5,37,4,10:35 PM,6:17,Turner Offensive Foul Turnover (P3.T10),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042100402,438,8,0,4,10:35 PM,6:17,,,SUB: Stevens FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,441,5,45,4,10:36 PM,5:57,,,Quigley Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,442,9,4,4,10:36 PM,5:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,443,18,1,4,10:36 PM,5:57,,Instant Replay4th Period (10:36 PM EST),,69 - 65,-4,0,395,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,445,1,43,4,10:40 PM,5:42,Turner 2' Alley Oop Layup (6 PTS) (Diggins-Smith 10 AST),,,69 - 67,-2,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,447,6,4,4,10:40 PM,5:26,,,Stevens OFF.Foul (P3),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,449,5,37,4,10:40 PM,5:26,,,Stevens Offensive Foul Turnover (P1.T16),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100402,450,6,1,4,10:40 PM,5:22,,,Quigley P.FOUL (P2.T1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,452,8,0,4,10:40 PM,5:22,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,454,6,1,4,10:41 PM,5:17,,,Copper P.FOUL (P3.T2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,456,5,45,4,10:41 PM,5:13,Turner Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042100402,457,2,1,4,10:41 PM,4:53,,,MISS Vandersloot 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,458,4,0,4,10:41 PM,4:50,Peddy REBOUND (Off:0 Def:2),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,459,1,98,4,10:42 PM,4:39,Griner 3' Cutting Layup Shot (24 PTS) (Turner 2 AST),,,69 - 69,TIE,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,461,6,2,4,10:42 PM,4:39,,,Copper S.FOUL (P4.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,463,3,10,4,10:42 PM,4:39,Griner Free Throw 1 of 1 (25 PTS),,,69 - 70,1,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,464,6,1,4,10:42 PM,4:23,Griner P.FOUL (P1.T1),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,466,1,1,4,10:43 PM,4:10,,,Quigley 3PT Jump Shot (16 PTS) (Vandersloot 12 AST),72 - 70,-2,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,468,2,5,4,10:44 PM,3:45,MISS Peddy 2' Layup,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,474,4,0,4,10:44 PM,3:45,,,Parker REBOUND (Off:0 Def:5),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,498,5,2,4,10:44 PM,3:45,Turner STEAL (3 STL),,Parker Lost Ball Turnover (P2.T17),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,469,1,43,4,10:44 PM,3:32,Turner 2' Alley Oop Layup (8 PTS) (Peddy 4 AST),,,72 - 72,TIE,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,472,2,1,4,10:44 PM,3:10,,,MISS Quigley 29' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,473,4,0,4,10:44 PM,3:04,Diggins-Smith REBOUND (Off:3 Def:3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,475,1,78,4,10:45 PM,2:46,Griner 4' Floating Jump Shot (27 PTS) (Diggins-Smith 11 AST),,,72 - 74,2,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,477,9,1,4,10:45 PM,2:44,,,Sky Timeout: Regular (Reg.4 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,481,8,0,4,10:47 PM,2:44,,,SUB: Stevens FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,483,1,6,4,10:48 PM,2:32,,,Vandersloot 3' Driving Layup (16 PTS),74 - 74,TIE,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,484,6,1,4,10:49 PM,2:10,,,Quigley P.FOUL (P3.T4),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,487,2,43,4,10:49 PM,2:02,MISS Turner 3' Alley Oop Layup,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,488,4,0,4,10:49 PM,1:57,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,489,5,2,4,10:49 PM,1:56,Diggins-Smith STEAL (1 STL),,Vandersloot Lost Ball Turnover (P5.T18),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,491,9,2,4,10:49 PM,1:56,MERCURY Timeout: Short (Full 3 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,492,2,6,4,10:51 PM,1:49,MISS Diggins-Smith 4' Driving Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,493,4,0,4,10:51 PM,1:47,Diggins-Smith REBOUND (Off:4 Def:3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,494,2,1,4,10:51 PM,1:39,MISS Diggins-Smith 24' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,495,4,0,4,10:51 PM,1:36,Turner REBOUND (Off:2 Def:5),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,496,2,1,4,10:51 PM,1:34,MISS Taurasi 25' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,497,4,0,4,10:51 PM,1:33,Turner REBOUND (Off:3 Def:5),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,501,18,3,4,10:51 PM,1:33,,Instant Replay4th Period (10:51 PM EST),,74 - 74,TIE,0,500,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100402,502,1,47,4,10:54 PM,1:22,Griner 8' Turnaround Jump Shot (29 PTS) (Peddy 5 AST),,,74 - 76,2,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,504,2,79,4,10:54 PM,0:58,,,MISS Copper 20' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,505,4,0,4,10:54 PM,0:56,,,Parker REBOUND (Off:1 Def:5),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,506,2,1,4,10:54 PM,0:49,,,MISS Quigley 8' Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,507,4,0,4,10:54 PM,0:47,Turner REBOUND (Off:3 Def:6),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,508,1,6,4,10:55 PM,0:27,Peddy 3' Driving Layup (9 PTS),,,74 - 78,4,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,509,9,2,4,10:55 PM,0:27,,,Sky Timeout: Short (Reg.4 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,510,8,0,4,10:56 PM,0:27,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,512,2,1,4,10:56 PM,0:16,,,MISS Quigley 29' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,513,4,0,4,10:56 PM,0:14,,,Copper REBOUND (Off:3 Def:6),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,514,1,72,4,10:56 PM,0:14,,,Copper 1' Putback Layup (14 PTS),76 - 78,2,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,515,6,2,4,10:56 PM,0:14,Diggins-Smith S.FOUL (P3.T2),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,517,8,0,4,10:57 PM,0:14,,,SUB: Stevens FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,519,3,10,4,10:57 PM,0:14,,,Copper Free Throw 1 of 1 (15 PTS),77 - 78,1,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,520,9,2,4,10:57 PM,0:14,MERCURY Timeout: Short (Full 3 Short 2),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,521,8,0,4,10:58 PM,0:14,SUB: Cunningham FOR Turner,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,523,6,28,4,10:58 PM,0:10,,,Vandersloot Personal Take Foul (P2.PN),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,525,3,11,4,10:59 PM,0:10,MISS Peddy Free Throw 1 of 2,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,526,4,1,4,10:59 PM,0:10,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,527,8,0,4,10:59 PM,0:10,SUB: Turner FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,529,3,12,4,10:59 PM,0:10,Peddy Free Throw 2 of 2 (10 PTS),,,77 - 79,2,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,530,9,2,4,10:59 PM,0:10,,,Sky Timeout: Short (Reg.4 Short 2),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,531,8,0,4,11:00 PM,0:10,SUB: Cunningham FOR Peddy,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042100402,532,8,0,4,11:00 PM,0:10,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,535,1,6,4,11:00 PM,0:04,,,Vandersloot 3' Driving Layup (18 PTS),79 - 79,TIE,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,536,9,1,4,11:01 PM,0:04,MERCURY Timeout: Regular (Full 4 Short 2),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,537,8,0,4,11:02 PM,0:04,,,SUB: Stevens FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,538,8,0,4,11:02 PM,0:04,,,SUB: DeShields FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,541,5,1,4,11:02 PM,0:02,Taurasi Bad Pass Turnover (P3.T12),,Parker STEAL (2 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,543,13,0,4,11:02 PM,0:00,,End of 4th Period (11:02 PM EST),,79 - 79,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100402,546,12,0,5,11:05 PM,5:00,,Start of 1st OT (11:05 PM EST),,79 - 79,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,548,10,0,5,11:05 PM,5:00,Jump Ball Griner vs. Stevens: Tip to Taurasi,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,551,2,43,5,11:05 PM,4:40,MISS Turner 2' Alley Oop Layup,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,552,4,0,5,11:05 PM,4:37,,,Parker REBOUND (Off:1 Def:6),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,553,2,98,5,11:05 PM,4:32,,,MISS Stevens 3' Cutting Layup Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,554,4,0,5,11:05 PM,4:28,Taurasi REBOUND (Off:0 Def:3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,555,1,1,5,11:06 PM,4:22,Taurasi 29' 3PT Jump Shot (15 PTS) (Diggins-Smith 12 AST),,,79 - 82,3,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,557,6,2,5,11:06 PM,4:22,,,Copper S.FOUL (P5.T1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042100402,559,3,10,5,11:06 PM,4:22,Taurasi Free Throw 1 of 1 (16 PTS),,,79 - 83,4,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,560,2,78,5,11:06 PM,3:58,,,MISS Vandersloot 14' Floating Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,561,4,0,5,11:06 PM,3:55,Taurasi REBOUND (Off:0 Def:4),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,562,1,75,5,11:07 PM,3:48,Diggins-Smith 3' Driving Finger Roll Layup (11 PTS),,,79 - 85,6,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,563,9,2,5,11:07 PM,3:47,,,Sky Timeout: Short (Reg.4 Short 3),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,564,6,1,5,11:08 PM,3:37,Taurasi P.FOUL (P3.T1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,566,1,1,5,11:08 PM,3:32,,,Quigley 24' 3PT Jump Shot (19 PTS) (Vandersloot 13 AST),82 - 85,3,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,589,6,17,5,11:09 PM,3:16,,,Sky T.Foul (Def. 3 Sec Stevens ),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1042100402,594,3,16,5,11:09 PM,3:16,Taurasi Free Throw Technical (17 PTS),,,82 - 86,4,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042100402,572,5,2,5,11:09 PM,3:11,Diggins-Smith Lost Ball Turnover (P2.T13),,Vandersloot STEAL (5 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,574,1,41,5,11:09 PM,3:06,,,Vandersloot 2' Running Layup (20 PTS),84 - 86,2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,575,2,1,5,11:10 PM,2:42,MISS Taurasi 24' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,576,4,0,5,11:10 PM,2:39,,,Parker REBOUND (Off:1 Def:7),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,577,1,98,5,11:10 PM,2:20,,,Stevens 3' Cutting Layup Shot (9 PTS) (Vandersloot 14 AST),86 - 86,TIE,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100402,579,6,2,5,11:10 PM,2:20,Turner S.FOUL (P3.T2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,581,3,10,5,11:11 PM,2:20,,,MISS Stevens Free Throw 1 of 1,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042100402,582,4,0,5,11:11 PM,2:17,Griner REBOUND (Off:1 Def:7),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,583,2,1,5,11:11 PM,1:58,MISS Diggins-Smith 24' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,584,4,0,5,11:11 PM,1:56,,,Stevens REBOUND (Off:3 Def:6),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,585,2,6,5,11:11 PM,1:34,Griner BLOCK (2 BLK),,MISS Copper 3' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1042100402,587,4,0,5,11:11 PM,1:34,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,590,1,79,5,11:12 PM,1:24,Taurasi 24' 3PT Pullup Jump Shot (20 PTS) (Turner 3 AST),,,86 - 89,3,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,591,2,1,5,11:12 PM,1:03,,,MISS Stevens 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,592,4,0,5,11:12 PM,1:01,,,Parker REBOUND (Off:2 Def:7),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,593,2,72,5,11:12 PM,0:59,,,MISS Parker 2' Putback Layup,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,595,4,0,5,11:12 PM,0:59,Griner REBOUND (Off:1 Def:8),,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,596,2,79,5,11:13 PM,0:42,MISS Taurasi 3PT Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,597,4,0,5,11:13 PM,0:39,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,598,5,2,5,11:13 PM,0:34,Taurasi STEAL (1 STL),,Vandersloot Lost Ball Turnover (P6.T19),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042100402,602,9,1,5,11:13 PM,0:31,MERCURY Timeout: Regular (Full 5 Short 2),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,603,1,6,5,11:15 PM,0:12,Diggins-Smith 2' Driving Layup (13 PTS),,,86 - 91,5,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042100402,604,9,1,5,11:15 PM,0:12,,,Sky Timeout: Regular (Reg.5 Short 3),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,605,8,0,5,11:16 PM,0:12,,,SUB: Dolson FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100402,608,2,1,5,11:17 PM,0:05,,,MISS Dolson 25' 3PT Jump Shot,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,609,4,0,5,11:17 PM,0:02,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100402,610,6,3,5,11:17 PM,0:02,Cunningham L.B.FOUL (P1.T3),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100402,612,2,1,5,11:18 PM,0:00,,,MISS Vandersloot 28' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100402,613,4,0,5,11:18 PM,0:00,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100402,614,13,0,5,11:18 PM,0:00,,End of 1st OT (11:18 PM EST),,86 - 91,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

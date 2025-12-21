@@ -1,0 +1,387 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041500301,0,12,0,1,3:08 PM,10:00,,Start of 1st Period (3:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,1,10,0,1,3:08 PM,10:00,Jump Ball Fowles vs. Larkins: Tip to January,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1
+1041500301,2,1,5,1,3:09 PM,9:35,,,Larkins 2' Layup (2 PTS) (January 1 AST),2 - 0,-2,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,3,2,1,1,3:09 PM,9:20,MISS Moore 15' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,4,4,0,1,3:09 PM,9:19,,,Larkins REBOUND (Off:0 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,5,2,79,1,3:09 PM,9:13,,,MISS Johnson 17' Pullup Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,6,4,0,1,3:09 PM,9:12,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,7,2,1,1,3:09 PM,9:04,,,MISS Catchings 20' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,8,4,0,1,3:10 PM,8:59,Moore REBOUND (Off:0 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,9,2,1,1,3:10 PM,8:42,MISS Augustus 8' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,10,4,0,1,3:10 PM,8:40,Fowles REBOUND (Off:1 Def:0),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,11,5,2,1,3:10 PM,8:39,Fowles Lost Ball Turnover (P1.T1),,January STEAL (1 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,12,2,1,1,3:10 PM,8:31,,,MISS Catchings 20' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,13,4,0,1,3:10 PM,8:30,Fowles REBOUND (Off:1 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,14,1,86,1,3:10 PM,8:18,Moore 9' Turnaround Fadeaway (2 PTS) (Whalen 1 AST),,,2 - 2,TIE,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,16,2,1,1,3:11 PM,7:53,,,MISS January 19' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,17,4,0,1,3:11 PM,7:51,,,January REBOUND (Off:1 Def:0),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,18,2,42,1,3:11 PM,7:41,Moore BLOCK (1 BLK),,MISS January 2' Driving Layup,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,19,4,0,1,3:11 PM,7:40,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,20,2,1,1,3:12 PM,7:26,,,MISS Coleman 21' Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,21,4,0,1,3:12 PM,7:25,Fowles REBOUND (Off:1 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,22,2,1,1,3:12 PM,7:07,MISS Fowles 4' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,23,4,0,1,3:12 PM,7:06,,,Johnson REBOUND (Off:0 Def:1),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,24,5,2,1,3:12 PM,7:02,Fowles STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T1),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,25,1,44,1,3:12 PM,6:46,Moore 1' Reverse Layup (4 PTS) (Brunson 1 AST),,,2 - 4,2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,26,9,1,1,3:13 PM,6:26,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,28,2,5,1,3:16 PM,6:19,Fowles BLOCK (1 BLK),,MISS Larkins 2' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,29,4,0,1,3:16 PM,6:18,Fowles REBOUND (Off:1 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,30,2,40,1,3:17 PM,6:12,MISS Moore 5' Layup,,Catchings BLOCK (1 BLK),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1
+1041500301,32,4,0,1,3:17 PM,6:10,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,31,5,1,1,3:17 PM,6:04,Moore STEAL (1 STL),,January Bad Pass Turnover (P1.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,33,6,1,1,3:17 PM,5:57,,,Larkins P.FOUL (P1.T1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,34,8,0,1,3:17 PM,5:57,,,SUB: Zellous FOR Johnson,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,36,2,1,1,3:17 PM,5:49,MISS Moore 15' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,37,4,0,1,3:18 PM,5:46,Fowles REBOUND (Off:2 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,39,5,1,1,3:18 PM,5:30,Augustus Bad Pass Turnover (P1.T2),,Catchings STEAL (1 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,40,5,4,1,3:18 PM,5:25,,,Catchings Traveling Turnover (P1.T3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500301,41,6,1,1,3:19 PM,5:14,,,January P.FOUL (P1.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,42,2,1,1,3:19 PM,5:09,MISS Moore 7' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,43,4,0,1,3:19 PM,5:07,Moore REBOUND (Off:1 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,44,2,5,1,3:19 PM,5:05,MISS Moore 1' Layup,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,46,4,0,1,3:19 PM,5:03,Fowles REBOUND (Off:3 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,45,1,4,1,3:19 PM,5:03,Fowles 1' Tip Shot (2 PTS),,,2 - 6,4,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,47,2,1,1,3:19 PM,4:57,Fowles BLOCK (2 BLK),,MISS Zellous 4' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,48,4,0,1,3:19 PM,4:57,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,49,1,1,1,3:19 PM,4:55,,,Zellous 16' Jump Shot (2 PTS) (Catchings 1 AST),4 - 6,2,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,50,2,1,1,3:20 PM,4:38,MISS Fowles 3' Jump Shot,,Catchings BLOCK (2 BLK),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1
+1041500301,51,4,0,1,3:20 PM,4:36,,,January REBOUND (Off:1 Def:1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,52,6,2,1,3:20 PM,4:34,Whalen S.FOUL (P1.T1),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,53,3,11,1,3:20 PM,4:34,,,January Free Throw 1 of 2 (1 PTS),5 - 6,1,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,55,8,0,1,3:20 PM,4:34,SUB: Cruz FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,56,3,12,1,3:20 PM,4:34,,,January Free Throw 2 of 2 (2 PTS),6 - 6,TIE,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,58,5,4,1,3:21 PM,4:23,Fowles Traveling Turnover (P2.T3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041500301,59,6,1,1,3:21 PM,4:10,Cruz P.FOUL (P1.T2),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,60,2,5,1,3:22 PM,4:00,,,MISS January 3' Layup,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,61,4,0,1,3:22 PM,3:59,,,Zellous REBOUND (Off:1 Def:0),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,62,2,1,1,3:22 PM,3:55,,,MISS Zellous  3PT Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,63,4,0,1,3:22 PM,3:54,Fowles REBOUND (Off:3 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,64,5,1,1,3:22 PM,3:52,Fowles Bad Pass Turnover (P3.T4),,January STEAL (2 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,65,2,1,1,3:22 PM,3:44,,,MISS Zellous 17' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,66,4,0,1,3:22 PM,3:43,,,Larkins REBOUND (Off:1 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,67,1,1,1,3:22 PM,3:34,,,Coleman 21' Jump Shot (2 PTS),8 - 6,-2,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,68,5,4,1,3:23 PM,3:16,Fowles Traveling Turnover (P4.T5),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041500301,69,8,0,1,3:23 PM,3:16,,,SUB: Kizer FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,70,2,1,1,3:23 PM,2:56,,,MISS January 18' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,71,4,0,1,3:23 PM,2:55,Fowles REBOUND (Off:3 Def:5),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,72,1,42,1,3:24 PM,2:45,Cruz 1' Driving Layup (2 PTS),,,8 - 8,TIE,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,73,2,5,1,3:24 PM,2:30,,,MISS Zellous 2' Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,74,4,0,1,3:24 PM,2:28,Augustus REBOUND (Off:0 Def:1),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,75,6,28,1,3:24 PM,2:27,,,Larkins Personal Take Foul (P2.T3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,76,8,0,1,3:24 PM,2:27,SUB: Peters FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,77,8,0,1,3:24 PM,2:27,,,SUB: Johnson FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,78,8,0,1,3:24 PM,2:27,,,SUB: Howard FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,79,2,1,1,3:25 PM,2:10,MISS Augustus 18' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,80,4,0,1,3:25 PM,2:08,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,81,6,3,1,3:25 PM,2:08,,,Kizer L.B.FOUL (P1.T4),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,82,2,1,1,3:26 PM,1:48,MISS Augustus  3PT Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,83,4,0,1,3:26 PM,1:46,Moore REBOUND (Off:2 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,84,5,1,1,3:26 PM,1:42,Moore Bad Pass Turnover (P1.T6),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,86,1,78,1,3:26 PM,1:23,,,Howard 10' Floating Jump Shot (2 PTS) (Coleman 1 AST),10 - 8,-2,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,87,1,73,1,3:27 PM,1:01,Cruz 1' Driving Reverse Layup (4 PTS),,,10 - 10,TIE,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,88,6,4,1,3:27 PM,0:49,,,Howard OFF.Foul (P1),,,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,89,5,5,1,3:27 PM,0:49,,,Howard Foul Turnover (P1.T4),,,5,203827,Natasha Howard,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1041500301,90,8,0,1,3:27 PM,0:49,SUB: Whalen FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,91,2,1,1,3:27 PM,0:40,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,92,4,0,1,3:27 PM,0:37,,,Kizer REBOUND (Off:0 Def:1),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,93,2,1,1,3:28 PM,0:20,,,MISS Zellous 16' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,94,4,0,1,3:28 PM,0:19,Cruz REBOUND (Off:0 Def:1),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,95,5,2,1,3:28 PM,0:03,Cruz Lost Ball Turnover (P1.T7),,Kizer STEAL (1 STL),,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,96,2,5,1,3:28 PM,0:00,,,MISS Zellous 1' Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,97,4,0,1,3:28 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,98,13,0,1,3:28 PM,0:00,,End of 1st Period (3:28 PM EST),,10 - 10,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,100,12,0,2,3:31 PM,10:00,,Start of 2nd Period (3:31 PM EST),,10 - 10,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,101,1,79,2,3:32 PM,9:41,Moore 13' Pullup Jump Shot (6 PTS) (Whalen 2 AST),,,10 - 12,2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,102,1,5,2,3:32 PM,9:23,,,Zellous 1' Layup (4 PTS) (Kizer 1 AST),12 - 12,TIE,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,103,2,42,2,3:32 PM,8:59,MISS Cruz 1' Driving Layup,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,104,4,0,2,3:32 PM,8:57,,,Zellous REBOUND (Off:1 Def:1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,105,1,1,2,3:33 PM,8:35,,,Johnson 16' Jump Shot (2 PTS),14 - 12,-2,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,106,6,26,2,3:33 PM,8:25,Moore Offensive Charge Foul (P1.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,107,5,5,2,3:33 PM,8:25,Moore Foul Turnover (P2.T8),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041500301,108,8,0,2,3:33 PM,8:25,SUB: Brunson FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,109,2,1,2,3:34 PM,8:03,,,MISS Kizer 17' Jump Shot,,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,110,4,0,2,3:34 PM,8:01,Moore REBOUND (Off:2 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,111,6,2,2,3:34 PM,7:57,,,Kizer S.FOUL (P2.T1),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,112,3,11,2,3:34 PM,7:57,MISS Whalen Free Throw 1 of 2,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,113,4,1,2,3:34 PM,7:57,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,114,8,0,2,3:35 PM,7:57,SUB: Augustus FOR Cruz,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,116,8,0,2,3:35 PM,7:57,,,SUB: Achonwa FOR Kizer,,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,117,3,12,2,3:35 PM,7:57,Whalen Free Throw 2 of 2 (1 PTS),,,14 - 13,-1,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,119,2,42,2,3:35 PM,7:42,,,MISS Zellous 2' Driving Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,120,4,0,2,3:35 PM,7:40,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,121,1,79,2,3:36 PM,7:33,Moore  3PT Pullup Jump Shot (9 PTS),,,14 - 16,2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,122,2,1,2,3:36 PM,7:10,,,MISS Johnson 9' Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,123,4,0,2,3:36 PM,7:08,,,Catchings REBOUND (Off:1 Def:0),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,124,9,1,2,3:36 PM,7:08,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,126,8,0,2,3:39 PM,7:08,SUB: Fowles FOR Peters,,,,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,127,1,1,2,3:40 PM,6:52,,,Johnson  3PT Jump Shot (5 PTS) (January 2 AST),17 - 16,-1,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,128,1,75,2,3:40 PM,6:35,Moore 2' Driving Finger Roll Layup (11 PTS) (Whalen 3 AST),,,17 - 18,1,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,129,6,1,2,3:40 PM,6:19,Brunson P.FOUL (P1.T2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,130,8,0,2,3:40 PM,6:19,,,SUB: Coleman FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,131,2,1,2,3:41 PM,6:11,,,MISS January 19' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,132,4,0,2,3:41 PM,6:10,Brunson REBOUND (Off:0 Def:1),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,133,5,1,2,3:41 PM,6:01,Fowles Bad Pass Turnover (P5.T9),,Catchings STEAL (2 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,134,1,1,2,3:41 PM,5:51,,,Coleman 18' Jump Shot (4 PTS) (January 3 AST),19 - 18,-1,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,135,2,1,2,3:42 PM,5:32,MISS Augustus 9' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,136,4,0,2,3:42 PM,5:31,,,Achonwa REBOUND (Off:0 Def:1),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,137,5,2,2,3:42 PM,5:29,Augustus STEAL (1 STL),,Achonwa Lost Ball Turnover (P1.T5),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,138,1,1,2,3:42 PM,5:26,Moore 12' Jump Shot (13 PTS),,,19 - 20,1,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,140,5,1,2,3:42 PM,5:24,,,January Bad Pass Turnover (P2.T6),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,141,6,3,2,3:42 PM,5:24,,,Coleman L.B.FOUL (P1.T2),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,142,1,5,2,3:43 PM,5:12,Fowles 1' Layup (4 PTS) (Whalen 4 AST),,,19 - 22,3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,143,2,5,2,3:43 PM,4:51,,,MISS Achonwa  Layup,,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,144,4,0,2,3:43 PM,4:50,Brunson REBOUND (Off:0 Def:2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,145,1,42,2,3:43 PM,4:44,Moore 1' Driving Layup (15 PTS),,,19 - 24,5,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,146,9,2,2,3:43 PM,4:36,,,Fever Timeout: Short (Reg.2 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,148,8,0,2,3:44 PM,4:36,,,SUB: Larkins FOR Achonwa,,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,149,2,1,2,3:45 PM,4:24,,,MISS Coleman 22' Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,150,4,0,2,3:45 PM,4:22,,,Johnson REBOUND (Off:1 Def:1),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,151,6,2,2,3:45 PM,4:17,Brunson S.FOUL (P2.T3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,152,3,11,2,3:45 PM,4:17,,,January Free Throw 1 of 2 (3 PTS),20 - 24,4,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,154,3,12,2,3:45 PM,4:17,,,January Free Throw 2 of 2 (4 PTS),21 - 24,3,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,156,1,85,2,3:46 PM,4:03,Fowles 10' Turnaround Bank Shot (6 PTS) (Augustus 1 AST),,,21 - 26,5,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,157,2,5,2,3:46 PM,3:49,,,MISS Catchings 2' Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,158,4,0,2,3:46 PM,3:48,,,Larkins REBOUND (Off:2 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,159,1,1,2,3:46 PM,3:42,,,January  3PT Jump Shot (7 PTS) (Johnson 1 AST),24 - 26,2,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,160,2,1,2,3:46 PM,3:21,MISS Fowles 4' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,161,4,0,2,3:47 PM,3:19,,,Coleman REBOUND (Off:0 Def:1),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,162,1,79,2,3:47 PM,3:10,,,January 17' Pullup Jump Shot (9 PTS),26 - 26,TIE,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,163,9,1,2,3:47 PM,3:00,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,165,6,1,2,3:51 PM,2:49,,,Coleman P.FOUL (P2.T3),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,166,3,11,2,3:51 PM,2:49,MISS Fowles Free Throw 1 of 2,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,167,4,1,2,3:51 PM,2:49,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,168,3,12,2,3:51 PM,2:49,Fowles Free Throw 2 of 2 (7 PTS),,,26 - 27,1,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,170,1,42,2,3:52 PM,2:35,,,Catchings  Driving Layup (2 PTS),28 - 27,-1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,171,2,79,2,3:52 PM,2:12,MISS Moore 15' Pullup Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,172,4,0,2,3:52 PM,2:11,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,173,1,80,2,3:52 PM,2:03,Augustus 16' Step Back Jump Shot (2 PTS),,,28 - 29,1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,174,2,1,2,3:53 PM,1:48,,,MISS Catchings 21' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,175,4,0,2,3:53 PM,1:47,Moore REBOUND (Off:2 Def:3),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,176,2,1,2,3:53 PM,1:37,MISS Moore 16' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,177,4,0,2,3:53 PM,1:36,,,Catchings REBOUND (Off:1 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,178,2,63,2,3:53 PM,1:26,,,MISS Coleman 18' Fadeaway Jumper,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,179,4,0,2,3:53 PM,1:25,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,180,1,1,2,3:53 PM,1:22,,,Coleman  3PT Jump Shot (7 PTS) (Catchings 2 AST),31 - 29,-2,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,181,2,85,2,3:54 PM,1:05,MISS Fowles 9' Turnaround Bank Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,182,4,0,2,3:54 PM,1:03,,,Johnson REBOUND (Off:1 Def:2),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,183,1,1,2,3:54 PM,0:53,,,Coleman 7' Jump Shot (9 PTS) (Johnson 2 AST),33 - 29,-4,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,184,9,1,2,3:54 PM,0:47,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,186,2,1,2,3:56 PM,0:31,MISS Fowles 5' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,187,4,0,2,3:56 PM,0:30,,,Catchings REBOUND (Off:1 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,188,2,1,2,3:57 PM,0:07,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,189,4,0,2,3:57 PM,0:06,Moore REBOUND (Off:2 Def:4),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,190,5,2,2,3:57 PM,0:03,Moore Lost Ball Turnover (P3.T10),,Catchings STEAL (3 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,191,1,5,2,3:57 PM,0:00,,,Larkins 1' Layup (4 PTS) (Johnson 3 AST),35 - 29,-6,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,192,18,0,2,3:57 PM,0:00,,Support Ruling,,,,0,191,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500301,193,13,0,2,3:57 PM,0:00,,End of 2nd Period (3:57 PM EST),,35 - 29,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,195,12,0,3,4:14 PM,10:00,,Start of 3rd Period (4:14 PM EST),,35 - 29,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,196,1,5,3,4:14 PM,9:47,Fowles 1' Layup (9 PTS) (Augustus 2 AST),,,35 - 31,-4,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,197,1,75,3,4:15 PM,9:28,,,Coleman 1' Driving Finger Roll Layup (11 PTS),37 - 31,-6,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,198,1,5,3,4:15 PM,9:13,Fowles 1' Layup (11 PTS),,,37 - 33,-4,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,199,2,1,3,4:15 PM,8:47,,,MISS January  3PT Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,200,4,0,3,4:15 PM,8:45,Moore REBOUND (Off:2 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,201,2,79,3,4:16 PM,8:36,MISS Moore 24' 3PT Pullup Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,202,4,0,3,4:16 PM,8:34,,,Catchings REBOUND (Off:1 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,203,6,2,3,4:16 PM,8:21,Moore S.FOUL (P2.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,204,3,11,3,4:16 PM,8:21,,,Catchings Free Throw 1 of 2 (3 PTS),38 - 33,-5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,206,3,12,3,4:16 PM,8:21,,,Catchings Free Throw 2 of 2 (4 PTS),39 - 33,-6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,208,1,86,3,4:17 PM,7:59,Whalen 12' Turnaround Fadeaway (3 PTS),,,39 - 35,-4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,209,2,1,3,4:17 PM,7:46,,,MISS Johnson  3PT Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,210,4,0,3,4:17 PM,7:45,Fowles REBOUND (Off:3 Def:6),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,211,2,1,3,4:17 PM,7:37,MISS Moore 4' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,212,4,0,3,4:17 PM,7:36,,,January REBOUND (Off:1 Def:2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,213,6,28,3,4:17 PM,7:34,Whalen Personal Take Foul (P2.T2),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,214,8,0,3,4:18 PM,7:34,SUB: Cruz FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,215,5,2,3,4:18 PM,7:23,Fowles STEAL (2 STL),,Larkins Lost Ball Turnover (P1.T7),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,216,1,42,3,4:18 PM,7:18,Fowles 1' Driving Layup (13 PTS),,,39 - 37,-2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,217,1,1,3,4:18 PM,7:08,,,Catchings 15' Jump Shot (6 PTS),41 - 37,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,218,6,2,3,4:18 PM,7:08,Brunson S.FOUL (P3.T3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,219,8,0,3,4:18 PM,7:08,,,SUB: Kizer FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,220,3,10,3,4:19 PM,7:08,,,Catchings Free Throw 1 of 1 (7 PTS),42 - 37,-5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,222,5,1,3,4:19 PM,6:52,Moore Bad Pass Turnover (P4.T11),,Coleman STEAL (1 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,223,2,1,3,4:19 PM,6:46,,,MISS Coleman 18' Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,224,4,0,3,4:19 PM,6:44,,,Kizer REBOUND (Off:1 Def:1),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,225,5,2,3,4:19 PM,6:43,Moore STEAL (2 STL),,Kizer Lost Ball Turnover (P1.T8),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,226,6,1,3,4:19 PM,6:42,,,Coleman P.FOUL (P3.T1),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,227,6,1,3,4:20 PM,6:34,,,January P.FOUL (P2.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,228,5,11,3,4:20 PM,6:18,LYNX Turnover: Shot Clock (T#12),,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500301,229,6,2,3,4:21 PM,6:00,Cruz S.FOUL (P2.T4),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,230,3,11,3,4:21 PM,6:00,,,January Free Throw 1 of 2 (10 PTS),43 - 37,-6,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,232,8,0,3,4:21 PM,6:00,SUB: Montgomery FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,233,8,0,3,4:21 PM,6:00,,,SUB: Zellous FOR Coleman,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,234,3,12,3,4:21 PM,6:00,,,January Free Throw 2 of 2 (11 PTS),44 - 37,-7,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,236,2,5,3,4:22 PM,5:49,MISS Brunson 3' Layup,,Johnson BLOCK (1 BLK),,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,1
+1041500301,237,4,0,3,4:22 PM,5:47,Moore REBOUND (Off:3 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,238,1,5,3,4:22 PM,5:46,Moore 1' Layup (17 PTS),,,44 - 39,-5,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,239,2,65,3,4:22 PM,5:27,,,MISS Kizer 3' Jump Hook Shot,,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,240,4,0,3,4:22 PM,5:25,Cruz REBOUND (Off:0 Def:2),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,241,2,1,3,4:22 PM,5:15,MISS Montgomery 24' 3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,242,4,0,3,4:22 PM,5:13,,,Kizer REBOUND (Off:1 Def:2),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,243,2,1,3,4:23 PM,4:49,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,244,4,0,3,4:23 PM,4:48,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,245,6,3,3,4:23 PM,4:48,,,Kizer L.B.FOUL (P3.T3),,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,246,9,1,3,4:23 PM,4:48,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,248,8,0,3,4:26 PM,4:48,,,SUB: Achonwa FOR Kizer,,,5,203041,Lynetta Kizer,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,250,2,1,3,4:27 PM,4:24,MISS Brunson 16' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,251,4,0,3,4:27 PM,4:22,,,Achonwa REBOUND (Off:0 Def:2),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,252,1,5,3,4:27 PM,4:11,,,Achonwa 1' Layup (2 PTS) (January 4 AST),46 - 39,-7,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,253,6,1,3,4:28 PM,3:53,,,Zellous P.FOUL (P1.T4),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,254,8,0,3,4:28 PM,3:53,SUB: Augustus FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,255,6,2,3,4:28 PM,3:46,,,January S.FOUL (P3.PN),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,256,3,11,3,4:29 PM,3:46,MISS Moore Free Throw 1 of 2,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,257,4,1,3,4:29 PM,3:46,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,258,3,12,3,4:29 PM,3:46,Moore Free Throw 2 of 2 (18 PTS),,,46 - 40,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,260,2,1,3,4:29 PM,3:29,,,MISS Zellous 7' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,261,4,0,3,4:29 PM,3:28,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,262,5,1,3,4:30 PM,3:27,Montgomery STEAL (1 STL),,Zellous Bad Pass Turnover (P1.T9),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,263,6,1,3,4:30 PM,3:19,,,Achonwa P.FOUL (P1.PN),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,264,3,11,3,4:30 PM,3:19,Fowles Free Throw 1 of 2 (14 PTS),,,46 - 41,-5,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,266,3,12,3,4:31 PM,3:19,Fowles Free Throw 2 of 2 (15 PTS),,,46 - 42,-4,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,268,1,1,3,4:31 PM,2:57,,,January 19' Jump Shot (13 PTS),48 - 42,-6,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,269,2,42,3,4:32 PM,2:36,MISS Cruz 3' Driving Layup,,Zellous BLOCK (1 BLK),,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1
+1041500301,270,4,0,3,4:32 PM,2:35,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,271,2,1,3,4:32 PM,2:33,MISS Augustus 14' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,272,4,0,3,4:32 PM,2:31,,,Johnson REBOUND (Off:1 Def:3),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,273,1,79,3,4:32 PM,2:20,,,January 15' Pullup Jump Shot (15 PTS),50 - 42,-8,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,274,1,1,3,4:33 PM,1:50,Montgomery 24' 3PT Jump Shot (3 PTS) (Fowles 1 AST),,,50 - 45,-5,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,275,6,2,3,4:33 PM,1:27,Montgomery S.FOUL (P1.PN),,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,276,3,11,3,4:33 PM,1:27,,,Zellous Free Throw 1 of 2 (5 PTS),51 - 45,-6,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,278,8,0,3,4:34 PM,1:27,SUB: Whalen FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,279,8,0,3,4:34 PM,1:27,,,SUB: Coleman FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,280,3,12,3,4:34 PM,1:27,,,Zellous Free Throw 2 of 2 (6 PTS),52 - 45,-7,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,282,2,5,3,4:34 PM,1:16,MISS Whalen 2' Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,283,4,0,3,4:34 PM,1:15,Whalen REBOUND (Off:1 Def:0),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,284,2,5,3,4:34 PM,1:14,MISS Whalen 1' Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,285,4,0,3,4:34 PM,1:13,Whalen REBOUND (Off:2 Def:0),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,286,6,2,3,4:34 PM,1:12,,,Achonwa S.FOUL (P2.PN),,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,287,3,11,3,4:35 PM,1:12,MISS Whalen Free Throw 1 of 2,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,288,4,1,3,4:35 PM,1:12,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,289,3,12,3,4:35 PM,1:12,Whalen Free Throw 2 of 2 (4 PTS),,,52 - 46,-6,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,291,1,1,3,4:35 PM,0:52,,,Zellous 15' Jump Shot (8 PTS) (Achonwa 1 AST),54 - 46,-8,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,292,2,1,3,4:36 PM,0:43,MISS Cruz  3PT Jump Shot,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,293,4,0,3,4:36 PM,0:40,,,Coleman REBOUND (Off:0 Def:2),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,295,8,0,3,4:36 PM,0:30,,,SUB: Larkins FOR Achonwa,,,5,203831,Natalie Achonwa,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,296,2,46,3,4:36 PM,0:20,,,MISS Johnson 8' Running Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,297,4,0,3,4:36 PM,0:18,Cruz REBOUND (Off:0 Def:3),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,298,6,1,3,4:37 PM,0:07,,,Johnson P.FOUL (P1.PN),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,299,3,11,3,4:37 PM,0:07,Moore Free Throw 1 of 2 (19 PTS),,,54 - 47,-7,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,301,8,0,3,4:37 PM,0:07,,,SUB: Pohlen-Mavunga FOR Johnson,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,302,3,12,3,4:37 PM,0:07,MISS Moore Free Throw 2 of 2,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,304,4,0,3,4:37 PM,0:06,,,Larkins REBOUND (Off:2 Def:2),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,305,2,1,3,4:38 PM,0:00,,,MISS Zellous 31' 3PT Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,306,4,0,3,4:38 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,308,13,0,3,4:38 PM,0:00,,End of 3rd Period (4:38 PM EST),,54 - 47,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,309,12,0,4,4:41 PM,10:00,,Start of 4th Period (4:41 PM EST),,54 - 47,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,310,2,1,4,4:42 PM,9:38,,,MISS Larkins 8' Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,311,4,0,4,4:42 PM,9:37,Whalen REBOUND (Off:2 Def:1),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,312,2,1,4,4:42 PM,9:31,MISS Augustus 4' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,313,4,0,4,4:42 PM,9:30,,,Larkins REBOUND (Off:2 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,314,5,40,4,4:42 PM,9:28,,,Larkins Out of Bounds Lost Ball Turnover (P2.T10),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,315,6,1,4,4:42 PM,9:27,,,Coleman P.FOUL (P4.T1),,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,316,3,11,4,4:42 PM,9:27,Moore Free Throw 1 of 2 (20 PTS),,,54 - 48,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,318,8,0,4,4:43 PM,9:27,,,SUB: Catchings FOR Coleman,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,319,3,12,4,4:43 PM,9:27,Moore Free Throw 2 of 2 (21 PTS),,,54 - 49,-5,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,321,2,47,4,4:43 PM,9:04,,,MISS January 12' Turnaround Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,322,4,0,4,4:43 PM,9:03,Fowles REBOUND (Off:3 Def:7),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,323,8,0,4,4:44 PM,9:01,,,SUB: Johnson FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,324,10,0,4,4:44 PM,9:00,Jump Ball Fowles vs. Larkins: Tip to Augustus,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,325,1,5,4,4:44 PM,8:51,Fowles 2' Layup (17 PTS) (Cruz 1 AST),,,54 - 51,-3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,326,9,1,4,4:44 PM,8:51,,,Fever Timeout: Regular (Reg.3 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,328,8,0,4,4:47 PM,8:51,,,SUB: January FOR Pohlen-Mavunga,,,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,329,2,5,4,4:48 PM,8:32,,,MISS Larkins 1' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,330,4,0,4,4:48 PM,8:31,,,Larkins REBOUND (Off:3 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,331,2,1,4,4:48 PM,8:29,,,MISS Johnson 24' 3PT Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,332,4,0,4,4:48 PM,8:28,,,Catchings REBOUND (Off:2 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,333,6,2,4,4:48 PM,8:27,Cruz S.FOUL (P3.T1),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,334,3,11,4,4:48 PM,8:27,,,Catchings Free Throw 1 of 2 (8 PTS),55 - 51,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,336,3,12,4,4:48 PM,8:27,,,Catchings Free Throw 2 of 2 (9 PTS),56 - 51,-5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041500301,338,2,1,4,4:49 PM,8:13,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,339,4,0,4,4:49 PM,8:11,Moore REBOUND (Off:4 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,340,2,5,4,4:49 PM,8:02,MISS Fowles 1' Layup,,Larkins BLOCK (1 BLK),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1
+1041500301,341,4,0,4,4:49 PM,8:01,Cruz REBOUND (Off:1 Def:3),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,342,1,1,4,4:49 PM,7:58,Moore 15' Jump Shot (23 PTS) (Cruz 2 AST),,,56 - 53,-3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,343,2,1,4,4:50 PM,7:38,Moore BLOCK (2 BLK),,MISS Larkins 5' Jump Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,344,4,0,4,4:50 PM,7:36,,,Larkins REBOUND (Off:4 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,345,2,5,4,4:50 PM,7:36,Moore BLOCK (3 BLK),,MISS Larkins 2' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,346,10,0,4,4:50 PM,7:34,Jump Ball Moore vs. Larkins: Tip to Augustus,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,347,4,0,4,4:50 PM,7:34,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,348,5,4,4,4:51 PM,7:21,Whalen Traveling Turnover (P1.T13),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041500301,349,1,1,4,4:51 PM,7:03,,,Johnson  3PT Jump Shot (8 PTS) (Catchings 3 AST),59 - 53,-6,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,350,1,78,4,4:51 PM,6:44,Augustus 10' Floating Jump Shot (4 PTS),,,59 - 55,-4,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,351,1,42,4,4:52 PM,6:29,,,Johnson 1' Driving Layup (10 PTS) (January 5 AST),61 - 55,-6,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,352,9,1,4,4:52 PM,6:29,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,354,8,0,4,4:55 PM,6:29,SUB: Brunson FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,355,5,1,4,4:56 PM,6:14,Moore Bad Pass Turnover (P5.T14),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,356,2,1,4,4:56 PM,5:55,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,357,4,0,4,4:56 PM,5:54,Moore REBOUND (Off:4 Def:6),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,358,6,2,4,4:56 PM,5:47,,,Johnson S.FOUL (P2.T2),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,359,3,11,4,4:57 PM,5:47,Augustus Free Throw 1 of 2 (5 PTS),,,61 - 56,-5,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,361,8,0,4,4:57 PM,5:47,,,SUB: Coleman FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,362,3,12,4,4:57 PM,5:47,MISS Augustus Free Throw 2 of 2,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,364,4,0,4,4:57 PM,5:46,,,Johnson REBOUND (Off:1 Def:4),,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,365,2,1,4,4:57 PM,5:33,,,MISS January 18' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,366,4,0,4,4:57 PM,5:32,Fowles REBOUND (Off:3 Def:8),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,367,1,5,4,4:58 PM,5:16,Fowles 1' Layup (19 PTS) (Augustus 3 AST),,,61 - 58,-3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,368,2,1,4,4:58 PM,4:59,Fowles BLOCK (3 BLK),,MISS Johnson 3' Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,369,4,0,4,4:58 PM,4:58,Brunson REBOUND (Off:0 Def:3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,371,6,5,4,4:58 PM,4:52,,,January IN.FOUL (P4.T3),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,372,3,11,4,4:59 PM,4:52,Augustus Free Throw 1 of 2 (6 PTS),,,61 - 59,-2,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,374,3,12,4,4:59 PM,4:52,Augustus Free Throw 2 of 2 (7 PTS),,,61 - 60,-1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,376,2,1,4,4:59 PM,4:38,,,MISS Johnson 17' Jump Shot,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,377,4,0,4,4:59 PM,4:37,Moore REBOUND (Off:4 Def:7),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,378,1,5,4,4:59 PM,4:27,Fowles 2' Layup (21 PTS) (Augustus 4 AST),,,61 - 62,1,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,379,9,1,4,5:00 PM,4:27,,,Fever Timeout: Regular (Reg.4 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,381,2,1,4,5:02 PM,4:08,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,382,4,0,4,5:02 PM,4:06,,,January REBOUND (Off:2 Def:2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,383,1,1,4,5:02 PM,3:57,,,Coleman  3PT Jump Shot (14 PTS) (January 6 AST),64 - 62,-2,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,384,2,1,4,5:03 PM,3:31,MISS Cruz 16' Jump Shot,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,385,4,0,4,5:03 PM,3:30,,,Catchings REBOUND (Off:2 Def:4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,386,2,5,4,5:03 PM,3:23,,,MISS Johnson 1' Layup,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,388,4,0,4,5:03 PM,3:22,,,Larkins REBOUND (Off:5 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,387,2,4,4,5:03 PM,3:22,,,MISS Larkins  Tip Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,389,4,0,4,5:03 PM,3:21,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,390,8,0,4,5:03 PM,3:21,,,SUB: Zellous FOR Johnson,,,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,391,2,1,4,5:03 PM,3:06,MISS Cruz  3PT Jump Shot,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,392,4,0,4,5:03 PM,3:05,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,393,2,1,4,5:04 PM,2:47,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,394,4,0,4,5:04 PM,2:46,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,395,1,5,4,5:04 PM,2:44,,,Coleman 1' Layup (16 PTS) (Catchings 4 AST),66 - 62,-4,5,201889,Marissa Coleman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,396,6,1,4,5:05 PM,2:27,,,Zellous P.FOUL (P2.T4),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,397,2,1,4,5:05 PM,2:22,MISS Moore 24' 3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,398,4,0,4,5:05 PM,2:21,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,399,6,3,4,5:05 PM,2:21,,,January L.B.FOUL (P5.PN),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,400,3,11,4,5:05 PM,2:21,MISS Brunson Free Throw 1 of 2,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,401,4,1,4,5:05 PM,2:21,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,402,3,12,4,5:06 PM,2:21,Brunson Free Throw 2 of 2 (1 PTS),,,66 - 63,-3,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,404,1,75,4,5:06 PM,2:05,,,January 1' Driving Finger Roll Layup (17 PTS),68 - 63,-5,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,405,9,1,4,5:06 PM,2:03,LYNX Timeout: Regular (Full 4 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,407,1,1,4,5:08 PM,1:52,Augustus 18' Jump Shot (9 PTS) (Cruz 3 AST),,,68 - 65,-3,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041500301,408,1,1,4,5:08 PM,1:28,,,January 17' Jump Shot (19 PTS),70 - 65,-5,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,409,6,1,4,5:09 PM,1:12,,,January P.FOUL (P6.PN),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041500301,410,6,11,4,5:09 PM,1:12,,,January T.FOUL (P6.PN),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041500301,411,8,0,4,5:10 PM,1:12,,,SUB: Johnson FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203018,Shenise Johnson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041500301,412,3,16,4,5:10 PM,1:12,Moore Free Throw Technical (24 PTS),,,70 - 66,-4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,414,3,11,4,5:10 PM,1:12,MISS Moore Free Throw 1 of 2,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,415,4,1,4,5:10 PM,1:12,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,416,3,12,4,5:10 PM,1:12,Moore Free Throw 2 of 2 (25 PTS),,,70 - 67,-3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041500301,418,1,42,4,5:11 PM,0:53,,,Zellous 2' Driving Layup (10 PTS),72 - 67,-5,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,419,9,2,4,5:11 PM,0:53,LYNX Timeout: Short (Full 4 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,421,2,1,4,5:12 PM,0:44,MISS Augustus 20' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,423,4,0,4,5:12 PM,0:43,Moore REBOUND (Off:5 Def:7),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,422,1,4,4,5:12 PM,0:43,Moore 1' Tip Shot (27 PTS),,,72 - 69,-3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,424,2,1,4,5:13 PM,0:20,,,MISS Zellous 19' Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,425,4,0,4,5:13 PM,0:19,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,426,9,2,4,5:13 PM,0:19,LYNX Timeout: Short (Full 4 Short 2),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,428,8,0,4,5:15 PM,0:15,SUB: Montgomery FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041500301,429,10,0,4,5:15 PM,0:15,Jump Ball Fowles vs. Larkins: Tip to Moore,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1
+1041500301,430,5,2,4,5:15 PM,0:11,Moore Lost Ball Turnover (P6.T15),,Catchings STEAL (4 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1041500301,431,6,28,4,5:15 PM,0:08,Moore Personal Take Foul (P3.T2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,432,6,6,4,5:16 PM,0:08,Moore AWAY.FROM.PLAY.FOUL (P4.PN),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,433,3,10,4,5:16 PM,0:08,,,Catchings Free Throw 1 of 1 (10 PTS),73 - 69,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,435,6,28,4,5:17 PM,0:07,Moore Personal Take Foul (P5.PN),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1041500301,436,3,11,4,5:17 PM,0:07,,,Catchings Free Throw 1 of 2 (11 PTS),74 - 69,-5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,438,3,12,4,5:17 PM,0:07,,,Catchings Free Throw 2 of 2 (12 PTS),75 - 69,-6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1041500301,440,2,1,4,5:17 PM,0:00,MISS Augustus 18' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041500301,441,4,0,4,5:17 PM,0:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500301,442,13,0,4,5:17 PM,0:00,,End of 4th Period (5:17 PM EST),,75 - 69,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

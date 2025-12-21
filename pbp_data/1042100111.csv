@@ -1,0 +1,376 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042100111,2,12,0,1,8:04 PM,10:00,,Start of 1st Period (8:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,4,10,0,1,8:04 PM,10:00,Jump Ball Stevens vs. Alarie: Tip to Thornton,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1
+1042100111,7,2,5,1,8:04 PM,9:44,Stevens BLOCK (1 BLK),,MISS Thornton 3' Layup,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1
+1042100111,9,4,0,1,8:04 PM,9:42,Vandersloot REBOUND (Off:0 Def:1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,10,1,5,1,8:04 PM,9:38,Stevens 1' Layup (2 PTS) (Vandersloot 1 AST),,,0 - 2,2,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,12,6,4,1,8:05 PM,9:28,,,Jefferson OFF.Foul (P1),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,14,5,37,1,8:05 PM,9:28,,,Jefferson Offensive Foul Turnover (P1.T1),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042100111,15,1,6,1,8:05 PM,9:13,Parker 1' Driving Layup (2 PTS),,,0 - 4,4,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,16,2,102,1,8:05 PM,8:52,,,MISS Thornton 5' Driving Floating Bank Jump Shot,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1042100111,17,4,0,1,8:05 PM,8:50,,,Alarie REBOUND (Off:1 Def:0),,,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,18,5,19,1,8:06 PM,8:50,,,Alarie Kicked Ball Violation Turnover (P1.T2),,,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,19,2,1,1,8:06 PM,8:36,MISS Parker 4' Jump Shot,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,20,4,0,1,8:06 PM,8:36,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,21,2,1,1,8:06 PM,8:33,MISS Quigley 13' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,22,4,0,1,8:06 PM,8:28,,,Thornton REBOUND (Off:0 Def:1),,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,23,2,1,1,8:06 PM,8:21,,,MISS Thornton 24' 3PT Jump Shot,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,24,4,0,1,8:06 PM,8:19,,,Alarie REBOUND (Off:2 Def:0),,,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,25,1,1,1,8:06 PM,8:16,,,Gray 14' Jump Shot (2 PTS) (Alarie 1 AST),2 - 4,2,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,27,2,1,1,8:07 PM,8:03,MISS Quigley 11' Jump Shot,,Gray BLOCK (1 BLK),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1
+1042100111,29,4,0,1,8:07 PM,8:00,,,Gray REBOUND (Off:0 Def:1),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,30,1,1,1,8:07 PM,7:55,,,Jefferson 3PT Jump Shot (3 PTS) (Ogunbowale 1 AST),5 - 4,-1,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,32,1,6,1,8:07 PM,7:35,Copper 2' Driving Layup (2 PTS) (Parker 1 AST),,,5 - 6,1,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,34,1,6,1,8:08 PM,7:13,,,Ogunbowale 1' Driving Layup (2 PTS),7 - 6,-1,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,35,1,5,1,8:08 PM,7:05,Copper 2' Layup (4 PTS) (Vandersloot 2 AST),,,7 - 8,1,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,37,1,79,1,8:08 PM,6:50,,,Jefferson 13' Pullup Jump Shot (5 PTS),9 - 8,-1,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,38,1,98,1,8:08 PM,6:32,Parker 1' Cutting Layup Shot (4 PTS) (Quigley 1 AST),,,9 - 10,1,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,40,2,1,1,8:09 PM,6:12,,,MISS Jefferson 25' 3PT Jump Shot,,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,41,4,0,1,8:09 PM,6:09,,,Alarie REBOUND (Off:3 Def:0),,,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,42,2,80,1,8:09 PM,6:03,,,MISS Ogunbowale 3PT Step Back Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,43,4,0,1,8:09 PM,5:58,Stevens REBOUND (Off:0 Def:1),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,44,5,40,1,8:09 PM,5:56,Copper Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100111,45,8,0,1,8:09 PM,5:56,,,SUB: Sabally FOR Alarie,,,5,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,47,2,73,1,8:09 PM,5:31,,,MISS Sabally 2' Driving Reverse Layup,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,48,4,0,1,8:09 PM,5:28,Parker REBOUND (Off:0 Def:1),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,49,1,6,1,8:10 PM,5:14,Copper 1' Driving Layup (6 PTS) (Parker 2 AST),,,9 - 12,3,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,51,2,6,1,8:10 PM,4:53,,,MISS Sabally 1' Driving Layup,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,52,4,0,1,8:10 PM,4:51,Stevens REBOUND (Off:0 Def:2),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,53,2,1,1,8:10 PM,4:41,MISS Quigley 24' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,54,4,0,1,8:10 PM,4:38,,,Thornton REBOUND (Off:0 Def:2),,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,55,2,1,1,8:11 PM,4:18,,,MISS Thornton 3PT Jump Shot,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,56,4,0,1,8:11 PM,4:15,Parker REBOUND (Off:0 Def:2),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,57,2,1,1,8:11 PM,3:58,MISS Stevens 3PT Jump Shot,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,58,4,0,1,8:11 PM,3:58,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,59,6,3,1,8:11 PM,3:58,,,Gray L.B.FOUL (P1.T1),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,61,9,4,1,8:11 PM,3:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,62,8,0,1,8:14 PM,3:58,SUB: Dolson FOR Stevens,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,63,8,0,1,8:14 PM,3:58,,,SUB: Mabrey FOR Jefferson,,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,64,8,0,1,8:14 PM,3:58,,,SUB: Harrison FOR Thornton,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,68,1,5,1,8:14 PM,3:52,Parker 2' Layup (6 PTS) (Copper 1 AST),,,9 - 14,5,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,70,6,2,1,8:14 PM,3:52,,,Sabally S.FOUL (P1.T2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,72,3,10,1,8:15 PM,3:52,Parker Free Throw 1 of 1 (7 PTS),,,9 - 15,6,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,73,2,1,1,8:15 PM,3:38,,,MISS Mabrey 19' Jump Shot,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,74,4,0,1,8:15 PM,3:37,Parker REBOUND (Off:0 Def:3),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,75,5,1,1,8:15 PM,3:35,Parker Bad Pass Turnover (P1.T2),,Sabally STEAL (1 STL),,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,77,2,6,1,8:15 PM,3:21,,,MISS Mabrey 1' Driving Layup,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,78,4,0,1,8:15 PM,3:19,Parker REBOUND (Off:0 Def:4),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,79,1,1,1,8:15 PM,3:14,Copper 16' Jump Shot (8 PTS) (Vandersloot 3 AST),,,9 - 17,8,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,81,2,101,1,8:16 PM,2:55,,,MISS Harrison 9' Driving Floating Jump Shot,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,82,4,0,1,8:16 PM,2:53,,,Gray REBOUND (Off:1 Def:1),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,83,2,98,1,8:16 PM,2:51,,,MISS Harrison 2' Cutting Layup Shot,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,84,4,0,1,8:16 PM,2:49,Parker REBOUND (Off:0 Def:5),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,85,1,102,1,8:16 PM,2:43,Quigley 7' Driving Floating Bank Jump Shot (2 PTS) (Parker 3 AST),,,9 - 19,10,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,87,9,1,1,8:16 PM,2:39,,,Wings Timeout: Regular (Reg.1 Short 0),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,88,8,0,1,8:17 PM,2:39,SUB: DeShields FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,89,8,0,1,8:17 PM,2:39,,,SUB: Harris FOR Ogunbowale,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,92,1,6,1,8:18 PM,2:26,,,Sabally 2' Driving Layup (2 PTS),11 - 19,8,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,93,2,1,1,8:18 PM,2:06,MISS Copper 20' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,94,4,0,1,8:18 PM,2:03,DeShields REBOUND (Off:1 Def:0),,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,95,1,79,1,8:18 PM,1:50,Copper 15' Pullup Jump Shot (10 PTS),,,11 - 21,10,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,97,2,101,1,8:19 PM,1:26,,,MISS Sabally 10' Driving Floating Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,98,4,0,1,8:19 PM,1:23,Parker REBOUND (Off:0 Def:6),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,99,1,98,1,8:19 PM,1:14,Copper 2' Cutting Layup Shot (12 PTS) (Parker 4 AST),,,11 - 23,12,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,101,2,6,1,8:19 PM,0:55,,,MISS Harrison 2' Driving Layup,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,102,4,0,1,8:19 PM,0:54,Parker REBOUND (Off:0 Def:7),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,103,2,1,1,8:19 PM,0:49,MISS Vandersloot 11' Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,104,4,0,1,8:19 PM,0:46,,,Gray REBOUND (Off:1 Def:2),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,105,2,1,1,8:19 PM,0:43,,,MISS Harris 3PT Jump Shot,,,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,106,4,0,1,8:19 PM,0:39,Parker REBOUND (Off:0 Def:8),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,107,2,1,1,8:20 PM,0:28,MISS DeShields 25' 3PT Jump Shot,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,108,4,0,1,8:20 PM,0:25,,,Sabally REBOUND (Off:0 Def:1),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,109,1,1,1,8:20 PM,0:06,,,Gray 24' 3PT Jump Shot (5 PTS) (Harris 1 AST),14 - 23,9,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,111,1,6,1,8:20 PM,0:00,Vandersloot 1' Driving Layup (2 PTS),,,14 - 25,11,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,113,18,0,1,8:21 PM,0:00,,Instant Replay1st Period (8:21 PM EST),,14 - 25,11,0,111,LaPhonso Ellis,,,,,0,0,,,,,,1,0,,,,,,0
+1042100111,112,13,0,1,8:21 PM,0:00,,End of 1st Period (8:21 PM EST),,14 - 25,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100111,124,12,0,2,8:24 PM,10:00,,Start of 2nd Period (8:24 PM EST),,14 - 25,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,125,5,1,2,8:24 PM,9:41,Dolson Bad Pass Turnover (P1.T3),,Ogunbowale STEAL (1 STL),,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,127,2,6,2,8:24 PM,9:30,,,MISS Harris 2' Driving Layup,,,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,128,4,0,2,8:24 PM,9:27,Dolson REBOUND (Off:0 Def:1),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,129,1,1,2,8:24 PM,9:16,Evans 3PT Jump Shot (3 PTS) (DeShields 1 AST),,,14 - 28,14,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,131,1,79,2,8:25 PM,8:47,,,Harrison 14' Pullup Jump Shot (2 PTS) (Mabrey 1 AST),16 - 28,12,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,133,1,79,2,8:25 PM,8:27,DeShields 21' Pullup Jump Shot (2 PTS),,,16 - 30,14,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,134,2,1,2,8:26 PM,8:01,,,MISS Ogunbowale 21' Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,135,4,0,2,8:26 PM,7:58,Dolson REBOUND (Off:0 Def:2),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,136,2,6,2,8:26 PM,7:44,MISS DeShields 3' Driving Layup,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,137,4,0,2,8:26 PM,7:41,,,Ogunbowale REBOUND (Off:0 Def:1),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,139,8,0,2,8:26 PM,7:40,SUB: Copper FOR DeShields,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,140,8,0,2,8:26 PM,7:40,,,SUB: Jefferson FOR Harris,,,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,143,2,1,2,8:26 PM,7:28,,,MISS Harrison 17' Jump Shot,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,144,4,0,2,8:27 PM,7:24,Evans REBOUND (Off:0 Def:1),,,,,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,145,5,19,2,8:27 PM,7:12,Quigley Kicked Ball Violation Turnover (P1.T4),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,146,2,79,2,8:27 PM,6:56,Ndour-Fall BLOCK (1 BLK),,MISS Mabrey 15' Pullup Jump Shot,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,1
+1042100111,148,4,0,2,8:27 PM,6:52,Copper REBOUND (Off:0 Def:1),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,149,6,1,2,8:28 PM,6:49,,,Mabrey P.FOUL (P1.T1),,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,151,6,16,2,8:28 PM,6:49,,"Double Technical - Dolson, Mabrey",,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,153,8,0,2,8:29 PM,6:49,SUB: Parker FOR Ndour-Fall,,,,,4,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,154,8,0,2,8:29 PM,6:49,,,SUB: Gray FOR Mabrey,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,155,8,0,2,8:29 PM,6:49,,,SUB: Sabally FOR Harrison,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,159,1,1,2,8:29 PM,6:38,Quigley 24' 3PT Jump Shot (5 PTS) (Parker 5 AST),,,16 - 33,17,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,161,5,1,2,8:29 PM,6:27,Parker STEAL (1 STL),,Sabally Bad Pass Turnover (P1.T3),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,163,5,1,2,8:29 PM,6:23,Parker Bad Pass Turnover (P2.T5),,Sabally STEAL (2 STL),,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,165,2,1,2,8:29 PM,6:13,,,MISS Gray 18' Jump Shot,,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,166,4,0,2,8:29 PM,6:13,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,167,6,3,2,8:30 PM,6:13,Evans L.B.FOUL (P1.T1),,,,,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,169,5,11,2,8:30 PM,5:58,,,Wings Turnover: Shot Clock (T#4),,,3,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100111,170,9,1,2,8:30 PM,5:58,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,171,1,79,2,8:33 PM,5:44,Copper 7' Pullup Jump Shot (14 PTS),,,16 - 35,19,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,172,6,26,2,8:34 PM,5:31,,,Ogunbowale Offensive Charge Foul (P1),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,174,5,37,2,8:34 PM,5:31,,,Ogunbowale Offensive Foul Turnover (P1.T5),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042100111,175,8,0,2,8:34 PM,5:31,SUB: Vandersloot FOR Evans,,,,,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,176,8,0,2,8:34 PM,5:31,SUB: Stevens FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,179,2,1,2,8:34 PM,5:18,MISS Copper 24' 3PT Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,181,2,72,2,8:34 PM,5:13,MISS Stevens 1' Putback Layup,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,180,4,0,2,8:34 PM,5:13,Stevens REBOUND (Off:1 Def:2),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,182,4,0,2,8:34 PM,5:11,Stevens REBOUND (Off:2 Def:2),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,183,1,72,2,8:34 PM,5:11,Stevens 1' Putback Layup (4 PTS),,,16 - 37,21,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,184,6,2,2,8:35 PM,4:50,Parker S.FOUL (P1.T2),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,186,3,11,2,8:35 PM,4:50,,,Gray Free Throw 1 of 2 (6 PTS),17 - 37,20,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,187,8,0,2,8:35 PM,4:50,SUB: DeShields FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,188,8,0,2,8:35 PM,4:50,,,SUB: Harrison FOR Sabally,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,189,8,0,2,8:35 PM,4:50,,,SUB: Kuier FOR Thornton,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,193,3,12,2,8:36 PM,4:50,,,Gray Free Throw 2 of 2 (7 PTS),18 - 37,19,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,194,2,1,2,8:36 PM,4:29,MISS Parker 25' 3PT Jump Shot,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,195,4,0,2,8:36 PM,4:25,,,Gray REBOUND (Off:1 Def:3),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,196,1,1,2,8:36 PM,4:15,,,Ogunbowale 3PT Jump Shot (5 PTS) (Jefferson 1 AST),21 - 37,16,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,198,6,1,2,8:36 PM,4:05,,,Ogunbowale P.FOUL (P2.T2),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,200,2,1,2,8:37 PM,3:55,MISS Vandersloot 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,201,4,0,2,8:37 PM,3:53,,,Harrison REBOUND (Off:0 Def:1),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,202,5,1,2,8:37 PM,3:43,Parker STEAL (2 STL),,Gray Bad Pass Turnover (P1.T6),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,204,2,6,2,8:37 PM,3:37,MISS Copper 1' Driving Layup,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,205,4,0,2,8:37 PM,3:34,DeShields REBOUND (Off:2 Def:0),,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,206,2,72,2,8:37 PM,3:34,MISS DeShields 1' Putback Layup,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,207,4,0,2,8:37 PM,3:33,Vandersloot REBOUND (Off:1 Def:1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,208,2,1,2,8:37 PM,3:24,MISS DeShields 11' Jump Shot,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,209,4,0,2,8:37 PM,3:24,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,211,8,0,2,8:38 PM,3:24,SUB: Quigley FOR DeShields,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,213,2,6,2,8:38 PM,3:06,,,MISS Gray 2' Driving Layup,,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,214,4,0,2,8:38 PM,3:04,Parker REBOUND (Off:0 Def:9),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,215,2,79,2,8:38 PM,3:01,MISS Quigley 24' 3PT Pullup Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,216,4,0,2,8:38 PM,2:59,,,Jefferson REBOUND (Off:0 Def:1),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,217,6,1,2,8:38 PM,2:59,Quigley P.FOUL (P1.T3),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,219,9,1,2,8:38 PM,2:59,,,Wings Timeout: Regular (Reg.2 Short 0),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,220,6,2,2,8:42 PM,2:47,Stevens S.FOUL (P1.T4),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,222,3,11,2,8:42 PM,2:47,,,MISS Ogunbowale Free Throw 1 of 2,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,223,4,1,2,8:42 PM,2:47,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,224,3,12,2,8:42 PM,2:47,,,Ogunbowale Free Throw 2 of 2 (6 PTS),22 - 37,15,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,225,2,1,2,8:43 PM,2:20,MISS Copper 16' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,226,4,0,2,8:43 PM,2:17,,,Kuier REBOUND (Off:0 Def:1),,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,227,1,79,2,8:43 PM,2:12,,,Ogunbowale 24' 3PT Pullup Jump Shot (9 PTS) (Jefferson 2 AST),25 - 37,12,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,229,1,6,2,8:43 PM,1:45,Vandersloot 1' Driving Layup (4 PTS) (Copper 2 AST),,,25 - 39,14,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,231,2,1,2,8:44 PM,1:33,,,MISS Ogunbowale 25' 3PT Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,232,4,0,2,8:44 PM,1:33,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,233,6,3,2,8:44 PM,1:33,,,Harrison L.B.FOUL (P1.T3),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,236,1,1,2,8:45 PM,1:11,Quigley 26' 3PT Jump Shot (8 PTS) (Parker 6 AST),,,25 - 42,17,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,238,2,80,2,8:45 PM,0:48,,,MISS Ogunbowale 20' Step Back Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,239,4,0,2,8:45 PM,0:46,Vandersloot REBOUND (Off:1 Def:2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,240,2,98,2,8:45 PM,0:38,MISS Parker 1' Cutting Layup Shot,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,241,4,0,2,8:45 PM,0:36,,,Harrison REBOUND (Off:0 Def:2),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,242,1,6,2,8:45 PM,0:32,,,Ogunbowale 2' Driving Layup (11 PTS),27 - 42,15,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,243,2,6,2,8:46 PM,0:09,MISS Parker 2' Driving Layup,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,244,4,0,2,8:46 PM,0:08,Vandersloot REBOUND (Off:2 Def:2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,245,1,72,2,8:46 PM,0:08,Vandersloot 1' Putback Layup (6 PTS),,,27 - 44,17,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,246,1,103,2,8:46 PM,0:00,,,Jefferson 19' Running Pull-Up Jump Shot (7 PTS),29 - 44,15,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,248,18,0,2,8:46 PM,0:00,,Instant Replay2nd Period (8:46 PM EST),,29 - 44,15,0,246,Greg Anderson,,,,,0,0,,,,,,1,0,,,,,,0
+1042100111,247,13,0,2,8:46 PM,0:00,,End of 2nd Period (8:46 PM EST),,29 - 44,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100111,251,12,0,3,9:02 PM,10:00,,Start of 3rd Period (9:02 PM EST),,29 - 44,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,252,2,79,3,9:02 PM,9:31,MISS Vandersloot 10' Pullup Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,253,4,0,3,9:02 PM,9:29,,,Harrison REBOUND (Off:0 Def:3),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,254,5,45,3,9:03 PM,9:19,,,Jefferson Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042100111,255,2,47,3,9:03 PM,8:55,MISS Stevens 9' Turnaround Jump Shot,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,256,4,0,3,9:03 PM,8:53,,,Sabally REBOUND (Off:0 Def:2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,257,1,1,3,9:03 PM,8:50,,,Ogunbowale 27' 3PT Jump Shot (14 PTS) (Sabally 1 AST),32 - 44,12,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,259,5,1,3,9:03 PM,8:37,Vandersloot Bad Pass Turnover (P1.T6),,Jefferson STEAL (1 STL),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,261,5,39,3,9:04 PM,8:37,,,Jefferson Step Out of Bounds Turnover (P3.T8),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042100111,262,5,45,3,9:04 PM,8:22,Parker Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100111,263,1,6,3,9:05 PM,8:03,,,Sabally 1' Driving Layup (4 PTS),34 - 44,10,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,265,6,1,3,9:05 PM,7:49,,,Harrison P.FOUL (P2.T1),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,267,2,63,3,9:05 PM,7:37,MISS Parker 4' Fadeaway Jumper,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,268,4,0,3,9:05 PM,7:35,,,Harrison REBOUND (Off:0 Def:4),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,269,2,1,3,9:05 PM,7:29,,,MISS Jefferson 24' 3PT Jump Shot,,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,270,4,0,3,9:06 PM,7:26,,,Harrison REBOUND (Off:1 Def:4),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,271,2,80,3,9:06 PM,7:22,,,MISS Ogunbowale 24' 3PT Step Back Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,272,4,0,3,9:06 PM,7:16,Stevens REBOUND (Off:2 Def:3),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,273,6,2,3,9:06 PM,7:14,,,Sabally S.FOUL (P2.T2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,275,3,11,3,9:06 PM,7:14,Copper Free Throw 1 of 2 (15 PTS),,,34 - 45,11,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,276,3,12,3,9:07 PM,7:14,Copper Free Throw 2 of 2 (16 PTS),,,34 - 46,12,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,277,1,6,3,9:07 PM,6:57,,,Sabally 2' Driving Layup (6 PTS),36 - 46,10,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,278,6,2,3,9:07 PM,6:57,Stevens S.FOUL (P2.T1),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,280,3,10,3,9:07 PM,6:57,,,Sabally Free Throw 1 of 1 (7 PTS),37 - 46,9,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,281,6,2,3,9:08 PM,6:47,,,Gray S.FOUL (P2.T3),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,283,3,11,3,9:08 PM,6:47,MISS Copper Free Throw 1 of 2,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,284,4,1,3,9:08 PM,6:47,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,285,3,12,3,9:08 PM,6:47,Copper Free Throw 2 of 2 (17 PTS),,,37 - 47,10,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,286,1,5,3,9:09 PM,6:28,,,Harrison 2' Layup (4 PTS) (Jefferson 3 AST),39 - 47,8,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,288,2,79,3,9:09 PM,6:09,MISS Vandersloot 3PT Pullup Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,289,4,0,3,9:09 PM,6:06,,,Gray REBOUND (Off:1 Def:4),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,290,1,6,3,9:09 PM,5:59,,,Sabally 1' Driving Layup (9 PTS) (Gray 1 AST),41 - 47,6,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,292,1,6,3,9:09 PM,5:43,Stevens 1' Driving Layup (6 PTS),,,41 - 49,8,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,294,6,2,3,9:09 PM,5:43,,,Sabally S.FOUL (P3.T4),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,296,8,0,3,9:10 PM,5:43,,,SUB: Thornton FOR Sabally,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,298,3,10,3,9:10 PM,5:43,MISS Stevens Free Throw 1 of 1,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,299,4,0,3,9:10 PM,5:40,,,Harrison REBOUND (Off:1 Def:5),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,300,2,6,3,9:10 PM,5:26,,,MISS Ogunbowale 1' Driving Layup,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,301,4,0,3,9:10 PM,5:24,Stevens REBOUND (Off:2 Def:4),,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,302,5,2,3,9:10 PM,5:20,Parker Lost Ball Turnover (P4.T8),,Jefferson STEAL (2 STL),,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,304,5,1,3,9:10 PM,5:16,Stevens STEAL (1 STL),,Jefferson Bad Pass Turnover (P4.T9),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,306,1,6,3,9:10 PM,5:13,Copper 1' Driving Layup (19 PTS) (Vandersloot 4 AST),,,41 - 51,10,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,308,6,2,3,9:11 PM,5:13,,,Thornton S.FOUL (P1.PN),,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,310,3,10,3,9:11 PM,5:13,MISS Copper Free Throw 1 of 1,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,311,4,0,3,9:11 PM,5:10,,,Harrison REBOUND (Off:1 Def:6),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,312,2,79,3,9:11 PM,4:57,,,MISS Harrison 16' Pullup Jump Shot,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,313,4,0,3,9:11 PM,4:55,Parker REBOUND (Off:0 Def:10),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,315,9,4,3,9:11 PM,4:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,316,8,0,3,9:14 PM,4:53,,,SUB: Mabrey FOR Jefferson,,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,318,2,1,3,9:15 PM,4:48,MISS Quigley 24' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,319,4,0,3,9:15 PM,4:46,,,Mabrey REBOUND (Off:0 Def:1),,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,320,6,2,3,9:15 PM,4:35,Parker S.FOUL (P2.T2),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,322,3,11,3,9:15 PM,4:35,,,Harrison Free Throw 1 of 2 (5 PTS),42 - 51,9,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,327,3,12,3,9:15 PM,4:35,,,MISS Harrison Free Throw 2 of 2,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,323,8,0,3,9:16 PM,4:35,SUB: DeShields FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,324,8,0,3,9:16 PM,4:35,SUB: Dolson FOR Stevens,,,,,4,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,328,4,0,3,9:16 PM,4:32,Dolson REBOUND (Off:0 Def:3),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,329,2,1,3,9:16 PM,4:08,MISS DeShields 24' 3PT Jump Shot,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,330,4,0,3,9:16 PM,4:05,,,Ogunbowale REBOUND (Off:0 Def:2),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,331,1,79,3,9:16 PM,3:56,,,Ogunbowale 17' Pullup Jump Shot (16 PTS),44 - 51,7,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,332,2,1,3,9:17 PM,3:38,MISS Parker 25' 3PT Jump Shot,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,333,4,0,3,9:17 PM,3:36,DeShields REBOUND (Off:3 Def:0),,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,334,5,2,3,9:17 PM,3:34,Copper Lost Ball Turnover (P2.T9),,Gray STEAL (1 STL),,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,336,1,1,3,9:17 PM,3:25,,,Mabrey 25' 3PT Jump Shot (3 PTS) (Gray 2 AST),47 - 51,4,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,338,9,1,3,9:17 PM,3:16,SKY Timeout: Regular (Full 2 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,339,8,0,3,9:18 PM,3:16,SUB: Quigley FOR Copper,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,340,8,0,3,9:18 PM,3:16,,,SUB: Sabally FOR Harrison,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,343,2,1,3,9:19 PM,3:01,MISS Vandersloot 21' Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,344,4,0,3,9:19 PM,2:59,Vandersloot REBOUND (Off:3 Def:2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,345,1,5,3,9:19 PM,2:51,Dolson 2' Layup (2 PTS) (Vandersloot 5 AST),,,47 - 53,6,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,347,2,6,3,9:20 PM,2:29,,,MISS Thornton 3' Driving Layup,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,348,4,0,3,9:20 PM,2:26,Dolson REBOUND (Off:0 Def:4),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,349,5,45,3,9:20 PM,2:26,Dolson Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100111,350,8,0,3,9:20 PM,2:26,SUB: Ndour-Fall FOR Parker,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,352,2,6,3,9:20 PM,2:09,,,MISS Mabrey 3' Driving Layup,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,353,4,0,3,9:20 PM,2:07,Vandersloot REBOUND (Off:3 Def:3),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,354,2,79,3,9:20 PM,2:02,MISS Quigley 24' 3PT Pullup Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,355,4,0,3,9:20 PM,2:02,Quigley REBOUND (Off:1 Def:0),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,356,1,1,3,9:21 PM,1:57,Quigley 13' Jump Shot (10 PTS),,,47 - 55,8,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,357,6,2,3,9:21 PM,1:39,Dolson S.FOUL (P1.T3),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,359,3,11,3,9:21 PM,1:39,,,MISS Sabally Free Throw 1 of 2,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,360,4,1,3,9:21 PM,1:39,,,Wings Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,361,8,0,3,9:21 PM,1:39,,,SUB: Jefferson FOR Thornton,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,362,8,0,3,9:21 PM,1:39,,,SUB: Harrison FOR Ogunbowale,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,365,3,12,3,9:22 PM,1:39,,,Sabally Free Throw 2 of 2 (10 PTS),48 - 55,7,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,366,2,1,3,9:22 PM,1:28,MISS Quigley 25' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,367,4,0,3,9:22 PM,1:25,Dolson REBOUND (Off:1 Def:4),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,368,2,1,3,9:22 PM,1:24,MISS Dolson 15' Jump Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,369,4,0,3,9:22 PM,1:22,,,Mabrey REBOUND (Off:0 Def:2),,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,370,1,5,3,9:22 PM,1:13,,,Harrison 2' Layup (7 PTS) (Mabrey 2 AST),50 - 55,5,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,372,2,1,3,9:23 PM,0:49,MISS DeShields 3PT Jump Shot,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,373,4,0,3,9:23 PM,0:47,,,Mabrey REBOUND (Off:0 Def:3),,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,374,8,0,3,9:23 PM,0:40,SUB: Evans FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,376,10,0,3,9:24 PM,0:37,Jump Ball DeShields vs. Harrison: Tip to Jefferson,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,1
+1042100111,379,2,1,3,9:24 PM,0:35,,,MISS Mabrey 3PT Jump Shot,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,380,4,0,3,9:24 PM,0:32,Evans REBOUND (Off:0 Def:2),,,,,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,381,2,1,3,9:24 PM,0:13,MISS Quigley 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,382,4,0,3,9:24 PM,0:11,Quigley REBOUND (Off:2 Def:0),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,383,2,66,3,9:24 PM,0:00,MISS Evans 26' 3PT Jump Bank Shot,,,,,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,384,4,0,3,9:24 PM,0:00,,,Gray REBOUND (Off:1 Def:5),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,385,13,0,3,9:24 PM,0:00,,End of 3rd Period (9:24 PM EST),,50 - 55,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042100111,392,12,0,4,9:28 PM,10:00,,Start of 4th Period (9:28 PM EST),,50 - 55,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,393,2,47,4,9:28 PM,9:45,,,MISS Thornton 7' Turnaround Jump Shot,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,394,4,0,4,9:28 PM,9:44,,,Sabally REBOUND (Off:1 Def:2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,395,2,1,4,9:28 PM,9:42,,,MISS Mabrey 24' 3PT Jump Shot,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,396,4,0,4,9:28 PM,9:42,,,Sabally REBOUND (Off:2 Def:2),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,397,2,5,4,9:28 PM,9:34,,,MISS Sabally 2' Layup,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,398,4,0,4,9:28 PM,9:31,Dolson REBOUND (Off:1 Def:5),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,399,5,4,4,9:28 PM,9:31,Copper Traveling Turnover (P3.T11),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100111,401,1,102,4,9:29 PM,9:17,,,Gray 5' Driving Floating Bank Jump Shot (9 PTS),52 - 55,3,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,402,5,45,4,9:29 PM,9:00,Copper Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1042100111,403,9,1,4,9:29 PM,8:53,,,Wings Timeout: Regular (Reg.3 Short 0),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,404,8,0,4,9:31 PM,8:53,SUB: Parker FOR Ndour-Fall,,,,,4,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,405,8,0,4,9:31 PM,8:53,SUB: Vandersloot FOR Evans,,,,,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,408,8,0,4,9:32 PM,8:53,,,SUB: Kuier FOR Sabally,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,409,8,0,4,9:32 PM,8:53,,,SUB: Harrison FOR Thornton,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,412,2,1,4,9:33 PM,8:35,,,MISS Mabrey 24' 3PT Jump Shot,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,413,4,0,4,9:33 PM,8:33,,,Harrison REBOUND (Off:2 Def:6),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,414,2,6,4,9:33 PM,8:28,,,MISS Harrison 5' Driving Layup,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,415,4,0,4,9:33 PM,8:26,,,Kuier REBOUND (Off:1 Def:1),,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,416,5,1,4,9:33 PM,8:22,Copper STEAL (1 STL),,Harrison Bad Pass Turnover (P1.T10),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,419,1,98,4,9:33 PM,8:15,Copper 1' Cutting Layup Shot (21 PTS) (Vandersloot 6 AST),,,52 - 57,5,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,421,2,1,4,9:34 PM,8:00,,,MISS Kuier 26' 3PT Jump Shot,,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,422,4,0,4,9:34 PM,7:56,Vandersloot REBOUND (Off:3 Def:4),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,423,1,5,4,9:34 PM,7:40,Parker 2' Layup (9 PTS),,,52 - 59,7,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,425,1,1,4,9:34 PM,7:23,,,Ogunbowale 24' 3PT Jump Shot (19 PTS) (Harrison 1 AST),55 - 59,4,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,427,6,2,4,9:34 PM,7:14,,,Gray S.FOUL (P3.T1),,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,429,3,11,4,9:35 PM,7:14,Vandersloot Free Throw 1 of 2 (7 PTS),,,55 - 60,5,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,430,8,0,4,9:35 PM,7:14,,,SUB: Sabally FOR Mabrey,,,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,431,8,0,4,9:35 PM,7:14,,,SUB: Jefferson FOR Kuier,,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,434,3,12,4,9:35 PM,7:14,Vandersloot Free Throw 2 of 2 (8 PTS),,,55 - 61,6,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,435,2,79,4,9:36 PM,6:52,,,MISS Sabally 17' Pullup Jump Shot,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,436,4,0,4,9:36 PM,6:46,Copper REBOUND (Off:0 Def:2),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,437,1,98,4,9:36 PM,6:38,Parker 1' Cutting Layup Shot (11 PTS) (Quigley 2 AST),,,55 - 63,8,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,439,9,2,4,9:36 PM,6:31,,,Wings Timeout: Short (Reg.3 Short 1),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,440,1,1,4,9:38 PM,6:17,,,Harrison 15' Jump Shot (9 PTS) (Jefferson 4 AST),57 - 63,6,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,441,1,1,4,9:38 PM,5:58,Quigley 25' 3PT Jump Shot (13 PTS),,,57 - 66,9,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,442,1,79,4,9:38 PM,5:42,,,Jefferson 22' Pullup Jump Shot (9 PTS),59 - 66,7,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,443,1,6,4,9:39 PM,5:16,Copper 2' Driving Layup (23 PTS) (Parker 7 AST),,,59 - 68,9,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,445,2,47,4,9:39 PM,4:51,Dolson BLOCK (1 BLK),,MISS Harrison 5' Turnaround Jump Shot,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1
+1042100111,447,4,0,4,9:39 PM,4:48,Parker REBOUND (Off:0 Def:11),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,448,6,1,4,9:39 PM,4:46,,,Ogunbowale P.FOUL (P3.T2),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,450,8,0,4,9:39 PM,4:46,SUB: DeShields FOR Copper,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,453,2,1,4,9:40 PM,4:35,MISS Dolson 24' 3PT Jump Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,454,4,0,4,9:40 PM,4:32,Parker REBOUND (Off:1 Def:11),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,455,2,6,4,9:40 PM,4:30,MISS Parker 2' Driving Layup,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,456,4,0,4,9:40 PM,4:29,,,Harrison REBOUND (Off:2 Def:7),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,457,1,1,4,9:40 PM,4:22,,,Ogunbowale 25' 3PT Jump Shot (22 PTS),62 - 68,6,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,458,1,101,4,9:40 PM,4:06,Quigley 4' Driving Floating Jump Shot (15 PTS),,,62 - 70,8,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,459,2,80,4,9:41 PM,3:48,,,MISS Ogunbowale 24' 3PT Step Back Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,460,4,0,4,9:41 PM,3:46,Parker REBOUND (Off:1 Def:12),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,461,2,101,4,9:41 PM,3:35,MISS Parker 4' Driving Floating Jump Shot,,Sabally BLOCK (1 BLK),,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1
+1042100111,463,4,0,4,9:41 PM,3:33,,,Harrison REBOUND (Off:2 Def:8),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,465,5,40,4,9:41 PM,3:13,,,Sabally Out of Bounds Lost Ball Turnover (P2.T11),,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1042100111,466,8,0,4,9:41 PM,3:13,,,SUB: Kuier FOR Sabally,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,468,2,78,4,9:42 PM,2:52,MISS DeShields 10' Floating Jump Shot,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,469,4,0,4,9:42 PM,2:50,,,Kuier REBOUND (Off:1 Def:2),,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,471,5,1,4,9:42 PM,2:48,Parker STEAL (3 STL),,Kuier Bad Pass Turnover (P1.T12),,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,473,2,5,4,9:42 PM,2:43,MISS Parker 1' Layup,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,474,4,0,4,9:42 PM,2:40,Parker REBOUND (Off:2 Def:12),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,475,2,72,4,9:42 PM,2:40,MISS Parker 1' Putback Layup,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,476,4,0,4,9:42 PM,2:39,,,Jefferson REBOUND (Off:0 Def:2),,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,477,2,47,4,9:42 PM,2:34,,,MISS Jefferson 8' Turnaround Jump Shot,,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,478,4,0,4,9:42 PM,2:32,Dolson REBOUND (Off:1 Def:6),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,479,6,2,4,9:43 PM,2:27,,,Harrison S.FOUL (P3.T3),,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,481,9,1,4,9:43 PM,2:27,SKY Timeout: Regular (Full 3 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042100111,482,18,1,4,9:43 PM,2:27,,Instant Replay4th Period (9:43 PM EST),,62 - 70,8,0,442,Pervis Ellison,,,,,0,0,,,,,,1,0,,,,,,0
+1042100111,483,8,0,4,9:45 PM,2:27,SUB: Copper FOR DeShields,,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,484,8,0,4,9:45 PM,2:27,,,SUB: Mabrey FOR Jefferson,,,5,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,485,8,0,4,9:45 PM,2:27,,,SUB: Sabally FOR Gray,,,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,486,8,0,4,9:45 PM,2:27,,,SUB: Harris FOR Kuier,,,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,491,3,11,4,9:46 PM,2:27,Vandersloot Free Throw 1 of 2 (9 PTS),,,62 - 71,9,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,492,3,12,4,9:46 PM,2:27,Vandersloot Free Throw 2 of 2 (10 PTS),,,62 - 72,10,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,493,2,1,4,9:47 PM,2:09,,,MISS Ogunbowale 24' 3PT Jump Shot,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,494,4,0,4,9:47 PM,2:07,Vandersloot REBOUND (Off:3 Def:5),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,495,1,98,4,9:47 PM,1:52,Vandersloot 2' Cutting Layup Shot (12 PTS) (Quigley 3 AST),,,62 - 74,12,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042100111,497,2,6,4,9:47 PM,1:29,,,MISS Harrison 3' Driving Layup,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,498,4,0,4,9:47 PM,1:27,Parker REBOUND (Off:2 Def:13),,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,499,1,6,4,9:48 PM,1:15,Vandersloot 1' Driving Layup (14 PTS),,,62 - 76,14,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,500,1,44,4,9:48 PM,1:06,,,Sabally 1' Reverse Layup (12 PTS) (Ogunbowale 2 AST),64 - 76,12,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1042100111,502,6,1,4,9:48 PM,0:58,,,Ogunbowale P.FOUL (P4.T4),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,504,1,102,4,9:49 PM,0:47,Vandersloot 10' Driving Floating Bank Jump Shot (16 PTS),,,64 - 78,14,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,505,6,2,4,9:49 PM,0:47,,,Ogunbowale S.FOUL (P5.PN),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,507,3,10,4,9:49 PM,0:47,Vandersloot Free Throw 1 of 1 (17 PTS),,,64 - 79,15,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,508,6,1,4,9:49 PM,0:43,Quigley P.FOUL (P2.T1),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1042100111,510,8,0,4,9:49 PM,0:43,SUB: Hebard FOR Parker,,,,,4,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,511,8,0,4,9:49 PM,0:43,SUB: Ndour-Fall FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,512,8,0,4,9:49 PM,0:43,SUB: Brown FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,513,8,0,4,9:49 PM,0:43,SUB: Evans FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,514,8,0,4,9:49 PM,0:43,SUB: DeShields FOR Copper,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042100111,520,2,6,4,9:50 PM,0:37,,,MISS Harrison 2' Driving Layup,,,5,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,521,4,0,4,9:50 PM,0:35,Ndour-Fall REBOUND (Off:0 Def:1),,,,,4,203838,Astou Ndour-Fall,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,522,6,28,4,9:50 PM,0:34,,,Ogunbowale Personal Take Foul (P6.PN),,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042100111,524,8,0,4,9:50 PM,0:34,,,SUB: Dungee FOR Ogunbowale,,,5,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1630440,Chelsea Dungee,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,526,3,11,4,9:51 PM,0:34,DeShields Free Throw 1 of 2 (3 PTS),,,64 - 80,16,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,527,8,0,4,9:51 PM,0:34,,,SUB: Kuier FOR Sabally,,,5,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1042100111,529,3,12,4,9:51 PM,0:34,DeShields Free Throw 2 of 2 (4 PTS),,,64 - 81,17,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,530,2,6,4,9:51 PM,0:27,,,MISS Harris 2' Driving Layup,,,5,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1042100111,531,4,0,4,9:51 PM,0:25,DeShields REBOUND (Off:3 Def:1),,,,,4,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042100111,532,5,11,4,9:52 PM,0:03,SKY Turnover: Shot Clock (T#13),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1042100111,533,13,0,4,9:52 PM,0:00,,End of 4th Period (9:52 PM EST),,64 - 81,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

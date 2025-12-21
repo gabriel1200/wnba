@@ -1,0 +1,354 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041900402,2,12,0,1,8:05 PM,10:00,,Start of 1st Period (8:05 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,4,10,0,1,8:05 PM,10:00,Jump Ball Sanders vs. J. Jones: Tip to Delle Donne,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041900402,7,5,40,1,8:05 PM,9:55,Delle Donne Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041900402,8,2,93,1,8:06 PM,9:40,,,MISS J. Jones 11' Driving Bank Hook Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,9,4,0,1,8:06 PM,9:36,Delle Donne REBOUND (Off:0 Def:1),,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,10,1,79,1,8:06 PM,9:23,Atkins 11' Pullup Jump Shot (2 PTS),,,0 - 2,2,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,11,5,45,1,8:06 PM,9:07,,,A. Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1041900402,12,2,1,1,8:07 PM,8:57,MISS Toliver 24' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,13,4,0,1,8:07 PM,8:56,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,15,2,1,1,8:07 PM,8:46,,,MISS J. Jones 26' 3PT Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,16,4,0,1,8:07 PM,8:42,,,A. Thomas REBOUND (Off:1 Def:0),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,17,1,72,1,8:07 PM,8:42,,,A. Thomas 2' Putback Layup (2 PTS),2 - 2,TIE,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,18,6,2,1,8:07 PM,8:36,,,Stricklen S.FOUL (P1.T1),,,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,20,3,11,1,8:08 PM,8:36,Cloud Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,21,3,12,1,8:08 PM,8:36,Cloud Free Throw 2 of 2 (2 PTS),,,2 - 4,2,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,22,2,79,1,8:08 PM,8:27,,,MISS Williams 17' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,23,4,0,1,8:08 PM,8:23,Atkins REBOUND (Off:0 Def:1),,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,24,2,80,1,8:08 PM,8:16,MISS Delle Donne 15' Step Back Jump Shot,,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,25,4,0,1,8:08 PM,8:13,,,J. Jones REBOUND (Off:0 Def:1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,26,2,1,1,8:09 PM,8:06,,,MISS J. Jones 26' 3PT Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,27,4,0,1,8:09 PM,8:03,,,A. Thomas REBOUND (Off:2 Def:0),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,28,1,72,1,8:09 PM,8:02,,,A. Thomas 3' Putback Layup (4 PTS),4 - 4,TIE,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,29,2,6,1,8:09 PM,7:45,MISS Toliver 2' Driving Layup,,J. Jones BLOCK (1 BLK),,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1041900402,31,4,0,1,8:09 PM,7:45,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,33,1,1,1,8:09 PM,7:43,Toliver 27' 3PT Jump Shot (3 PTS) (Cloud 1 AST),,,4 - 7,3,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,35,1,79,1,8:09 PM,7:26,,,Stricklen 18' Pullup Jump Shot (2 PTS) (A. Thomas 1 AST),6 - 7,1,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,36,2,105,1,8:10 PM,7:02,MISS Delle Donne 10' Turnaround Fadeaway Bank Jump Shot,,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,37,4,0,1,8:10 PM,6:59,Atkins REBOUND (Off:1 Def:1),,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,40,5,1,1,8:10 PM,6:52,Cloud Bad Pass Turnover (P1.T2),,Stricklen STEAL (1 STL),,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,42,5,40,1,8:10 PM,6:48,,,J. Jones Out of Bounds Lost Ball Turnover (P1.T2),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1041900402,44,2,79,1,8:11 PM,6:32,MISS Atkins 19' Pullup Jump Shot,,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,45,4,0,1,8:11 PM,6:32,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,47,8,0,1,8:11 PM,6:32,SUB: Meesseman FOR Delle Donne,,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,49,1,1,1,8:11 PM,6:21,,,Stricklen 28' 3PT Jump Shot (5 PTS) (Williams 1 AST),9 - 7,-2,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,51,6,1,1,8:11 PM,6:14,,,J. Jones P.FOUL (P1.T2),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,53,5,1,1,8:11 PM,6:08,Cloud Bad Pass Turnover (P2.T3),,A. Thomas STEAL (1 STL),,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,55,1,41,1,8:12 PM,6:02,,,A. Thomas 3' Running Layup (6 PTS) (Williams 2 AST),11 - 7,-4,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,57,2,98,1,8:12 PM,5:43,MISS Sanders 7' Cutting Layup Shot,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,58,4,0,1,8:12 PM,5:41,,,J. Jones REBOUND (Off:0 Def:2),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,59,2,1,1,8:12 PM,5:37,,,MISS J. Thomas 26' 3PT Jump Shot,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,60,4,0,1,8:12 PM,5:33,Sanders REBOUND (Off:0 Def:1),,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,61,2,105,1,8:12 PM,5:17,MISS Meesseman 4' Turnaround Fadeaway Bank Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,62,4,0,1,8:12 PM,5:15,Meesseman REBOUND (Off:1 Def:0),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,63,2,1,1,8:12 PM,5:11,MISS Toliver 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,64,4,0,1,8:12 PM,5:09,,,Stricklen REBOUND (Off:0 Def:1),,,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,65,2,1,1,8:13 PM,4:59,,,MISS J. Jones 4' Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,66,4,0,1,8:13 PM,4:57,Meesseman REBOUND (Off:1 Def:1),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,67,1,41,1,8:13 PM,4:52,Cloud 5' Running Layup (4 PTS),,,11 - 9,-2,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,68,1,6,1,8:13 PM,4:39,,,J. Thomas 6' Driving Layup (2 PTS),13 - 9,-4,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,69,1,79,1,8:13 PM,4:28,Toliver 10' Pullup Jump Shot (5 PTS),,,13 - 11,-2,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,70,2,6,1,8:14 PM,4:03,,,MISS A. Thomas 8' Driving Layup,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,71,4,0,1,8:14 PM,4:00,,,A. Thomas REBOUND (Off:3 Def:0),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,72,1,6,1,8:14 PM,3:50,,,J. Thomas 6' Driving Layup (4 PTS),15 - 11,-4,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,73,2,80,1,8:14 PM,3:41,MISS Toliver 20' Step Back Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,74,4,0,1,8:14 PM,3:38,,,J. Jones REBOUND (Off:0 Def:3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,75,1,1,1,8:14 PM,3:31,,,J. Jones 26' 3PT Jump Shot (3 PTS) (Williams 3 AST),18 - 11,-7,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,77,9,1,1,8:14 PM,3:21,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,79,8,0,1,8:16 PM,3:21,SUB: Hawkins FOR Atkins,,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,80,8,0,1,8:16 PM,3:21,SUB: Powers FOR Sanders,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,81,8,0,1,8:16 PM,3:21,,,SUB: Holmes FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,85,1,105,1,8:17 PM,3:09,Meesseman 8' Turnaround Fadeaway Bank Jump Shot (2 PTS) (Cloud 2 AST),,,18 - 13,-5,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,87,1,79,1,8:17 PM,2:53,,,Williams 17' Pullup Jump Shot (2 PTS) (A. Thomas 2 AST),20 - 13,-7,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,89,6,1,1,8:18 PM,2:30,,,A. Thomas P.FOUL (P1.T3),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,91,1,78,1,8:18 PM,2:19,Meesseman 10' Floating Jump Shot (4 PTS) (Hawkins 1 AST),,,20 - 15,-5,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,93,1,79,1,8:19 PM,2:08,,,Williams 27' 3PT Pullup Jump Shot (5 PTS) (J. Jones 1 AST),23 - 15,-8,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,95,2,79,1,8:19 PM,1:48,MISS Meesseman 16' Pullup Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,96,4,0,1,8:19 PM,1:45,,,Holmes REBOUND (Off:0 Def:1),,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,97,2,6,1,8:19 PM,1:34,,,MISS Holmes 7' Driving Layup,,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,98,4,0,1,8:19 PM,1:33,,,J. Jones REBOUND (Off:1 Def:3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,99,1,5,1,8:19 PM,1:32,,,J. Jones 4' Layup (5 PTS),25 - 15,-10,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,100,5,39,1,8:19 PM,1:24,Hawkins Step Out of Bounds Turnover (P1.T4),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041900402,101,8,0,1,8:19 PM,1:24,SUB: Walker-Kimbrough FOR Toliver,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,103,2,105,1,8:20 PM,1:05,,,MISS J. Jones 7' Turnaround Fadeaway Bank Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,104,4,0,1,8:20 PM,1:03,Hawkins REBOUND (Off:0 Def:1),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,105,2,1,1,8:20 PM,0:56,MISS Meesseman 27' 3PT Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,106,4,0,1,8:20 PM,0:53,,,J. Thomas REBOUND (Off:0 Def:1),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,107,1,79,1,8:20 PM,0:45,,,Williams 20' Pullup Jump Shot (7 PTS),27 - 15,-12,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,108,1,6,1,8:20 PM,0:37,Powers 4' Driving Layup (2 PTS) (Cloud 3 AST),,,27 - 17,-10,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,110,6,2,1,8:21 PM,0:24,Meesseman S.FOUL (P1.T1),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,112,3,11,1,8:21 PM,0:24,,,J. Jones Free Throw 1 of 2 (6 PTS),28 - 17,-11,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,113,3,12,1,8:21 PM,0:24,,,J. Jones Free Throw 2 of 2 (7 PTS),29 - 17,-12,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,114,2,1,1,8:22 PM,0:04,MISS Hawkins 26' 3PT Jump Shot,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,115,4,0,1,8:22 PM,0:01,Meesseman REBOUND (Off:2 Def:1),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,116,2,1,1,8:22 PM,0:01,MISS Walker-Kimbrough 15' Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,117,4,0,1,8:22 PM,0:00,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,118,13,0,1,8:22 PM,0:00,,End of 1st Period (8:22 PM EST),,29 - 17,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1041900402,123,12,0,2,8:25 PM,10:00,,Start of 2nd Period (8:25 PM EST),,29 - 17,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,124,5,1,2,8:25 PM,9:50,Toliver STEAL (1 STL),,Holmes Bad Pass Turnover (P1.T3),,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,126,1,41,2,8:25 PM,9:45,Toliver 3' Running Layup (7 PTS),,,29 - 19,-10,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,127,2,79,2,8:26 PM,9:34,,,MISS J. Thomas 21' Pullup Jump Shot,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,128,4,0,2,8:26 PM,9:31,Hawkins REBOUND (Off:0 Def:2),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,129,1,1,2,8:26 PM,9:19,Hawkins 25' 3PT Jump Shot (3 PTS) (Walker-Kimbrough 1 AST),,,29 - 22,-7,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,131,2,101,2,8:26 PM,8:58,,,MISS Holmes 11' Driving Floating Jump Shot,,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,132,4,0,2,8:26 PM,8:55,,,A. Thomas REBOUND (Off:4 Def:0),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,133,6,26,2,8:27 PM,8:45,,,B. Jones Offensive Charge Foul (P1),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,135,5,37,2,8:27 PM,8:45,,,B. Jones Offensive Foul Turnover (P1.T4),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1041900402,136,8,0,2,8:27 PM,8:45,,,SUB: J. Jones FOR B. Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,138,2,6,2,8:27 PM,8:34,MISS Walker-Kimbrough 7' Driving Layup,,J. Jones BLOCK (2 BLK),,,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1041900402,140,4,0,2,8:27 PM,8:31,,,J. Jones REBOUND (Off:1 Def:4),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,141,6,2,2,8:27 PM,8:30,Hawkins S.FOUL (P1.T1),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,143,3,11,2,8:28 PM,8:30,,,A. Thomas Free Throw 1 of 2 (7 PTS),30 - 22,-8,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,144,3,12,2,8:28 PM,8:30,,,A. Thomas Free Throw 2 of 2 (8 PTS),31 - 22,-9,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,145,1,79,2,8:28 PM,8:20,Toliver 17' Pullup Jump Shot (9 PTS),,,31 - 24,-7,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,146,7,5,2,8:28 PM,8:10,Toliver Violation:Kicked Ball,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041900402,147,2,79,2,8:29 PM,8:03,,,MISS Williams 17' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,148,4,0,2,8:29 PM,8:00,Meesseman REBOUND (Off:2 Def:2),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,149,1,41,2,8:29 PM,7:56,Hawkins 4' Running Layup (5 PTS) (Toliver 1 AST),,,31 - 26,-5,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,151,2,6,2,8:29 PM,7:38,,,MISS J. Thomas 5' Driving Layup,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,152,4,0,2,8:29 PM,7:32,,,J. Jones REBOUND (Off:2 Def:4),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,153,1,97,2,8:29 PM,7:32,,,J. Jones 1' Tip Layup Shot (9 PTS),33 - 26,-7,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,154,1,98,2,8:29 PM,7:19,Walker-Kimbrough 4' Cutting Layup Shot (2 PTS) (Meesseman 1 AST),,,33 - 28,-5,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,156,2,6,2,8:30 PM,7:02,,,MISS A. Thomas 7' Driving Layup,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,158,4,0,2,8:30 PM,7:02,,,J. Jones REBOUND (Off:3 Def:4),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,159,6,2,2,8:30 PM,7:02,Powers S.FOUL (P1.T2),,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,161,3,11,2,8:30 PM,7:02,,,MISS J. Jones Free Throw 1 of 2,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,162,4,1,2,8:30 PM,7:02,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,163,3,12,2,8:30 PM,7:02,,,J. Jones Free Throw 2 of 2 (10 PTS),34 - 28,-6,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,164,1,1,2,8:30 PM,6:51,Hawkins 3PT Jump Shot (8 PTS) (Toliver 2 AST),,,34 - 31,-3,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,166,1,5,2,8:31 PM,6:32,,,J. Jones 3' Layup (12 PTS) (Williams 4 AST),36 - 31,-5,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,168,2,79,2,8:31 PM,6:22,MISS Toliver 26' 3PT Pullup Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,169,4,0,2,8:31 PM,6:19,,,J. Jones REBOUND (Off:3 Def:5),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,170,2,79,2,8:31 PM,6:12,,,MISS J. Jones 27' 3PT Pullup Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,171,4,0,2,8:31 PM,6:09,Powers REBOUND (Off:0 Def:1),,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,172,6,2,2,8:31 PM,6:05,,,J. Jones S.FOUL (P2.T1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,174,3,11,2,8:32 PM,6:05,Powers Free Throw 1 of 2 (3 PTS),,,36 - 32,-4,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,175,8,0,2,8:32 PM,6:05,,,SUB: Banham FOR Williams,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,177,3,12,2,8:32 PM,6:05,Powers Free Throw 2 of 2 (4 PTS),,,36 - 33,-3,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,178,2,101,2,8:32 PM,5:53,,,MISS A. Thomas 16' Driving Floating Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,179,4,0,2,8:32 PM,5:51,Meesseman REBOUND (Off:2 Def:3),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,180,2,1,2,8:33 PM,5:46,MISS Walker-Kimbrough 3PT Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,181,4,0,2,8:33 PM,5:43,,,A. Thomas REBOUND (Off:4 Def:1),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,182,1,98,2,8:33 PM,5:38,,,Holmes 7' Cutting Layup Shot (2 PTS) (A. Thomas 3 AST),38 - 33,-5,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,184,1,6,2,8:33 PM,5:17,Meesseman 5' Driving Layup (6 PTS) (Toliver 3 AST),,,38 - 35,-3,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,186,1,98,2,8:33 PM,4:54,,,A. Thomas 7' Cutting Layup Shot (10 PTS) (Holmes 1 AST),40 - 35,-5,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,188,2,1,2,8:34 PM,4:43,MISS Powers 26' 3PT Jump Shot,,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,189,4,0,2,8:34 PM,4:39,,,A. Thomas REBOUND (Off:4 Def:2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,190,1,5,2,8:34 PM,4:29,,,J. Jones 4' Layup (14 PTS) (Holmes 2 AST),42 - 35,-7,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,192,2,1,2,8:34 PM,4:14,MISS Meesseman 15' Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,193,4,0,2,8:34 PM,4:12,,,A. Thomas REBOUND (Off:4 Def:3),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,194,6,1,2,8:34 PM,4:08,Hawkins P.FOUL (P2.T3),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,196,9,4,2,8:34 PM,4:08,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,197,8,0,2,8:34 PM,4:08,SUB: Atkins FOR Powers,,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,198,8,0,2,8:34 PM,4:08,SUB: Cloud FOR Walker-Kimbrough,,,,,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,199,8,0,2,8:34 PM,4:08,SUB: Sanders FOR Meesseman,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,200,8,0,2,8:34 PM,4:08,,,SUB: Hiedeman FOR J. Thomas,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,206,1,79,2,8:37 PM,4:03,,,Holmes 11' Pullup Jump Shot (4 PTS),44 - 35,-9,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,207,2,1,2,8:38 PM,3:51,MISS Toliver 25' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,208,4,0,2,8:38 PM,3:47,,,Holmes REBOUND (Off:0 Def:2),,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,209,1,6,2,8:38 PM,3:42,,,Holmes 6' Driving Layup (6 PTS),46 - 35,-11,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,210,2,73,2,8:38 PM,3:29,MISS Cloud 7' Driving Reverse Layup,,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,211,4,0,2,8:38 PM,3:26,,,J. Jones REBOUND (Off:3 Def:6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,212,6,1,2,8:38 PM,3:24,Hawkins P.FOUL (P3.T4),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,214,8,0,2,8:38 PM,3:24,SUB: Meesseman FOR Hawkins,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,216,1,1,2,8:39 PM,3:15,,,Holmes 28' 3PT Jump Shot (9 PTS) (Hiedeman 1 AST),49 - 35,-14,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,218,6,1,2,8:39 PM,3:04,,,Hiedeman P.FOUL (P1.T2),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,220,2,79,2,8:39 PM,2:56,MISS Toliver 15' Pullup Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,221,4,0,2,8:39 PM,2:53,Meesseman REBOUND (Off:3 Def:3),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,222,1,1,2,8:39 PM,2:43,Atkins 3PT Jump Shot (5 PTS) (Cloud 4 AST),,,49 - 38,-11,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,224,5,40,2,8:40 PM,2:24,,,J. Jones Out of Bounds Lost Ball Turnover (P2.T5),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1041900402,225,9,1,2,8:40 PM,2:24,,,Sun Timeout: Regular (Reg.1 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,226,8,0,2,8:40 PM,2:24,,,SUB: Williams FOR Banham,,,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,227,8,0,2,8:40 PM,2:24,,,SUB: Tuck FOR J. Jones,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,230,1,75,2,8:43 PM,2:10,Toliver 4' Driving Finger Roll Layup (11 PTS) (Atkins 1 AST),,,49 - 40,-9,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,232,2,6,2,8:43 PM,1:56,Sanders BLOCK (1 BLK),,MISS A. Thomas 6' Driving Layup,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1
+1041900402,234,4,0,2,8:43 PM,1:56,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1041900402,235,10,0,2,8:44 PM,1:53,Jump Ball Sanders vs. A. Thomas: Tip to Atkins,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1
+1041900402,240,1,47,2,8:44 PM,1:31,Meesseman 8' Turnaround Jump Shot (8 PTS),,,49 - 42,-7,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,241,9,1,2,8:45 PM,1:17,,,Sun Timeout: Regular (Reg.2 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,242,8,0,2,8:45 PM,1:17,,,SUB: J. Thomas FOR Hiedeman,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,243,8,0,2,8:45 PM,1:17,,,SUB: J. Jones FOR Tuck,,,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,246,1,47,2,8:46 PM,1:07,,,J. Jones 8' Turnaround Jump Shot (16 PTS),51 - 42,-9,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,247,1,47,2,8:47 PM,0:52,Meesseman 4' Turnaround Jump Shot (10 PTS),,,51 - 44,-7,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,248,6,17,2,8:47 PM,0:39,MYSTICS T.Foul (Def. 3 Sec Sanders ),,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041900402,249,3,16,2,8:47 PM,0:39,,,Williams Free Throw Technical (8 PTS),52 - 44,-8,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,250,2,6,2,8:48 PM,0:32,,,MISS J. Thomas 6' Driving Layup,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,251,4,0,2,8:48 PM,0:31,,,J. Jones REBOUND (Off:4 Def:6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,252,1,72,2,8:48 PM,0:31,,,J. Jones 3' Putback Layup (18 PTS),54 - 44,-10,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,253,1,1,2,8:48 PM,0:23,Sanders 16' Jump Shot (2 PTS) (Toliver 4 AST),,,54 - 46,-8,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,255,1,3,2,8:48 PM,0:05,,,A. Thomas 5' Hook Shot (12 PTS) (J. Thomas 1 AST),56 - 46,-10,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,257,2,2,2,8:48 PM,0:01,MISS Cloud 13' Running Jump Shot,,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,258,4,0,2,8:48 PM,0:01,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,259,13,0,2,8:48 PM,0:00,,End of 2nd Period (8:48 PM EST),,56 - 46,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1041900402,262,12,0,3,9:06 PM,10:00,,Start of 3rd Period (9:06 PM EST),,56 - 46,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,263,2,79,3,9:06 PM,9:38,,,MISS Williams 20' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,264,4,0,3,9:06 PM,9:34,Meesseman REBOUND (Off:3 Def:4),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,265,2,1,3,9:07 PM,9:21,MISS Atkins 3PT Jump Shot,,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,266,4,0,3,9:07 PM,9:18,,,J. Thomas REBOUND (Off:0 Def:2),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,267,5,40,3,9:07 PM,9:13,,,J. Jones Out of Bounds Lost Ball Turnover (P3.T6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,269,6,2,3,9:07 PM,8:55,,,J. Jones S.FOUL (P3.T1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,271,3,11,3,9:08 PM,8:55,Sanders Free Throw 1 of 2 (3 PTS),,,56 - 47,-9,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,272,3,12,3,9:08 PM,8:55,Sanders Free Throw 2 of 2 (4 PTS),,,56 - 48,-8,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,273,1,98,3,9:08 PM,8:44,,,Stricklen 4' Cutting Layup Shot (7 PTS) (A. Thomas 4 AST),58 - 48,-10,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,275,1,1,3,9:08 PM,8:27,Cloud 27' 3PT Jump Shot (7 PTS) (Toliver 5 AST),,,58 - 51,-7,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,277,1,73,3,9:09 PM,8:08,,,Williams 3' Driving Reverse Layup (10 PTS),60 - 51,-9,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,278,1,101,3,9:09 PM,7:56,Meesseman 4' Driving Floating Jump Shot (12 PTS) (Atkins 2 AST),,,60 - 53,-7,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,280,1,6,3,9:09 PM,7:46,,,Williams 4' Driving Layup (12 PTS),62 - 53,-9,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,281,2,1,3,9:09 PM,7:34,MISS Atkins 5' Jump Shot,,J. Jones BLOCK (3 BLK),,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1041900402,283,4,0,3,9:09 PM,7:32,,,Stricklen REBOUND (Off:0 Def:2),,,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,284,5,1,3,9:10 PM,7:25,Meesseman STEAL (1 STL),,J. Thomas Bad Pass Turnover (P1.T7),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,286,5,13,3,9:10 PM,7:15,Toliver Backcourt Turnover (P1.T5),,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041900402,287,2,6,3,9:10 PM,7:02,,,MISS Williams 9' Driving Layup,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,288,4,0,3,9:10 PM,7:01,,,J. Jones REBOUND (Off:5 Def:6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,289,2,5,3,9:10 PM,6:59,Sanders BLOCK (2 BLK),,MISS J. Jones 5' Layup,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1
+1041900402,291,4,0,3,9:10 PM,6:59,,,J. Jones REBOUND (Off:6 Def:6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,292,1,72,3,9:10 PM,6:57,,,J. Jones 3' Putback Layup (20 PTS),64 - 53,-11,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,293,9,1,3,9:11 PM,6:57,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,294,1,105,3,9:14 PM,6:46,Meesseman 6' Turnaround Fadeaway Bank Jump Shot (14 PTS),,,64 - 55,-9,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,295,2,79,3,9:14 PM,6:36,,,MISS J. Thomas 17' Pullup Jump Shot,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,296,4,0,3,9:14 PM,6:33,,,J. Jones REBOUND (Off:7 Def:6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,297,1,72,3,9:14 PM,6:32,,,J. Jones 2' Putback Layup (22 PTS),66 - 55,-11,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,298,2,1,3,9:14 PM,6:10,MISS Cloud 26' 3PT Jump Shot,,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,299,4,0,3,9:14 PM,6:08,Atkins REBOUND (Off:2 Def:1),,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,300,1,5,3,9:14 PM,6:08,Sanders 3' Layup (6 PTS) (Atkins 3 AST),,,66 - 57,-9,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,302,2,1,3,9:15 PM,5:47,,,MISS Williams 24' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,303,4,0,3,9:15 PM,5:46,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,304,6,3,3,9:15 PM,5:46,Sanders L.B.FOUL (P1.T1),,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,306,1,6,3,9:15 PM,5:38,,,A. Thomas 3' Driving Layup (14 PTS) (Williams 5 AST),68 - 57,-11,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,308,6,2,3,9:15 PM,5:38,Meesseman S.FOUL (P2.T2),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,310,3,10,3,9:16 PM,5:38,,,A. Thomas Free Throw 1 of 1 (15 PTS),69 - 57,-12,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,311,6,2,3,9:16 PM,5:28,,,A. Thomas S.FOUL (P2.T2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,313,3,11,3,9:16 PM,5:28,Meesseman Free Throw 1 of 2 (15 PTS),,,69 - 58,-11,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,314,3,12,3,9:16 PM,5:28,Meesseman Free Throw 2 of 2 (16 PTS),,,69 - 59,-10,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,315,5,1,3,9:17 PM,5:16,Sanders STEAL (1 STL),,J. Thomas Bad Pass Turnover (P2.T8),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,317,1,1,3,9:17 PM,4:58,Meesseman 25' 3PT Jump Shot (19 PTS) (Toliver 6 AST),,,69 - 62,-7,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,319,1,6,3,9:17 PM,4:29,,,J. Thomas 5' Driving Layup (6 PTS),71 - 62,-9,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,320,2,79,3,9:18 PM,4:18,MISS Toliver 14' Pullup Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,321,4,0,3,9:18 PM,4:14,,,J. Thomas REBOUND (Off:0 Def:3),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,322,2,1,3,9:18 PM,4:07,,,MISS J. Jones 26' 3PT Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,323,4,0,3,9:18 PM,4:04,Cloud REBOUND (Off:0 Def:1),,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,324,2,1,3,9:18 PM,3:43,MISS Cloud 3PT Jump Shot,,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,325,4,0,3,9:18 PM,3:41,,,A. Thomas REBOUND (Off:4 Def:4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,326,6,1,3,9:18 PM,3:41,Sanders P.FOUL (P2.T3),,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,328,8,0,3,9:18 PM,3:41,SUB: Hawkins FOR Sanders,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,329,8,0,3,9:18 PM,3:41,,,SUB: Holmes FOR Williams,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,330,8,0,3,9:18 PM,3:41,,,SUB: Tuck FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,334,6,17,3,9:19 PM,3:28,MYSTICS T.Foul (Def. 3 Sec Hawkins ),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041900402,335,3,16,3,9:19 PM,3:28,,,MISS J. Thomas Free Throw Technical,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1041900402,336,4,1,3,9:19 PM,3:28,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,337,8,0,3,9:19 PM,3:28,SUB: Powers FOR Atkins,,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,339,2,58,3,9:20 PM,3:21,,,MISS Tuck 8' Turnaround Hook Shot,,,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,340,4,0,3,9:20 PM,3:19,Hawkins REBOUND (Off:0 Def:3),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,341,6,2,3,9:20 PM,3:03,,,J. Thomas S.FOUL (P1.T3),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,343,3,11,3,9:21 PM,3:03,Powers Free Throw 1 of 2 (5 PTS),,,71 - 63,-8,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,344,3,12,3,9:21 PM,3:03,Powers Free Throw 2 of 2 (6 PTS),,,71 - 64,-7,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,346,2,1,3,9:22 PM,2:45,,,MISS Holmes 25' 3PT Jump Shot,,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,347,4,0,3,9:22 PM,2:43,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,349,2,102,3,9:22 PM,2:36,,,MISS Holmes 11' Driving Floating Bank Jump Shot,,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,350,4,0,3,9:22 PM,2:33,Hawkins REBOUND (Off:0 Def:4),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,351,1,6,3,9:23 PM,2:26,Powers 4' Driving Layup (8 PTS),,,71 - 66,-5,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,352,6,2,3,9:23 PM,2:26,,,J. Jones S.FOUL (P4.T4),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,354,8,0,3,9:23 PM,2:26,,,SUB: Williams FOR J. Jones,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,356,3,10,3,9:23 PM,2:26,Powers Free Throw 1 of 1 (9 PTS),,,71 - 67,-4,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,357,2,1,3,9:23 PM,2:15,,,MISS Williams 18' Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,358,4,0,3,9:23 PM,2:12,,,A. Thomas REBOUND (Off:5 Def:4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,359,10,0,3,9:24 PM,2:09,Jump Ball Hawkins vs. A. Thomas: Tip to J. Thomas,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1041900402,362,2,102,3,9:24 PM,2:00,,,MISS Tuck 4' Driving Floating Bank Jump Shot,,,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,363,4,0,3,9:24 PM,1:57,,,Williams REBOUND (Off:1 Def:0),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,364,2,1,3,9:24 PM,1:49,,,MISS Tuck 26' 3PT Jump Shot,,,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,365,4,0,3,9:25 PM,1:45,Powers REBOUND (Off:0 Def:2),,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,366,1,5,3,9:25 PM,1:30,Powers 6' Layup (11 PTS) (Toliver 7 AST),,,71 - 69,-2,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,368,9,1,3,9:25 PM,1:30,,,Sun Timeout: Regular (Reg.3 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,369,2,101,3,9:27 PM,1:16,,,MISS A. Thomas 5' Driving Floating Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,370,4,0,3,9:27 PM,1:12,Cloud REBOUND (Off:0 Def:2),,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,371,2,101,3,9:27 PM,0:52,MISS Toliver 7' Driving Floating Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,372,4,0,3,9:27 PM,0:50,,,A. Thomas REBOUND (Off:5 Def:5),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,373,2,1,3,9:27 PM,0:45,,,MISS J. Thomas 26' 3PT Jump Shot,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,374,4,0,3,9:27 PM,0:42,Hawkins REBOUND (Off:0 Def:5),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,375,2,79,3,9:28 PM,0:32,MISS Powers 20' Pullup Jump Shot,,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,376,4,0,3,9:28 PM,0:29,,,A. Thomas REBOUND (Off:5 Def:6),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,377,1,79,3,9:28 PM,0:13,,,Williams 15' Pullup Jump Shot (14 PTS),73 - 69,-4,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,378,2,6,3,9:28 PM,0:01,MISS Toliver 4' Driving Layup,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,379,4,0,3,9:28 PM,0:01,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,380,13,0,3,9:28 PM,0:00,,End of 3rd Period (9:28 PM EST),,73 - 69,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1041900402,381,12,0,4,9:31 PM,10:00,,Start of 4th Period (9:31 PM EST),,73 - 69,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,382,1,1,4,9:32 PM,9:39,Hawkins 26' 3PT Jump Shot (11 PTS) (Meesseman 2 AST),,,73 - 72,-1,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,384,1,79,4,9:32 PM,9:26,,,Williams 25' 3PT Pullup Jump Shot (17 PTS) (A. Thomas 5 AST),76 - 72,-4,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,386,5,1,4,9:32 PM,9:08,Powers Bad Pass Turnover (P1.T6),,Holmes STEAL (1 STL),,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,388,2,41,4,9:32 PM,9:05,,,MISS Holmes 1' Running Layup,,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,389,4,0,4,9:32 PM,9:02,Powers REBOUND (Off:0 Def:3),,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,390,1,79,4,9:32 PM,8:54,Hawkins 20' Pullup Jump Shot (13 PTS) (Meesseman 3 AST),,,76 - 74,-2,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,391,2,1,4,9:33 PM,8:31,,,MISS Williams 27' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,392,4,0,4,9:33 PM,8:27,Toliver REBOUND (Off:0 Def:1),,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,393,1,102,4,9:33 PM,8:14,Toliver 5' Driving Floating Bank Jump Shot (13 PTS),,,76 - 76,TIE,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,394,8,0,4,9:34 PM,7:58,,,SUB: J. Jones FOR Holmes,,,5,1627678,Bria Holmes,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,395,8,0,4,9:34 PM,7:58,,,SUB: Stricklen FOR Tuck,,,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1041900402,398,10,0,4,9:34 PM,7:53,Jump Ball Cloud vs. Williams: Tip to Williams,,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1
+1041900402,401,2,1,4,9:34 PM,7:49,,,MISS Stricklen 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,403,1,72,4,9:34 PM,7:46,,,J. Jones 3' Putback Layup (24 PTS),78 - 76,-2,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,402,4,0,4,9:34 PM,7:46,,,J. Jones REBOUND (Off:8 Def:6),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,405,2,80,4,9:35 PM,7:20,MISS Toliver 19' Step Back Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,406,4,0,4,9:35 PM,7:17,,,J. Jones REBOUND (Off:8 Def:7),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,407,1,5,4,9:35 PM,7:03,,,A. Thomas 6' Layup (17 PTS) (Williams 6 AST),80 - 76,-4,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,408,2,75,4,9:35 PM,6:51,MISS Toliver 5' Driving Finger Roll Layup,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,409,4,0,4,9:35 PM,6:49,,,J. Thomas REBOUND (Off:0 Def:4),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,410,2,1,4,9:36 PM,6:44,,,MISS Williams 14' Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,411,4,0,4,9:36 PM,6:41,,,J. Jones REBOUND (Off:9 Def:7),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,412,2,5,4,9:36 PM,6:39,,,MISS J. Jones 5' Layup,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,413,4,0,4,9:36 PM,6:36,,,Williams REBOUND (Off:2 Def:0),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,414,1,78,4,9:36 PM,6:36,,,Williams 3' Floating Jump Shot (19 PTS),82 - 76,-6,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,415,9,2,4,9:36 PM,6:36,MYSTICS Timeout: Short (Full 2 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,416,8,0,4,9:36 PM,6:36,SUB: Sanders FOR Powers,,,,,4,1627672,Aerial Powers,1611661322.0,Washington,Mystics,WAS,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,418,2,1,4,9:37 PM,6:14,MISS Toliver 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,419,4,0,4,9:37 PM,6:08,Hawkins REBOUND (Off:1 Def:5),,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,420,1,72,4,9:37 PM,6:08,Hawkins 1' Putback Layup (15 PTS),,,82 - 78,-4,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,421,1,79,4,9:38 PM,5:46,,,J. Thomas 15' Pullup Jump Shot (8 PTS),84 - 78,-6,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,422,1,1,4,9:38 PM,5:37,Meesseman 22' Jump Shot (21 PTS),,,84 - 80,-4,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,423,5,1,4,9:38 PM,5:19,Sanders STEAL (2 STL),,J. Thomas Bad Pass Turnover (P3.T9),,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041900402,425,6,2,4,9:38 PM,5:07,,,J. Jones S.FOUL (P5.T1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,428,9,4,4,9:39 PM,5:07,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,430,3,11,4,9:42 PM,5:07,Hawkins Free Throw 1 of 2 (16 PTS),,,84 - 81,-3,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,431,3,12,4,9:42 PM,5:07,MISS Hawkins Free Throw 2 of 2,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041900402,432,4,0,4,9:42 PM,5:04,,,J. Jones REBOUND (Off:9 Def:8),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,433,2,80,4,9:42 PM,4:44,,,MISS J. Jones 16' Step Back Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,434,4,0,4,9:42 PM,4:42,,,A. Thomas REBOUND (Off:6 Def:6),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,435,1,72,4,9:42 PM,4:40,,,A. Thomas 4' Putback Layup (19 PTS),86 - 81,-5,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,436,1,6,4,9:43 PM,4:15,Sanders 4' Driving Layup (8 PTS),,,86 - 83,-3,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,438,2,79,4,9:44 PM,3:56,,,MISS Williams 17' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,439,4,0,4,9:44 PM,3:53,Sanders REBOUND (Off:0 Def:2),,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,440,2,1,4,9:44 PM,3:43,MISS Meesseman 27' 3PT Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,441,4,0,4,9:44 PM,3:39,,,J. Jones REBOUND (Off:9 Def:9),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,442,1,102,4,9:44 PM,3:29,,,A. Thomas 7' Driving Floating Bank Jump Shot (21 PTS),88 - 83,-5,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,443,1,75,4,9:44 PM,3:19,Cloud 3' Driving Finger Roll Layup (9 PTS),,,88 - 85,-3,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,444,1,1,4,9:44 PM,3:01,,,Williams 3PT Jump Shot (22 PTS) (A. Thomas 6 AST),91 - 85,-6,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,446,2,102,4,9:45 PM,2:43,MISS Toliver 15' Driving Floating Bank Jump Shot,,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,447,4,0,4,9:45 PM,2:42,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,448,6,3,4,9:45 PM,2:42,Sanders L.B.FOUL (P3.T1),,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,450,9,1,4,9:45 PM,2:42,,,Sun Timeout: Regular (Reg.4 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,451,2,101,4,9:48 PM,2:22,,,MISS A. Thomas 6' Driving Floating Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,452,4,0,4,9:48 PM,2:20,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,453,1,1,4,9:49 PM,2:17,,,J. Jones 25' 3PT Jump Shot (27 PTS) (J. Thomas 2 AST),94 - 85,-9,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,455,6,4,4,9:49 PM,2:04,Cloud OFF.Foul (P1),,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,457,5,37,4,9:49 PM,2:04,Cloud Offensive Foul Turnover (P3.T7),,,,,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041900402,458,2,79,4,9:49 PM,1:52,,,MISS Williams 18' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,459,4,0,4,9:49 PM,1:47,Meesseman REBOUND (Off:3 Def:5),,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,460,2,1,4,9:49 PM,1:40,MISS Meesseman 24' 3PT Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,461,4,0,4,9:49 PM,1:38,,,Williams REBOUND (Off:2 Def:1),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,462,2,86,4,9:50 PM,1:18,,,MISS J. Jones 11' Turnaround Fadeaway Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1041900402,463,4,0,4,9:50 PM,1:15,Toliver REBOUND (Off:0 Def:2),,,,,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,464,6,1,4,9:50 PM,1:05,,,A. Thomas P.FOUL (P3.T2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041900402,467,9,2,4,9:50 PM,1:05,MYSTICS Timeout: Short (Full 2 Short 2),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,468,8,0,4,9:51 PM,1:05,SUB: Atkins FOR Sanders,,,,,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,470,2,79,4,9:52 PM,0:55,MISS Hawkins 9' Pullup Jump Shot,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,471,4,0,4,9:52 PM,0:55,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,472,18,0,4,9:52 PM,0:55,,Instant Replay4th Period (9:52 PM EST),,94 - 85,-9,0,470,Doc Rivers,,,,,0,0,,,,,,1,0,,,,,,0
+1041900402,474,2,1,4,9:54 PM,0:51,MISS Meesseman 27' 3PT Jump Shot,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,475,4,0,4,9:54 PM,0:50,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041900402,476,5,11,4,9:54 PM,0:50,MYSTICS Turnover: Shot Clock (T#8),,,,,2,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041900402,477,8,0,4,9:55 PM,0:50,SUB: Sanders FOR Hawkins,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041900402,480,6,1,4,9:55 PM,0:48,Atkins P.FOUL (P1.T2),,,,,4,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1041900402,482,1,98,4,9:55 PM,0:41,,,J. Jones 4' Cutting Layup Shot (29 PTS) (J. Thomas 3 AST),96 - 85,-11,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,484,1,86,4,9:56 PM,0:29,Meesseman 5' Turnaround Fadeaway (23 PTS),,,96 - 87,-9,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041900402,485,1,1,4,9:56 PM,0:07,,,J. Jones 27' 3PT Jump Shot (32 PTS) (J. Thomas 4 AST),99 - 87,-12,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1041900402,487,13,0,4,9:56 PM,0:00,,End of 4th Period (9:56 PM EST),,99 - 87,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

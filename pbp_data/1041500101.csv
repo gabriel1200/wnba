@@ -1,0 +1,483 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041500101,0,12,0,1,7:12 PM,10:00,,Start of 1st Period (7:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,1,10,0,1,7:12 PM,10:00,Jump Ball Charles vs. Dolson: Tip to Latta,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1
+1041500101,2,5,1,1,7:12 PM,9:40,,,Latta Bad Pass Turnover (P1.T1),,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,3,2,1,1,7:13 PM,9:24,MISS Charles 18' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,4,4,0,1,7:13 PM,9:23,,,Dolson REBOUND (Off:0 Def:1),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,5,2,1,1,7:13 PM,9:06,Cash BLOCK (1 BLK),,MISS Ruffin-Pratt 7' Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1
+1041500101,6,4,0,1,7:13 PM,9:05,Cash REBOUND (Off:0 Def:1),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,7,1,79,1,7:13 PM,8:59,Prince 18' Pullup Jump Shot (2 PTS),,,0 - 2,2,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,8,1,1,1,7:13 PM,8:36,,,Ruffin-Pratt 24' 3PT Jump Shot (3 PTS) (Dolson 1 AST),3 - 2,-1,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,9,1,1,1,7:14 PM,8:17,Prince 19' Jump Shot (4 PTS) (Wright 1 AST),,,3 - 4,1,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,10,2,5,1,7:14 PM,8:02,,,MISS Dolson 2' Layup,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,11,4,0,1,7:14 PM,8:01,Cash REBOUND (Off:0 Def:2),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,12,6,2,1,7:14 PM,7:53,,,Dolson S.FOUL (P1.T1),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,13,3,11,1,7:14 PM,7:53,MISS Prince Free Throw 1 of 2,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,14,4,1,1,7:14 PM,7:53,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,15,3,12,1,7:15 PM,7:53,Prince Free Throw 2 of 2 (5 PTS),,,3 - 5,2,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,17,1,1,1,7:15 PM,7:39,,,Latta  3PT Jump Shot (3 PTS),6 - 5,-1,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,18,1,1,1,7:15 PM,7:28,Charles 19' Jump Shot (2 PTS) (Cash 1 AST),,,6 - 7,1,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,19,2,47,1,7:15 PM,7:13,,,MISS Dolson 12' Turnaround Jump Shot,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,20,4,0,1,7:15 PM,7:12,,,Meesseman REBOUND (Off:1 Def:0),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,21,5,1,1,7:16 PM,7:01,,,Meesseman Bad Pass Turnover (P1.T2),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,22,2,5,1,7:16 PM,6:45,MISS Swords 2' Layup,,Dolson BLOCK (1 BLK),,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,1
+1041500101,23,4,0,1,7:16 PM,6:44,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,24,5,11,1,7:17 PM,6:37,LIBERTY Turnover: Shot Clock (T#1),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,25,1,42,1,7:17 PM,6:25,,,Cloud 2' Driving Layup (2 PTS),8 - 7,-1,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,26,1,42,1,7:17 PM,6:08,Charles 2' Driving Layup (4 PTS),,,8 - 9,1,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,28,2,1,1,7:18 PM,5:44,,,MISS Ruffin-Pratt  3PT Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,29,4,0,1,7:18 PM,5:43,Cash REBOUND (Off:0 Def:3),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,30,2,1,1,7:18 PM,5:30,MISS Charles 15' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,31,4,0,1,7:18 PM,5:29,Swords REBOUND (Off:1 Def:0),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,32,1,5,1,7:19 PM,5:28,Swords 2' Layup (2 PTS),,,8 - 11,3,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,33,6,2,1,7:19 PM,5:28,,,Ruffin-Pratt S.FOUL (P1.T2),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,35,8,0,1,7:19 PM,5:28,,,SUB: Lawson FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,41,8,0,1,7:19 PM,5:28,,,SUB: Sanders FOR Meesseman,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,34,3,10,1,7:19 PM,5:28,Swords Free Throw 1 of 1 (3 PTS),,,8 - 12,4,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,37,5,11,1,7:20 PM,5:04,,,Mystics Turnover: Shot Clock (T#3),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,38,1,5,1,7:20 PM,4:54,Swords 2' Layup (5 PTS) (Charles 1 AST),,,8 - 14,6,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,39,9,1,1,7:20 PM,4:48,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,44,2,46,1,7:23 PM,4:44,,,MISS Lawson 13' Running Jump Shot,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,45,4,0,1,7:23 PM,4:43,Prince REBOUND (Off:0 Def:1),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,46,1,1,1,7:23 PM,4:36,Prince 16' Jump Shot (7 PTS),,,8 - 16,8,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,48,2,63,1,7:23 PM,4:11,,,MISS Dolson 7' Fadeaway Jumper,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,49,4,0,1,7:24 PM,4:10,Charles REBOUND (Off:0 Def:1),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,50,1,42,1,7:24 PM,3:58,Charles 3' Driving Layup (6 PTS) (Prince 1 AST),,,8 - 18,10,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,51,2,1,1,7:24 PM,3:49,,,MISS Latta 17' Jump Shot,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,52,4,0,1,7:24 PM,3:48,,,Dolson REBOUND (Off:1 Def:1),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,53,6,2,1,7:24 PM,3:39,Cash S.FOUL (P1.T1),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,54,3,11,1,7:25 PM,3:39,,,Dolson Free Throw 1 of 2 (1 PTS),9 - 18,9,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,56,8,0,1,7:25 PM,3:39,,,SUB: Hill FOR Latta,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,57,8,0,1,7:25 PM,3:39,SUB: Wiggins FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,58,8,0,1,7:25 PM,3:39,,,SUB: Herrington FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,59,8,0,1,7:25 PM,3:39,SUB: Carson FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,60,3,12,1,7:25 PM,3:39,,,Dolson Free Throw 2 of 2 (2 PTS),10 - 18,8,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,62,2,86,1,7:26 PM,3:30,MISS Charles 15' Turnaround Fadeaway Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,63,4,0,1,7:26 PM,3:29,,,Sanders REBOUND (Off:0 Def:1),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,64,2,1,1,7:26 PM,3:18,,,MISS Hill 24' 3PT Jump Shot,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,65,4,0,1,7:26 PM,3:17,Swords REBOUND (Off:1 Def:1),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,66,2,1,1,7:26 PM,2:54,MISS Wiggins  3PT Jump Shot,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,67,4,0,1,7:26 PM,2:53,,,Hill REBOUND (Off:0 Def:1),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,68,6,2,1,7:27 PM,2:30,Charles S.FOUL (P1.T2),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,69,3,11,1,7:27 PM,2:30,,,Sanders Free Throw 1 of 2 (1 PTS),11 - 18,7,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,71,8,0,1,7:27 PM,2:30,SUB: Stokes FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,72,8,0,1,7:27 PM,2:30,SUB: Rodgers FOR Prince,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,73,8,0,1,7:27 PM,2:30,,,SUB: Vaughn FOR Dolson,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,74,3,12,1,7:27 PM,2:30,,,Sanders Free Throw 2 of 2 (2 PTS),12 - 18,6,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,76,5,2,1,7:28 PM,2:17,Carson Lost Ball Turnover (P1.T2),,Hill STEAL (1 STL),,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,77,6,2,1,7:28 PM,2:05,Carson S.FOUL (P1.T3),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,78,3,11,1,7:28 PM,2:05,,,MISS Herrington Free Throw 1 of 2,,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,79,4,1,1,7:28 PM,2:05,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,80,3,12,1,7:29 PM,2:05,,,MISS Herrington Free Throw 2 of 2,,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,82,4,0,1,7:29 PM,2:04,Wiggins REBOUND (Off:0 Def:1),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,83,6,1,1,7:29 PM,1:49,,,Herrington P.FOUL (P1.T3),,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,84,2,1,1,7:29 PM,1:41,MISS Rodgers 24' 3PT Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,85,4,0,1,7:29 PM,1:40,Charles REBOUND (Off:1 Def:1),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,86,1,1,1,7:30 PM,1:29,Charles 7' Jump Shot (8 PTS),,,12 - 20,8,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,87,6,2,1,7:30 PM,1:29,,,Sanders S.FOUL (P1.PN),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,88,3,10,1,7:30 PM,1:29,Charles Free Throw 1 of 1 (9 PTS),,,12 - 21,9,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,90,5,4,1,7:30 PM,1:15,,,Vaughn Traveling Turnover (P1.T4),,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041500101,91,2,56,1,7:31 PM,1:03,MISS Charles 6' Running Hook Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,92,4,0,1,7:31 PM,1:02,,,Herrington REBOUND (Off:0 Def:1),,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,93,6,2,1,7:31 PM,0:47,Rodgers S.FOUL (P1.T4),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,94,3,11,1,7:31 PM,0:47,,,Hill Free Throw 1 of 2 (1 PTS),13 - 21,8,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,96,3,12,1,7:31 PM,0:47,,,Hill Free Throw 2 of 2 (2 PTS),14 - 21,7,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,98,2,1,1,7:32 PM,0:34,MISS Carson 19' Jump Shot,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,99,4,0,1,7:32 PM,0:32,,,Vaughn REBOUND (Off:0 Def:1),,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,100,2,1,1,7:32 PM,0:26,,,MISS Hill  3PT Jump Shot,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,101,4,0,1,7:32 PM,0:25,Carson REBOUND (Off:0 Def:1),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,105,5,11,1,7:34 PM,0:01,LIBERTY Turnover: Shot Clock (T#3),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,106,2,1,1,7:34 PM,0:00,,,MISS Vaughn 24' 3PT Jump Shot,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,107,4,0,1,7:34 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,109,13,0,1,7:36 PM,0:00,,End of 1st Period (7:36 PM EST),,14 - 21,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,111,12,0,2,7:37 PM,10:00,,Start of 2nd Period (7:37 PM EST),,14 - 21,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,112,5,40,2,7:37 PM,9:57,Rodgers Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,115,6,2,2,7:37 PM,9:41,Carson S.FOUL (P2.T1),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,116,3,11,2,7:38 PM,9:41,,,Herrington Free Throw 1 of 2 (1 PTS),15 - 21,6,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,118,8,0,2,7:38 PM,9:41,SUB: Prince FOR Rodgers,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,119,3,12,2,7:38 PM,9:41,,,Herrington Free Throw 2 of 2 (2 PTS),16 - 21,5,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,121,2,1,2,7:38 PM,9:28,MISS Swords 16' Jump Shot,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,122,4,0,2,7:39 PM,9:27,Stokes REBOUND (Off:1 Def:0),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,123,6,1,2,7:39 PM,9:26,,,Vaughn P.FOUL (P1.T1),,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,125,1,1,2,7:39 PM,9:11,Prince 16' Jump Shot (9 PTS),,,16 - 23,7,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,126,1,1,2,7:39 PM,8:53,,,Latta 24' 3PT Jump Shot (6 PTS),19 - 23,4,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,128,2,5,2,7:40 PM,8:35,MISS Stokes 3' Layup,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,129,4,0,2,7:40 PM,8:34,,,Hill REBOUND (Off:0 Def:2),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,130,1,42,2,7:40 PM,8:29,,,Hill 2' Driving Layup (4 PTS),21 - 23,2,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,132,8,0,2,7:40 PM,8:15,SUB: Rodgers FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,134,8,0,2,7:40 PM,8:15,SUB: Wright FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,135,8,0,2,7:40 PM,8:15,SUB: Charles FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,133,8,0,2,7:40 PM,8:15,,,SUB: Meesseman FOR Sanders,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,136,1,5,2,7:41 PM,8:10,Wright 2' Layup (2 PTS) (Charles 2 AST),,,21 - 25,4,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,137,1,5,2,7:41 PM,7:59,,,Vaughn 3' Layup (2 PTS) (Latta 1 AST),23 - 25,2,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,138,2,1,2,7:41 PM,7:38,MISS Rodgers 24' 3PT Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,139,4,0,2,7:41 PM,7:37,Rodgers REBOUND (Off:1 Def:0),,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,140,1,1,2,7:41 PM,7:27,Prince 17' Jump Shot (11 PTS),,,23 - 27,4,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,141,2,5,2,7:42 PM,7:13,,,MISS Vaughn 3' Layup,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,142,4,0,2,7:42 PM,7:12,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,143,2,1,2,7:42 PM,7:09,,,MISS Latta  3PT Jump Shot,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,144,4,0,2,7:42 PM,7:08,,,Meesseman REBOUND (Off:2 Def:0),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,145,2,42,2,7:42 PM,6:48,,,MISS Latta 3' Driving Layup,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,146,4,0,2,7:42 PM,6:47,,,Meesseman REBOUND (Off:3 Def:0),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,148,8,0,2,7:43 PM,6:45,,,SUB: Ruffin-Pratt FOR Herrington,,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,149,8,0,2,7:43 PM,6:45,SUB: Cash FOR Rodgers,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,150,1,47,2,7:43 PM,6:32,,,Meesseman 7' Turnaround Jump Shot (2 PTS),25 - 27,2,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,151,6,1,2,7:43 PM,6:15,,,Hill P.FOUL (P1.T2),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,152,8,0,2,7:44 PM,6:15,,,SUB: Cloud FOR Hill,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,153,8,0,2,7:44 PM,6:15,SUB: Swords FOR Stokes,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,154,2,63,2,7:44 PM,6:09,MISS Cash 5' Fadeaway Jumper,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,155,4,0,2,7:44 PM,6:08,Swords REBOUND (Off:2 Def:1),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,156,10,0,2,7:45 PM,6:07,Jump Ball Swords vs. Cloud: Tip to Wright,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1
+1041500101,157,5,1,2,7:45 PM,5:54,Charles Bad Pass Turnover (P1.T5),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,158,9,4,2,7:45 PM,5:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,160,8,0,2,7:47 PM,5:54,,,SUB: Dolson FOR Vaughn,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,162,2,1,2,7:48 PM,5:33,,,MISS Ruffin-Pratt 16' Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,163,4,0,2,7:48 PM,5:32,,,Dolson REBOUND (Off:2 Def:1),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,164,2,1,2,7:48 PM,5:27,,,MISS Latta 25' 3PT Jump Shot,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,165,4,0,2,7:48 PM,5:26,,,Ruffin-Pratt REBOUND (Off:1 Def:0),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,166,2,1,2,7:48 PM,5:06,,,MISS Dolson 24' 3PT Jump Shot,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,167,4,0,2,7:48 PM,5:05,Prince REBOUND (Off:0 Def:2),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,168,2,1,2,7:48 PM,4:54,MISS Charles 17' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,169,4,0,2,7:48 PM,4:53,Swords REBOUND (Off:3 Def:1),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,170,2,5,2,7:48 PM,4:49,MISS Swords 2' Layup,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,171,4,0,2,7:48 PM,4:48,,,Dolson REBOUND (Off:2 Def:2),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,172,1,73,2,7:49 PM,4:37,,,Ruffin-Pratt 3' Driving Reverse Layup (5 PTS),27 - 27,TIE,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,174,2,1,2,7:49 PM,4:09,MISS Wright 17' Jump Shot,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,175,4,0,2,7:49 PM,4:08,,,Dolson REBOUND (Off:2 Def:3),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,176,2,1,2,7:50 PM,3:54,,,MISS Dolson 17' Jump Shot,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,177,4,0,2,7:50 PM,3:53,Wright REBOUND (Off:0 Def:1),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,178,6,2,2,7:50 PM,3:44,,,Ruffin-Pratt S.FOUL (P2.T3),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,179,3,11,2,7:50 PM,3:44,Cash Free Throw 1 of 2 (1 PTS),,,27 - 28,1,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,181,3,12,2,7:50 PM,3:44,MISS Cash Free Throw 2 of 2,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,183,4,0,2,7:51 PM,3:43,,,Ruffin-Pratt REBOUND (Off:1 Def:1),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,184,1,42,2,7:51 PM,3:29,,,Meesseman 2' Driving Layup (4 PTS),29 - 28,-1,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,185,6,2,2,7:51 PM,3:29,Swords S.FOUL (P1.T2),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,186,3,10,2,7:51 PM,3:29,,,Meesseman Free Throw 1 of 1 (5 PTS),30 - 28,-2,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,188,2,3,2,7:52 PM,3:17,MISS Charles 8' Hook Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,189,4,0,2,7:52 PM,3:16,,,Dolson REBOUND (Off:2 Def:4),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,190,5,1,2,7:52 PM,3:05,Prince STEAL (1 STL),,Latta Bad Pass Turnover (P2.T5),,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,191,5,40,2,7:52 PM,2:59,Swords Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,192,9,1,2,7:52 PM,2:59,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,196,6,1,2,7:55 PM,2:51,Prince P.FOUL (P1.T3),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,197,1,1,2,7:55 PM,2:38,,,Dolson 16' Jump Shot (4 PTS) (Ruffin-Pratt 1 AST),32 - 28,-4,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,198,1,1,2,7:56 PM,2:22,Prince 16' Jump Shot (13 PTS) (Wright 2 AST),,,32 - 30,-2,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,199,2,44,2,7:56 PM,2:07,,,MISS Ruffin-Pratt 3' Reverse Layup,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,200,4,0,2,7:56 PM,2:06,Swords REBOUND (Off:3 Def:2),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,201,1,3,2,7:56 PM,2:00,Charles 5' Hook Shot (11 PTS) (Wright 3 AST),,,32 - 32,TIE,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,202,6,2,2,7:56 PM,2:00,,,Meesseman S.FOUL (P1.T4),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,203,3,10,2,7:56 PM,2:00,MISS Charles Free Throw 1 of 1,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,205,4,0,2,7:57 PM,1:59,Swords REBOUND (Off:4 Def:2),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,206,6,1,2,7:57 PM,1:47,,,Ruffin-Pratt P.FOUL (P3.PN),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,207,3,11,2,7:57 PM,1:47,Cash Free Throw 1 of 2 (2 PTS),,,32 - 33,1,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,209,8,0,2,7:57 PM,1:47,,,SUB: Hill FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,210,3,12,2,7:57 PM,1:47,MISS Cash Free Throw 2 of 2,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,212,4,0,2,7:57 PM,1:46,,,Meesseman REBOUND (Off:3 Def:1),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,214,6,1,2,7:58 PM,1:32,Wright P.FOUL (P1.T4),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,215,6,2,2,7:58 PM,1:24,Prince S.FOUL (P2.PN),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,216,3,11,2,7:58 PM,1:24,,,Hill Free Throw 1 of 2 (5 PTS),33 - 33,TIE,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,218,3,12,2,7:59 PM,1:24,,,Hill Free Throw 2 of 2 (6 PTS),34 - 33,-1,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,220,2,66,2,7:59 PM,1:11,MISS Charles 15' Jump Bank Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,221,4,0,2,7:59 PM,1:10,,,Latta REBOUND (Off:0 Def:1),,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,222,2,1,2,7:59 PM,0:58,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,223,4,0,2,7:59 PM,0:57,Swords REBOUND (Off:4 Def:3),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,224,2,63,2,8:00 PM,0:44,MISS Prince 15' Fadeaway Jumper,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,225,4,0,2,8:00 PM,0:43,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,226,1,5,2,8:00 PM,0:36,,,Dolson 2' Layup (6 PTS) (Cloud 1 AST),36 - 33,-3,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,227,1,1,2,8:00 PM,0:21,Prince 24' 3PT Jump Shot (16 PTS) (Cash 2 AST),,,36 - 36,TIE,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,228,9,1,2,8:01 PM,0:14,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,231,8,0,2,8:02 PM,0:14,SUB: Stokes FOR Charles,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,232,8,0,2,8:02 PM,0:14,SUB: Rodgers FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,233,5,40,2,8:03 PM,0:04,,,Cloud Out of Bounds Lost Ball Turnover (P1.T6),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,234,5,2,2,8:03 PM,0:01,Prince Lost Ball Turnover (P1.T7),,Cloud STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,235,13,0,2,8:04 PM,0:00,,End of 2nd Period (8:04 PM EST),,36 - 36,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,236,12,0,3,8:19 PM,10:00,,Start of 3rd Period (8:19 PM EST),,36 - 36,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,237,5,2,3,8:20 PM,9:48,Prince Lost Ball Turnover (P2.T8),,Latta STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,238,1,47,3,8:20 PM,9:25,,,Dolson 16' Turnaround Jump Shot (8 PTS),38 - 36,-2,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,239,2,3,3,8:20 PM,9:07,MISS Charles 7' Hook Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,240,4,0,3,8:20 PM,9:06,,,Dolson REBOUND (Off:2 Def:5),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,241,2,1,3,8:20 PM,8:49,,,MISS Meesseman 17' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,242,4,0,3,8:21 PM,8:48,Prince REBOUND (Off:0 Def:3),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,243,1,1,3,8:21 PM,8:38,Charles 17' Jump Shot (13 PTS) (Prince 2 AST),,,38 - 38,TIE,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,244,6,1,3,8:21 PM,8:16,Cash P.FOUL (P2.T1),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,246,2,42,3,8:22 PM,8:03,,,MISS Meesseman 3' Driving Layup,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,247,4,0,3,8:22 PM,8:02,Swords REBOUND (Off:4 Def:4),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,248,1,85,3,8:22 PM,7:52,Cash 6' Turnaround Bank Shot (4 PTS),,,38 - 40,2,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,249,1,1,3,8:22 PM,7:37,,,Cloud 25' 3PT Jump Shot (5 PTS) (Latta 2 AST),41 - 40,-1,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,250,6,1,3,8:22 PM,7:25,,,Latta P.FOUL (P1.T1),,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,251,2,86,3,8:23 PM,7:17,MISS Charles 13' Turnaround Fadeaway Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,252,4,0,3,8:23 PM,7:16,,,Meesseman REBOUND (Off:3 Def:2),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,253,2,1,3,8:23 PM,6:57,,,MISS Meesseman 6' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,254,4,0,3,8:23 PM,6:56,,,Dolson REBOUND (Off:3 Def:5),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,255,1,5,3,8:23 PM,6:53,,,Dolson 3' Layup (10 PTS),43 - 40,-3,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,256,2,42,3,8:23 PM,6:35,MISS Wright 2' Driving Layup,,Meesseman BLOCK (1 BLK),,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041500101,257,4,0,3,8:24 PM,6:34,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,258,1,1,3,8:24 PM,6:31,Prince 17' Jump Shot (18 PTS) (Cash 3 AST),,,43 - 42,-1,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,259,6,1,3,8:24 PM,6:21,Swords P.FOUL (P2.T2),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,260,2,77,3,8:25 PM,6:03,Swords BLOCK (1 BLK),,MISS Latta 7' Driving Jump Shot,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1
+1041500101,261,4,0,3,8:25 PM,6:02,Cash REBOUND (Off:0 Def:4),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,262,1,42,3,8:25 PM,5:58,Wright 2' Driving Layup (4 PTS),,,43 - 44,1,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,263,1,42,3,8:25 PM,5:44,,,Ruffin-Pratt 2' Driving Layup (7 PTS),45 - 44,-1,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,264,2,1,3,8:25 PM,5:32,MISS Cash 24' 3PT Jump Shot,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,265,4,0,3,8:25 PM,5:31,Prince REBOUND (Off:1 Def:3),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,266,6,1,3,8:26 PM,5:27,,,Cloud P.FOUL (P1.T2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,267,5,1,3,8:26 PM,5:24,Wright Bad Pass Turnover (P1.T9),,Ruffin-Pratt STEAL (1 STL),,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,268,1,47,3,8:26 PM,5:05,,,Dolson 8' Turnaround Jump Shot (12 PTS) (Ruffin-Pratt 2 AST),47 - 44,-3,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,269,2,1,3,8:27 PM,4:42,MISS Wright 24' 3PT Jump Shot,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,270,4,0,3,8:27 PM,4:41,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,271,9,4,3,8:27 PM,4:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,274,6,2,3,8:30 PM,4:24,Swords S.FOUL (P3.T3),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,275,3,11,3,8:30 PM,4:24,,,MISS Dolson Free Throw 1 of 2,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,276,4,1,3,8:30 PM,4:24,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,277,8,0,3,8:30 PM,4:24,SUB: Stokes FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,278,3,12,3,8:30 PM,4:24,,,Dolson Free Throw 2 of 2 (13 PTS),48 - 44,-4,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,280,1,1,3,8:31 PM,4:01,Prince  3PT Jump Shot (21 PTS),,,48 - 47,-1,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,281,1,42,3,8:31 PM,3:51,,,Meesseman 3' Driving Layup (7 PTS) (Cloud 2 AST),50 - 47,-3,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,282,1,1,3,8:31 PM,3:38,Charles 20' Jump Shot (15 PTS),,,50 - 49,-1,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,283,1,1,3,8:32 PM,3:17,,,Meesseman 17' Jump Shot (9 PTS) (Cloud 3 AST),52 - 49,-3,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,284,1,1,3,8:32 PM,2:55,Cash  3PT Jump Shot (7 PTS) (Prince 3 AST),,,52 - 52,TIE,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,285,2,1,3,8:32 PM,2:39,,,MISS Ruffin-Pratt 17' Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,286,4,0,3,8:32 PM,2:38,Charles REBOUND (Off:1 Def:2),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,287,2,78,3,8:32 PM,2:26,MISS Charles 5' Floating Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,288,4,0,3,8:32 PM,2:25,,,Dolson REBOUND (Off:3 Def:6),,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,289,2,1,3,8:33 PM,2:08,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,290,4,0,3,8:33 PM,2:06,Stokes REBOUND (Off:1 Def:1),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,291,2,1,3,8:33 PM,1:43,MISS Prince 24' 3PT Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,292,4,0,3,8:33 PM,1:42,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,293,5,11,3,8:33 PM,1:42,LIBERTY Turnover: Shot Clock (T#10),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,294,8,0,3,8:34 PM,1:42,SUB: Rodgers FOR Prince,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,295,8,0,3,8:34 PM,1:42,SUB: Wiggins FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,296,8,0,3,8:34 PM,1:42,,,SUB: Lawson FOR Meesseman,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,297,8,0,3,8:34 PM,1:42,,,SUB: Sanders FOR Dolson,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,298,8,0,3,8:34 PM,1:42,,,SUB: Hill FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,299,8,0,3,8:34 PM,1:42,,,SUB: Vaughn FOR Latta,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,300,2,42,3,8:34 PM,1:26,,,MISS Ruffin-Pratt 2' Driving Layup,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,301,4,0,3,8:34 PM,1:25,Charles REBOUND (Off:1 Def:3),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,302,6,2,3,8:34 PM,1:21,,,Hill S.FOUL (P2.T3),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,303,3,11,3,8:34 PM,1:21,Rodgers Free Throw 1 of 2 (1 PTS),,,52 - 53,1,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,305,8,0,3,8:34 PM,1:21,SUB: Swords FOR Charles,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,306,8,0,3,8:35 PM,1:21,SUB: Carson FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,307,3,12,3,8:35 PM,1:21,MISS Rodgers Free Throw 2 of 2,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,309,4,0,3,8:35 PM,1:20,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,310,2,1,3,8:35 PM,0:59,,,MISS Sanders 16' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,311,4,0,3,8:35 PM,0:57,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,312,8,0,3,8:36 PM,0:57,,,SUB: Herrington FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,313,2,77,3,8:36 PM,0:50,MISS Rodgers 5' Driving Jump Shot,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,314,4,0,3,8:36 PM,0:48,Swords REBOUND (Off:5 Def:4),,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,315,6,2,3,8:36 PM,0:47,,,Vaughn S.FOUL (P2.PN),,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,316,3,11,3,8:36 PM,0:47,MISS Swords Free Throw 1 of 2,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,317,4,1,3,8:36 PM,0:47,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,318,3,12,3,8:37 PM,0:47,Swords Free Throw 2 of 2 (6 PTS),,,52 - 54,2,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,320,2,5,3,8:37 PM,0:30,,,MISS Herrington 2' Layup,,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,321,4,0,3,8:37 PM,0:29,Stokes REBOUND (Off:1 Def:2),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,322,1,1,3,8:37 PM,0:12,Carson 19' Jump Shot (2 PTS) (Swords 1 AST),,,52 - 56,4,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,323,1,1,3,8:37 PM,0:01,,,Lawson 24' 3PT Jump Shot (3 PTS),55 - 56,1,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,324,2,46,3,8:38 PM,0:00,MISS Wiggins 54' 3PT Running Jump Shot,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,325,4,0,3,8:38 PM,0:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,327,18,0,3,8:38 PM,0:00,,Support Ruling,,,,0,322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,328,13,0,3,8:40 PM,0:00,,End of 3rd Period (8:40 PM EST),,55 - 56,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,329,12,0,4,8:41 PM,10:00,,Start of 4th Period (8:41 PM EST),,55 - 56,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,330,2,63,4,8:41 PM,9:48,,,MISS Lawson 16' Fadeaway Jumper,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,331,4,0,4,8:41 PM,9:47,Wiggins REBOUND (Off:0 Def:2),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,332,5,1,4,8:41 PM,9:32,Rodgers Bad Pass Turnover (P2.T11),,Lawson STEAL (1 STL),,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,333,1,73,4,8:41 PM,9:28,,,Herrington 3' Driving Reverse Layup (4 PTS) (Lawson 1 AST),57 - 56,-1,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,334,2,1,4,8:42 PM,9:01,MISS Wiggins 14' Jump Shot,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,335,4,0,4,8:42 PM,9:00,,,Herrington REBOUND (Off:0 Def:2),,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,336,5,1,4,8:42 PM,8:54,Swords STEAL (1 STL),,Herrington Bad Pass Turnover (P1.T7),,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,337,6,1,4,8:42 PM,8:40,,,Hill P.FOUL (P3.T1),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,338,8,0,4,8:42 PM,8:40,SUB: Charles FOR Stokes,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,339,8,0,4,8:42 PM,8:40,SUB: Prince FOR Rodgers,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,340,8,0,4,8:42 PM,8:40,SUB: Wright FOR Wiggins,,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,341,1,78,4,8:43 PM,8:31,Wright 7' Floating Jump Shot (6 PTS) (Prince 4 AST),,,57 - 58,1,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,342,1,47,4,8:43 PM,8:21,,,Lawson 9' Turnaround Jump Shot (5 PTS),59 - 58,-1,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,345,6,1,4,8:43 PM,8:14,,,Sanders P.FOUL (P2.T2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,346,6,2,4,8:44 PM,7:58,,,Herrington S.FOUL (P2.T3),,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,347,3,11,4,8:44 PM,7:58,Wright Free Throw 1 of 2 (7 PTS),,,59 - 59,TIE,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,349,3,12,4,8:44 PM,7:58,Wright Free Throw 2 of 2 (8 PTS),,,59 - 60,1,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,351,2,63,4,8:45 PM,7:45,,,MISS Lawson 13' Fadeaway Jumper,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,352,4,0,4,8:45 PM,7:44,Charles REBOUND (Off:1 Def:4),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,353,6,1,4,8:45 PM,7:32,,,Lawson P.FOUL (P1.T4),,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,354,8,0,4,8:45 PM,7:32,,,SUB: Cloud FOR Herrington,,,5,201048,Armintie Herrington,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,355,5,1,4,8:45 PM,7:24,Carson Bad Pass Turnover (P2.T12),,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,356,2,1,4,8:46 PM,7:02,Prince BLOCK (1 BLK),,MISS Hill 26' 3PT Jump Shot,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,1
+1041500101,357,4,0,4,8:46 PM,7:01,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,358,8,0,4,8:46 PM,7:01,SUB: Cash FOR Carson,,,,,4,201502,Essence Carson,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,359,5,11,4,8:46 PM,7:00,,,Mystics Turnover: Shot Clock (T#8),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,361,5,1,4,8:47 PM,6:47,Cash Bad Pass Turnover (P1.T13),,Sanders STEAL (1 STL),,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,362,6,17,4,8:47 PM,6:35,LIBERTY T.Foul (Def. 3 Sec Charles ),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500101,363,3,16,4,8:47 PM,6:35,,,Lawson Free Throw Technical (6 PTS),60 - 60,TIE,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,365,2,1,4,8:48 PM,6:28,Charles BLOCK (1 BLK),,MISS Vaughn 20' Jump Shot,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1
+1041500101,367,4,0,4,8:48 PM,6:27,Wright REBOUND (Off:0 Def:2),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,366,1,5,4,8:48 PM,6:10,Charles 3' Layup (17 PTS),,,60 - 62,2,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,368,1,5,4,8:48 PM,5:56,,,Vaughn 3' Layup (4 PTS) (Sanders 1 AST),62 - 62,TIE,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,370,9,1,4,8:49 PM,5:43,LIBERTY Timeout: Regular (Full 2 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,371,6,1,4,8:49 PM,5:43,,,Cloud P.FOUL (P2.PN),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,373,8,0,4,8:51 PM,5:43,SUB: Stokes FOR Swords,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,374,8,0,4,8:52 PM,5:43,,,SUB: Meesseman FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,375,3,11,4,8:52 PM,5:43,Cash Free Throw 1 of 2 (8 PTS),,,62 - 63,1,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,377,3,12,4,8:52 PM,5:43,Cash Free Throw 2 of 2 (9 PTS),,,62 - 64,2,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,380,2,63,4,8:52 PM,5:22,,,MISS Meesseman 8' Fadeaway Jumper,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,381,4,0,4,8:52 PM,5:21,Cash REBOUND (Off:0 Def:5),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,383,2,1,4,8:53 PM,5:00,MISS Charles 17' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,384,4,0,4,8:53 PM,4:59,,,Lawson REBOUND (Off:0 Def:1),,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,385,2,73,4,8:53 PM,4:37,,,MISS Meesseman 2' Driving Reverse Layup,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,386,4,0,4,8:53 PM,4:36,Charles REBOUND (Off:1 Def:5),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,387,2,1,4,8:53 PM,4:14,MISS Wright 16' Jump Shot,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,388,4,0,4,8:53 PM,4:13,,,Meesseman REBOUND (Off:3 Def:3),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,389,1,42,4,8:54 PM,3:55,,,Hill 2' Driving Layup (8 PTS),64 - 64,TIE,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,391,2,77,4,8:54 PM,3:34,MISS Stokes 5' Driving Jump Shot,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,392,4,0,4,8:54 PM,3:33,,,Meesseman REBOUND (Off:3 Def:4),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,393,9,1,4,8:54 PM,3:32,,,Mystics Timeout: Regular (Reg.3 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,395,8,0,4,8:57 PM,3:32,,,SUB: Dolson FOR Lawson,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,396,8,0,4,8:57 PM,3:32,,,SUB: Latta FOR Vaughn,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,397,2,1,4,8:57 PM,3:14,,,MISS Meesseman 5' Jump Shot,,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,398,4,0,4,8:57 PM,3:13,Charles REBOUND (Off:1 Def:6),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,399,6,4,4,8:58 PM,2:59,Charles OFF.Foul (P2),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,400,5,5,4,8:58 PM,2:59,Charles Foul Turnover (P2.T14),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500101,401,8,0,4,8:58 PM,2:59,,,SUB: Ruffin-Pratt FOR Dolson,,,5,203828,Stefanie Dolson,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,402,2,77,4,8:58 PM,2:47,,,MISS Ruffin-Pratt 12' Driving Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,403,4,0,4,8:58 PM,2:44,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,404,6,1,4,8:59 PM,2:41,Cash P.FOUL (P3.T1),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,405,2,1,4,8:59 PM,2:29,,,MISS Sanders 16' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,406,4,0,4,8:59 PM,2:28,,,Meesseman REBOUND (Off:4 Def:4),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,407,2,1,4,8:59 PM,2:11,,,MISS Sanders 15' Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,408,4,0,4,9:00 PM,2:10,,,Ruffin-Pratt REBOUND (Off:2 Def:1),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,409,9,2,4,9:00 PM,2:04,,,Mystics Timeout: Short (Reg.3 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,413,1,1,4,9:01 PM,1:52,,,Sanders 15' Jump Shot (4 PTS) (Ruffin-Pratt 3 AST),66 - 64,-2,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,414,2,1,4,9:01 PM,1:35,MISS Wright 5' Jump Shot,,Sanders BLOCK (1 BLK),,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1
+1041500101,415,4,0,4,9:01 PM,1:34,,,Sanders REBOUND (Off:0 Def:2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,416,6,1,4,9:01 PM,1:33,Charles P.FOUL (P3.T2),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,417,2,42,4,9:02 PM,1:14,Stokes BLOCK (1 BLK),,MISS Hill 2' Driving Layup,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1041500101,418,4,0,4,9:02 PM,1:13,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,420,2,1,4,9:03 PM,1:09,,,MISS Hill 26' 3PT Jump Shot,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,421,4,0,4,9:03 PM,1:08,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,422,1,3,4,9:03 PM,0:56,Charles 5' Hook Shot (19 PTS) (Cash 4 AST),,,66 - 66,TIE,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,423,6,2,4,9:03 PM,0:56,,,Sanders S.FOUL (P3.PN),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,424,3,10,4,9:03 PM,0:56,Charles Free Throw 1 of 1 (20 PTS),,,66 - 67,1,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,426,9,2,4,9:03 PM,0:56,,,Mystics Timeout: Short (Reg.3 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,429,8,0,4,9:05 PM,0:56,SUB: Rodgers FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,430,8,0,4,9:05 PM,0:56,,,SUB: Lawson FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,431,2,1,4,9:05 PM,0:45,,,MISS Lawson 18' Jump Shot,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,432,4,0,4,9:05 PM,0:44,Wright REBOUND (Off:0 Def:3),,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,433,1,42,4,9:05 PM,0:36,Charles 2' Driving Layup (22 PTS) (Rodgers 1 AST),,,66 - 69,3,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,434,9,1,4,9:05 PM,0:36,,,Mystics Timeout: Regular (Reg.4 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,437,1,1,4,9:07 PM,0:27,,,Latta  3PT Jump Shot (9 PTS) (Meesseman 1 AST),69 - 69,TIE,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,438,9,1,4,9:08 PM,0:27,LIBERTY Timeout: Regular (Full 3 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,439,8,0,4,9:09 PM,0:27,SUB: Cash FOR Stokes,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,440,8,0,4,9:09 PM,0:27,,,SUB: Ruffin-Pratt FOR Lawson,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,442,5,11,4,9:10 PM,0:03,LIBERTY Turnover: Shot Clock (T#15),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,443,18,0,4,9:10 PM,0:03,,Support Ruling,,,,0,442,Pervis Ellison,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,446,8,0,4,9:11 PM,0:03,,,SUB: Cloud FOR Sanders,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,447,2,46,4,9:12 PM,0:00,,,MISS Ruffin-Pratt 24' 3PT Running Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,448,4,0,4,9:12 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,450,13,0,4,9:12 PM,0:00,,End of 4th Period (9:12 PM EST),,69 - 69,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,452,12,0,5,9:14 PM,5:00,,Start of 1st OT (9:14 PM EST),,69 - 69,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,453,10,0,5,9:14 PM,5:00,Jump Ball Stokes vs. Sanders: Tip to Charles,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1
+1041500101,455,2,86,5,9:15 PM,4:45,MISS Charles 5' Turnaround Fadeaway Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,456,4,0,5,9:15 PM,4:44,Stokes REBOUND (Off:2 Def:2),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,457,6,2,5,9:15 PM,4:43,,,Meesseman S.FOUL (P2.T1),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,458,3,11,5,9:15 PM,4:43,Stokes Free Throw 1 of 2 (1 PTS),,,69 - 70,1,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,460,3,12,5,9:15 PM,4:43,Stokes Free Throw 2 of 2 (2 PTS),,,69 - 71,2,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,463,2,42,5,9:16 PM,4:20,,,MISS Ruffin-Pratt 2' Driving Layup,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,464,4,0,5,9:16 PM,4:19,Stokes REBOUND (Off:2 Def:3),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,465,2,1,5,9:16 PM,4:04,MISS Charles 20' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,466,4,0,5,9:16 PM,4:03,Stokes REBOUND (Off:3 Def:3),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,467,2,1,5,9:16 PM,3:47,MISS Charles 5' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,468,4,0,5,9:16 PM,3:46,,,Latta REBOUND (Off:0 Def:2),,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,470,2,1,5,9:17 PM,3:34,,,MISS Hill 17' Jump Shot,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,471,4,0,5,9:17 PM,3:33,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,472,6,1,5,9:17 PM,3:25,,,Sanders P.FOUL (P4.T2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,473,5,1,5,9:18 PM,3:19,Wright Bad Pass Turnover (P2.T16),,Sanders STEAL (2 STL),,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,474,1,1,5,9:18 PM,3:01,,,Latta 25' 3PT Jump Shot (12 PTS) (Sanders 2 AST),72 - 71,-1,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,475,1,1,5,9:18 PM,2:38,Wright 20' Jump Shot (10 PTS) (Charles 3 AST),,,72 - 73,1,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,478,5,11,5,9:19 PM,2:10,,,Mystics Turnover: Shot Clock (T#9),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,480,6,2,5,9:20 PM,2:00,,,Meesseman S.FOUL (P3.T3),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,481,3,11,5,9:20 PM,2:00,MISS Wright Free Throw 1 of 2,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,482,4,1,5,9:20 PM,2:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,483,3,12,5,9:20 PM,2:00,MISS Wright Free Throw 2 of 2,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,485,4,0,5,9:20 PM,1:59,,,Meesseman REBOUND (Off:4 Def:5),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,486,2,1,5,9:21 PM,1:38,,,MISS Ruffin-Pratt 24' 3PT Jump Shot,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,487,4,0,5,9:21 PM,1:37,Stokes REBOUND (Off:3 Def:4),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,488,1,1,5,9:21 PM,1:21,Prince 20' Jump Shot (23 PTS),,,72 - 75,3,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,489,9,2,5,9:21 PM,1:21,,,Mystics Timeout: Short (Reg.4 Short 3),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,493,2,47,5,9:22 PM,1:02,,,MISS Sanders 9' Turnaround Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,494,4,0,5,9:22 PM,1:01,Prince REBOUND (Off:1 Def:4),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,495,6,2,5,9:23 PM,0:46,,,Hill S.FOUL (P4.PN),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,496,3,11,5,9:23 PM,0:46,Cash Free Throw 1 of 2 (10 PTS),,,72 - 76,4,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,498,8,0,5,9:23 PM,0:46,,,SUB: Lawson FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,499,3,12,5,9:24 PM,0:46,MISS Cash Free Throw 2 of 2,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,501,4,0,5,9:24 PM,0:45,,,Sanders REBOUND (Off:0 Def:3),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,502,6,2,5,9:24 PM,0:39,Prince S.FOUL (P3.T1),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,503,3,11,5,9:24 PM,0:39,,,Hill Free Throw 1 of 2 (9 PTS),73 - 76,3,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,505,8,0,5,9:25 PM,0:39,,,SUB: Ruffin-Pratt FOR Lawson,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,506,3,12,5,9:25 PM,0:39,,,Hill Free Throw 2 of 2 (10 PTS),74 - 76,2,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,508,2,56,5,9:25 PM,0:18,MISS Charles 6' Running Hook Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,509,4,0,5,9:25 PM,0:17,,,Sanders REBOUND (Off:0 Def:4),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,510,8,0,5,9:26 PM,0:09,,,SUB: Cloud FOR Latta,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,511,10,0,5,9:27 PM,0:09,Jump Ball Wright vs. Sanders: Tip to,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,3,1611661322,,,,,,1
+1041500101,512,7,4,5,9:27 PM,0:09,Cash Violation:Jump Ball,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500101,513,9,1,5,9:27 PM,0:09,,,Mystics Timeout: Regular (Reg.5 Short 3),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,516,8,0,5,9:28 PM,0:09,,,SUB: Lawson FOR Ruffin-Pratt,,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,517,8,0,5,9:28 PM,0:09,,,SUB: Latta FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,518,8,0,5,9:29 PM,0:09,SUB: Rodgers FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,519,1,5,5,9:29 PM,0:01,,,Meesseman 2' Layup (11 PTS) (Latta 3 AST),76 - 76,TIE,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,520,9,1,5,9:29 PM,0:01,LIBERTY Timeout: Regular (Full 4 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,522,8,0,5,9:31 PM,0:01,SUB: Cash FOR Stokes,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,523,8,0,5,9:31 PM,0:01,,,SUB: Ruffin-Pratt FOR Latta,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,524,7,1,5,9:31 PM,0:01,,,Mystics Violation: Delay of game Violation,,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1041500101,525,2,1,5,9:32 PM,0:00,MISS Prince 16' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,526,4,0,5,9:32 PM,0:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,527,13,0,5,9:32 PM,0:00,,End of 1st OT (9:32 PM EST),,76 - 76,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,528,12,0,6,9:34 PM,5:00,,Start of 2nd OT (9:34 PM EST),,76 - 76,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,529,10,0,6,9:34 PM,5:00,Jump Ball Stokes vs. Sanders: Tip to Charles,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1
+1041500101,530,6,4,6,9:35 PM,4:42,Cash OFF.Foul (P4),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,531,5,5,6,9:35 PM,4:42,Cash Foul Turnover (P2.T17),,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1041500101,532,5,1,6,9:35 PM,4:31,Cash STEAL (1 STL),,Hill Bad Pass Turnover (P1.T10),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,533,5,2,6,9:35 PM,4:29,Cash Lost Ball Turnover (P3.T18),,Sanders STEAL (3 STL),,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041500101,552,2,47,6,9:36 PM,4:15,,,MISS Sanders 6' Turnaround Jump Shot,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,585,4,0,6,9:36 PM,4:14,Charles REBOUND (Off:1 Def:7),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,534,1,1,6,9:36 PM,3:58,Wright 24' 3PT Jump Shot (13 PTS) (Charles 4 AST),,,76 - 79,3,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,535,1,1,6,9:36 PM,3:34,,,Hill 15' Jump Shot (12 PTS),78 - 79,1,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,536,6,1,6,9:36 PM,3:18,,,Sanders P.FOUL (P5.T1),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,537,2,42,6,9:37 PM,3:11,MISS Charles 3' Driving Layup,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,538,4,0,6,9:37 PM,3:10,Stokes REBOUND (Off:4 Def:4),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,539,6,2,6,9:37 PM,3:09,,,Sanders S.FOUL (P6.T2),,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,540,8,0,6,9:37 PM,3:09,,,SUB: Vaughn FOR Sanders,,,5,201506,LaToya Sanders,1611661322.0,Washington,Mystics,WAS,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,541,3,11,6,9:37 PM,3:09,Stokes Free Throw 1 of 2 (3 PTS),,,78 - 80,2,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,543,3,12,6,9:38 PM,3:09,MISS Stokes Free Throw 2 of 2,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1041500101,545,4,0,6,9:38 PM,3:08,,,Ruffin-Pratt REBOUND (Off:2 Def:2),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,546,2,1,6,9:38 PM,2:45,,,MISS Lawson 7' Jump Shot,,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,547,4,0,6,9:38 PM,2:44,,,Meesseman REBOUND (Off:5 Def:5),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,548,1,42,6,9:38 PM,2:27,,,Meesseman 2' Driving Layup (13 PTS),80 - 80,TIE,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,550,2,1,6,9:39 PM,2:05,MISS Cash 24' 3PT Jump Shot,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,551,4,0,6,9:39 PM,2:04,,,Lawson REBOUND (Off:0 Def:2),,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,553,1,42,6,9:39 PM,1:43,,,Lawson 3' Driving Layup (8 PTS),82 - 80,-2,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,554,2,1,6,9:39 PM,1:24,MISS Prince 15' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,555,4,0,6,9:39 PM,1:23,,,Lawson REBOUND (Off:0 Def:3),,,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,556,6,2,6,9:40 PM,1:02,Charles S.FOUL (P4.T1),,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,560,3,11,6,9:40 PM,1:02,,,Hill Free Throw 1 of 2 (13 PTS),83 - 80,-3,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,563,3,12,6,9:41 PM,1:02,,,MISS Hill Free Throw 2 of 2,,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041500101,565,4,0,6,9:41 PM,1:01,Stokes REBOUND (Off:4 Def:5),,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,566,2,1,6,9:41 PM,0:46,MISS Charles 18' Jump Shot,,,,,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,567,4,0,6,9:41 PM,0:45,,,Ruffin-Pratt REBOUND (Off:2 Def:3),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,569,5,1,6,9:41 PM,0:25,Stokes STEAL (1 STL),,Meesseman Bad Pass Turnover (P2.T11),,,5,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,570,2,1,6,9:41 PM,0:15,MISS Prince 24' 3PT Jump Shot,,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1041500101,571,4,0,6,9:41 PM,0:14,,,Ruffin-Pratt REBOUND (Off:2 Def:4),,,5,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,572,6,28,6,9:42 PM,0:09,Prince Personal Take Foul (P4.PN),,,,,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,5,100874,Kara Lawson,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,573,9,1,6,9:42 PM,0:09,,,Mystics Timeout: Regular (Reg.6 Short 3),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,575,8,0,6,9:43 PM,0:09,SUB: Wiggins FOR Cash,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,577,8,0,6,9:43 PM,0:09,SUB: Rodgers FOR Wright,,,,,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,578,8,0,6,9:43 PM,0:09,,,SUB: Latta FOR Vaughn,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,579,6,28,6,9:44 PM,0:09,Wiggins Personal Take Foul (P1.PN),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,580,3,11,6,9:44 PM,0:09,,,Latta Free Throw 1 of 2 (13 PTS),84 - 80,-4,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,582,3,12,6,9:44 PM,0:09,,,Latta Free Throw 2 of 2 (14 PTS),85 - 80,-5,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,584,9,2,6,9:44 PM,0:09,LIBERTY Timeout: Short (Full 4 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,586,8,0,6,9:45 PM,0:09,SUB: Cash FOR Stokes,,,,,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1041500101,587,8,0,6,9:45 PM,0:09,,,SUB: Vaughn FOR Latta,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,588,6,1,6,9:45 PM,0:04,,,Hill P.FOUL (P5.T3),,,5,203401,Tayler Hill,1611661322.0,Washington,Mystics,WAS,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1041500101,589,1,1,6,9:46 PM,0:01,Prince 24' 3PT Jump Shot (26 PTS) (Charles 5 AST),,,85 - 83,-2,4,202259,Epiphanny Prince,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1041500101,592,8,0,6,9:47 PM,0:01,,,SUB: Latta FOR Vaughn,,,5,201913,Kia Vaughn,1611661322.0,Washington,Mystics,WAS,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041500101,593,6,28,6,9:47 PM,0:00,Wiggins Personal Take Foul (P2.PN),,,,,4,201499,Candice Wiggins,1611661313.0,New York,Liberty,NYL,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041500101,595,3,11,6,9:47 PM,0:00,,,MISS Latta Free Throw 1 of 2,,,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,596,4,1,6,9:47 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041500101,597,3,12,6,9:47 PM,0:00,,,Latta Free Throw 2 of 2 (15 PTS),86 - 83,-3,5,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041500101,600,13,0,6,9:48 PM,0:00,,End of 2nd OT (9:48 PM EST),,86 - 83,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

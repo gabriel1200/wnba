@@ -1,0 +1,366 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042200113,2,12,0,1,9:03 PM,10:00,,Start of 1st Period (9:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,4,10,0,1,9:03 PM,10:00,Jump Ball Howard vs. Parker: Tip to Howard,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,1
+1042200113,7,2,5,1,9:03 PM,9:41,MISS Laney 4' Layup,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,8,4,0,1,9:03 PM,9:40,,,Parker REBOUND (Off:0 Def:1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,9,1,6,1,9:04 PM,9:19,,,Vandersloot 2' Driving Layup (2 PTS) (Parker 1 AST),2 - 0,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,11,1,1,1,9:04 PM,9:09,Ionescu 24' 3PT Jump Shot (3 PTS) (Dolson 1 AST),,,2 - 3,1,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,13,2,1,1,9:04 PM,8:48,,,MISS Copper 24' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,14,4,0,1,9:04 PM,8:47,Howard REBOUND (Off:0 Def:1),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,15,1,5,1,9:05 PM,8:33,Howard 3' Layup (2 PTS) (Johannes 1 AST),,,2 - 5,3,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,17,2,1,1,9:05 PM,8:14,,,MISS Vandersloot 24' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,18,4,0,1,9:05 PM,8:13,Ionescu REBOUND (Off:0 Def:1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,19,5,45,1,9:05 PM,8:09,Ionescu Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042200113,20,1,5,1,9:05 PM,7:50,,,Parker 2' Layup (2 PTS) (Vandersloot 1 AST),4 - 5,1,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,22,2,79,1,9:06 PM,7:38,MISS Laney 14' Pullup Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,23,4,0,1,9:06 PM,7:37,,,Quigley REBOUND (Off:0 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,24,2,103,1,9:06 PM,7:33,,,MISS Quigley 24' 3PT Running Pull-Up Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,25,4,0,1,9:06 PM,7:32,,,Quigley REBOUND (Off:1 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,26,1,1,1,9:06 PM,7:27,,,Quigley 3PT Jump Shot (3 PTS) (Parker 2 AST),7 - 5,-2,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,28,1,86,1,9:06 PM,7:05,Laney 12' Turnaround Fadeaway (2 PTS) (Dolson 2 AST),,,7 - 7,TIE,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,30,2,1,1,9:07 PM,6:45,,,MISS Meesseman 25' 3PT Jump Shot,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,31,4,0,1,9:07 PM,6:44,,,Parker REBOUND (Off:1 Def:1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,32,6,2,1,9:07 PM,6:43,Howard S.FOUL (P1.T1),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,34,3,11,1,9:07 PM,6:43,,,Parker Free Throw 1 of 2 (3 PTS),8 - 7,-1,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,35,3,12,1,9:07 PM,6:43,,,MISS Parker Free Throw 2 of 2,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,36,4,0,1,9:07 PM,6:42,Howard REBOUND (Off:0 Def:2),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,37,2,1,1,9:08 PM,6:27,MISS Dolson 11' Jump Shot,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,38,4,0,1,9:08 PM,6:26,,,Quigley REBOUND (Off:1 Def:2),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,39,2,1,1,9:08 PM,6:18,,,MISS Parker 24' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,40,4,0,1,9:08 PM,6:17,Laney REBOUND (Off:0 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,41,5,1,1,9:08 PM,6:04,Johannes Bad Pass Turnover (P1.T2),,Vandersloot STEAL (1 STL),,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,43,1,6,1,9:08 PM,5:57,,,Vandersloot 3' Driving Layup (4 PTS),10 - 7,-3,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,44,1,79,1,9:08 PM,5:50,Johannes 25' 3PT Pullup Jump Shot (3 PTS) (Ionescu 1 AST),,,10 - 10,TIE,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,46,2,1,1,9:08 PM,5:40,,,MISS Quigley 25' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,47,4,0,1,9:08 PM,5:39,Johannes REBOUND (Off:0 Def:1),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,48,1,103,1,9:09 PM,5:33,Johannes 26' 3PT Running Pull-Up Jump Shot (6 PTS),,,10 - 13,3,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,49,1,5,1,9:09 PM,5:12,,,Meesseman 3' Layup (2 PTS) (Vandersloot 2 AST),12 - 13,1,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,51,5,39,1,9:09 PM,4:58,Ionescu Step Out of Bounds Turnover (P2.T3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042200113,52,9,4,1,9:09 PM,4:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,53,8,0,1,9:09 PM,4:58,SUB: Allen FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,55,2,6,1,9:12 PM,4:46,,,MISS Copper 2' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,56,4,0,1,9:12 PM,4:45,Howard REBOUND (Off:0 Def:3),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,57,2,6,1,9:13 PM,4:27,MISS Howard 4' Driving Layup,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,58,4,0,1,9:13 PM,4:26,,,Parker REBOUND (Off:1 Def:2),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,59,1,1,1,9:13 PM,4:10,,,Vandersloot 3PT Jump Shot (7 PTS) (Parker 3 AST),15 - 13,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,61,1,78,1,9:13 PM,3:50,Dolson 9' Floating Jump Shot (2 PTS) (Johannes 2 AST),,,15 - 15,TIE,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,63,2,5,1,9:14 PM,3:32,,,MISS Parker 3' Layup,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,64,4,0,1,9:14 PM,3:31,Howard REBOUND (Off:0 Def:4),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,65,5,2,1,9:14 PM,3:23,Ionescu Lost Ball Turnover (P3.T4),,Meesseman STEAL (1 STL),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,67,1,41,1,9:14 PM,3:17,,,Copper 2' Running Layup (2 PTS) (Vandersloot 3 AST),17 - 15,-2,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,69,5,1,1,9:14 PM,3:07,Allen Bad Pass Turnover (P1.T5),,Copper STEAL (1 STL),,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,71,6,2,1,9:14 PM,3:03,Johannes S.FOUL (P1.T2),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,74,8,0,1,9:14 PM,3:03,SUB: Xu FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,75,8,0,1,9:14 PM,3:03,,,SUB: Stevens FOR Meesseman,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,76,8,0,1,9:14 PM,3:03,,,SUB: Gardner FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,73,3,11,1,9:15 PM,3:03,,,Copper Free Throw 1 of 2 (3 PTS),18 - 15,-3,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,80,3,12,1,9:15 PM,3:03,,,Copper Free Throw 2 of 2 (4 PTS),19 - 15,-4,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,81,2,79,1,9:15 PM,2:45,MISS Allen 25' 3PT Pullup Jump Shot,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,82,4,0,1,9:15 PM,2:44,,,Stevens REBOUND (Off:0 Def:1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,83,5,1,1,9:16 PM,2:31,Ionescu STEAL (1 STL),,Vandersloot Bad Pass Turnover (P1.T1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,85,2,103,1,9:16 PM,2:26,MISS Allen 25' 3PT Running Pull-Up Jump Shot,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,86,4,0,1,9:16 PM,2:25,,,Stevens REBOUND (Off:0 Def:2),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,87,1,5,1,9:16 PM,2:03,,,Parker 2' Layup (5 PTS) (Copper 1 AST),21 - 15,-6,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,89,6,1,1,9:16 PM,1:55,,,Parker P.FOUL (P1.T1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,91,8,0,1,9:16 PM,1:55,SUB: Whitcomb FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,93,2,1,1,9:17 PM,1:47,MISS Howard 26' 3PT Jump Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,94,4,0,1,9:17 PM,1:42,Xu REBOUND (Off:1 Def:0),,,,,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,96,8,0,1,9:17 PM,1:35,,,SUB: Meesseman FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,97,8,0,1,9:17 PM,1:35,,,SUB: Allemand FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,100,1,47,1,9:17 PM,1:29,Howard 9' Turnaround Jump Shot (4 PTS) (Whitcomb 1 AST),,,21 - 17,-4,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,102,1,6,1,9:18 PM,1:10,,,Copper 3' Driving Layup (6 PTS) (Gardner 1 AST),23 - 17,-6,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,104,2,73,1,9:18 PM,0:56,MISS Whitcomb 3' Driving Reverse Layup,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,105,4,0,1,9:18 PM,0:54,Howard REBOUND (Off:1 Def:4),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,106,2,72,1,9:18 PM,0:53,MISS Howard 4' Putback Layup,,Meesseman BLOCK (1 BLK),,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,1
+1042200113,108,4,0,1,9:18 PM,0:52,,,Stevens REBOUND (Off:0 Def:3),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,109,2,41,1,9:18 PM,0:47,,,MISS Copper 2' Running Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,110,4,0,1,9:18 PM,0:46,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,112,8,0,1,9:18 PM,0:46,,,SUB: Quigley FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,114,1,1,1,9:19 PM,0:33,Johannes 25' 3PT Jump Shot (9 PTS) (Allen 1 AST),,,23 - 20,-3,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,116,5,45,1,9:19 PM,0:32,,,Allemand Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1042200113,117,2,78,1,9:19 PM,0:25,MISS Howard 13' Floating Jump Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,118,4,0,1,9:19 PM,0:24,,,Stevens REBOUND (Off:0 Def:4),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,119,1,79,1,9:20 PM,0:01,,,Gardner 12' Pullup Jump Shot (2 PTS),25 - 20,-5,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,120,2,79,1,9:20 PM,0:00,MISS Whitcomb 53' 3PT Pullup Jump Shot,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,121,4,0,1,9:20 PM,0:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,122,13,0,1,9:20 PM,0:00,,End of 1st Period (9:20 PM EST),,25 - 20,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,127,12,0,2,9:23 PM,10:00,,Start of 2nd Period (9:23 PM EST),,25 - 20,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,128,1,79,2,9:23 PM,9:40,,,Gardner 11' Pullup Jump Shot (4 PTS) (Allemand 1 AST),27 - 20,-7,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,130,1,101,2,9:24 PM,9:19,Whitcomb 12' Driving Floating Jump Shot (2 PTS),,,27 - 22,-5,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,131,2,5,2,9:24 PM,9:04,,,MISS Stevens 2' Layup,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,132,4,0,2,9:24 PM,9:03,Ionescu REBOUND (Off:0 Def:2),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,133,2,103,2,9:24 PM,8:58,MISS Ionescu 13' Running Pull-Up Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,134,4,0,2,9:24 PM,8:57,,,Stevens REBOUND (Off:0 Def:5),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,135,2,6,2,9:24 PM,8:39,Xu BLOCK (1 BLK),,MISS Meesseman 4' Driving Layup,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,1
+1042200113,137,4,0,2,9:24 PM,8:38,Laney REBOUND (Off:0 Def:2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,138,5,2,2,9:25 PM,8:30,Laney Lost Ball Turnover (P1.T6),,Quigley STEAL (1 STL),,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,140,1,103,2,9:25 PM,8:25,,,Quigley 24' 3PT Running Pull-Up Jump Shot (6 PTS),30 - 22,-8,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,141,6,2,2,9:25 PM,8:08,,,Meesseman S.FOUL (P1.T1),,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,144,8,0,2,9:25 PM,8:08,SUB: Dolson FOR Xu,,,,,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,143,3,11,2,9:25 PM,8:08,Allen Free Throw 1 of 2 (1 PTS),,,30 - 23,-7,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042200113,146,3,12,2,9:26 PM,8:08,Allen Free Throw 2 of 2 (2 PTS),,,30 - 24,-6,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042200113,147,2,1,2,9:26 PM,7:52,,,MISS Meesseman 17' Jump Shot,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,148,4,0,2,9:26 PM,7:51,Allen REBOUND (Off:0 Def:1),,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,149,1,79,2,9:26 PM,7:38,Whitcomb 25' 3PT Pullup Jump Shot (5 PTS) (Laney 1 AST),,,30 - 27,-3,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,151,1,1,2,9:26 PM,7:17,,,Meesseman 24' 3PT Jump Shot (5 PTS) (Gardner 2 AST),33 - 27,-6,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,153,1,44,2,9:27 PM,7:03,Allen 2' Reverse Layup (4 PTS) (Laney 2 AST),,,33 - 29,-4,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,155,1,78,2,9:27 PM,6:47,,,Meesseman 9' Floating Jump Shot (7 PTS) (Allemand 2 AST),35 - 29,-6,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,157,2,80,2,9:27 PM,6:32,MISS Allen 18' Step Back Jump Shot,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,158,4,0,2,9:27 PM,6:31,,,Gardner REBOUND (Off:0 Def:1),,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,159,2,1,2,9:27 PM,6:19,,,MISS Meesseman 9' Jump Shot,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,160,4,0,2,9:27 PM,6:18,Ionescu REBOUND (Off:0 Def:3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,161,2,2,2,9:27 PM,6:13,MISS Whitcomb 24' 3PT Running Jump Shot,,Gardner BLOCK (1 BLK),,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,1
+1042200113,163,4,0,2,9:27 PM,6:12,,,Allemand REBOUND (Off:0 Def:1),,,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,164,1,105,2,9:28 PM,6:03,,,Stevens 8' Turnaround Fadeaway Bank Jump Shot (2 PTS) (Gardner 3 AST),37 - 29,-8,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,166,6,2,2,9:28 PM,6:03,Dolson S.FOUL (P1.T1),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,168,8,0,2,9:28 PM,6:03,SUB: Howard FOR Allen,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,169,8,0,2,9:28 PM,6:03,SUB: Johannes FOR Whitcomb,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,170,8,0,2,9:28 PM,6:03,,,SUB: Copper FOR Allemand,,,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,171,8,0,2,9:28 PM,6:03,,,SUB: Parker FOR Meesseman,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,172,8,0,2,9:28 PM,6:03,,,SUB: Vandersloot FOR Gardner,,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,178,3,10,2,9:28 PM,6:03,,,Stevens Free Throw 1 of 1 (3 PTS),38 - 29,-9,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,179,1,6,2,9:29 PM,5:44,Laney 3' Driving Layup (4 PTS),,,38 - 31,-7,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,180,1,79,2,9:29 PM,5:33,,,Vandersloot 13' Pullup Jump Shot (9 PTS) (Parker 4 AST),40 - 31,-9,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,181,9,1,2,9:29 PM,5:25,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,183,5,1,2,9:32 PM,5:17,Johannes Bad Pass Turnover (P2.T7),,Stevens STEAL (1 STL),,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,185,1,41,2,9:32 PM,5:12,,,Stevens 3' Running Layup (5 PTS) (Vandersloot 4 AST),42 - 31,-11,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,187,1,1,2,9:33 PM,4:54,Howard 15' Jump Shot (6 PTS) (Ionescu 2 AST),,,42 - 33,-9,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,189,2,79,2,9:33 PM,4:31,,,MISS Quigley 24' 3PT Pullup Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,190,4,0,2,9:33 PM,4:29,Howard REBOUND (Off:1 Def:5),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,191,1,5,2,9:33 PM,4:16,Laney 3' Layup (6 PTS) (Johannes 3 AST),,,42 - 35,-7,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,193,6,2,2,9:33 PM,4:16,,,Vandersloot S.FOUL (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,195,3,10,2,9:34 PM,4:16,Laney Free Throw 1 of 1 (7 PTS),,,42 - 36,-6,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042200113,196,2,1,2,9:34 PM,4:03,,,MISS Parker 24' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,197,4,0,2,9:34 PM,4:00,,,Stevens REBOUND (Off:1 Def:5),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,198,1,78,2,9:34 PM,3:55,,,Quigley 10' Floating Jump Shot (8 PTS) (Copper 2 AST),44 - 36,-8,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,200,2,1,2,9:34 PM,3:43,MISS Dolson 18' Jump Shot,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,201,4,0,2,9:34 PM,3:42,,,Parker REBOUND (Off:1 Def:3),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,202,1,103,2,9:35 PM,3:36,,,Copper 13' Running Pull-Up Jump Shot (8 PTS),46 - 36,-10,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,203,6,1,2,9:35 PM,3:27,,,Quigley P.FOUL (P1.T3),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,205,8,0,2,9:35 PM,3:27,,,SUB: Meesseman FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,207,1,75,2,9:35 PM,3:11,Ionescu 3' Driving Finger Roll Layup (5 PTS),,,46 - 38,-8,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,208,6,17,2,9:36 PM,2:59,LIBERTY T.Foul (Def. 3 Sec Howard ),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042200113,209,9,1,2,9:37 PM,2:59,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,210,3,16,2,9:39 PM,2:59,,,Quigley Free Throw Technical (9 PTS),47 - 38,-9,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,211,5,45,2,9:39 PM,2:54,,,Vandersloot Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1042200113,213,8,0,2,9:40 PM,2:43,,,SUB: Gardner FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,215,2,1,2,9:40 PM,2:32,MISS Howard 24' 3PT Jump Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,216,4,0,2,9:40 PM,2:31,,,Parker REBOUND (Off:1 Def:4),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,218,2,1,2,9:41 PM,2:16,,,MISS Vandersloot 24' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,219,4,0,2,9:41 PM,2:15,,,Gardner REBOUND (Off:1 Def:1),,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,220,6,1,2,9:41 PM,2:12,Laney P.FOUL (P1.T2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,222,1,1,2,9:41 PM,1:58,,,Vandersloot 25' 3PT Jump Shot (12 PTS) (Parker 5 AST),50 - 38,-12,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,224,2,78,2,9:42 PM,1:42,MISS Howard 12' Floating Jump Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,225,4,0,2,9:42 PM,1:41,,,Parker REBOUND (Off:1 Def:5),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,226,2,1,2,9:42 PM,1:30,,,MISS Copper 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,227,4,0,2,9:42 PM,1:29,Ionescu REBOUND (Off:0 Def:4),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,228,6,4,2,9:42 PM,1:25,Howard OFF.Foul (P2),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,230,5,37,2,9:42 PM,1:25,Howard Offensive Foul Turnover (P1.T8),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042200113,231,8,0,2,9:42 PM,1:25,,,SUB: Quigley FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,233,2,47,2,9:43 PM,1:19,,,MISS Meesseman 18' Turnaround Jump Shot,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,234,4,0,2,9:43 PM,1:18,Laney REBOUND (Off:0 Def:3),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,235,1,6,2,9:43 PM,1:06,Laney 3' Driving Layup (9 PTS),,,50 - 40,-10,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,237,1,63,2,9:43 PM,0:53,,,Parker 14' Fadeaway Jumper (7 PTS),52 - 40,-12,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,238,2,80,2,9:43 PM,0:43,MISS Ionescu 27' 3PT Step Back Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,239,4,0,2,9:43 PM,0:41,,,Parker REBOUND (Off:1 Def:6),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,240,2,98,2,9:43 PM,0:33,Ionescu BLOCK (1 BLK),,MISS Gardner 3' Cutting Layup Shot,,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1
+1042200113,242,4,0,2,9:43 PM,0:31,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,244,8,0,2,9:44 PM,0:31,SUB: Allen FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,245,8,0,2,9:44 PM,0:31,,,SUB: Copper FOR Gardner,,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,249,9,1,2,9:44 PM,0:26,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,250,5,2,2,9:46 PM,0:20,Johannes STEAL (1 STL),,Quigley Lost Ball Turnover (P1.T4),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,252,6,28,2,9:46 PM,0:15,,,Parker Personal Take Foul (P2.T4),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,254,9,1,2,9:46 PM,0:15,LIBERTY Timeout: Regular (Full 2 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,255,8,0,2,9:46 PM,0:15,SUB: Laney FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,256,8,0,2,9:46 PM,0:15,,,SUB: Stevens FOR Meesseman,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,257,8,0,2,9:46 PM,0:15,,,SUB: Gardner FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,261,1,6,2,9:48 PM,0:05,Ionescu 3' Driving Layup (7 PTS),,,52 - 42,-10,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,262,1,41,2,9:48 PM,0:01,,,Stevens 3' Running Layup (7 PTS) (Parker 6 AST),54 - 42,-12,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,264,13,0,2,9:48 PM,0:00,,End of 2nd Period (9:48 PM EST),,54 - 42,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,271,12,0,3,10:04 PM,10:00,,Start of 3rd Period (10:04 PM EST),,54 - 42,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,272,2,1,3,10:05 PM,9:44,,,MISS Vandersloot 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,273,4,0,3,10:05 PM,9:41,Laney REBOUND (Off:0 Def:4),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,274,2,80,3,10:05 PM,9:31,MISS Johannes 20' Step Back Jump Shot,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,275,4,0,3,10:05 PM,9:30,,,Meesseman REBOUND (Off:0 Def:1),,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,276,2,1,3,10:05 PM,9:23,,,MISS Parker 26' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,277,4,0,3,10:05 PM,9:22,Johannes REBOUND (Off:0 Def:2),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,278,5,1,3,10:05 PM,9:12,Ionescu Bad Pass Turnover (P4.T9),,Copper STEAL (2 STL),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,280,6,1,3,10:05 PM,9:08,Laney P.FOUL (P2.T1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,282,1,1,3,10:06 PM,8:52,,,Meesseman 13' Jump Shot (9 PTS) (Vandersloot 5 AST),56 - 42,-14,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,284,2,1,3,10:06 PM,8:38,MISS Ionescu 24' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,285,4,0,3,10:06 PM,8:37,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,287,2,98,3,10:06 PM,8:25,MISS Howard 2' Cutting Layup Shot,,Parker BLOCK (1 BLK),,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1
+1042200113,289,4,0,3,10:06 PM,8:24,Howard REBOUND (Off:2 Def:5),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,290,1,3,3,10:06 PM,8:19,Howard 5' Hook Shot (8 PTS),,,56 - 44,-12,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,291,2,1,3,10:07 PM,8:11,,,MISS Vandersloot 20' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,292,4,0,3,10:07 PM,8:10,Howard REBOUND (Off:2 Def:6),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,293,2,74,3,10:07 PM,8:04,MISS Ionescu 2' Running Reverse Layup,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,294,4,0,3,10:07 PM,8:03,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,295,6,1,3,10:07 PM,7:48,Dolson P.FOUL (P2.T2),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,297,5,11,3,10:08 PM,7:34,,,Sky Turnover: Shot Clock (T#5),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,1
+1042200113,298,6,1,3,10:08 PM,7:27,,,Copper P.FOUL (P1.T1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,300,1,6,3,10:09 PM,7:22,Laney 3' Driving Layup (11 PTS) (Ionescu 3 AST),,,56 - 46,-10,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,302,2,1,3,10:09 PM,7:07,,,MISS Meesseman 26' 3PT Jump Shot,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,303,4,0,3,10:09 PM,7:06,Laney REBOUND (Off:0 Def:5),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,304,2,79,3,10:09 PM,6:58,MISS Laney 19' Pullup Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,305,4,0,3,10:09 PM,6:57,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,306,5,45,3,10:09 PM,6:44,,,Quigley Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,307,2,1,3,10:10 PM,6:21,MISS Johannes 24' 3PT Jump Shot,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,308,4,0,3,10:10 PM,6:20,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,309,5,11,3,10:10 PM,6:20,LIBERTY Turnover: Shot Clock (T#10),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,1
+1042200113,310,1,1,3,10:10 PM,6:05,,,Copper 24' 3PT Jump Shot (11 PTS) (Quigley 1 AST),59 - 46,-13,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,312,1,86,3,10:11 PM,5:39,Dolson 6' Turnaround Fadeaway (4 PTS) (Johannes 4 AST),,,59 - 48,-11,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,314,2,98,3,10:11 PM,5:18,,,MISS Parker 3' Cutting Layup Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,315,4,0,3,10:11 PM,5:17,,,Parker REBOUND (Off:2 Def:6),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,316,2,1,3,10:11 PM,5:14,,,MISS Copper 25' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,317,4,0,3,10:11 PM,5:13,Johannes REBOUND (Off:0 Def:3),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,318,1,79,3,10:11 PM,5:04,Ionescu 16' Pullup Jump Shot (9 PTS),,,59 - 50,-9,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,319,9,1,3,10:11 PM,5:00,,,Sky Timeout: Regular (Reg.3 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,321,8,0,3,10:12 PM,5:00,SUB: Allen FOR Johannes,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,322,8,0,3,10:12 PM,5:00,SUB: Whitcomb FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,323,8,0,3,10:12 PM,5:00,,,SUB: Stevens FOR Meesseman,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,324,8,0,3,10:12 PM,5:00,,,SUB: Gardner FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,320,18,0,3,10:12 PM,5:00,,Instant Replay3rd Period (10:12 PM EST),,59 - 50,-9,0,290,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200113,329,5,1,3,10:15 PM,4:35,Allen STEAL (1 STL),,Gardner Bad Pass Turnover (P1.T7),,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,331,2,79,3,10:15 PM,4:19,MISS Whitcomb 24' 3PT Pullup Jump Shot,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,332,4,0,3,10:15 PM,4:18,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,334,5,11,3,10:16 PM,4:04,LIBERTY Turnover: Shot Clock (T#11),,,,,2,1611661313,,,,,,0,0,,,,,,1,0,,,,,,1
+1042200113,335,2,1,3,10:17 PM,3:43,,,MISS Copper 11' Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,336,4,0,3,10:17 PM,3:42,Allen REBOUND (Off:0 Def:2),,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,337,2,3,3,10:17 PM,3:27,MISS Howard 5' Hook Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,338,4,0,3,10:17 PM,3:26,,,Parker REBOUND (Off:2 Def:7),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,339,2,1,3,10:17 PM,3:17,,,MISS Stevens 25' 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,343,4,0,3,10:17 PM,3:16,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,340,10,0,3,10:17 PM,3:16,Jump Ball Dolson vs. Copper: Tip to Allen,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,1
+1042200113,344,8,0,3,10:17 PM,3:16,SUB: Johannes FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,346,2,6,3,10:19 PM,2:58,MISS Johannes 2' Driving Layup,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,347,4,0,3,10:19 PM,2:57,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,348,6,2,3,10:19 PM,2:52,Howard S.FOUL (P3.T3),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,351,8,0,3,10:19 PM,2:52,SUB: Laney FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,350,3,11,3,10:19 PM,2:52,,,Copper Free Throw 1 of 2 (12 PTS),60 - 50,-10,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,353,3,12,3,10:19 PM,2:52,,,Copper Free Throw 2 of 2 (13 PTS),61 - 50,-11,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,354,5,13,3,10:20 PM,2:43,Laney Backcourt Turnover (P2.T12),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042200113,355,2,6,3,10:20 PM,2:30,,,MISS Parker 3' Driving Layup,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,356,4,0,3,10:20 PM,2:29,,,Gardner REBOUND (Off:2 Def:1),,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,357,6,1,3,10:20 PM,2:28,Whitcomb P.FOUL (P1.T4),,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,359,1,6,3,10:21 PM,2:18,,,Parker 3' Driving Layup (9 PTS),63 - 50,-13,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,360,9,1,3,10:21 PM,2:17,LIBERTY Timeout: Regular (Full 3 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,361,8,0,3,10:21 PM,2:17,,,SUB: Meesseman FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,363,1,47,3,10:23 PM,1:59,Howard 7' Turnaround Jump Shot (10 PTS) (Whitcomb 2 AST),,,63 - 52,-11,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,364,2,3,3,10:24 PM,1:39,,,MISS Stevens 7' Hook Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,365,4,0,3,10:24 PM,1:38,Howard REBOUND (Off:2 Def:7),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,366,1,5,3,10:24 PM,1:20,Howard 4' Layup (12 PTS),,,63 - 54,-9,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,367,1,79,3,10:24 PM,1:07,,,Vandersloot 19' Pullup Jump Shot (14 PTS),65 - 54,-11,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,368,2,78,3,10:25 PM,0:46,MISS Whitcomb 7' Floating Jump Shot,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,369,4,0,3,10:25 PM,0:45,,,Gardner REBOUND (Off:2 Def:2),,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,370,1,41,3,10:25 PM,0:40,,,Gardner 3' Running Layup (6 PTS),67 - 54,-13,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,372,6,2,3,10:25 PM,0:32,,,Meesseman S.FOUL (P2.T2),,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,375,8,0,3,10:25 PM,0:32,SUB: Ionescu FOR Whitcomb,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,376,8,0,3,10:25 PM,0:32,,,SUB: Allemand FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,377,8,0,3,10:25 PM,0:32,,,SUB: Quigley FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,374,3,11,3,10:25 PM,0:32,Laney Free Throw 1 of 2 (12 PTS),,,67 - 55,-12,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042200113,381,3,12,3,10:26 PM,0:32,Laney Free Throw 2 of 2 (13 PTS),,,67 - 56,-11,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042200113,382,6,1,3,10:26 PM,0:13,Laney P.FOUL (P3.PN),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,384,3,11,3,10:26 PM,0:13,,,Stevens Free Throw 1 of 2 (8 PTS),68 - 56,-12,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,385,3,12,3,10:26 PM,0:13,,,MISS Stevens Free Throw 2 of 2,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,386,4,0,3,10:26 PM,0:12,Howard REBOUND (Off:2 Def:8),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,387,2,98,3,10:27 PM,0:03,MISS Howard 2' Cutting Layup Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,388,4,0,3,10:27 PM,0:01,Howard REBOUND (Off:3 Def:8),,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,389,1,72,3,10:27 PM,0:00,Howard 2' Putback Layup (14 PTS),,,68 - 58,-10,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,390,13,0,3,10:27 PM,0:00,,End of 3rd Period (10:27 PM EST),,68 - 58,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,393,12,0,4,10:31 PM,10:00,,Start of 4th Period (10:31 PM EST),,68 - 58,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,394,1,102,4,10:31 PM,9:41,Ionescu 4' Driving Floating Bank Jump Shot (11 PTS),,,68 - 60,-8,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,395,6,2,4,10:31 PM,9:41,,,Gardner S.FOUL (P1.T1),,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,397,3,10,4,10:31 PM,9:41,MISS Ionescu Free Throw 1 of 1,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042200113,398,4,0,4,10:31 PM,9:40,Ionescu REBOUND (Off:1 Def:4),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,399,1,63,4,10:31 PM,9:35,Ionescu 24' 3PT Fadeaway Jumper (14 PTS),,,68 - 63,-5,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,400,9,1,4,10:32 PM,9:34,,,Sky Timeout: Regular (Reg.4 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,401,8,0,4,10:32 PM,9:34,,,SUB: Parker FOR Allemand,,,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,402,8,0,4,10:32 PM,9:34,,,SUB: Copper FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,403,8,0,4,10:32 PM,9:34,,,SUB: Vandersloot FOR Gardner,,,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,407,2,1,4,10:35 PM,9:17,,,MISS Parker 24' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,408,4,0,4,10:35 PM,9:16,Allen REBOUND (Off:0 Def:3),,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,409,1,47,4,10:36 PM,9:02,Laney 9' Turnaround Jump Shot (15 PTS) (Ionescu 4 AST),,,68 - 65,-3,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,410,6,2,4,10:36 PM,8:48,Laney S.FOUL (P4.T1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1042200113,412,3,11,4,10:36 PM,8:48,,,MISS Meesseman Free Throw 1 of 2,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,413,4,1,4,10:36 PM,8:48,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,415,3,12,4,10:37 PM,8:48,,,Meesseman Free Throw 2 of 2 (10 PTS),69 - 65,-4,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,416,5,1,4,10:37 PM,8:34,Allen Bad Pass Turnover (P2.T13),,Quigley STEAL (2 STL),,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,418,5,1,4,10:37 PM,8:29,Johannes STEAL (2 STL),,Parker Bad Pass Turnover (P1.T8),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,420,2,1,4,10:37 PM,8:24,MISS Ionescu 25' 3PT Jump Shot,,Parker BLOCK (2 BLK),,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1
+1042200113,421,4,0,4,10:37 PM,8:23,,,Vandersloot REBOUND (Off:0 Def:4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,422,2,5,4,10:37 PM,8:17,,,MISS Copper 3' Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,423,4,0,4,10:37 PM,8:16,Dolson REBOUND (Off:0 Def:1),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,424,2,1,4,10:37 PM,8:08,MISS Ionescu 24' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,425,4,0,4,10:37 PM,8:07,,,Copper REBOUND (Off:0 Def:1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,427,2,78,4,10:38 PM,7:44,,,MISS Meesseman 8' Floating Jump Shot,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,428,4,0,4,10:38 PM,7:43,Johannes REBOUND (Off:0 Def:4),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,429,2,79,4,10:38 PM,7:28,MISS Laney 13' Pullup Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,430,4,0,4,10:38 PM,7:27,,,Parker REBOUND (Off:2 Def:8),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,431,1,5,4,10:38 PM,7:18,,,Meesseman 3' Layup (12 PTS) (Vandersloot 6 AST),71 - 65,-6,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,433,5,4,4,10:38 PM,6:57,Ionescu Traveling Turnover (P5.T14),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042200113,434,8,0,4,10:38 PM,6:57,SUB: Howard FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,435,8,0,4,10:38 PM,6:57,,,SUB: Stevens FOR Meesseman,,,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,438,2,1,4,10:39 PM,6:38,,,MISS Quigley 29' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,439,4,0,4,10:39 PM,6:37,,,Stevens REBOUND (Off:2 Def:5),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,440,2,6,4,10:39 PM,6:27,Dolson BLOCK (1 BLK),,MISS Vandersloot 4' Driving Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,1
+1042200113,442,4,0,4,10:39 PM,6:26,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,444,1,44,4,10:40 PM,6:25,,,Parker 3' Reverse Layup (11 PTS) (Vandersloot 7 AST),73 - 65,-8,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,446,6,2,4,10:40 PM,6:25,Dolson S.FOUL (P3.T2),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1042200113,448,3,10,4,10:40 PM,6:25,,,Parker Free Throw 1 of 1 (12 PTS),74 - 65,-9,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1042200113,449,6,1,4,10:40 PM,6:13,,,Stevens P.FOUL (P1.T2),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042200113,451,2,101,4,10:41 PM,6:04,MISS Ionescu 7' Driving Floating Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,452,4,0,4,10:41 PM,6:03,,,Parker REBOUND (Off:2 Def:9),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,453,1,98,4,10:41 PM,5:46,,,Copper 3' Cutting Layup Shot (15 PTS) (Vandersloot 8 AST),76 - 65,-11,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,455,9,1,4,10:41 PM,5:45,LIBERTY Timeout: Regular (Full 4 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,456,8,0,4,10:41 PM,5:45,SUB: Laney FOR Allen,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,458,2,57,4,10:45 PM,5:25,MISS Howard 5' Driving Hook Shot,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,459,4,0,4,10:45 PM,5:22,,,Vandersloot REBOUND (Off:0 Def:5),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,460,1,74,4,10:45 PM,5:15,,,Stevens 3' Running Reverse Layup (10 PTS) (Vandersloot 9 AST),78 - 65,-13,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,462,2,79,4,10:45 PM,5:03,MISS Johannes 24' 3PT Pullup Jump Shot,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,463,4,0,4,10:45 PM,5:02,,,Parker REBOUND (Off:2 Def:10),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,464,1,2,4,10:45 PM,4:56,,,Quigley 26' 3PT Running Jump Shot (12 PTS) (Parker 7 AST),81 - 65,-16,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,466,7,5,4,10:46 PM,4:38,,,Vandersloot Violation:Kicked Ball,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1042200113,470,8,0,4,10:46 PM,4:38,SUB: Whitcomb FOR Johannes,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,471,8,0,4,10:46 PM,4:38,SUB: Allen FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,468,2,1,4,10:46 PM,4:31,MISS Ionescu 24' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,469,4,0,4,10:46 PM,4:30,,,Stevens REBOUND (Off:2 Def:6),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,474,1,1,4,10:47 PM,4:14,,,Quigley 24' 3PT Jump Shot (15 PTS) (Parker 8 AST),84 - 65,-19,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,476,9,2,4,10:47 PM,4:13,LIBERTY Timeout: Short (Full 4 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,477,2,1,4,10:48 PM,3:56,MISS Allen 3PT Jump Shot,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,478,4,0,4,10:48 PM,3:55,,,Copper REBOUND (Off:0 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,479,2,1,4,10:48 PM,3:33,,,MISS Stevens 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,480,4,0,4,10:48 PM,3:32,Allen REBOUND (Off:0 Def:4),,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,482,5,1,4,10:49 PM,3:23,Howard Bad Pass Turnover (P2.T15),,Vandersloot STEAL (2 STL),,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,484,2,103,4,10:49 PM,3:17,,,MISS Vandersloot 19' Running Pull-Up Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,485,4,0,4,10:49 PM,3:16,,,Copper REBOUND (Off:1 Def:2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,486,2,47,4,10:49 PM,3:04,,,MISS Parker 18' Turnaround Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,487,4,0,4,10:49 PM,3:03,Ionescu REBOUND (Off:1 Def:5),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,488,1,1,4,10:49 PM,2:51,Whitcomb 24' 3PT Jump Shot (8 PTS) (Allen 2 AST),,,84 - 68,-16,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,490,1,1,4,10:50 PM,2:26,,,Stevens 11' Jump Shot (12 PTS),86 - 68,-18,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,491,2,6,4,10:50 PM,2:16,MISS Ionescu 3' Driving Layup,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,492,4,0,4,10:50 PM,2:15,,,Parker REBOUND (Off:2 Def:11),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,493,2,101,4,10:50 PM,1:52,,,MISS Quigley 13' Driving Floating Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,494,4,0,4,10:50 PM,1:51,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200113,495,5,11,4,10:50 PM,1:51,,,Sky Turnover: Shot Clock (T#9),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,1
+1042200113,496,2,79,4,10:51 PM,1:45,MISS Laney 17' Pullup Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,497,4,0,4,10:51 PM,1:44,,,Quigley REBOUND (Off:1 Def:3),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,498,1,58,4,10:51 PM,1:31,,,Parker 9' Turnaround Hook Shot (14 PTS) (Vandersloot 10 AST),88 - 68,-20,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,500,9,2,4,10:51 PM,1:30,LIBERTY Timeout: Short (Full 4 Short 2),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200113,501,8,0,4,10:51 PM,1:30,SUB: Onyenwere FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1630446,Michaela Onyenwere,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,502,8,0,4,10:51 PM,1:30,SUB: Dangerfield FOR Howard,,,,,4,203827,Natasha Howard,1611661313.0,New York,Liberty,NYL,4,1630101,Crystal Dangerfield,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,503,8,0,4,10:51 PM,1:30,SUB: Xu FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,504,8,0,4,10:51 PM,1:30,SUB: Richards FOR Whitcomb,,,,,4,1628244,Sami Whitcomb,1611661313.0,New York,Liberty,NYL,4,1630459,DiDi Richards,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,505,8,0,4,10:51 PM,1:30,SUB: Willoughby FOR Allen,,,,,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,4,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042200113,506,8,0,4,10:51 PM,1:30,,,SUB: Meesseman FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203416,Emma Meesseman,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,507,8,0,4,10:51 PM,1:30,,,SUB: Hebard FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,508,8,0,4,10:51 PM,1:30,,,SUB: Allemand FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,509,8,0,4,10:51 PM,1:30,,,SUB: Evans FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,510,8,0,4,10:51 PM,1:30,,,SUB: Gardner FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,203822,Rebekah Gardner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1042200113,521,1,6,4,10:53 PM,1:22,Xu 3' Driving Layup (2 PTS) (Richards 1 AST),,,88 - 70,-18,4,1629566,Han Xu,1611661313.0,New York,Liberty,NYL,4,1630459,DiDi Richards,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,523,2,1,4,10:53 PM,0:57,,,MISS Hebard 25' 3PT Jump Shot,,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1042200113,524,4,0,4,10:53 PM,0:56,Richards REBOUND (Off:0 Def:1),,,,,4,1630459,DiDi Richards,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042200113,525,1,41,4,10:53 PM,0:51,Onyenwere 3' Running Layup (2 PTS) (Richards 2 AST),,,88 - 72,-16,4,1630446,Michaela Onyenwere,1611661313.0,New York,Liberty,NYL,4,1630459,DiDi Richards,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042200113,527,1,102,4,10:54 PM,0:28,,,Evans 9' Driving Floating Bank Jump Shot (2 PTS) (Allemand 3 AST),90 - 72,-18,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,1627700,Julie Allemand,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,529,5,1,4,10:54 PM,0:05,Dangerfield Bad Pass Turnover (P1.T16),,Evans STEAL (1 STL),,,4,1630101,Crystal Dangerfield,1611661313.0,New York,Liberty,NYL,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1042200113,531,13,0,4,10:54 PM,0:00,,End of 4th Period (10:54 PM EST),,90 - 72,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

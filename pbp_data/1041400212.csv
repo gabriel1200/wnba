@@ -1,0 +1,366 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041400212,0,12,0,1,3:32 PM,10:00,,Start of 1st Period (3:32 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,1,10,0,1,3:33 PM,10:00,Jump Ball McCarville vs. Griner: Tip to Taurasi,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,2,6,4,1,3:33 PM,9:53,,,Taurasi OFF.Foul (P1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,3,5,5,1,3:33 PM,9:53,,,Taurasi Foul Turnover (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400212,4,5,1,1,3:33 PM,9:38,Whalen Bad Pass Turnover (P1.T1),,Dupree STEAL (1 STL),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,5,5,2,1,3:33 PM,9:30,Brunson STEAL (1 STL),,Taurasi Lost Ball Turnover (P2.T2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,6,6,29,1,3:34 PM,9:25,,,Taylor Shooting Block Foul (P1.T1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,7,3,11,1,3:34 PM,9:25,Whalen Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,9,3,12,1,3:34 PM,9:25,MISS Whalen Free Throw 2 of 2,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,11,4,0,1,3:35 PM,9:24,,,Dupree REBOUND (Off:0 Def:1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,12,6,1,1,3:35 PM,9:11,Moore P.FOUL (P1.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,13,2,1,1,3:35 PM,9:01,,,MISS Bonner 19' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,15,4,0,1,3:36 PM,9:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,14,10,0,1,3:36 PM,9:00,Jump Ball McCarville vs. Griner: Tip to Taurasi,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,16,1,47,1,3:36 PM,8:42,,,Griner 11' Turnaround Jump Shot (2 PTS) (Taurasi 1 AST),2 - 1,-1,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,17,2,1,1,3:36 PM,8:32,MISS Augustus 18' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,18,4,0,1,3:36 PM,8:30,,,Dupree REBOUND (Off:0 Def:2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,19,1,42,1,3:36 PM,8:22,,,Dupree 1' Driving Layup (2 PTS) (Taylor 1 AST),4 - 1,-3,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,20,5,1,1,3:37 PM,8:06,Brunson Bad Pass Turnover (P1.T2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,21,1,79,1,3:37 PM,7:45,,,Dupree 17' Pullup Jump Shot (4 PTS),6 - 1,-5,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,22,5,1,1,3:37 PM,7:28,McCarville Bad Pass Turnover (P1.T3),,Taylor STEAL (1 STL),,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,23,6,1,1,3:38 PM,7:25,McCarville P.FOUL (P1.T2),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,24,8,0,1,3:38 PM,7:25,SUB: Wright FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,25,6,1,1,3:38 PM,7:17,McCarville P.FOUL (P2.T3),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,26,8,0,1,3:38 PM,7:17,SUB: Peters FOR McCarville,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,27,1,42,1,3:38 PM,7:13,,,Taylor 2' Driving Layup (2 PTS) (Griner 1 AST),8 - 1,-7,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,28,2,1,1,3:39 PM,6:57,MISS Wright  3PT Jump Shot,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,29,4,0,1,3:39 PM,6:56,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,30,5,1,1,3:39 PM,6:48,,,Dupree Bad Pass Turnover (P1.T3),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,31,2,42,1,3:39 PM,6:40,MISS Wright 3' Driving Layup,,Griner BLOCK (1 BLK),,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,32,4,0,1,3:39 PM,6:39,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,33,6,2,1,3:40 PM,6:31,,,Griner S.FOUL (P1.T2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,34,3,11,1,3:40 PM,6:31,Moore Free Throw 1 of 2 (1 PTS),,,8 - 2,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,36,3,12,1,3:40 PM,6:31,Moore Free Throw 2 of 2 (2 PTS),,,8 - 3,-5,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,38,2,1,1,3:41 PM,6:12,,,MISS Bonner 14' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,39,4,0,1,3:41 PM,6:10,,,Taurasi REBOUND (Off:1 Def:0),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,40,2,80,1,3:41 PM,6:04,,,MISS Taurasi  3PT Step Back Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,41,4,0,1,3:41 PM,6:03,Peters REBOUND (Off:0 Def:1),,,,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,42,2,1,1,3:41 PM,5:50,MISS Whalen  3PT Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,43,4,0,1,3:41 PM,5:48,,,Bonner REBOUND (Off:0 Def:1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,44,6,1,1,3:41 PM,5:37,Peters P.FOUL (P1.T4),,,,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,45,6,2,1,3:42 PM,5:23,Wright S.FOUL (P1.PN),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,46,3,11,1,3:42 PM,5:23,,,Bonner Free Throw 1 of 2 (1 PTS),9 - 3,-6,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,48,3,12,1,3:42 PM,5:23,,,Bonner Free Throw 2 of 2 (2 PTS),10 - 3,-7,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,50,5,1,1,3:43 PM,5:11,Peters Bad Pass Turnover (P1.T4),,Dupree STEAL (2 STL),,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,51,6,1,1,3:43 PM,5:11,Peters P.FOUL (P2.PN),,,,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,52,3,11,1,3:43 PM,5:11,,,Dupree Free Throw 1 of 2 (5 PTS),11 - 3,-8,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,54,8,0,1,3:43 PM,5:11,SUB: Dantas FOR Peters,,,,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,55,3,12,1,3:44 PM,5:11,,,Dupree Free Throw 2 of 2 (6 PTS),12 - 3,-9,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,57,1,77,1,3:44 PM,4:55,Whalen 3' Driving Jump Shot (3 PTS),,,12 - 5,-7,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,58,2,1,1,3:44 PM,4:45,,,MISS Taurasi 19' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,59,4,0,1,3:44 PM,4:44,Moore REBOUND (Off:0 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,60,9,1,1,3:44 PM,4:38,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,62,10,0,1,3:49 PM,4:38,Jump Ball Whalen vs. Taylor: Tip to Moore,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041400212,63,2,1,1,3:49 PM,4:21,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,64,4,0,1,3:49 PM,4:19,Whalen REBOUND (Off:1 Def:0),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,65,6,4,1,3:49 PM,4:12,Whalen OFF.Foul (P1),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,66,5,5,1,3:49 PM,4:12,Whalen Foul Turnover (P2.T5),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400212,67,8,0,1,3:49 PM,4:12,,,SUB: Phillips FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,69,8,0,1,3:49 PM,4:12,SUB: Augustus FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,70,1,44,1,3:50 PM,3:52,,,Griner 1' Reverse Layup (4 PTS) (Phillips 1 AST),14 - 5,-9,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,71,2,1,1,3:50 PM,3:25,MISS Moore 14' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,72,4,0,1,3:50 PM,3:24,,,Phillips REBOUND (Off:0 Def:1),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,73,2,1,1,3:51 PM,3:15,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,74,4,0,1,3:51 PM,3:14,,,Phillips REBOUND (Off:1 Def:1),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,75,2,47,1,3:51 PM,3:02,,,MISS Griner 10' Turnaround Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,76,4,0,1,3:51 PM,3:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,77,8,0,1,3:51 PM,3:00,SUB: White FOR Dantas,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,78,2,42,1,3:52 PM,2:43,MISS Moore 1' Driving Layup,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,79,4,0,1,3:52 PM,2:42,,,Bonner REBOUND (Off:0 Def:2),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,80,2,1,1,3:52 PM,2:34,,,MISS Phillips  3PT Jump Shot,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,81,4,0,1,3:52 PM,2:33,Brunson REBOUND (Off:0 Def:1),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,82,2,1,1,3:52 PM,2:10,MISS Augustus 19' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,83,4,0,1,3:52 PM,2:08,,,Taurasi REBOUND (Off:1 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,84,5,1,1,3:52 PM,1:55,Wright STEAL (1 STL),,Phillips Bad Pass Turnover (P1.T4),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,85,6,2,1,3:53 PM,1:52,,,Bonner S.FOUL (P1.T3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,86,3,11,1,3:53 PM,1:52,Moore Free Throw 1 of 2 (3 PTS),,,14 - 6,-8,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,88,8,0,1,3:53 PM,1:52,SUB: Whalen FOR Wright,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,89,3,12,1,3:53 PM,1:52,Moore Free Throw 2 of 2 (4 PTS),,,14 - 7,-7,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,91,6,1,1,3:53 PM,1:41,White P.FOUL (P1.PN),,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,92,3,11,1,3:54 PM,1:41,,,Taurasi Free Throw 1 of 2 (1 PTS),15 - 7,-8,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,94,3,12,1,3:54 PM,1:41,,,Taurasi Free Throw 2 of 2 (2 PTS),16 - 7,-9,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,96,2,1,1,3:54 PM,1:28,MISS Augustus  3PT Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,97,4,0,1,3:54 PM,1:26,Brunson REBOUND (Off:1 Def:1),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,98,2,5,1,3:54 PM,1:23,MISS Whalen 3' Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,99,4,0,1,3:54 PM,1:22,,,Bonner REBOUND (Off:0 Def:3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,100,1,1,1,3:54 PM,1:16,,,Phillips  3PT Jump Shot (3 PTS) (Taurasi 2 AST),19 - 7,-12,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,101,9,1,1,3:55 PM,1:08,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,103,2,1,1,3:57 PM,0:55,MISS Brunson 16' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,104,4,0,1,3:57 PM,0:53,Whalen REBOUND (Off:2 Def:0),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,105,1,5,1,3:57 PM,0:52,Augustus 2' Layup (2 PTS) (Whalen 1 AST),,,19 - 9,-10,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,106,1,42,1,3:57 PM,0:39,,,Taurasi 1' Driving Layup (4 PTS),21 - 9,-12,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,107,6,2,1,3:57 PM,0:39,White S.FOUL (P2.PN),,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,108,3,10,1,3:57 PM,0:39,,,Taurasi Free Throw 1 of 1 (5 PTS),22 - 9,-13,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,110,2,1,1,3:58 PM,0:23,MISS White  3PT Jump Shot,,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,111,4,0,1,3:58 PM,0:21,,,Dupree REBOUND (Off:0 Def:3),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,112,2,1,1,3:58 PM,0:01,,,MISS Dupree 18' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,113,4,0,1,3:58 PM,0:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,114,13,0,1,3:58 PM,0:00,,End of 1st Period (3:58 PM EST),,22 - 9,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,116,12,0,2,4:02 PM,10:00,,Start of 2nd Period (4:02 PM EST),,22 - 9,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,117,2,45,2,4:02 PM,9:44,MISS Augustus 18' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,118,4,0,2,4:02 PM,9:42,,,Phillips REBOUND (Off:1 Def:2),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,119,2,79,2,4:02 PM,9:38,,,MISS Phillips  3PT Pullup Jump Shot,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,120,4,0,2,4:02 PM,9:36,McCarville REBOUND (Off:0 Def:1),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,121,6,1,2,4:03 PM,9:31,,,Taylor P.FOUL (P2.T1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,122,1,1,2,4:03 PM,9:18,Whalen 17' Jump Shot (5 PTS) (Brunson 1 AST),,,22 - 11,-11,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,123,5,1,2,4:03 PM,9:05,Moore STEAL (1 STL),,Dupree Bad Pass Turnover (P2.T5),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,124,1,42,2,4:03 PM,9:00,Moore 1' Driving Layup (6 PTS),,,22 - 13,-9,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,125,1,1,2,4:04 PM,8:35,,,Dupree 15' Jump Shot (8 PTS) (Phillips 2 AST),24 - 13,-11,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,126,6,29,2,4:04 PM,8:24,,,Phillips Shooting Block Foul (P1.T2),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,127,3,11,2,4:04 PM,8:24,Whalen Free Throw 1 of 2 (6 PTS),,,24 - 14,-10,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,129,8,0,2,4:04 PM,8:24,,,SUB: Taurasi FOR Phillips,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,130,3,12,2,4:05 PM,8:24,Whalen Free Throw 2 of 2 (7 PTS),,,24 - 15,-9,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,132,2,1,2,4:05 PM,8:08,,,MISS Taylor  3PT Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,133,4,0,2,4:05 PM,8:07,Brunson REBOUND (Off:1 Def:2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,134,1,79,2,4:05 PM,8:01,Augustus 15' Pullup Jump Shot (4 PTS),,,24 - 17,-7,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,135,9,1,2,4:05 PM,7:54,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,137,5,4,2,4:09 PM,7:49,,,Griner Traveling Turnover (P1.T6),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400212,138,2,1,2,4:09 PM,7:26,MISS Augustus  3PT Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,139,4,0,2,4:09 PM,7:24,Moore REBOUND (Off:1 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,140,7,5,2,4:10 PM,7:08,,,Dupree Violation:Kicked Ball,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400212,141,1,63,2,4:10 PM,7:00,Moore 15' Fadeaway Jumper (8 PTS) (Whalen 2 AST),,,24 - 19,-5,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,142,1,78,2,4:10 PM,6:46,,,Taurasi 9' Floating Jump Shot (7 PTS),26 - 19,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,143,6,1,2,4:10 PM,6:37,,,Taurasi P.FOUL (P2.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,144,6,4,2,4:11 PM,6:32,McCarville OFF.Foul (P3),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,145,5,5,2,4:11 PM,6:32,McCarville Foul Turnover (P2.T6),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400212,146,2,1,2,4:11 PM,6:23,,,MISS Taurasi 14' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,147,4,0,2,4:11 PM,6:22,Moore REBOUND (Off:1 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,148,6,11,2,4:11 PM,6:21,,,Taurasi T.FOUL (P2.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400212,149,3,16,2,4:12 PM,6:21,Moore Free Throw Technical (9 PTS),,,26 - 20,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,151,8,0,2,4:12 PM,6:21,SUB: Dantas FOR McCarville,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,152,8,0,2,4:12 PM,6:21,,,SUB: Bass FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,153,1,1,2,4:12 PM,6:08,Whalen 15' Jump Shot (9 PTS) (Dantas 1 AST),,,26 - 22,-4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,154,1,77,2,4:12 PM,5:52,,,Taylor 5' Driving Jump Shot (4 PTS),28 - 22,-6,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,155,2,42,2,4:13 PM,5:42,MISS Whalen 2' Driving Layup,,Bass BLOCK (1 BLK),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,156,4,0,2,4:13 PM,5:41,,,Bonner REBOUND (Off:0 Def:4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,157,6,2,2,4:13 PM,5:38,Dantas S.FOUL (P1.T1),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,158,3,11,2,4:13 PM,5:38,,,MISS Bonner Free Throw 1 of 2,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,159,4,1,2,4:13 PM,5:38,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,160,8,0,2,4:13 PM,5:38,SUB: Wright FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,162,6,11,2,4:14 PM,5:38,,Cheryl Reeve Foul:T.FOUL,,,,6,100631,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400212,163,3,16,2,4:14 PM,5:38,,,Taylor Free Throw Technical (5 PTS),29 - 22,-7,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,165,3,12,2,4:14 PM,5:38,,,Bonner Free Throw 2 of 2 (3 PTS),30 - 22,-8,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,167,1,44,2,4:15 PM,5:24,Moore 2' Reverse Layup (11 PTS) (Brunson 2 AST),,,30 - 24,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,168,5,2,2,4:15 PM,5:14,Moore STEAL (2 STL),,Bonner Lost Ball Turnover (P1.T7),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,169,2,1,2,4:15 PM,5:08,MISS Moore 8' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,170,4,0,2,4:15 PM,5:06,Moore REBOUND (Off:2 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,171,1,83,2,4:15 PM,5:05,Moore 7' Fadeaway Bank Shot (13 PTS),,,30 - 26,-4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,172,2,1,2,4:15 PM,4:44,Brunson BLOCK (1 BLK),,MISS Dupree 15' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0
+1041400212,176,4,0,2,4:16 PM,4:41,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,175,10,0,2,4:16 PM,4:41,Jump Ball Augustus vs. Bass: Tip to Moore,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041400212,178,5,2,2,4:16 PM,4:33,Moore Lost Ball Turnover (P1.T7),,Bass STEAL (1 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,179,1,1,2,4:16 PM,4:27,,,Taurasi 25' 3PT Jump Shot (10 PTS),33 - 26,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,180,6,1,2,4:17 PM,4:11,,,Taylor P.FOUL (P3.T4),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,181,8,0,2,4:17 PM,4:11,SUB: Whalen FOR Dantas,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,182,8,0,2,4:17 PM,4:11,,,SUB: Phillips FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,183,2,1,2,4:17 PM,4:06,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,184,4,0,2,4:17 PM,4:04,,,Phillips REBOUND (Off:1 Def:3),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,185,1,1,2,4:17 PM,3:47,,,Dupree 8' Jump Shot (10 PTS) (Phillips 3 AST),35 - 26,-9,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,186,9,1,2,4:18 PM,3:40,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,188,2,1,2,4:21 PM,3:31,MISS Augustus 16' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,189,4,0,2,4:21 PM,3:30,Whalen REBOUND (Off:3 Def:0),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,190,1,1,2,4:21 PM,3:28,Whalen 15' Jump Shot (11 PTS),,,35 - 28,-7,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,191,1,1,2,4:21 PM,3:14,,,Taurasi  3PT Jump Shot (13 PTS) (Phillips 4 AST),38 - 28,-10,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,192,2,5,2,4:21 PM,3:02,MISS Whalen 1' Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,193,4,0,2,4:21 PM,3:01,Brunson REBOUND (Off:2 Def:2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,194,2,1,2,4:21 PM,2:57,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,195,4,0,2,4:21 PM,2:54,,,Bass REBOUND (Off:0 Def:1),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,196,1,5,2,4:21 PM,2:42,,,Bass 2' Layup (2 PTS) (Bonner 1 AST),40 - 28,-12,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,197,2,5,2,4:22 PM,2:25,MISS Brunson 2' Layup,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,198,4,0,2,4:22 PM,2:23,,,Dupree REBOUND (Off:0 Def:4),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,199,2,79,2,4:22 PM,2:18,,,MISS Taurasi  3PT Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,200,4,0,2,4:22 PM,2:16,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,201,8,0,2,4:22 PM,2:16,,,SUB: Griner FOR Bass,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,202,1,1,2,4:22 PM,2:03,Whalen 13' Jump Shot (13 PTS),,,40 - 30,-10,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,203,6,2,2,4:23 PM,1:42,Whalen S.FOUL (P2.T2),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,204,3,11,2,4:23 PM,1:42,,,Phillips Free Throw 1 of 2 (4 PTS),41 - 30,-11,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,206,3,12,2,4:23 PM,1:42,,,Phillips Free Throw 2 of 2 (5 PTS),42 - 30,-12,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,208,1,1,2,4:24 PM,1:26,Augustus 18' Jump Shot (6 PTS) (Moore 1 AST),,,42 - 32,-10,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,209,6,1,2,4:24 PM,1:15,Brunson P.FOUL (P1.PN),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,210,2,1,2,4:24 PM,1:12,,,MISS Phillips 18' Jump Shot,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,211,4,0,2,4:24 PM,1:11,Wright REBOUND (Off:0 Def:1),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,212,1,1,2,4:24 PM,1:03,Augustus 11' Jump Shot (8 PTS) (Wright 1 AST),,,42 - 34,-8,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,213,5,40,2,4:25 PM,0:50,,,Taurasi Out of Bounds Lost Ball Turnover (P3.T8),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,214,1,1,2,4:25 PM,0:40,Whalen 17' Jump Shot (15 PTS),,,42 - 36,-6,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,215,9,1,2,4:25 PM,0:33,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,217,1,73,2,4:28 PM,0:18,,,Dupree 2' Driving Reverse Layup (12 PTS) (Taurasi 3 AST),44 - 36,-8,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,218,2,1,2,4:28 PM,0:02,MISS Whalen 14' Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,219,4,0,2,4:28 PM,0:01,Moore REBOUND (Off:3 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,220,2,1,2,4:28 PM,0:00,MISS Moore 9' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,221,4,0,2,4:28 PM,0:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,222,13,0,2,4:28 PM,0:00,,End of 2nd Period (4:28 PM EST),,44 - 36,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,224,12,0,3,4:46 PM,10:00,,Start of 3rd Period (4:46 PM EST),,44 - 36,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,225,2,1,3,4:46 PM,9:46,MISS McCarville 18' Jump Shot,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,226,4,0,3,4:46 PM,9:44,,,Bonner REBOUND (Off:0 Def:5),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,227,2,1,3,4:46 PM,9:19,,,MISS Taurasi 28' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,228,4,0,3,4:46 PM,9:18,Brunson REBOUND (Off:2 Def:3),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,229,2,1,3,4:47 PM,9:03,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,230,4,0,3,4:47 PM,9:01,,,Taurasi REBOUND (Off:1 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,231,1,5,3,4:47 PM,8:51,,,Griner 1' Layup (6 PTS) (Bonner 2 AST),46 - 36,-10,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,232,1,1,3,4:47 PM,8:26,Augustus  3PT Jump Shot (11 PTS) (McCarville 1 AST),,,46 - 39,-7,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,233,1,5,3,4:48 PM,8:04,,,Griner 1' Layup (8 PTS) (Taylor 2 AST),48 - 39,-9,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,234,2,1,3,4:48 PM,7:55,MISS Augustus 21' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,235,4,0,3,4:48 PM,7:53,,,Griner REBOUND (Off:0 Def:1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,236,5,1,3,4:48 PM,7:36,,,Dupree Bad Pass Turnover (P3.T9),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,237,1,1,3,4:49 PM,7:20,Moore  3PT Jump Shot (16 PTS) (Whalen 3 AST),,,48 - 42,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,238,6,2,3,4:49 PM,6:56,Moore S.FOUL (P2.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,239,3,11,3,4:49 PM,6:56,,,Griner Free Throw 1 of 2 (9 PTS),49 - 42,-7,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,241,3,12,3,4:49 PM,6:56,,,Griner Free Throw 2 of 2 (10 PTS),50 - 42,-8,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,243,1,44,3,4:50 PM,6:44,McCarville 1' Reverse Layup (2 PTS) (Augustus 1 AST),,,50 - 44,-6,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,244,2,1,3,4:50 PM,6:35,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,245,4,0,3,4:50 PM,6:34,,,Taylor REBOUND (Off:1 Def:0),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,246,1,5,3,4:50 PM,6:27,,,Taylor 2' Layup (7 PTS),52 - 44,-8,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,247,2,1,3,4:51 PM,6:06,MISS Brunson 8' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,248,4,0,3,4:51 PM,6:04,,,Taylor REBOUND (Off:1 Def:1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,249,6,4,3,4:51 PM,5:42,,,Griner OFF.Foul (P2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,250,5,5,3,4:51 PM,5:42,,,Griner Foul Turnover (P2.T10),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400212,251,5,40,3,4:52 PM,5:35,McCarville Out of Bounds Lost Ball Turnover (P3.T8),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,252,2,1,3,4:52 PM,5:20,,,MISS Taurasi 12' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,253,4,0,3,4:52 PM,5:19,McCarville REBOUND (Off:0 Def:2),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,254,6,2,3,4:52 PM,5:11,,,Griner S.FOUL (P3.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,255,6,11,3,4:52 PM,5:11,,,Griner T.FOUL (P3.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1041400212,256,3,16,3,4:53 PM,5:11,Augustus Free Throw Technical (12 PTS),,,52 - 45,-7,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,258,3,11,3,4:53 PM,5:11,Augustus Free Throw 1 of 2 (13 PTS),,,52 - 46,-6,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,260,3,12,3,4:53 PM,5:11,Augustus Free Throw 2 of 2 (14 PTS),,,52 - 47,-5,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,262,6,1,3,4:54 PM,5:00,McCarville P.FOUL (P4.T2),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,263,6,1,3,4:54 PM,4:57,Whalen P.FOUL (P3.T3),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,264,9,1,3,4:54 PM,4:57,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,266,8,0,3,4:57 PM,4:57,SUB: Dantas FOR McCarville,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,267,18,0,3,4:58 PM,4:57,,Support Ruling,,,,0,263,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400212,268,1,1,3,4:59 PM,4:51,,,Taurasi 21' Jump Shot (15 PTS) (Taylor 3 AST),54 - 47,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,270,2,73,3,4:59 PM,4:33,MISS Augustus 1' Driving Reverse Layup,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,271,4,0,3,4:59 PM,4:31,,,Dupree REBOUND (Off:0 Def:5),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,272,2,1,3,4:59 PM,4:17,,,MISS Dupree 19' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,273,4,0,3,4:59 PM,4:16,Moore REBOUND (Off:3 Def:3),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,274,5,8,3,5:00 PM,4:01,Dantas 3 Second Violation Turnover (P1.T9),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400212,275,5,1,3,5:00 PM,3:43,,,Taylor Bad Pass Turnover (P1.T11),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,276,1,5,3,5:00 PM,3:29,Dantas 2' Layup (2 PTS) (Augustus 2 AST),,,54 - 49,-5,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,277,2,1,3,5:01 PM,3:05,,,MISS Taurasi 20' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,278,4,0,3,5:01 PM,3:03,Brunson REBOUND (Off:2 Def:4),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,279,1,1,3,5:01 PM,2:54,Whalen 20' Jump Shot (17 PTS) (Augustus 3 AST),,,54 - 51,-3,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,280,9,1,3,5:01 PM,2:53,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,282,8,0,3,5:02 PM,2:53,,,SUB: Phillips FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,283,1,42,3,5:03 PM,2:39,,,Phillips 1' Driving Layup (7 PTS),56 - 51,-5,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,284,1,1,3,5:03 PM,2:21,Moore  3PT Jump Shot (19 PTS) (Augustus 4 AST),,,56 - 54,-2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,285,1,79,3,5:03 PM,2:12,,,Taurasi 16' Pullup Jump Shot (17 PTS),58 - 54,-4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,286,2,1,3,5:04 PM,1:57,MISS Dantas 18' Jump Shot,,Dupree BLOCK (1 BLK),,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,287,4,0,3,5:04 PM,1:55,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,288,8,0,3,5:04 PM,1:55,SUB: Wright FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,289,2,1,3,5:04 PM,1:42,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,290,4,0,3,5:04 PM,1:40,,,Dupree REBOUND (Off:1 Def:5),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,291,1,5,3,5:04 PM,1:39,,,Dupree 1' Layup (14 PTS),60 - 54,-6,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,292,1,5,3,5:05 PM,1:19,Brunson 1' Layup (2 PTS) (Augustus 5 AST),,,60 - 56,-4,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,293,1,5,3,5:05 PM,1:00,,,Griner 1' Layup (12 PTS) (Bonner 3 AST),62 - 56,-6,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,294,6,1,3,5:05 PM,0:47,,,Phillips P.FOUL (P2.T2),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,295,2,1,3,5:05 PM,0:42,MISS Brunson 17' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,296,4,0,3,5:06 PM,0:41,,,Taurasi REBOUND (Off:1 Def:3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,297,2,1,3,5:06 PM,0:27,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,298,4,0,3,5:06 PM,0:25,Dantas REBOUND (Off:0 Def:1),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,299,2,1,3,5:06 PM,0:01,MISS Wright  3PT Jump Shot,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,300,4,0,3,5:06 PM,0:00,,,Dupree REBOUND (Off:1 Def:6),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,301,13,0,3,5:06 PM,0:00,,End of 3rd Period (5:06 PM EST),,62 - 56,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,303,12,0,4,5:09 PM,10:00,,Start of 4th Period (5:09 PM EST),,62 - 56,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,304,1,1,4,5:09 PM,9:42,,,Phillips  3PT Jump Shot (10 PTS) (Bonner 4 AST),65 - 56,-9,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,305,1,1,4,5:10 PM,9:25,Moore  3PT Jump Shot (22 PTS),,,65 - 59,-6,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,306,6,1,4,5:10 PM,9:08,Wright P.FOUL (P2.T1),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,307,2,63,4,5:11 PM,8:57,,,MISS Taurasi 14' Fadeaway Jumper,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,308,4,0,4,5:11 PM,8:56,Moore REBOUND (Off:3 Def:4),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,309,6,1,4,5:11 PM,8:54,,,Bonner P.FOUL (P2.T1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,310,1,1,4,5:11 PM,8:44,Moore  3PT Jump Shot (25 PTS) (Whalen 4 AST),,,65 - 62,-3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,311,2,46,4,5:11 PM,8:27,,,MISS Bonner 13' Running Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,312,4,0,4,5:11 PM,8:26,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,313,5,1,4,5:12 PM,8:14,Moore Bad Pass Turnover (P2.T10),,Bonner STEAL (1 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,314,6,1,4,5:12 PM,7:59,Wright P.FOUL (P3.T2),,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,315,8,0,4,5:12 PM,7:59,,,SUB: Taylor FOR Phillips,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,316,8,0,4,5:12 PM,7:59,SUB: White FOR Wright,,,,,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,317,6,27,4,5:13 PM,7:51,White Personal Block Foul (P3.T3),,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,318,2,1,4,5:13 PM,7:39,,,MISS Taurasi 25' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,319,4,0,4,5:13 PM,7:36,Moore REBOUND (Off:3 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,320,5,40,4,5:13 PM,7:30,Moore Out of Bounds Lost Ball Turnover (P3.T11),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,321,2,86,4,5:14 PM,7:10,,,MISS Griner 11' Turnaround Fadeaway Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,322,4,0,4,5:14 PM,7:09,Augustus REBOUND (Off:0 Def:1),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,323,6,2,4,5:14 PM,6:57,,,Dupree S.FOUL (P1.T2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,324,3,11,4,5:15 PM,6:57,White Free Throw 1 of 2 (1 PTS),,,65 - 63,-2,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,326,3,12,4,5:15 PM,6:57,White Free Throw 2 of 2 (2 PTS),,,65 - 64,-1,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,328,5,11,4,5:16 PM,6:33,,,Mercury Turnover: Shot Clock (T#12),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400212,329,1,5,4,5:16 PM,6:20,Augustus 1' Layup (16 PTS) (Moore 2 AST),,,65 - 66,1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,330,9,1,4,5:16 PM,6:19,,,Mercury Timeout: Regular (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,332,2,1,4,5:20 PM,6:04,,,MISS Dupree 8' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,333,4,0,4,5:20 PM,6:03,Moore REBOUND (Off:3 Def:6),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,334,1,1,4,5:20 PM,5:57,Moore 25' 3PT Jump Shot (28 PTS) (Whalen 5 AST),,,65 - 69,4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,335,2,1,4,5:21 PM,5:39,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,336,4,0,4,5:21 PM,5:38,Augustus REBOUND (Off:0 Def:2),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,338,8,0,4,5:21 PM,5:29,,,SUB: Phillips FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,339,2,47,4,5:21 PM,5:24,MISS White 13' Turnaround Jump Shot,,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,340,4,0,4,5:21 PM,5:23,,,Griner REBOUND (Off:0 Def:2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,341,1,5,4,5:22 PM,5:14,,,Griner  Layup (14 PTS) (Taurasi 4 AST),67 - 69,2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,342,2,46,4,5:22 PM,4:54,MISS White 4' Running Jump Shot,,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,343,4,0,4,5:22 PM,4:53,,,Griner REBOUND (Off:0 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,344,6,1,4,5:22 PM,4:43,Moore P.FOUL (P3.T4),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,345,8,0,4,5:22 PM,4:43,SUB: Brunson FOR White,,,,,4,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,346,1,75,4,5:23 PM,4:31,,,Taurasi 2' Driving Finger Roll Layup (19 PTS) (Griner 2 AST),69 - 69,TIE,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,347,9,1,4,5:23 PM,4:31,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,349,2,1,4,5:26 PM,4:10,MISS Moore 20' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,350,4,0,4,5:26 PM,4:09,,,Bonner REBOUND (Off:0 Def:6),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,351,5,1,4,5:26 PM,3:51,Augustus STEAL (1 STL),,Phillips Bad Pass Turnover (P2.T13),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,352,6,2,4,5:27 PM,3:39,,,Dupree S.FOUL (P2.T3),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,353,3,11,4,5:27 PM,3:39,Augustus Free Throw 1 of 2 (17 PTS),,,69 - 70,1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,355,3,12,4,5:27 PM,3:39,MISS Augustus Free Throw 2 of 2,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,357,4,0,4,5:27 PM,3:35,Brunson REBOUND (Off:3 Def:4),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,358,2,1,4,5:27 PM,3:18,MISS Moore 16' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,359,4,0,4,5:28 PM,3:16,,,Taurasi REBOUND (Off:1 Def:4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,360,1,5,4,5:28 PM,3:10,,,Dupree 1' Layup (16 PTS) (Taurasi 5 AST),71 - 70,-1,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,361,2,5,4,5:28 PM,2:54,MISS Whalen 3' Layup,,Griner BLOCK (2 BLK),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,362,4,0,4,5:28 PM,2:52,,,Dupree REBOUND (Off:1 Def:7),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,363,5,1,4,5:28 PM,2:49,Augustus STEAL (2 STL),,Dupree Bad Pass Turnover (P4.T14),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,364,2,45,4,5:28 PM,2:45,MISS Augustus 6' Jump Shot,,Griner BLOCK (3 BLK),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0
+1041400212,365,4,0,4,5:28 PM,2:43,,,Bonner REBOUND (Off:0 Def:7),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,366,5,1,4,5:28 PM,2:28,Moore STEAL (3 STL),,Griner Bad Pass Turnover (P3.T15),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,367,2,42,4,5:28 PM,2:24,MISS Whalen 1' Driving Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,368,4,0,4,5:28 PM,2:23,Augustus REBOUND (Off:1 Def:2),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,369,6,2,4,5:29 PM,2:22,,,Phillips S.FOUL (P3.T4),,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,370,3,11,4,5:29 PM,2:22,MISS Augustus Free Throw 1 of 2,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,371,4,1,4,5:29 PM,2:22,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,372,3,12,4,5:29 PM,2:22,Augustus Free Throw 2 of 2 (18 PTS),,,71 - 71,TIE,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,374,2,42,4,5:30 PM,2:08,,,MISS Taurasi 2' Driving Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,375,4,0,4,5:30 PM,2:07,McCarville REBOUND (Off:0 Def:3),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,376,6,1,4,5:30 PM,2:05,,,Bonner P.FOUL (P3.PN),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,377,3,11,4,5:30 PM,2:05,Augustus Free Throw 1 of 2 (19 PTS),,,71 - 72,1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,379,3,12,4,5:30 PM,2:05,Augustus Free Throw 2 of 2 (20 PTS),,,71 - 73,2,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,381,2,1,4,5:30 PM,1:49,,,MISS Bonner 18' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,382,4,0,4,5:31 PM,1:48,Brunson REBOUND (Off:3 Def:5),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,383,9,2,4,5:31 PM,1:47,LYNX Timeout: Short (Full 3 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,385,8,0,4,5:32 PM,1:47,,,SUB: Taylor FOR Phillips,,,5,101039,Erin Phillips,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1041400212,386,2,1,4,5:32 PM,1:29,MISS McCarville 14' Jump Shot,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,387,4,0,4,5:32 PM,1:27,,,Dupree REBOUND (Off:1 Def:8),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,388,6,1,4,5:32 PM,1:18,Moore P.FOUL (P4.PN),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1041400212,389,3,11,4,5:33 PM,1:18,,,Taurasi Free Throw 1 of 2 (20 PTS),72 - 73,1,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,391,3,12,4,5:33 PM,1:18,,,Taurasi Free Throw 2 of 2 (21 PTS),73 - 73,TIE,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,393,1,1,4,5:33 PM,1:02,Moore 20' Jump Shot (30 PTS) (Whalen 6 AST),,,73 - 75,2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,394,9,2,4,5:34 PM,1:00,,,Mercury Timeout: Short (Reg.4 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,396,1,42,4,5:35 PM,0:55,,,Dupree 1' Driving Layup (18 PTS),75 - 75,TIE,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,397,2,1,4,5:35 PM,0:34,MISS Moore 18' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,398,4,0,4,5:35 PM,0:32,McCarville REBOUND (Off:1 Def:3),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,399,9,1,4,5:35 PM,0:32,LYNX Timeout: Regular (Full 4 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,401,1,1,4,5:37 PM,0:23,Augustus 15' Jump Shot (22 PTS) (Whalen 7 AST),,,75 - 77,2,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400212,402,6,2,4,5:37 PM,0:23,,,Bonner S.FOUL (P4.PN),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,403,3,10,4,5:38 PM,0:23,Augustus Free Throw 1 of 1 (23 PTS),,,75 - 78,3,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,405,9,2,4,5:38 PM,0:23,,,Mercury Timeout: Short (Reg.4 Short 2),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400212,407,7,1,4,5:39 PM,0:23,LYNX Violation: Delay of game Violation,,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400212,408,2,1,4,5:40 PM,0:18,,,MISS Dupree 8' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,409,4,0,4,5:40 PM,0:18,Brunson REBOUND (Off:3 Def:6),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,410,6,28,4,5:40 PM,0:16,,,Taylor Personal Take Foul (P4.PN),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,411,3,11,4,5:40 PM,0:16,Moore Free Throw 1 of 2 (31 PTS),,,75 - 79,4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,413,3,12,4,5:40 PM,0:16,Moore Free Throw 2 of 2 (32 PTS),,,75 - 80,5,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,415,2,1,4,5:41 PM,0:09,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,416,4,0,4,5:41 PM,0:07,Brunson REBOUND (Off:3 Def:7),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,417,6,28,4,5:41 PM,0:05,,,Taylor Personal Take Foul (P5.PN),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400212,418,3,11,4,5:41 PM,0:05,Brunson Free Throw 1 of 2 (3 PTS),,,75 - 81,6,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,420,3,12,4,5:41 PM,0:05,Brunson Free Throw 2 of 2 (4 PTS),,,75 - 82,7,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400212,422,2,1,4,5:42 PM,0:03,,,MISS Bonner 36' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,423,4,0,4,5:42 PM,0:00,,,Taurasi REBOUND (Off:2 Def:4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,424,1,1,4,5:42 PM,0:00,,,Taurasi 4' Jump Shot (23 PTS),77 - 82,5,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1041400212,428,18,0,4,5:42 PM,0:00,,Support Ruling,,,,0,424,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400212,429,13,0,4,5:42 PM,0:00,,End of 4th Period (5:42 PM EST),,77 - 82,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

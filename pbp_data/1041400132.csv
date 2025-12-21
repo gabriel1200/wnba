@@ -1,0 +1,392 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041400132,0,12,0,1,7:07 PM,10:00,,Start of 1st Period (7:07 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,1,10,0,1,7:07 PM,10:00,Jump Ball Appel Marinelli vs. McCarville: Tip to Robinson,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0
+1041400132,2,2,79,1,7:07 PM,9:45,MISS McBride 18' Pullup Jump Shot,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,3,4,0,1,7:07 PM,9:44,,,McCarville REBOUND (Off:0 Def:1),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,4,2,1,1,7:07 PM,9:25,,,MISS Moore 16' Jump Shot,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,5,4,0,1,7:08 PM,9:23,Robinson REBOUND (Off:0 Def:1),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,6,1,86,1,7:08 PM,9:13,Adams 14' Turnaround Fadeaway (2 PTS) (Robinson 1 AST),,,0 - 2,2,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,7,5,1,1,7:08 PM,8:56,Hammon STEAL (1 STL),,McCarville Bad Pass Turnover (P1.T1),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,8,1,1,1,7:08 PM,8:48,Adams 24' 3PT Jump Shot (5 PTS) (Hammon 1 AST),,,0 - 5,5,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,9,2,1,1,7:08 PM,8:28,,,MISS Brunson 15' Jump Shot,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,10,4,0,1,7:08 PM,8:27,Appel Marinelli REBOUND (Off:0 Def:1),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,11,1,44,1,7:09 PM,8:18,Robinson 2' Reverse Layup (2 PTS),,,0 - 7,7,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,12,1,47,1,7:09 PM,8:01,,,Whalen 4' Turnaround Jump Shot (2 PTS),2 - 7,5,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,13,6,2,1,7:09 PM,8:01,Hammon S.FOUL (P1.T1),,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,14,3,10,1,7:09 PM,8:01,,,MISS Whalen Free Throw 1 of 1,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,16,4,0,1,7:09 PM,8:00,,,Whalen REBOUND (Off:1 Def:0),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,17,5,2,1,7:09 PM,7:58,McBride STEAL (1 STL),,Whalen Lost Ball Turnover (P1.T2),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,18,5,1,1,7:10 PM,7:50,Hammon Bad Pass Turnover (P1.T1),,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,19,2,1,1,7:10 PM,7:33,,,MISS Whalen 17' Jump Shot,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,20,4,0,1,7:10 PM,7:32,Robinson REBOUND (Off:0 Def:2),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,21,2,5,1,7:10 PM,7:25,MISS Hammon 1' Layup,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,22,4,0,1,7:10 PM,7:24,STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,23,2,1,1,7:10 PM,7:21,MISS McBride  3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,24,4,0,1,7:10 PM,7:20,Adams REBOUND (Off:1 Def:0),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,25,1,79,1,7:11 PM,7:13,Robinson 17' Pullup Jump Shot (4 PTS) (Adams 1 AST),,,2 - 9,7,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,26,6,1,1,7:11 PM,6:55,Appel Marinelli P.FOUL (P1.T2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,27,2,1,1,7:11 PM,6:50,,,MISS Moore 17' Jump Shot,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,28,4,0,1,7:11 PM,6:48,Hammon REBOUND (Off:0 Def:1),,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,29,1,42,1,7:11 PM,6:40,Hammon  Driving Layup (2 PTS),,,2 - 11,9,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,30,2,1,1,7:12 PM,6:19,,,MISS Whalen 12' Jump Shot,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,31,4,0,1,7:12 PM,6:18,Appel Marinelli REBOUND (Off:0 Def:2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,32,6,2,1,7:12 PM,6:08,,,Brunson S.FOUL (P1.T1),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,33,9,1,1,7:12 PM,6:08,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,34,8,0,1,7:15 PM,6:08,,,SUB: Peters FOR Brunson,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,35,8,0,1,7:15 PM,6:08,,,SUB: Wright FOR Moore,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,36,3,11,1,7:15 PM,6:08,Adams Free Throw 1 of 2 (6 PTS),,,2 - 12,10,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,38,3,12,1,7:15 PM,6:08,Adams Free Throw 2 of 2 (7 PTS),,,2 - 13,11,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,40,1,42,1,7:16 PM,5:57,,,Wright 2' Driving Layup (2 PTS) (Whalen 1 AST),4 - 13,9,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,41,6,2,1,7:16 PM,5:45,,,Whalen S.FOUL (P1.T2),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,42,3,11,1,7:16 PM,5:45,Hammon Free Throw 1 of 2 (3 PTS),,,4 - 14,10,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,44,3,12,1,7:16 PM,5:45,Hammon Free Throw 2 of 2 (4 PTS),,,4 - 15,11,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,46,2,79,1,7:17 PM,5:27,,,MISS Wright 14' Pullup Jump Shot,,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,47,4,0,1,7:17 PM,5:26,Appel Marinelli REBOUND (Off:0 Def:3),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,48,1,1,1,7:17 PM,5:19,Hammon 25' 3PT Jump Shot (7 PTS) (Robinson 2 AST),,,4 - 18,14,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,49,2,1,1,7:17 PM,4:57,,,MISS McCarville 15' Jump Shot,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,50,4,0,1,7:18 PM,4:56,Adams REBOUND (Off:1 Def:1),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,51,2,5,1,7:18 PM,4:48,MISS Robinson 3' Layup,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,52,4,0,1,7:18 PM,4:47,,,Whalen REBOUND (Off:1 Def:1),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,53,5,2,1,7:18 PM,4:45,Hammon STEAL (2 STL),,Whalen Lost Ball Turnover (P2.T3),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,54,6,1,1,7:18 PM,4:45,,,Peters P.FOUL (P1.T3),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,55,8,0,1,7:18 PM,4:45,,,SUB: Moore FOR McCarville,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,56,8,0,1,7:18 PM,4:45,,,SUB: White FOR Whalen,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,57,1,5,1,7:18 PM,4:32,Adams 1' Layup (9 PTS) (Appel Marinelli 1 AST),,,4 - 20,16,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,58,6,1,1,7:19 PM,4:22,Adams P.FOUL (P1.T3),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,59,8,0,1,7:19 PM,4:22,SUB: Perkins FOR Hammon,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,60,8,0,1,7:19 PM,4:22,SUB: Young-Malcolm FOR Adams,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,61,5,1,1,7:19 PM,4:14,Perkins STEAL (1 STL),,Wright Bad Pass Turnover (P1.T4),,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,62,1,5,1,7:19 PM,4:12,Robinson 2' Layup (6 PTS),,,4 - 22,18,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,63,9,1,1,7:19 PM,4:06,,,Lynx Timeout: Regular (Reg.2 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,64,8,0,1,7:21 PM,4:06,,,SUB: Whalen FOR Wright,,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,65,1,5,1,7:21 PM,3:57,,,Augustus 2' Layup (2 PTS) (Whalen 2 AST),6 - 22,16,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,66,5,2,1,7:22 PM,3:44,McBride Lost Ball Turnover (P1.T2),,White STEAL (1 STL),,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,67,1,5,1,7:22 PM,3:38,,,Peters  Layup (2 PTS) (Moore 1 AST),8 - 22,14,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,68,5,1,1,7:22 PM,3:15,McBride Bad Pass Turnover (P2.T3),,Moore STEAL (1 STL),,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,69,5,1,1,7:22 PM,3:12,,,Peters Bad Pass Turnover (P1.T5),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,70,6,1,1,7:23 PM,3:00,,,Peters P.FOUL (P2.T4),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,71,8,0,1,7:23 PM,3:00,,,SUB: McCarville FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,72,8,0,1,7:23 PM,3:00,,,SUB: Wright FOR Peters,,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,73,1,80,1,7:23 PM,2:49,Perkins 12' Step Back Jump Shot (2 PTS) (Young-Malcolm 1 AST),,,8 - 24,16,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,74,2,5,1,7:23 PM,2:30,,,MISS Moore 3' Layup,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,75,4,0,1,7:23 PM,2:29,Robinson REBOUND (Off:0 Def:3),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,76,2,1,1,7:24 PM,2:23,MISS McBride  3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,77,4,0,1,7:24 PM,2:22,Young-Malcolm REBOUND (Off:1 Def:0),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,78,1,5,1,7:24 PM,2:12,McBride 1' Layup (2 PTS) (Appel Marinelli 2 AST),,,8 - 26,18,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,79,2,1,1,7:24 PM,1:55,,,MISS McCarville 15' Jump Shot,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,80,4,0,1,7:24 PM,1:54,Robinson REBOUND (Off:0 Def:4),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,81,5,1,1,7:24 PM,1:45,Perkins Bad Pass Turnover (P1.T4),,Moore STEAL (2 STL),,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,82,1,1,1,7:24 PM,1:39,,,Whalen 16' Jump Shot (4 PTS) (Moore 2 AST),10 - 26,16,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,83,2,1,1,7:25 PM,1:21,MISS Robinson 14' Jump Shot,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,84,4,0,1,7:25 PM,1:19,,,Moore REBOUND (Off:0 Def:1),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,85,1,1,1,7:25 PM,1:09,,,Wright 10' Jump Shot (4 PTS) (Moore 3 AST),12 - 26,14,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,86,1,84,1,7:25 PM,0:48,McBride 3' Running Bank Shot (4 PTS) (Appel Marinelli 3 AST),,,12 - 28,16,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,87,2,86,1,7:26 PM,0:30,,,MISS Moore 13' Turnaround Fadeaway Shot,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,88,4,0,1,7:26 PM,0:29,Appel Marinelli REBOUND (Off:0 Def:4),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,89,2,1,1,7:26 PM,0:03,MISS Robinson 19' Jump Shot,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,90,4,0,1,7:26 PM,0:02,,,Moore REBOUND (Off:0 Def:2),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,91,2,46,1,7:26 PM,0:00,,,MISS Moore 38' 3PT Running Jump Shot,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,92,4,0,1,7:26 PM,0:00,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,93,13,0,1,7:26 PM,0:00,,End of 1st Period (7:26 PM EST),,12 - 28,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,95,12,0,2,7:30 PM,10:00,,Start of 2nd Period (7:30 PM EST),,12 - 28,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,96,1,1,2,7:30 PM,9:39,,,McCarville 15' Jump Shot (2 PTS) (Moore 4 AST),14 - 28,14,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,97,2,1,2,7:30 PM,9:21,MISS Adams 24' 3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,98,4,0,2,7:30 PM,9:20,,,Whalen REBOUND (Off:1 Def:2),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,99,1,5,2,7:30 PM,9:16,,,McCarville 1' Layup (4 PTS) (Whalen 3 AST),16 - 28,12,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,100,6,2,2,7:31 PM,8:56,,,Brunson S.FOUL (P2.T1),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,101,3,11,2,7:31 PM,8:56,MISS Young-Malcolm Free Throw 1 of 2,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,102,4,1,2,7:31 PM,8:56,STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,103,3,12,2,7:31 PM,8:56,Young-Malcolm Free Throw 2 of 2 (1 PTS),,,16 - 29,13,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,105,6,26,2,7:32 PM,8:43,,,Moore Offensive Charge Foul (P1.T2),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,106,5,5,2,7:32 PM,8:43,,,Moore Foul Turnover (P1.T6),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400132,109,1,1,2,7:33 PM,8:18,Perkins 20' Jump Shot (4 PTS) (Hammon 2 AST),,,16 - 31,15,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,110,6,2,2,7:33 PM,8:05,Adams S.FOUL (P2.T1),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,111,3,11,2,7:33 PM,8:05,,,Whalen Free Throw 1 of 2 (5 PTS),17 - 31,14,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,113,3,12,2,7:33 PM,8:05,,,Whalen Free Throw 2 of 2 (6 PTS),18 - 31,13,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,115,1,1,2,7:34 PM,7:54,Perkins 24' 3PT Jump Shot (7 PTS) (Hammon 3 AST),,,18 - 34,16,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,116,1,5,2,7:34 PM,7:40,,,Whalen 3' Layup (8 PTS),20 - 34,14,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,117,2,42,2,7:34 PM,7:30,MISS Hammon  Driving Layup,,Brunson BLOCK (1 BLK),,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0
+1041400132,118,4,0,2,7:34 PM,7:28,,,McCarville REBOUND (Off:0 Def:2),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,119,1,42,2,7:34 PM,7:24,,,Whalen 1' Driving Layup (10 PTS),22 - 34,12,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,120,9,1,2,7:34 PM,7:16,STARS Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,122,1,5,2,7:37 PM,7:07,Perkins 2' Layup (9 PTS) (Young-Malcolm 2 AST),,,22 - 36,14,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,123,1,5,2,7:38 PM,6:47,,,Whalen 2' Layup (12 PTS) (Moore 5 AST),24 - 36,12,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,124,2,1,2,7:38 PM,6:26,MISS Young-Malcolm 17' Jump Shot,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,125,4,0,2,7:38 PM,6:25,,,Moore REBOUND (Off:0 Def:3),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,126,1,66,2,7:39 PM,6:14,,,Augustus 8' Jump Bank Shot (4 PTS) (McCarville 1 AST),26 - 36,10,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,127,2,5,2,7:39 PM,6:04,MISS Johnson 1' Layup,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,128,4,0,2,7:39 PM,6:03,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,129,8,0,2,7:39 PM,6:03,SUB: Robinson FOR Hammon,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,130,6,2,2,7:39 PM,5:48,Adams S.FOUL (P3.T2),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,131,3,11,2,7:40 PM,5:48,,,Whalen Free Throw 1 of 2 (13 PTS),27 - 36,9,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,133,8,0,2,7:40 PM,5:48,SUB: Appel Marinelli FOR Adams,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,134,3,12,2,7:40 PM,5:48,,,Whalen Free Throw 2 of 2 (14 PTS),28 - 36,8,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,136,2,1,2,7:41 PM,5:26,MISS Johnson 11' Jump Shot,,Moore BLOCK (1 BLK),,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041400132,137,4,0,2,7:41 PM,5:22,,,McCarville REBOUND (Off:0 Def:3),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,138,2,5,2,7:41 PM,5:22,Robinson BLOCK (1 BLK),,MISS Augustus 2' Layup,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0
+1041400132,140,4,0,2,7:41 PM,5:22,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,139,8,0,2,7:41 PM,5:22,SUB: McBride FOR Johnson,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,141,10,0,2,7:41 PM,5:22,Jump Ball Robinson vs. Augustus: Tip to Whalen,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0
+1041400132,142,2,66,2,7:41 PM,5:06,,,MISS Brunson 9' Jump Bank Shot,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,143,4,0,2,7:41 PM,5:05,,,Brunson REBOUND (Off:1 Def:0),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,144,1,1,2,7:42 PM,5:01,,,Augustus 4' Jump Shot (6 PTS),30 - 36,6,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,145,6,4,2,7:42 PM,4:47,Appel Marinelli OFF.Foul (P2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,146,5,5,2,7:42 PM,4:47,Appel Marinelli Foul Turnover (P1.T5),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,0
+1041400132,147,8,0,2,7:42 PM,4:47,,,SUB: Wright FOR Whalen,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,148,8,0,2,7:42 PM,4:47,,,SUB: Peters FOR McCarville,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,149,6,2,2,7:43 PM,4:32,McBride S.FOUL (P1.T3),,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,151,3,11,2,7:43 PM,4:32,,,Moore Free Throw 1 of 2 (1 PTS),31 - 36,5,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,153,3,12,2,7:43 PM,4:32,,,Moore Free Throw 2 of 2 (2 PTS),32 - 36,4,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,155,1,79,2,7:43 PM,4:15,McBride 24' 3PT Pullup Jump Shot (7 PTS) (Robinson 3 AST),,,32 - 39,7,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,156,2,1,2,7:44 PM,3:57,,,MISS Augustus 24' 3PT Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,157,4,0,2,7:44 PM,3:56,,,Wright REBOUND (Off:1 Def:0),,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,158,2,42,2,7:44 PM,3:50,,,MISS Moore 3' Driving Layup,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,159,4,0,2,7:44 PM,3:49,Young-Malcolm REBOUND (Off:1 Def:1),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,160,2,44,2,7:44 PM,3:39,MISS Robinson 2' Reverse Layup,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,161,4,0,2,7:44 PM,3:38,Appel Marinelli REBOUND (Off:1 Def:4),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,162,2,1,2,7:44 PM,3:36,MISS Robinson 15' Jump Shot,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,163,4,0,2,7:44 PM,3:34,,,Wright REBOUND (Off:1 Def:1),,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,164,1,5,2,7:44 PM,3:15,,,Brunson 2' Layup (2 PTS) (Peters 1 AST),34 - 39,5,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,165,9,1,2,7:45 PM,3:07,STARS Timeout: Regular (Full 2 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,167,8,0,2,7:47 PM,3:07,SUB: Hammon FOR Perkins,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,168,8,0,2,7:48 PM,3:07,,,SUB: White FOR Moore,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,169,8,0,2,7:48 PM,3:07,,,SUB: Whalen FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,170,2,5,2,7:49 PM,2:53,MISS Young-Malcolm 2' Layup,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,171,4,0,2,7:49 PM,2:52,,,Peters REBOUND (Off:0 Def:1),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,172,6,27,2,7:49 PM,2:50,Robinson Personal Block Foul (P1.T4),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,173,2,79,2,7:49 PM,2:34,,,MISS Whalen 17' Pullup Jump Shot,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,174,4,0,2,7:49 PM,2:33,Appel Marinelli REBOUND (Off:1 Def:5),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,175,6,26,2,7:49 PM,2:23,McBride Offensive Charge Foul (P2.PN),,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,176,5,5,2,7:49 PM,2:23,McBride Foul Turnover (P3.T6),,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,0
+1041400132,177,1,1,2,7:50 PM,2:07,,,Peters 15' Jump Shot (4 PTS),36 - 39,3,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,178,6,1,2,7:50 PM,1:48,,,Wright P.FOUL (P1.T3),,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,179,8,0,2,7:50 PM,1:48,,,SUB: Moore FOR White,,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,180,2,66,2,7:51 PM,1:40,MISS Young-Malcolm 8' Jump Bank Shot,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,181,4,0,2,7:51 PM,1:38,Appel Marinelli REBOUND (Off:2 Def:5),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,182,1,1,2,7:51 PM,1:33,McBride 24' 3PT Jump Shot (10 PTS) (Robinson 4 AST),,,36 - 42,6,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,183,1,5,2,7:51 PM,1:11,,,Brunson 2' Layup (4 PTS) (Moore 6 AST),38 - 42,4,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,184,5,1,2,7:52 PM,0:56,Robinson Bad Pass Turnover (P1.T7),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,185,6,2,2,7:52 PM,0:45,Appel Marinelli S.FOUL (P3.PN),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,186,3,11,2,7:52 PM,0:45,,,Whalen Free Throw 1 of 2 (15 PTS),39 - 42,3,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,188,8,0,2,7:53 PM,0:45,SUB: Alexander FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,189,8,0,2,7:53 PM,0:45,,,SUB: Augustus FOR Wright,,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,190,3,12,2,7:53 PM,0:45,,,Whalen Free Throw 2 of 2 (16 PTS),40 - 42,2,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,192,5,2,2,7:53 PM,0:27,Hammon Lost Ball Turnover (P2.T8),,Whalen STEAL (1 STL),,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,193,5,1,2,7:54 PM,0:06,,,Whalen Bad Pass Turnover (P3.T7),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,194,6,2,2,7:54 PM,0:00,,,Brunson S.FOUL (P3.PN),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,195,3,11,2,7:54 PM,0:00,Robinson Free Throw 1 of 2 (7 PTS),,,40 - 43,3,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,197,3,12,2,7:54 PM,0:00,Robinson Free Throw 2 of 2 (8 PTS),,,40 - 44,4,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,199,13,0,2,7:55 PM,0:00,,End of 2nd Period (7:55 PM EST),,40 - 44,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,201,12,0,3,8:13 PM,10:00,,Start of 3rd Period (8:13 PM EST),,40 - 44,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,202,5,1,3,8:14 PM,9:50,Robinson STEAL (1 STL),,Whalen Bad Pass Turnover (P4.T8),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,203,5,2,3,8:14 PM,9:37,McBride Lost Ball Turnover (P4.T9),,Whalen STEAL (2 STL),,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,204,1,84,3,8:14 PM,9:32,,,Whalen 7' Running Bank Shot (18 PTS),42 - 44,2,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,205,2,1,3,8:14 PM,9:08,MISS Appel Marinelli 4' Jump Shot,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,206,4,0,3,8:15 PM,9:07,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,207,2,1,3,8:15 PM,8:51,,,MISS Brunson 18' Jump Shot,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,208,4,0,3,8:15 PM,8:49,,,Moore REBOUND (Off:1 Def:3),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,209,6,1,3,8:15 PM,8:44,Hammon P.FOUL (P2.T1),,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,210,6,11,3,8:15 PM,8:44,,Dan Hughes Foul:T.FOUL,,,,6,100996,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400132,211,3,16,3,8:16 PM,8:44,,,Augustus Free Throw Technical (7 PTS),43 - 44,1,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,213,1,1,3,8:16 PM,8:39,,,Moore  3PT Jump Shot (5 PTS) (McCarville 2 AST),46 - 44,-2,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,214,6,1,3,8:16 PM,8:25,,,Moore P.FOUL (P2.T1),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,215,2,79,3,8:17 PM,8:20,MISS McBride 18' Pullup Jump Shot,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,216,4,0,3,8:17 PM,8:19,Appel Marinelli REBOUND (Off:3 Def:5),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,217,1,1,3,8:17 PM,8:16,Adams  3PT Jump Shot (12 PTS) (Appel Marinelli 4 AST),,,46 - 47,1,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,218,6,27,3,8:17 PM,8:03,Appel Marinelli Personal Block Foul (P4.T2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,219,1,47,3,8:17 PM,7:58,,,Augustus 9' Turnaround Jump Shot (9 PTS) (Moore 7 AST),48 - 47,-1,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,220,6,2,3,8:18 PM,7:50,,,McCarville S.FOUL (P1.T2),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,221,3,11,3,8:18 PM,7:50,MISS Robinson Free Throw 1 of 2,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,222,4,1,3,8:18 PM,7:50,STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,223,8,0,3,8:18 PM,7:50,SUB: Young-Malcolm FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,224,3,12,3,8:18 PM,7:50,Robinson Free Throw 2 of 2 (9 PTS),,,48 - 48,TIE,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,226,6,4,3,8:18 PM,7:37,,,Augustus OFF.Foul (P1),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,227,5,5,3,8:18 PM,7:37,,,Augustus Foul Turnover (P1.T9),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400132,228,1,42,3,8:19 PM,7:25,McBride 2' Driving Layup (12 PTS) (Robinson 5 AST),,,48 - 50,2,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,229,6,26,3,8:19 PM,7:15,,,Whalen Offensive Charge Foul (P2.T3),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,230,5,5,3,8:19 PM,7:15,,,Whalen Foul Turnover (P5.T10),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400132,231,2,1,3,8:19 PM,7:04,MISS Adams  3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,232,4,0,3,8:20 PM,7:03,,,Moore REBOUND (Off:1 Def:4),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,233,5,1,3,8:20 PM,6:57,,,McCarville Bad Pass Turnover (P2.T11),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,234,6,2,3,8:20 PM,6:43,,,Augustus S.FOUL (P2.T4),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,235,3,11,3,8:21 PM,6:43,McBride Free Throw 1 of 2 (13 PTS),,,48 - 51,3,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,237,3,12,3,8:21 PM,6:43,McBride Free Throw 2 of 2 (14 PTS),,,48 - 52,4,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,240,2,5,3,8:21 PM,6:30,Adams BLOCK (1 BLK),,MISS Whalen 1' Layup,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0
+1041400132,241,4,0,3,8:21 PM,6:29,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,242,1,1,3,8:22 PM,6:18,,,McCarville 24' 3PT Jump Shot (7 PTS) (Whalen 4 AST),51 - 52,1,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,243,2,1,3,8:22 PM,6:05,MISS Adams 19' Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,244,4,0,3,8:22 PM,6:04,Young-Malcolm REBOUND (Off:2 Def:1),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,245,6,1,3,8:22 PM,6:04,,,McCarville P.FOUL (P2.PN),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,246,2,5,3,8:22 PM,5:57,MISS Robinson 1' Layup,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,248,4,0,3,8:22 PM,5:55,Adams REBOUND (Off:2 Def:1),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,247,1,5,3,8:22 PM,5:54,Adams 1' Layup (14 PTS),,,51 - 54,3,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,249,6,2,3,8:22 PM,5:54,,,McCarville S.FOUL (P3.PN),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,250,3,10,3,8:23 PM,5:54,MISS Adams Free Throw 1 of 1,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,252,4,0,3,8:23 PM,5:53,,,Brunson REBOUND (Off:1 Def:1),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,253,2,79,3,8:23 PM,5:41,,,MISS Whalen 17' Pullup Jump Shot,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,254,4,0,3,8:23 PM,5:40,Adams REBOUND (Off:2 Def:2),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,255,5,1,3,8:23 PM,5:23,Young-Malcolm Bad Pass Turnover (P1.T10),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,256,8,0,3,8:24 PM,5:23,,,SUB: Peters FOR McCarville,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,257,8,0,3,8:24 PM,5:23,,,SUB: Wright FOR Whalen,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,258,1,46,3,8:24 PM,5:10,,,Augustus 9' Running Jump Shot (11 PTS),53 - 54,1,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,259,2,5,3,8:24 PM,4:59,MISS McBride 1' Layup,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,260,4,0,3,8:24 PM,4:58,,,Peters REBOUND (Off:0 Def:2),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,261,2,1,3,8:24 PM,4:47,,,MISS Brunson 21' Jump Shot,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,262,4,0,3,8:24 PM,4:46,McBride REBOUND (Off:0 Def:1),,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,263,6,1,3,8:25 PM,4:32,,,Brunson P.FOUL (P4.PN),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,264,9,4,3,8:25 PM,4:32,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,266,8,0,3,8:28 PM,4:32,SUB: Perkins FOR Hammon,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,267,8,0,3,8:28 PM,4:32,,,SUB: White FOR Brunson,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,268,3,11,3,8:28 PM,4:32,McBride Free Throw 1 of 2 (15 PTS),,,53 - 55,2,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,270,3,12,3,8:28 PM,4:32,McBride Free Throw 2 of 2 (16 PTS),,,53 - 56,3,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,272,6,4,3,8:29 PM,4:23,,,Augustus OFF.Foul (P3),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,273,5,5,3,8:29 PM,4:23,,,Augustus Foul Turnover (P2.T12),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400132,274,1,1,3,8:29 PM,4:06,Perkins  3PT Jump Shot (12 PTS) (Young-Malcolm 3 AST),,,53 - 59,6,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,275,1,1,3,8:30 PM,3:41,,,Moore 16' Jump Shot (7 PTS) (Augustus 1 AST),55 - 59,4,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,276,2,84,3,8:30 PM,3:29,MISS McBride 10' Running Bank Shot,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,277,4,0,3,8:30 PM,3:29,,,Augustus REBOUND (Off:0 Def:1),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,278,1,1,3,8:30 PM,3:20,,,Augustus 6' Jump Shot (13 PTS),57 - 59,2,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,279,2,1,3,8:30 PM,3:03,MISS Adams 25' 3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,280,4,0,3,8:30 PM,3:02,,,Moore REBOUND (Off:1 Def:5),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,281,2,46,3,8:31 PM,2:40,Adams BLOCK (2 BLK),,MISS Augustus 4' Running Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0
+1041400132,283,4,0,3,8:31 PM,2:38,,,White REBOUND (Off:1 Def:0),,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,282,1,72,3,8:31 PM,2:38,,,White 2' Putback Layup (2 PTS),59 - 59,TIE,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,284,5,1,3,8:31 PM,2:23,Young-Malcolm Bad Pass Turnover (P2.T11),,White STEAL (2 STL),,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,285,2,1,3,8:31 PM,2:15,,,MISS White 15' Jump Shot,,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,286,4,0,3,8:31 PM,2:13,,,Peters REBOUND (Off:1 Def:2),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,287,2,1,3,8:31 PM,2:11,Young-Malcolm BLOCK (1 BLK),,MISS Peters 14' Jump Shot,,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0
+1041400132,288,4,0,3,8:31 PM,2:10,Adams REBOUND (Off:2 Def:3),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,289,2,5,3,8:31 PM,2:05,MISS McBride 2' Layup,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,290,4,0,3,8:31 PM,2:04,,,Wright REBOUND (Off:1 Def:2),,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,291,1,5,3,8:32 PM,1:54,,,Augustus 1' Layup (15 PTS) (White 1 AST),61 - 59,-2,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,292,9,1,3,8:32 PM,1:47,STARS Timeout: Regular (Full 3 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,294,8,0,3,8:34 PM,1:47,SUB: Appel Marinelli FOR Young-Malcolm,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,295,8,0,3,8:34 PM,1:47,,,SUB: McCarville FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,296,2,1,3,8:34 PM,1:33,MISS Perkins 18' Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,297,4,0,3,8:34 PM,1:32,,,McCarville REBOUND (Off:0 Def:4),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,298,1,79,3,8:35 PM,1:16,,,Moore 18' Pullup Jump Shot (9 PTS) (McCarville 3 AST),63 - 59,-4,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,299,5,1,3,8:35 PM,1:00,Appel Marinelli Bad Pass Turnover (P2.T12),,Wright STEAL (1 STL),,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,304,8,0,3,8:35 PM,1:00,,,SUB: Whalen FOR Peters,,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,300,6,1,3,8:35 PM,1:00,Appel Marinelli P.FOUL (P5.T3),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,301,8,0,3,8:35 PM,1:00,SUB: Hammon FOR McBride,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,302,8,0,3,8:35 PM,1:00,SUB: Young-Malcolm FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,303,6,2,3,8:36 PM,0:52,Perkins S.FOUL (P1.PN),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,305,3,11,3,8:36 PM,0:52,,,Whalen Free Throw 1 of 2 (19 PTS),64 - 59,-5,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,307,3,12,3,8:36 PM,0:52,,,Whalen Free Throw 2 of 2 (20 PTS),65 - 59,-6,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,310,1,5,3,8:37 PM,0:28,Adams 2' Layup (16 PTS) (Hammon 4 AST),,,65 - 61,-4,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,311,1,42,3,8:37 PM,0:07,,,Whalen 2' Driving Layup (22 PTS),67 - 61,-6,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,312,6,2,3,8:38 PM,0:01,,,Wright S.FOUL (P2.PN),,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,313,3,13,3,8:38 PM,0:01,Hammon Free Throw 1 of 3 (8 PTS),,,67 - 62,-5,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,315,3,14,3,8:38 PM,0:01,Hammon Free Throw 2 of 3 (9 PTS),,,67 - 63,-4,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,317,8,0,3,8:38 PM,0:01,SUB: Johnson FOR Robinson,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,318,3,15,3,8:38 PM,0:01,Hammon Free Throw 3 of 3 (10 PTS),,,67 - 64,-3,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,320,2,1,3,8:39 PM,0:00,,,MISS White 18' Jump Shot,,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,321,4,0,3,8:39 PM,0:00,STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,322,13,0,3,8:39 PM,0:00,,End of 3rd Period (8:39 PM EST),,67 - 64,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,324,12,0,4,8:42 PM,10:00,,Start of 4th Period (8:42 PM EST),,67 - 64,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,325,2,5,4,8:42 PM,9:41,MISS Johnson 1' Layup,,Moore BLOCK (2 BLK),,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041400132,327,4,0,4,8:42 PM,9:37,Adams REBOUND (Off:3 Def:3),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,326,2,5,4,8:42 PM,9:37,MISS Adams 3' Layup,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,328,4,0,4,8:42 PM,9:35,,,Whalen REBOUND (Off:1 Def:3),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,329,1,42,4,8:43 PM,9:24,,,Whalen 3' Driving Layup (24 PTS),69 - 64,-5,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,330,1,5,4,8:43 PM,9:08,Hammon 2' Layup (12 PTS),,,69 - 66,-3,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,331,1,5,4,8:43 PM,8:52,,,Whalen 2' Layup (26 PTS) (Augustus 2 AST),71 - 66,-5,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,332,9,1,4,8:43 PM,8:43,STARS Timeout: Regular (Full 4 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,334,8,0,4,8:46 PM,8:43,SUB: Appel Marinelli FOR Adams,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,335,1,84,4,8:47 PM,8:33,Perkins 8' Running Bank Shot (14 PTS) (Johnson 1 AST),,,71 - 68,-3,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,336,1,46,4,8:47 PM,8:11,,,Augustus 7' Running Jump Shot (17 PTS) (Brunson 1 AST),73 - 68,-5,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,337,2,79,4,8:47 PM,7:56,MISS Perkins 17' Pullup Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,338,4,0,4,8:47 PM,7:55,,,Whalen REBOUND (Off:1 Def:4),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,339,1,5,4,8:48 PM,7:39,,,Brunson 1' Layup (6 PTS) (McCarville 4 AST),75 - 68,-7,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,340,6,2,4,8:48 PM,7:16,,,Brunson S.FOUL (P5.T1),,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,341,3,11,4,8:48 PM,7:16,MISS Young-Malcolm Free Throw 1 of 2,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,342,4,1,4,8:48 PM,7:16,STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,343,8,0,4,8:49 PM,7:16,SUB: Robinson FOR Hammon,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,344,8,0,4,8:49 PM,7:16,SUB: McBride FOR Johnson,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,345,8,0,4,8:49 PM,7:16,,,SUB: Wright FOR Brunson,,,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,346,3,12,4,8:49 PM,7:16,MISS Young-Malcolm Free Throw 2 of 2,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,348,4,0,4,8:49 PM,7:15,,,Moore REBOUND (Off:1 Def:6),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,349,6,2,4,8:49 PM,7:04,Appel Marinelli S.FOUL (P6.T1),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,350,8,0,4,8:50 PM,7:04,SUB: Adams FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,351,3,11,4,8:50 PM,7:04,,,MISS McCarville Free Throw 1 of 2,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,352,4,1,4,8:50 PM,7:04,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,353,3,12,4,8:50 PM,7:04,,,McCarville Free Throw 2 of 2 (8 PTS),76 - 68,-8,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,355,2,1,4,8:50 PM,6:49,MISS Perkins 6' Jump Shot,,Moore BLOCK (3 BLK),,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041400132,356,4,0,4,8:50 PM,6:47,,,Whalen REBOUND (Off:1 Def:5),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,357,2,5,4,8:50 PM,6:43,,,MISS Augustus 2' Layup,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,359,4,0,4,8:50 PM,6:43,,,Moore REBOUND (Off:2 Def:6),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,358,1,5,4,8:50 PM,6:43,,,Moore 2' Layup (11 PTS),78 - 68,-10,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,360,6,2,4,8:50 PM,6:43,Young-Malcolm S.FOUL (P1.T2),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,361,8,0,4,8:51 PM,6:43,SUB: Alexander FOR Young-Malcolm,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,362,8,0,4,8:51 PM,6:43,,,SUB: White FOR Whalen,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,363,3,10,4,8:51 PM,6:43,,,Moore Free Throw 1 of 1 (12 PTS),79 - 68,-11,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,365,7,5,4,8:52 PM,6:26,,,McCarville Violation:Kicked Ball,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041400132,367,8,0,4,8:52 PM,6:26,SUB: Christon FOR Alexander,,,,,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,368,1,79,4,8:52 PM,6:14,McBride 24' 3PT Pullup Jump Shot (19 PTS),,,79 - 71,-8,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,369,1,46,4,8:53 PM,5:57,,,Augustus 5' Running Jump Shot (19 PTS),81 - 71,-10,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,370,1,79,4,8:53 PM,5:35,Adams 18' Pullup Jump Shot (18 PTS),,,81 - 73,-8,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,371,6,27,4,8:53 PM,5:22,Robinson Personal Block Foul (P2.T3),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,372,8,0,4,8:54 PM,5:22,,,SUB: Peters FOR McCarville,,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,373,2,1,4,8:54 PM,5:14,,,MISS Moore  3PT Jump Shot,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,374,4,0,4,8:54 PM,5:13,,,White REBOUND (Off:2 Def:0),,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,375,1,5,4,8:54 PM,5:02,,,Augustus 2' Layup (21 PTS) (Moore 8 AST),83 - 73,-10,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,376,1,79,4,8:54 PM,4:36,Robinson 16' Pullup Jump Shot (11 PTS) (Adams 2 AST),,,83 - 75,-8,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,377,1,41,4,8:55 PM,4:16,,,Moore 2' Running Layup (14 PTS),85 - 75,-10,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,378,1,5,4,8:55 PM,4:01,Adams 3' Layup (20 PTS),,,85 - 77,-8,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,379,6,2,4,8:55 PM,4:01,,,Peters S.FOUL (P3.T2),,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,380,8,0,4,8:55 PM,4:01,SUB: Hammon FOR Perkins,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,381,8,0,4,8:56 PM,4:01,SUB: Young-Malcolm FOR Christon,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,382,3,10,4,8:56 PM,4:01,Adams Free Throw 1 of 1 (21 PTS),,,85 - 78,-7,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,384,2,5,4,8:56 PM,3:50,,,MISS Peters 1' Layup,,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,385,4,0,4,8:56 PM,3:49,Hammon REBOUND (Off:0 Def:2),,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,386,2,42,4,8:56 PM,3:41,MISS Robinson  Driving Layup,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,387,4,0,4,8:56 PM,3:40,,,White REBOUND (Off:2 Def:1),,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,388,9,1,4,8:56 PM,3:32,,,Lynx Timeout: Regular (Reg.3 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,390,8,0,4,8:59 PM,3:32,SUB: Christon FOR Young-Malcolm,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,391,8,0,4,9:00 PM,3:32,,,SUB: Whalen FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,392,8,0,4,9:00 PM,3:32,,,SUB: McCarville FOR Peters,,,5,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,393,6,1,4,9:00 PM,3:24,Christon P.FOUL (P1.T4),,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,394,2,1,4,9:00 PM,3:21,,,MISS Moore 25' 3PT Jump Shot,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,395,4,0,4,9:01 PM,3:20,Adams REBOUND (Off:3 Def:4),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,396,5,1,4,9:01 PM,3:13,Hammon Bad Pass Turnover (P3.T13),,White STEAL (3 STL),,,4,100342,Becky Hammon,1611661319.0,San Antonio,Stars,SAN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,397,1,5,4,9:01 PM,2:55,,,Whalen 1' Layup (28 PTS),87 - 78,-9,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,398,6,29,4,9:01 PM,2:55,Adams Shooting Block Foul (P4.PN),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,399,3,10,4,9:01 PM,2:55,,,Whalen Free Throw 1 of 1 (29 PTS),88 - 78,-10,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,401,6,2,4,9:02 PM,2:48,,,McCarville S.FOUL (P4.T3),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,402,3,11,4,9:02 PM,2:48,Adams Free Throw 1 of 2 (22 PTS),,,88 - 79,-9,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,404,8,0,4,9:02 PM,2:48,,,SUB: Augustus FOR Wright,,,5,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,405,3,12,4,9:02 PM,2:48,Adams Free Throw 2 of 2 (23 PTS),,,88 - 80,-8,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,407,1,1,4,9:03 PM,2:23,,,Whalen 16' Jump Shot (31 PTS) (Moore 9 AST),90 - 80,-10,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,408,6,2,4,9:03 PM,2:13,,,Moore S.FOUL (P3.T4),,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1041400132,409,3,11,4,9:03 PM,2:13,McBride Free Throw 1 of 2 (20 PTS),,,90 - 81,-9,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,411,8,0,4,9:04 PM,2:13,SUB: Perkins FOR Christon,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,412,3,12,4,9:04 PM,2:13,McBride Free Throw 2 of 2 (21 PTS),,,90 - 82,-8,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,414,2,1,4,9:04 PM,1:55,,,MISS Whalen 17' Jump Shot,,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,415,4,0,4,9:04 PM,1:54,,,McCarville REBOUND (Off:1 Def:4),,,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,416,9,2,4,9:04 PM,1:49,,,Lynx Timeout: Short (Reg.3 Short 1),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,418,1,1,4,9:06 PM,1:31,,,McCarville 17' Jump Shot (10 PTS) (Moore 10 AST),92 - 82,-10,5,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041400132,419,1,79,4,9:06 PM,1:12,McBride 15' Pullup Jump Shot (23 PTS),,,92 - 84,-8,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,421,5,11,4,9:07 PM,0:44,,,Lynx Turnover: Shot Clock (T#13),,,3,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1041400132,422,2,5,4,9:07 PM,0:38,MISS Robinson 1' Layup,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,423,4,0,4,9:07 PM,0:38,,,Whalen REBOUND (Off:1 Def:6),,,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,424,6,1,4,9:08 PM,0:24,Perkins P.FOUL (P2.PN),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,425,3,11,4,9:08 PM,0:24,,,Moore Free Throw 1 of 2 (15 PTS),93 - 84,-9,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,427,3,12,4,9:08 PM,0:24,,,Moore Free Throw 2 of 2 (16 PTS),94 - 84,-10,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,429,1,1,4,9:09 PM,0:17,Perkins 24' 3PT Jump Shot (17 PTS) (Robinson 6 AST),,,94 - 87,-7,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1041400132,430,6,1,4,9:09 PM,0:16,Robinson P.FOUL (P3.PN),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041400132,431,3,11,4,9:09 PM,0:16,,,MISS White Free Throw 1 of 2,,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,432,4,1,4,9:09 PM,0:16,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,433,3,12,4,9:09 PM,0:16,,,MISS White Free Throw 2 of 2,,,5,101020,Tan White,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041400132,435,4,0,4,9:10 PM,0:15,STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,436,18,0,4,9:10 PM,0:15,,Support Ruling,,,,0,435,Carlos Rogers,,,,,0,0,,,,,,1,0,,,,,,0
+1041400132,437,18,0,4,9:12 PM,0:15,,Support Ruling,,,,0,435,Carlos Rogers,,,,,0,0,,,,,,1,0,,,,,,0
+1041400132,438,9,2,4,9:13 PM,0:15,STARS Timeout: Short (Full 4 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,440,2,1,4,9:14 PM,0:10,MISS Perkins 25' 3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,441,4,0,4,9:14 PM,0:09,Robinson REBOUND (Off:1 Def:4),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,442,2,1,4,9:14 PM,0:05,MISS Adams 25' 3PT Jump Shot,,Moore BLOCK (4 BLK),,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041400132,443,4,0,4,9:14 PM,0:04,Perkins REBOUND (Off:1 Def:0),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,444,2,1,4,9:14 PM,0:02,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,446,4,0,4,9:14 PM,0:00,McBride REBOUND (Off:1 Def:1),,,,,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,445,1,1,4,9:14 PM,0:00,McBride 12' Jump Shot (25 PTS),,,94 - 89,-5,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1041400132,447,9,2,4,9:14 PM,0:00,,,Lynx Timeout: Short (Reg.3 Short 2),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041400132,448,13,0,4,9:15 PM,0:00,,End of 4th Period (9:15 PM EST),,94 - 89,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

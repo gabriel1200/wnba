@@ -1,0 +1,363 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042300303,2,12,0,1,3:09 PM,10:00,,Start of 1st Period (3:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,4,10,0,1,3:09 PM,10:00,Jump Ball Jones vs. Wilson: Tip to Vandersloot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1
+1042300303,7,2,6,1,3:09 PM,9:38,MISS Jones 1' Driving Layup,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,8,4,0,1,3:09 PM,9:37,,,Stokes REBOUND (Off:0 Def:1),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,9,5,1,1,3:10 PM,9:26,Vandersloot STEAL (1 STL),,Gray Bad Pass Turnover (P1.T1),,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,11,2,1,1,3:10 PM,9:17,MISS Stewart 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,12,4,0,1,3:10 PM,9:16,,,Young REBOUND (Off:0 Def:1),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,13,5,40,1,3:10 PM,9:04,,,Gray Out of Bounds Lost Ball Turnover (P2.T2),,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300303,14,2,78,1,3:10 PM,8:49,MISS Ionescu 7' Floating Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,15,4,0,1,3:10 PM,8:48,,,Wilson REBOUND (Off:0 Def:1),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,16,2,66,1,3:11 PM,8:34,,,MISS Wilson 3' Jump Bank Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,17,4,0,1,3:11 PM,8:33,Laney REBOUND (Off:0 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,18,2,1,1,3:11 PM,8:24,MISS Stewart 18' Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,19,4,0,1,3:11 PM,8:23,Laney REBOUND (Off:1 Def:1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,20,1,97,1,3:11 PM,8:23,Laney 1' Tip Layup Shot (2 PTS),,,0 - 2,2,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,21,1,6,1,3:11 PM,8:02,,,Wilson 3' Driving Layup (2 PTS),2 - 2,TIE,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,22,1,98,1,3:11 PM,7:55,Stewart 2' Cutting Layup Shot (2 PTS) (Ionescu 1 AST),,,2 - 4,2,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,24,5,1,1,3:12 PM,7:36,Jones STEAL (1 STL),,Stokes Bad Pass Turnover (P1.T3),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,26,5,1,1,3:12 PM,7:31,Stewart Bad Pass Turnover (P1.T1),,Stokes STEAL (1 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,29,1,57,1,3:12 PM,7:13,,,Wilson 8' Driving Hook Shot (4 PTS),4 - 4,TIE,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,30,1,1,1,3:12 PM,6:59,Jones 24' 3PT Jump Shot (3 PTS) (Stewart 1 AST),,,4 - 7,3,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,32,1,78,1,3:13 PM,6:37,,,Young 11' Floating Jump Shot (2 PTS),6 - 7,1,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,33,2,74,1,3:13 PM,6:28,MISS Vandersloot 2' Running Reverse Layup,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,34,4,0,1,3:13 PM,6:27,,,Stokes REBOUND (Off:0 Def:2),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,35,6,2,1,3:13 PM,6:20,Vandersloot S.FOUL (P1.T1),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,37,3,11,1,3:14 PM,6:20,,,Plum Free Throw 1 of 2 (1 PTS),7 - 7,TIE,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,38,3,12,1,3:14 PM,6:20,,,Plum Free Throw 2 of 2 (2 PTS),8 - 7,-1,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,40,1,1,1,3:14 PM,6:01,Ionescu 3PT Jump Shot (3 PTS) (Vandersloot 1 AST),,,8 - 10,2,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,42,2,1,1,3:15 PM,5:47,,,MISS Young 25' 3PT Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,43,4,0,1,3:15 PM,5:46,,,Plum REBOUND (Off:1 Def:0),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,44,2,1,1,3:15 PM,5:43,,,MISS Gray 24' 3PT Jump Shot,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,45,4,0,1,3:15 PM,5:42,Vandersloot REBOUND (Off:0 Def:1),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,46,2,79,1,3:15 PM,5:28,MISS Stewart 8' Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,47,4,0,1,3:15 PM,5:27,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,49,6,2,1,3:16 PM,5:05,Vandersloot S.FOUL (P2.T2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,51,3,11,1,3:16 PM,5:05,,,Young Free Throw 1 of 2 (3 PTS),9 - 10,1,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,52,3,12,1,3:16 PM,5:05,,,Young Free Throw 2 of 2 (4 PTS),10 - 10,TIE,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,53,2,79,1,3:17 PM,4:49,MISS Vandersloot 9' Pullup Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,54,4,0,1,3:17 PM,4:48,,,Stokes REBOUND (Off:0 Def:3),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,55,2,6,1,3:17 PM,4:29,,,MISS Plum 3' Driving Layup,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,56,4,0,1,3:17 PM,4:28,Vandersloot REBOUND (Off:0 Def:2),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,57,1,98,1,3:17 PM,4:21,Jones 2' Cutting Layup Shot (5 PTS) (Ionescu 2 AST),,,10 - 12,2,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,59,9,1,1,3:17 PM,4:20,,,Aces Timeout: Regular (Reg.1 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,60,8,0,1,3:20 PM,4:20,,,SUB: Clark FOR Stokes,,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,62,2,6,1,3:21 PM,3:59,,,MISS Young 3' Driving Layup,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,63,4,0,1,3:21 PM,3:58,Ionescu REBOUND (Off:0 Def:1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,64,6,1,1,3:21 PM,3:57,,,Young P.FOUL (P1.T1),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,66,6,2,1,3:22 PM,3:49,,,Gray S.FOUL (P1.T2),,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,68,3,11,1,3:22 PM,3:49,MISS Laney Free Throw 1 of 2,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,69,4,1,1,3:22 PM,3:49,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,70,3,12,1,3:22 PM,3:49,MISS Laney Free Throw 2 of 2,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,71,4,0,1,3:22 PM,3:48,,,Gray REBOUND (Off:0 Def:1),,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,72,2,103,1,3:22 PM,3:43,,,MISS Young 25' 3PT Running Pull-Up Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,73,4,0,1,3:22 PM,3:42,Ionescu REBOUND (Off:0 Def:2),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,74,1,103,1,3:23 PM,3:33,Jones 24' 3PT Running Pull-Up Jump Shot (8 PTS) (Ionescu 3 AST),,,10 - 15,5,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,76,2,6,1,3:23 PM,3:19,Vandersloot BLOCK (1 BLK),,MISS Plum 4' Driving Layup,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1
+1042300303,78,4,0,1,3:23 PM,3:18,Vandersloot REBOUND (Off:0 Def:3),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,79,1,1,1,3:23 PM,3:11,Vandersloot 24' 3PT Jump Shot (3 PTS) (Ionescu 4 AST),,,10 - 18,8,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,81,2,79,1,3:23 PM,2:55,,,MISS Gray 19' Pullup Jump Shot,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,82,4,0,1,3:23 PM,2:54,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,88,8,0,1,3:24 PM,2:54,SUB: Johannès FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,83,6,2,1,3:24 PM,2:44,Johannès S.FOUL (P1.T3),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,86,3,11,1,3:24 PM,2:44,,,Gray Free Throw 1 of 2 (1 PTS),11 - 18,7,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,87,3,12,1,3:24 PM,2:44,,,Gray Free Throw 2 of 2 (2 PTS),12 - 18,6,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,90,6,1,1,3:25 PM,2:22,,,Plum P.FOUL (P1.T3),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,92,2,1,1,3:25 PM,2:16,MISS Jones 25' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,93,4,0,1,3:25 PM,2:15,,,Clark REBOUND (Off:0 Def:1),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,94,2,6,1,3:25 PM,2:02,Jones BLOCK (1 BLK),,MISS Wilson 2' Driving Layup,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300303,96,4,0,1,3:25 PM,2:01,Stewart REBOUND (Off:0 Def:1),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,97,1,2,1,3:26 PM,1:56,Ionescu 24' 3PT Running Jump Shot (6 PTS) (Stewart 2 AST),,,12 - 21,9,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,99,1,1,1,3:26 PM,1:37,,,Plum 3PT Jump Shot (5 PTS) (Gray 1 AST),15 - 21,6,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,101,2,1,1,3:26 PM,1:23,MISS Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,102,4,0,1,3:26 PM,1:22,,,Clark REBOUND (Off:0 Def:2),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,103,5,45,1,3:26 PM,1:15,,,Plum Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300303,104,8,0,1,3:26 PM,1:15,SUB: Dolson FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,106,2,1,1,3:27 PM,0:57,MISS Dolson 24' 3PT Jump Shot,,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,107,4,0,1,3:27 PM,0:56,,,Young REBOUND (Off:0 Def:2),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,108,1,73,1,3:27 PM,0:46,,,Plum 3' Driving Reverse Layup (7 PTS),17 - 21,4,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,110,5,1,1,3:28 PM,0:27,Dolson Bad Pass Turnover (P1.T2),,Plum STEAL (1 STL),,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,112,6,2,1,3:28 PM,0:19,Johannès S.FOUL (P2.T4),,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,114,3,11,1,3:28 PM,0:19,,,Plum Free Throw 1 of 2 (8 PTS),18 - 21,3,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,117,3,12,1,3:28 PM,0:19,,,MISS Plum Free Throw 2 of 2,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,115,8,0,1,3:28 PM,0:19,,,SUB: Stokes FOR Wilson,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,118,4,0,1,3:28 PM,0:18,Stewart REBOUND (Off:0 Def:2),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,119,2,102,1,3:29 PM,0:01,MISS Ionescu 6' Driving Floating Bank Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,120,4,0,1,3:29 PM,0:00,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300303,121,13,0,1,3:29 PM,0:00,,End of 1st Period (3:29 PM EST),,18 - 21,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300303,130,12,0,2,3:34 PM,10:00,,Start of 2nd Period (3:34 PM EST),,18 - 21,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,131,2,1,2,3:34 PM,9:37,,,MISS Young 25' 3PT Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,132,4,0,2,3:34 PM,9:36,,,Clark REBOUND (Off:1 Def:2),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,133,1,1,2,3:34 PM,9:30,,,Plum 25' 3PT Jump Shot (11 PTS) (Clark 1 AST),21 - 21,TIE,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,135,1,98,2,3:34 PM,9:17,Jones 2' Cutting Layup Shot (10 PTS) (Johannès 1 AST),,,21 - 23,2,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,137,5,45,2,3:35 PM,9:04,,,Stokes Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300303,139,1,1,2,3:36 PM,8:41,Jones 19' Jump Shot (12 PTS) (Vandersloot 2 AST),,,21 - 25,4,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,141,2,63,2,3:36 PM,8:16,,,MISS Gray 18' Fadeaway Jumper,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,142,4,0,2,3:36 PM,8:15,Vandersloot REBOUND (Off:0 Def:4),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,143,1,1,2,3:36 PM,8:07,Laney 3PT Jump Shot (5 PTS) (Vandersloot 3 AST),,,21 - 28,7,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,145,9,1,2,3:36 PM,8:06,,,Aces Timeout: Regular (Reg.2 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,146,8,0,2,3:38 PM,8:06,,,SUB: Wilson FOR Gray,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,148,6,2,2,3:40 PM,7:45,Jones S.FOUL (P1.T1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,150,3,11,2,3:40 PM,7:45,,,Young Free Throw 1 of 2 (5 PTS),22 - 28,6,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,151,8,0,2,3:40 PM,7:45,SUB: Ionescu FOR Johannès,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,152,8,0,2,3:40 PM,7:45,SUB: Stewart FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,155,3,12,2,3:41 PM,7:45,,,Young Free Throw 2 of 2 (6 PTS),23 - 28,5,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,156,1,1,2,3:41 PM,7:28,Stewart 25' 3PT Jump Shot (5 PTS) (Ionescu 5 AST),,,23 - 31,8,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,158,1,1,2,3:41 PM,7:06,,,Clark 24' 3PT Jump Shot (3 PTS) (Plum 1 AST),26 - 31,5,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,160,1,75,2,3:42 PM,6:52,Vandersloot 1' Driving Finger Roll Layup (5 PTS) (Ionescu 6 AST),,,26 - 33,7,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,162,6,2,2,3:42 PM,6:37,Thornton S.FOUL (P1.T2),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,164,3,11,2,3:43 PM,6:37,,,Wilson Free Throw 1 of 2 (5 PTS),27 - 33,6,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,165,8,0,2,3:43 PM,6:37,,,SUB: Gray FOR Stokes,,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,167,3,12,2,3:43 PM,6:37,,,Wilson Free Throw 2 of 2 (6 PTS),28 - 33,5,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,168,5,8,2,3:43 PM,6:17,Ionescu 3 Second Violation Turnover (P1.T3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,169,8,0,2,3:43 PM,6:17,SUB: Laney FOR Thornton,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,171,2,1,2,3:44 PM,6:06,,,MISS Wilson 18' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,172,4,0,2,3:44 PM,6:05,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,174,2,1,2,3:44 PM,5:53,,,MISS Clark 28' 3PT Jump Shot,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,175,4,0,2,3:44 PM,5:52,Jones REBOUND (Off:0 Def:1),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,176,2,1,2,3:44 PM,5:37,MISS Ionescu 26' 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,177,4,0,2,3:44 PM,5:36,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,179,2,80,2,3:45 PM,5:20,,,MISS Wilson 17' Step Back Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,180,4,0,2,3:45 PM,5:19,Laney REBOUND (Off:1 Def:2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,181,1,74,2,3:45 PM,5:15,Stewart 2' Running Reverse Layup (7 PTS) (Laney 1 AST),,,28 - 35,7,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,183,1,5,2,3:45 PM,4:54,,,Clark 3' Layup (5 PTS) (Young 1 AST),30 - 35,5,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,185,9,1,2,3:46 PM,4:53,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,186,2,1,2,3:49 PM,4:34,MISS Ionescu 3PT Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,187,4,0,2,3:49 PM,4:33,,,Young REBOUND (Off:0 Def:3),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,188,6,1,2,3:50 PM,4:27,Stewart P.FOUL (P1.T3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,190,2,1,2,3:50 PM,4:12,,,MISS Clark 25' 3PT Jump Shot,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,191,4,0,2,3:50 PM,4:11,Stewart REBOUND (Off:0 Def:3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,192,2,103,2,3:50 PM,4:05,MISS Vandersloot 24' 3PT Running Pull-Up Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,193,4,0,2,3:50 PM,4:04,,,Wilson REBOUND (Off:0 Def:2),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,194,2,101,2,3:51 PM,3:45,,,MISS Young 8' Driving Floating Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,195,4,0,2,3:51 PM,3:44,,,Wilson REBOUND (Off:1 Def:2),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,196,6,2,2,3:51 PM,3:43,Vandersloot S.FOUL (P3.T4),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,198,3,11,2,3:51 PM,3:43,,,Wilson Free Throw 1 of 2 (7 PTS),31 - 35,4,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,199,8,0,2,3:51 PM,3:43,SUB: Johannès FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,201,3,12,2,3:51 PM,3:43,,,Wilson Free Throw 2 of 2 (8 PTS),32 - 35,3,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,202,6,2,2,3:52 PM,3:33,,,Clark S.FOUL (P1.T1),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,204,3,11,2,3:52 PM,3:33,Jones Free Throw 1 of 2 (13 PTS),,,32 - 36,4,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,205,8,0,2,3:52 PM,3:33,,,SUB: Stokes FOR Clark,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,207,3,12,2,3:52 PM,3:33,Jones Free Throw 2 of 2 (14 PTS),,,32 - 37,5,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,208,1,101,2,3:53 PM,3:11,,,Plum 8' Driving Floating Jump Shot (13 PTS) (Young 2 AST),34 - 37,3,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,210,1,73,2,3:53 PM,2:59,Stewart 2' Driving Reverse Layup (9 PTS),,,34 - 39,5,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,211,5,40,2,3:53 PM,2:43,,,Wilson Out of Bounds Lost Ball Turnover (P1.T6),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300303,212,1,98,2,3:54 PM,2:27,Jones 2' Cutting Layup Shot (16 PTS) (Ionescu 7 AST),,,34 - 41,7,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,214,1,79,2,3:54 PM,2:11,,,Plum 5' Pullup Jump Shot (15 PTS) (Wilson 1 AST),36 - 41,5,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,216,1,86,2,3:54 PM,1:58,Jones 10' Turnaround Fadeaway (18 PTS) (Ionescu 8 AST),,,36 - 43,7,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,218,2,80,2,3:54 PM,1:47,,,MISS Plum 26' 3PT Step Back Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,219,4,0,2,3:54 PM,1:46,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,221,2,79,2,3:55 PM,1:32,MISS Ionescu 25' 3PT Pullup Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,222,4,0,2,3:55 PM,1:31,,,Stokes REBOUND (Off:0 Def:4),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,223,1,86,2,3:55 PM,1:15,,,Gray 10' Turnaround Fadeaway (4 PTS),38 - 43,5,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,224,2,1,2,3:55 PM,1:02,MISS Laney 3PT Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,225,4,0,2,3:55 PM,1:01,,,Wilson REBOUND (Off:1 Def:3),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,226,2,6,2,3:56 PM,0:43,Ionescu BLOCK (1 BLK),,MISS Plum 3' Driving Layup,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1
+1042300303,228,4,0,2,3:56 PM,0:42,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,230,8,0,2,3:56 PM,0:42,SUB: Dolson FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,232,5,11,2,3:56 PM,0:36,,,Aces Turnover: Shot Clock (T#7),,,3,1611661319,,,,,,0,0,,,,,,1,0,,,,,,1
+1042300303,233,2,1,2,3:57 PM,0:23,MISS Stewart 34' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,234,4,0,2,3:57 PM,0:22,,,Stokes REBOUND (Off:0 Def:5),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,235,1,6,2,3:57 PM,0:11,,,Gray 3' Driving Layup (6 PTS) (Young 3 AST),40 - 43,3,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,237,5,2,2,3:57 PM,0:04,Laney Lost Ball Turnover (P1.T4),,Gray STEAL (1 STL),,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,239,2,103,2,3:57 PM,0:00,,,MISS Plum 25' 3PT Running Pull-Up Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,240,4,0,2,3:57 PM,0:00,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300303,241,13,0,2,3:57 PM,0:00,,End of 2nd Period (3:57 PM EST),,40 - 43,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300303,246,12,0,3,4:15 PM,10:00,,Start of 3rd Period (4:15 PM EST),,40 - 43,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,247,2,6,3,4:15 PM,9:37,,,MISS Wilson 3' Driving Layup,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,248,4,0,3,4:15 PM,9:36,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,250,2,47,3,4:16 PM,9:29,,,MISS Plum 12' Turnaround Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,251,4,0,3,4:16 PM,9:28,Jones REBOUND (Off:0 Def:2),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,252,1,73,3,4:16 PM,9:12,Vandersloot 3' Driving Reverse Layup (7 PTS) (Stewart 3 AST),,,40 - 45,5,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,254,5,1,3,4:16 PM,8:58,Jones STEAL (2 STL),,Plum Bad Pass Turnover (P2.T8),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,256,2,103,3,4:16 PM,8:51,MISS Vandersloot 7' Running Pull-Up Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,257,4,0,3,4:16 PM,8:50,,,Wilson REBOUND (Off:1 Def:4),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,258,6,1,3,4:16 PM,8:44,Laney P.FOUL (P1.T1),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,260,2,1,3,4:17 PM,8:35,,,MISS Wilson 17' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,261,4,0,3,4:17 PM,8:34,Jones REBOUND (Off:0 Def:3),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,262,6,1,3,4:17 PM,8:19,,,Plum P.FOUL (P2.T1),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,264,2,86,3,4:18 PM,8:06,MISS Jones 14' Turnaround Fadeaway Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,265,4,0,3,4:18 PM,8:05,,,Wilson REBOUND (Off:1 Def:5),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,266,2,79,3,4:18 PM,7:51,,,MISS Gray 17' Pullup Jump Shot,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,267,4,0,3,4:18 PM,7:50,Jones REBOUND (Off:0 Def:4),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,268,1,98,3,4:18 PM,7:40,Laney 2' Cutting Layup Shot (7 PTS) (Jones 1 AST),,,40 - 47,7,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,270,2,6,3,4:18 PM,7:21,,,MISS Wilson 3' Driving Layup,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,271,4,0,3,4:19 PM,7:20,Ionescu REBOUND (Off:0 Def:3),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,272,1,41,3,4:19 PM,7:16,Stewart 3' Running Layup (11 PTS) (Ionescu 9 AST),,,40 - 49,9,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,274,9,2,3,4:19 PM,7:15,,,Aces Timeout: Short (Reg.2 Short 1),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,275,8,0,3,4:19 PM,7:15,,,SUB: Clark FOR Stokes,,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,277,5,45,3,4:20 PM,7:14,,,Clark Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,278,1,79,3,4:21 PM,7:08,Vandersloot 20' Pullup Jump Shot (9 PTS) (Ionescu 10 AST),,,40 - 51,11,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,280,6,1,3,4:21 PM,7:01,Laney P.FOUL (P2.T2),,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,282,2,98,3,4:21 PM,6:48,,,MISS Clark 2' Cutting Layup Shot,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,283,4,0,3,4:21 PM,6:47,Stewart REBOUND (Off:0 Def:4),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,284,5,45,3,4:21 PM,6:43,Vandersloot Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300303,285,1,79,3,4:22 PM,6:35,,,Gray 25' 3PT Pullup Jump Shot (9 PTS),43 - 51,8,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,286,6,2,3,4:22 PM,6:18,,,Young S.FOUL (P2.T2),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,288,3,11,3,4:23 PM,6:18,MISS Jones Free Throw 1 of 2,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,289,4,1,3,4:23 PM,6:18,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,290,3,12,3,4:23 PM,6:18,Jones Free Throw 2 of 2 (19 PTS),,,43 - 52,9,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,291,2,86,3,4:23 PM,6:00,,,MISS Gray 11' Turnaround Fadeaway Shot,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,292,4,0,3,4:23 PM,5:59,,,Wilson REBOUND (Off:2 Def:5),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,293,2,6,3,4:23 PM,5:51,,,MISS Wilson 2' Driving Layup,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,294,4,0,3,4:23 PM,5:50,Stewart REBOUND (Off:0 Def:5),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,295,5,45,3,4:23 PM,5:45,Stewart Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300303,296,2,6,3,4:24 PM,5:24,Jones BLOCK (2 BLK),,MISS Plum 3' Driving Layup,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300303,298,4,0,3,4:24 PM,5:23,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,300,5,11,3,4:24 PM,5:21,,,Aces Turnover: Shot Clock (T#10),,,3,1611661319,,,,,,0,0,,,,,,1,0,,,,,,1
+1042300303,302,6,2,3,4:25 PM,5:02,,,Wilson S.FOUL (P1.T3),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,304,3,11,3,4:25 PM,5:02,Stewart Free Throw 1 of 2 (12 PTS),,,43 - 53,10,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,305,3,12,3,4:25 PM,5:02,MISS Stewart Free Throw 2 of 2,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,306,4,0,3,4:25 PM,5:01,,,Clark REBOUND (Off:1 Def:3),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,307,2,79,3,4:26 PM,4:53,,,MISS Gray 13' Pullup Jump Shot,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,308,4,0,3,4:26 PM,4:52,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,310,9,4,3,4:26 PM,4:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,311,18,0,3,4:26 PM,4:52,,Instant Replay3rd Period (4:26 PM EST),,43 - 53,10,0,300,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300303,312,2,101,3,4:30 PM,4:38,Jones BLOCK (3 BLK),,MISS Wilson 14' Driving Floating Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300303,314,4,0,3,4:30 PM,4:37,Stewart REBOUND (Off:0 Def:6),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,315,1,44,3,4:30 PM,4:22,Jones 4' Reverse Layup (21 PTS),,,43 - 55,12,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,317,6,2,3,4:30 PM,4:11,Stewart S.FOUL (P2.T3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,319,3,11,3,4:31 PM,4:11,,,MISS Wilson Free Throw 1 of 2,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,320,4,1,3,4:31 PM,4:11,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,321,3,12,3,4:31 PM,4:11,,,Wilson Free Throw 2 of 2 (9 PTS),44 - 55,11,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,322,2,79,3,4:31 PM,3:56,MISS Stewart 26' 3PT Pullup Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,323,4,0,3,4:31 PM,3:55,,,Gray REBOUND (Off:0 Def:2),,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,324,2,1,3,4:31 PM,3:47,,,MISS Clark 25' 3PT Jump Shot,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,325,4,0,3,4:31 PM,3:46,Vandersloot REBOUND (Off:0 Def:5),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,326,1,5,3,4:32 PM,3:33,Stewart 3' Layup (14 PTS) (Jones 2 AST),,,44 - 57,13,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,328,1,80,3,4:32 PM,3:14,,,Wilson 19' Step Back Jump Shot (11 PTS) (Young 4 AST),46 - 57,11,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,330,9,2,3,4:32 PM,2:54,LIBERTY Timeout: Short (Full 1 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,331,2,78,3,4:34 PM,2:48,MISS Stewart 17' Floating Jump Shot,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,332,4,0,3,4:34 PM,2:47,,,Wilson REBOUND (Off:2 Def:6),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,333,2,103,3,4:34 PM,2:41,,,MISS Young 7' Running Pull-Up Jump Shot,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,334,4,0,3,4:34 PM,2:40,Stewart REBOUND (Off:0 Def:7),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,335,2,1,3,4:34 PM,2:30,MISS Jones 26' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,336,4,0,3,4:34 PM,2:29,,,Clark REBOUND (Off:1 Def:4),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,337,2,1,3,4:34 PM,2:10,,,MISS Plum 25' 3PT Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,338,4,0,3,4:34 PM,2:09,,,Wilson REBOUND (Off:3 Def:6),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,339,2,47,3,4:34 PM,2:01,Stewart BLOCK (1 BLK),,MISS Wilson 8' Turnaround Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300303,341,4,0,3,4:34 PM,2:00,Vandersloot REBOUND (Off:0 Def:6),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,343,1,1,3,4:35 PM,1:53,Jones 26' 3PT Jump Shot (24 PTS) (Stewart 4 AST),,,46 - 60,14,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,345,1,98,3,4:35 PM,1:30,,,Clark 1' Cutting Layup Shot (7 PTS) (Plum 2 AST),48 - 60,12,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,347,6,2,3,4:35 PM,1:20,,,Clark S.FOUL (P2.T4),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,350,8,0,3,4:36 PM,1:20,SUB: Thornton FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,351,8,0,3,4:36 PM,1:20,SUB: Johannès FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,354,3,11,3,4:36 PM,1:20,MISS Vandersloot Free Throw 1 of 2,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,355,4,1,3,4:36 PM,1:20,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,356,8,0,3,4:36 PM,1:20,,,SUB: Stokes FOR Wilson,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,358,3,12,3,4:37 PM,1:20,Vandersloot Free Throw 2 of 2 (10 PTS),,,48 - 61,13,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,359,2,6,3,4:37 PM,1:02,Stewart BLOCK (2 BLK),,MISS Plum 3' Driving Layup,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300303,361,4,0,3,4:37 PM,0:59,Stewart REBOUND (Off:0 Def:8),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,362,2,63,3,4:37 PM,0:52,MISS Stewart 10' Fadeaway Jumper,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,363,4,0,3,4:37 PM,0:49,,,Stokes REBOUND (Off:0 Def:6),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,364,2,6,3,4:37 PM,0:33,Ionescu BLOCK (2 BLK),,MISS Gray 2' Driving Layup,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1
+1042300303,366,4,0,3,4:37 PM,0:32,,,Gray REBOUND (Off:1 Def:2),,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,367,1,72,3,4:37 PM,0:31,,,Gray 2' Putback Layup (11 PTS),50 - 61,11,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,368,2,75,3,4:38 PM,0:21,MISS Stewart 3' Driving Finger Roll Layup,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,369,4,0,3,4:38 PM,0:19,Stewart REBOUND (Off:1 Def:8),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,370,2,86,3,4:38 PM,0:05,MISS Thornton 9' Turnaround Fadeaway Shot,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,371,4,0,3,4:38 PM,0:04,,,Stokes REBOUND (Off:0 Def:7),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,372,2,79,3,4:38 PM,0:00,,,MISS Plum 24' 3PT Pullup Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,373,4,0,3,4:38 PM,0:00,,,Aces Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,374,13,0,3,4:38 PM,0:00,,End of 3rd Period (4:38 PM EST),,50 - 61,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300303,379,12,0,4,4:43 PM,10:00,,Start of 4th Period (4:43 PM EST),,50 - 61,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,380,2,1,4,4:43 PM,9:43,MISS Johannès 25' 3PT Jump Shot,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,381,4,0,4,4:43 PM,9:42,,,Wilson REBOUND (Off:3 Def:7),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,382,1,47,4,4:43 PM,9:24,,,Young 5' Turnaround Jump Shot (8 PTS) (Gray 2 AST),52 - 61,9,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,384,1,1,4,4:43 PM,9:11,Thornton 3PT Jump Shot (3 PTS) (Vandersloot 4 AST),,,52 - 64,12,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,386,6,2,4,4:44 PM,8:54,Ionescu S.FOUL (P1.T1),,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,388,3,11,4,4:44 PM,8:54,,,Clark Free Throw 1 of 2 (8 PTS),53 - 64,11,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,389,8,0,4,4:44 PM,8:54,SUB: Laney FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,391,3,12,4,4:45 PM,8:54,,,Clark Free Throw 2 of 2 (9 PTS),54 - 64,10,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,392,5,1,4,4:45 PM,8:39,Johannès Bad Pass Turnover (P1.T7),,Gray STEAL (2 STL),,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,394,1,98,4,4:45 PM,8:28,,,Plum 2' Cutting Layup Shot (17 PTS) (Young 5 AST),56 - 64,8,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,396,6,2,4,4:45 PM,8:12,,,Plum S.FOUL (P3.T1),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,398,3,11,4,4:46 PM,8:12,MISS Johannès Free Throw 1 of 2,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,399,4,1,4,4:46 PM,8:12,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,400,8,0,4,4:46 PM,8:12,SUB: Stewart FOR Thornton,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,402,3,12,4,4:46 PM,8:12,Johannès Free Throw 2 of 2 (1 PTS),,,56 - 65,9,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,403,2,1,4,4:46 PM,7:59,,,MISS Plum 24' 3PT Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,404,4,0,4,4:46 PM,7:58,Stewart REBOUND (Off:1 Def:9),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,405,2,79,4,4:47 PM,7:47,MISS Vandersloot 25' 3PT Pullup Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,406,4,0,4,4:47 PM,7:46,,,Wilson REBOUND (Off:3 Def:8),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,407,2,1,4,4:47 PM,7:27,,,MISS Wilson 17' Jump Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,408,4,0,4,4:47 PM,7:26,Jones REBOUND (Off:0 Def:5),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,409,2,1,4,4:47 PM,7:14,MISS Laney 24' 3PT Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,410,4,0,4,4:47 PM,7:13,Jones REBOUND (Off:1 Def:5),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,411,5,1,4,4:47 PM,7:07,Jones Bad Pass Turnover (P1.T8),,Gray STEAL (3 STL),,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,413,2,41,4,4:47 PM,7:02,,,MISS Young 2' Running Layup,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,414,4,0,4,4:47 PM,7:01,Vandersloot REBOUND (Off:0 Def:7),,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,415,6,1,4,4:48 PM,6:47,,,Plum P.FOUL (P4.T2),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,417,8,0,4,4:48 PM,6:47,SUB: Ionescu FOR Johannès,,,,,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,419,1,101,4,4:48 PM,6:38,Stewart 8' Driving Floating Jump Shot (16 PTS) (Ionescu 11 AST),,,56 - 67,11,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,421,6,2,4,4:49 PM,6:19,Stewart S.FOUL (P3.T2),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,423,3,11,4,4:49 PM,6:19,,,Wilson Free Throw 1 of 2 (12 PTS),57 - 67,10,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,424,3,12,4,4:49 PM,6:19,,,MISS Wilson Free Throw 2 of 2,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,425,4,0,4,4:49 PM,6:18,Jones REBOUND (Off:1 Def:6),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,426,2,1,4,4:50 PM,5:57,MISS Laney 25' 3PT Jump Shot,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,427,4,0,4,4:50 PM,5:56,,,Plum REBOUND (Off:1 Def:1),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,428,1,47,4,4:50 PM,5:45,,,Wilson 9' Turnaround Jump Shot (14 PTS) (Clark 2 AST),59 - 67,8,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,430,5,1,4,4:50 PM,5:35,Stewart Bad Pass Turnover (P3.T9),,Wilson STEAL (1 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,432,6,2,4,4:50 PM,5:31,Stewart S.FOUL (P4.T3),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,434,9,1,4,4:50 PM,5:31,LIBERTY Timeout: Regular (Full 2 Short 1),,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,435,8,0,4,4:53 PM,5:31,SUB: Thornton FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,437,3,11,4,4:54 PM,5:31,,,Wilson Free Throw 1 of 2 (15 PTS),60 - 67,7,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,438,3,12,4,4:54 PM,5:31,,,Wilson Free Throw 2 of 2 (16 PTS),61 - 67,6,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,439,2,79,4,4:55 PM,5:10,MISS Ionescu 26' 3PT Pullup Jump Shot,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,440,4,0,4,4:55 PM,5:09,Thornton REBOUND (Off:1 Def:0),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,441,5,2,4,4:55 PM,4:56,Stewart Lost Ball Turnover (P4.T10),,Plum STEAL (2 STL),,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,443,6,1,4,4:55 PM,4:49,Thornton P.FOUL (P2.T4),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,445,2,1,4,4:56 PM,4:39,,,MISS Gray 24' 3PT Jump Shot,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,446,4,0,4,4:56 PM,4:38,Stewart REBOUND (Off:1 Def:10),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,447,1,86,4,4:56 PM,4:17,Stewart 11' Turnaround Fadeaway (18 PTS) (Vandersloot 5 AST),,,61 - 69,8,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,449,9,1,4,4:56 PM,4:15,,,Aces Timeout: Regular (Reg.3 Short 1),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,450,8,0,4,4:59 PM,4:15,SUB: Jones FOR Thornton,,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,451,8,0,4,4:59 PM,4:15,,,SUB: Bell FOR Gray,,,5,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,454,5,2,4,5:00 PM,4:06,Laney STEAL (1 STL),,Young Lost Ball Turnover (P1.T11),,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,456,1,41,4,5:00 PM,4:01,Laney 2' Running Layup (9 PTS),,,61 - 71,10,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,457,1,79,4,5:00 PM,3:38,,,Plum 25' 3PT Pullup Jump Shot (20 PTS),64 - 71,7,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,458,6,1,4,5:00 PM,3:26,,,Bell P.FOUL (P1.T3),,,5,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,460,1,1,4,5:01 PM,3:15,Laney 25' 3PT Jump Shot (12 PTS) (Jones 3 AST),,,64 - 74,10,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,462,5,45,4,5:01 PM,3:03,,,Plum Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300303,463,8,0,4,5:01 PM,3:03,,,SUB: Stokes FOR Bell,,,5,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,465,6,1,4,5:01 PM,2:55,,,Stokes P.FOUL (P1.T4),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1042300303,467,1,1,4,5:02 PM,2:47,Jones 26' 3PT Jump Shot (27 PTS) (Vandersloot 6 AST),,,64 - 77,13,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,469,2,3,4,5:02 PM,2:32,,,MISS Wilson 6' Hook Shot,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,470,4,0,4,5:02 PM,2:29,Jones REBOUND (Off:1 Def:7),,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,471,6,1,4,5:02 PM,2:22,,,Clark P.FOUL (P3.PN),,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,473,3,11,4,5:03 PM,2:22,Stewart Free Throw 1 of 2 (19 PTS),,,64 - 78,14,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,474,3,12,4,5:03 PM,2:22,Stewart Free Throw 2 of 2 (20 PTS),,,64 - 79,15,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,475,2,102,4,5:03 PM,2:07,,,MISS Plum 11' Driving Floating Bank Jump Shot,,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,476,4,0,4,5:03 PM,2:06,,,Stokes REBOUND (Off:1 Def:7),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,477,2,1,4,5:03 PM,2:00,,,MISS Clark 3PT Jump Shot,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,478,4,0,4,5:03 PM,1:59,,,Stokes REBOUND (Off:2 Def:7),,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,479,1,1,4,5:03 PM,1:55,,,Plum 24' 3PT Jump Shot (23 PTS) (Stokes 1 AST),67 - 79,12,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042300303,481,1,1,4,5:04 PM,1:43,Ionescu 26' 3PT Jump Shot (9 PTS) (Laney 2 AST),,,67 - 82,15,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,483,5,40,4,5:04 PM,1:31,,,Wilson Out of Bounds Lost Ball Turnover (P2.T13),,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042300303,484,8,0,4,5:04 PM,1:31,,,SUB: Bell FOR Clark,,,5,202252,Alysha Clark,1611661319.0,Las Vegas,Aces,LVA,5,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,485,8,0,4,5:04 PM,1:31,,,SUB: Coates FOR Wilson,,,5,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1628268,Alaina Coates,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,486,8,0,4,5:04 PM,1:31,,,SUB: George FOR Stokes,,,5,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,204297,Cayla George,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,492,8,0,4,5:04 PM,1:31,,,SUB: Colson FOR Young,,,5,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042300303,490,1,6,4,5:05 PM,1:23,Vandersloot 2' Driving Layup (12 PTS),,,67 - 84,17,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,491,2,79,4,5:05 PM,1:11,,,MISS Colson 14' Pullup Jump Shot,,,5,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,494,4,0,4,5:05 PM,1:10,Stewart REBOUND (Off:1 Def:11),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,506,5,40,4,5:05 PM,1:09,Stewart Out of Bounds Lost Ball Turnover (P5.T11),,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300303,495,8,0,4,5:05 PM,1:03,SUB: Thornton FOR Ionescu,,,,,4,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,496,8,0,4,5:05 PM,1:03,SUB: Willoughby FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,497,8,0,4,5:05 PM,1:03,SUB: Sabally FOR Stewart,,,,,4,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,498,8,0,4,5:05 PM,1:03,SUB: Dolson FOR Jones,,,,,4,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,499,8,0,4,5:05 PM,1:03,SUB: Johannès FOR Laney,,,,,4,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629546,Marine Johannès,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300303,505,1,79,4,5:06 PM,0:57,,,Plum 25' 3PT Pullup Jump Shot (26 PTS),70 - 84,14,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,507,1,1,4,5:06 PM,0:43,Thornton 24' 3PT Jump Shot (6 PTS) (Sabally 1 AST),,,70 - 87,17,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,4,1631055,Nyara Sabally,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300303,509,1,75,4,5:06 PM,0:35,,,Plum 2' Driving Finger Roll Layup (28 PTS),72 - 87,15,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,510,6,2,4,5:06 PM,0:35,Dolson S.FOUL (P1.PN),,,,,4,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042300303,512,3,10,4,5:07 PM,0:35,,,Plum Free Throw 1 of 1 (29 PTS),73 - 87,14,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042300303,513,6,2,4,5:07 PM,0:21,,,Plum S.FOUL (P5.PN),,,5,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300303,515,3,11,4,5:07 PM,0:21,MISS Willoughby Free Throw 1 of 2,,,,,4,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,516,4,1,4,5:07 PM,0:21,LIBERTY Rebound,,,,,2,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300303,517,3,12,4,5:07 PM,0:21,MISS Willoughby Free Throw 2 of 2,,,,,4,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300303,518,4,0,4,5:07 PM,0:20,,,Colson REBOUND (Off:0 Def:1),,,5,202641,Sydney Colson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,519,2,1,4,5:08 PM,0:10,,,MISS Bell 3PT Jump Shot,,,5,1631006,Kierstan Bell,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042300303,520,4,0,4,5:08 PM,0:09,Thornton REBOUND (Off:1 Def:1),,,,,4,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300303,521,13,0,4,5:08 PM,0:00,,End of 4th Period (5:08 PM EST),,73 - 87,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

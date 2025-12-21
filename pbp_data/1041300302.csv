@@ -1,0 +1,409 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041300302,0,12,0,1,8:08 PM,10:00,,Start of 1st Period (8:08 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,1,10,0,1,8:09 PM,10:00,Jump Ball McCarville vs. de Souza: Tip to Thomas,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0
+1041300302,2,1,46,1,8:09 PM,9:47,,,Herrington 8' Running Jump Shot (2 PTS),2 - 0,-2,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,3,2,5,1,8:09 PM,9:32,MISS M. Moore 3' Layup,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,4,4,0,1,8:09 PM,9:30,M. Moore REBOUND (Off:1 Def:0),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,5,5,1,1,8:10 PM,9:10,Brunson Bad Pass Turnover (P1.T1),,Morello STEAL (1 STL),,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,6,2,1,1,8:10 PM,9:02,,,MISS McCoughtry 6' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,7,4,0,1,8:10 PM,9:00,Whalen REBOUND (Off:0 Def:1),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,8,5,1,1,8:10 PM,8:56,Whalen Bad Pass Turnover (P1.T2),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,9,1,5,1,8:10 PM,8:44,,,de Souza 2' Layup (2 PTS) (McCoughtry 1 AST),4 - 0,-4,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,10,6,2,1,8:11 PM,8:32,,,de Souza S.FOUL (P1.T1),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,11,3,11,1,8:11 PM,8:32,Whalen Free Throw 1 of 2 (1 PTS),,,4 - 1,-3,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,13,3,12,1,8:11 PM,8:32,Whalen Free Throw 2 of 2 (2 PTS),,,4 - 2,-2,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,15,2,1,1,8:11 PM,8:17,,,MISS de Souza 8' Jump Shot,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,16,4,0,1,8:11 PM,8:15,Brunson REBOUND (Off:0 Def:1),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,17,1,5,1,8:11 PM,8:11,Whalen 2' Layup (4 PTS) (M. Moore 1 AST),,,4 - 4,TIE,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,18,2,1,1,8:12 PM,7:53,,,MISS Herrington 7' Jump Shot,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,19,4,0,1,8:12 PM,7:51,Brunson REBOUND (Off:0 Def:2),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,20,2,47,1,8:12 PM,7:38,MISS M. Moore 14' Turnaround Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,21,4,0,1,8:12 PM,7:37,,,Thomas REBOUND (Off:0 Def:1),,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,22,1,73,1,8:12 PM,7:27,,,de Souza 1' Driving Reverse Layup (4 PTS) (Thomas 1 AST),6 - 4,-2,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,23,1,78,1,8:12 PM,7:09,Augustus 10' Floating Jump Shot (2 PTS),,,6 - 6,TIE,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,24,2,1,1,8:13 PM,6:54,,,MISS Thomas 9' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,25,4,0,1,8:13 PM,6:53,McCarville REBOUND (Off:0 Def:1),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,26,6,29,1,8:13 PM,6:47,,,McCoughtry Shooting Block Foul (P1.T2),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,27,3,11,1,8:13 PM,6:47,M. Moore Free Throw 1 of 2 (1 PTS),,,6 - 7,1,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,29,3,12,1,8:13 PM,6:47,M. Moore Free Throw 2 of 2 (2 PTS),,,6 - 8,2,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,31,5,1,1,8:14 PM,6:29,,,Thomas Bad Pass Turnover (P1.T1),,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,32,2,1,1,8:14 PM,6:16,MISS McCarville 10' Jump Shot,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,34,4,0,1,8:14 PM,6:15,Brunson REBOUND (Off:1 Def:2),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,33,1,4,1,8:14 PM,6:15,Brunson 2' Tip Shot (2 PTS),,,6 - 10,4,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,35,5,1,1,8:15 PM,6:01,,,Herrington Bad Pass Turnover (P1.T2),,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,36,8,0,1,8:15 PM,6:01,SUB: Peters FOR McCarville,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,37,8,0,1,8:15 PM,6:01,SUB: Wright FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,38,2,1,1,8:15 PM,5:42,MISS Augustus 18' Jump Shot,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,39,4,0,1,8:15 PM,5:40,,,Morello REBOUND (Off:0 Def:1),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,40,2,1,1,8:15 PM,5:33,Peters BLOCK (1 BLK),,MISS McCoughtry 9' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0
+1041300302,41,4,0,1,8:15 PM,5:32,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,42,6,3,1,8:16 PM,5:32,,,McCoughtry L.B.FOUL (P2.T3),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,43,1,5,1,8:16 PM,5:19,Peters 1' Layup (2 PTS) (Augustus 1 AST),,,6 - 12,6,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,44,2,1,1,8:16 PM,5:09,M. Moore BLOCK (1 BLK),,MISS McCoughtry 4' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0
+1041300302,45,4,0,1,8:16 PM,5:08,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,46,8,0,1,8:16 PM,5:08,,,SUB: Hayes FOR McCoughtry,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,47,6,2,1,8:17 PM,5:01,Peters S.FOUL (P1.T1),,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,48,3,11,1,8:17 PM,5:01,,,Herrington Free Throw 1 of 2 (3 PTS),7 - 12,5,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,50,3,12,1,8:17 PM,5:01,,,Herrington Free Throw 2 of 2 (4 PTS),8 - 12,4,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,52,1,1,1,8:18 PM,4:44,Wright 12' Jump Shot (2 PTS),,,8 - 14,6,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,53,2,1,1,8:18 PM,4:22,,,MISS de Souza 18' Jump Shot,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,54,4,0,1,8:18 PM,4:21,M. Moore REBOUND (Off:1 Def:1),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,55,1,1,1,8:18 PM,4:10,Augustus 18' Jump Shot (4 PTS) (Brunson 1 AST),,,8 - 16,8,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,56,9,1,1,8:18 PM,4:04,,,Dream Timeout: Regular (Reg.1 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,58,8,0,1,8:21 PM,4:04,SUB: Whalen FOR M. Moore,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,59,1,1,1,8:22 PM,3:53,,,Hayes 3PT Jump Shot (3 PTS) (de Souza 1 AST),11 - 16,5,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,60,1,1,1,8:22 PM,3:34,Brunson 18' Jump Shot (4 PTS) (Augustus 2 AST),,,11 - 18,7,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,61,2,47,1,8:22 PM,3:19,,,MISS Morello 11' Turnaround Jump Shot,,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,62,4,0,1,8:22 PM,3:18,Whalen REBOUND (Off:0 Def:2),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,63,5,1,1,8:23 PM,3:09,Wright Bad Pass Turnover (P1.T3),,Herrington STEAL (1 STL),,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,64,6,1,1,8:23 PM,3:07,Peters P.FOUL (P2.T2),,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,65,2,1,1,8:23 PM,2:52,,,MISS Hayes 24' 3PT Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,66,4,0,1,8:23 PM,2:50,Brunson REBOUND (Off:1 Def:3),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,67,5,4,1,8:23 PM,2:45,Whalen Traveling Turnover (P2.T4),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041300302,68,8,0,1,8:23 PM,2:45,SUB: McCarville FOR Peters,,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,69,6,2,1,8:24 PM,2:28,Augustus S.FOUL (P1.T3),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,70,3,11,1,8:24 PM,2:28,,,MISS Herrington Free Throw 1 of 2,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,72,4,0,1,8:24 PM,2:28,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,71,3,12,1,8:24 PM,2:28,,,Herrington Free Throw 2 of 2 (5 PTS),12 - 18,6,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,74,5,1,1,8:25 PM,2:17,Whalen Bad Pass Turnover (P3.T5),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,75,1,79,1,8:25 PM,2:04,,,Thomas 16' Pullup Jump Shot (2 PTS),14 - 18,4,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,76,1,1,1,8:26 PM,1:47,McCarville 4' Jump Shot (2 PTS) (Wright 1 AST),,,14 - 20,6,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,77,6,1,1,8:26 PM,1:33,Brunson P.FOUL (P1.T4),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,78,8,0,1,8:26 PM,1:33,,,SUB: Bentley FOR Thomas,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,79,8,0,1,8:26 PM,1:33,SUB: M. Moore FOR Augustus,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,80,2,1,1,8:26 PM,1:27,,,MISS Bentley 18' Jump Shot,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,81,4,0,1,8:26 PM,1:25,McCarville REBOUND (Off:0 Def:2),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,82,6,2,1,8:27 PM,1:20,,,de Souza S.FOUL (P2.T4),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,83,3,11,1,8:27 PM,1:20,Whalen Free Throw 1 of 2 (5 PTS),,,14 - 21,7,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,85,8,0,1,8:27 PM,1:20,,,SUB: Willingham FOR de Souza,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,86,3,12,1,8:27 PM,1:20,MISS Whalen Free Throw 2 of 2,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,88,4,0,1,8:27 PM,1:20,,,Morello REBOUND (Off:0 Def:2),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,89,6,4,1,8:27 PM,1:15,,,Willingham OFF.Foul (P1),,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,90,5,5,1,8:27 PM,1:15,,,Willingham Foul Turnover (P1.T3),,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300302,91,1,1,1,8:28 PM,1:05,McCarville 18' Jump Shot (4 PTS) (Whalen 1 AST),,,14 - 23,9,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,92,2,1,1,8:28 PM,0:50,Brunson BLOCK (1 BLK),,MISS Hayes 5' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0
+1041300302,93,4,0,1,8:28 PM,0:49,Brunson REBOUND (Off:1 Def:4),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,94,1,5,1,8:28 PM,0:46,Whalen 1' Layup (7 PTS) (Brunson 2 AST),,,14 - 25,11,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,95,5,2,1,8:28 PM,0:34,Wright STEAL (1 STL),,Hayes Lost Ball Turnover (P1.T4),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,96,6,1,1,8:28 PM,0:33,,,Herrington P.FOUL (P1.PN),,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,97,3,11,1,8:29 PM,0:33,MISS Whalen Free Throw 1 of 2,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,98,4,1,1,8:29 PM,0:33,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,99,3,12,1,8:29 PM,0:33,Whalen Free Throw 2 of 2 (8 PTS),,,14 - 26,12,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,101,1,1,1,8:30 PM,0:20,,,Bentley 20' Jump Shot (2 PTS),16 - 26,10,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,102,6,2,1,8:30 PM,0:02,,,Morello S.FOUL (P1.PN),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,103,3,11,1,8:30 PM,0:02,Whalen Free Throw 1 of 2 (9 PTS),,,16 - 27,11,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,105,3,12,1,8:30 PM,0:02,MISS Whalen Free Throw 2 of 2,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,107,4,0,1,8:31 PM,0:01,Brunson REBOUND (Off:2 Def:4),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,108,2,5,1,8:31 PM,0:01,MISS Brunson 2' Layup,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,110,4,0,1,8:31 PM,0:00,Brunson REBOUND (Off:3 Def:4),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,109,2,4,1,8:31 PM,0:00,MISS Brunson 1' Tip Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,111,4,0,1,8:31 PM,0:00,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,112,13,0,1,8:31 PM,0:00,,End of 1st Period (8:31 PM EST),,16 - 27,11,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,114,12,0,2,8:34 PM,10:00,,Start of 2nd Period (8:34 PM EST),,16 - 27,11,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,115,2,45,2,8:34 PM,9:46,MISS Wright 5' Jump Shot,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,116,4,0,2,8:34 PM,9:43,,,Bentley REBOUND (Off:0 Def:1),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,117,2,1,2,8:35 PM,9:33,,,MISS McCoughtry 3PT Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,118,4,0,2,8:35 PM,9:31,Whalen REBOUND (Off:0 Def:3),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,119,1,1,2,8:35 PM,9:21,McCarville 16' Jump Shot (6 PTS) (Whalen 2 AST),,,16 - 29,13,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,120,1,1,2,8:35 PM,9:10,,,Bentley 19' Jump Shot (4 PTS),18 - 29,11,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,121,5,1,2,8:35 PM,8:54,McCarville Bad Pass Turnover (P1.T6),,Morello STEAL (2 STL),,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,122,2,1,2,8:35 PM,8:43,,,MISS Hayes 5' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,123,4,0,2,8:35 PM,8:42,McCarville REBOUND (Off:0 Def:3),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,125,8,0,2,8:36 PM,8:34,SUB: Augustus FOR Wright,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,126,2,47,2,8:36 PM,8:28,MISS Whalen 12' Turnaround Jump Shot,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,127,4,0,2,8:36 PM,8:27,,,Hayes REBOUND (Off:0 Def:1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,128,2,1,2,8:36 PM,8:09,,,MISS Hayes 18' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,129,4,0,2,8:36 PM,8:07,Brunson REBOUND (Off:3 Def:5),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,130,1,42,2,8:36 PM,8:02,Brunson 1' Driving Layup (6 PTS),,,18 - 31,13,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,131,1,1,2,8:37 PM,7:56,,,Morello 3' Jump Shot (2 PTS) (Bentley 1 AST),20 - 31,11,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,5,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,132,6,4,2,8:37 PM,7:35,McCarville OFF.Foul (P1),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,133,5,5,2,8:37 PM,7:35,McCarville Foul Turnover (P2.T7),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041300302,134,8,0,2,8:37 PM,7:35,SUB: Wright FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,135,8,0,2,8:37 PM,7:35,,,SUB: de Souza FOR Morello,,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,136,2,77,2,8:38 PM,7:15,,,MISS Bentley 4' Driving Jump Shot,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,137,4,0,2,8:38 PM,7:14,,,Willingham REBOUND (Off:1 Def:0),,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,138,2,1,2,8:38 PM,7:02,,,MISS McCoughtry 20' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,139,4,0,2,8:38 PM,7:01,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,140,6,3,2,8:38 PM,7:01,,,de Souza L.B.FOUL (P3.T1),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,141,7,1,2,8:38 PM,7:01,,,Dream Violation: Delay of game Violation,,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300302,143,6,1,2,8:38 PM,6:54,,,Bentley P.FOUL (P1.T2),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,144,1,42,2,8:39 PM,6:43,Brunson 2' Driving Layup (8 PTS),,,20 - 33,13,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,145,2,79,2,8:39 PM,6:33,,,MISS McCoughtry 16' Pullup Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,146,4,0,2,8:39 PM,6:31,M. Moore REBOUND (Off:1 Def:2),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,147,5,2,2,8:39 PM,6:17,Augustus Lost Ball Turnover (P1.T8),,Bentley STEAL (1 STL),,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,148,2,42,2,8:39 PM,6:12,,,MISS Bentley 2' Driving Layup,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,149,4,0,2,8:39 PM,6:11,Brunson REBOUND (Off:3 Def:6),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,150,2,1,2,8:40 PM,5:56,MISS Wright 16' Jump Shot,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,151,4,0,2,8:40 PM,5:54,,,de Souza REBOUND (Off:0 Def:1),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,152,2,42,2,8:40 PM,5:47,,,MISS Hayes 2' Driving Layup,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,153,4,0,2,8:40 PM,5:45,Augustus REBOUND (Off:0 Def:1),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,154,1,78,2,8:40 PM,5:37,Augustus 12' Floating Jump Shot (6 PTS),,,20 - 35,15,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,155,9,1,2,8:40 PM,5:36,,,Dream Timeout: Regular (Reg.2 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,160,8,0,2,8:40 PM,5:36,,,SUB: Morello FOR de Souza,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,164,8,0,2,8:40 PM,5:36,SUB: Whalen FOR Brunson,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,165,8,0,2,8:40 PM,5:36,SUB: Peters FOR McCarville,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,161,1,1,2,8:44 PM,5:18,,,McCoughtry 15' Jump Shot (2 PTS),22 - 35,13,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,162,5,1,2,8:44 PM,5:02,Whalen Bad Pass Turnover (P4.T9),,McCoughtry STEAL (1 STL),,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,163,6,9,2,8:44 PM,5:02,M. Moore C.P.FOUL (P1.T1),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,166,18,0,2,8:45 PM,5:02,,Support Ruling,,,,,163,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300302,167,3,25,2,8:47 PM,5:02,,,McCoughtry Free Throw Clear Path 1 of 2 (3 PTS),23 - 35,12,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,169,3,26,2,8:47 PM,5:02,,,McCoughtry Free Throw Clear Path 2 of 2 (4 PTS),24 - 35,11,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,171,1,1,2,8:48 PM,4:50,,,Morello 8' Jump Shot (4 PTS) (McCoughtry 2 AST),26 - 35,9,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,172,6,2,2,8:48 PM,4:50,Peters S.FOUL (P3.T2),,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,173,8,0,2,8:48 PM,4:50,SUB: Brunson FOR Peters,,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,174,3,10,2,8:48 PM,4:50,,,Morello Free Throw 1 of 1 (5 PTS),27 - 35,8,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,176,2,1,2,8:49 PM,4:35,MISS Augustus 9' Jump Shot,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,177,4,0,2,8:49 PM,4:34,Augustus REBOUND (Off:1 Def:1),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,178,6,2,2,8:49 PM,4:33,,,Willingham S.FOUL (P2.T3),,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,179,3,11,2,8:49 PM,4:33,MISS Augustus Free Throw 1 of 2,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,180,4,1,2,8:49 PM,4:33,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,181,8,0,2,8:49 PM,4:33,,,SUB: Herrington FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,182,3,12,2,8:49 PM,4:33,Augustus Free Throw 2 of 2 (7 PTS),,,27 - 36,9,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,184,2,1,2,8:50 PM,4:21,,,MISS Bentley 19' Jump Shot,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,185,4,0,2,8:50 PM,4:19,Wright REBOUND (Off:0 Def:1),,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,186,1,5,2,8:50 PM,4:06,Whalen Layup (11 PTS) (M. Moore 2 AST),,,27 - 38,11,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,187,1,1,2,8:50 PM,3:50,,,Bentley 24' 3PT Jump Shot (7 PTS) (McCoughtry 3 AST),30 - 38,8,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,188,1,42,2,8:50 PM,3:33,Augustus 2' Driving Layup (9 PTS),,,30 - 40,10,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,189,6,26,2,8:51 PM,3:28,,,Bentley Offensive Charge Foul (P2),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,190,5,5,2,8:51 PM,3:28,,,Bentley Foul Turnover (P1.T5),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300302,191,8,0,2,8:51 PM,3:28,,,SUB: Thomas FOR Bentley,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,192,8,0,2,8:51 PM,3:28,SUB: McCarville FOR Wright,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,193,6,1,2,8:51 PM,3:12,,,McCoughtry P.FOUL (P3.T4),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,194,8,0,2,8:51 PM,3:12,,,SUB: Hayes FOR McCoughtry,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,195,1,1,2,8:52 PM,3:05,Augustus 17' Jump Shot (11 PTS) (Whalen 3 AST),,,30 - 42,12,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,196,2,1,2,8:52 PM,2:45,,,MISS Herrington 12' Jump Shot,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,197,4,0,2,8:52 PM,2:44,Augustus REBOUND (Off:1 Def:2),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,198,1,5,2,8:52 PM,2:36,Whalen Layup (13 PTS) (Augustus 3 AST),,,30 - 44,14,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,199,6,2,2,8:53 PM,2:22,Brunson S.FOUL (P2.T3),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,200,9,1,2,8:53 PM,2:22,,Timeout: Regular,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,202,3,11,2,8:56 PM,2:22,,,Hayes Free Throw 1 of 2 (4 PTS),31 - 44,13,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,204,3,12,2,8:56 PM,2:22,,,Hayes Free Throw 2 of 2 (5 PTS),32 - 44,12,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,206,1,1,2,8:56 PM,2:02,Augustus 4' Jump Shot (13 PTS) (M. Moore 3 AST),,,32 - 46,14,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,207,2,1,2,8:57 PM,1:48,,,MISS Thomas 6' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,208,4,0,2,8:57 PM,1:46,,,Morello REBOUND (Off:1 Def:2),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,209,1,5,2,8:57 PM,1:45,,,Morello 1' Layup (7 PTS),34 - 46,12,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,210,2,1,2,8:57 PM,1:31,MISS Brunson 16' Jump Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,211,4,0,2,8:57 PM,1:31,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,212,6,3,2,8:57 PM,1:31,,,Herrington L.B.FOUL (P2.PN),,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,213,3,11,2,8:57 PM,1:31,M. Moore Free Throw 1 of 2 (3 PTS),,,34 - 47,13,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,215,8,0,2,8:58 PM,1:31,SUB: Wright FOR Augustus,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,216,3,12,2,8:58 PM,1:31,M. Moore Free Throw 2 of 2 (4 PTS),,,34 - 48,14,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,218,2,1,2,8:58 PM,1:12,,,MISS Willingham 24' 3PT Jump Shot,,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,219,4,0,2,8:58 PM,1:11,M. Moore REBOUND (Off:1 Def:3),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,220,2,1,2,8:58 PM,1:00,MISS Whalen 6' Jump Shot,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,221,4,0,2,8:58 PM,0:59,,,Morello REBOUND (Off:1 Def:3),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,222,2,79,2,8:59 PM,0:40,,,MISS Thomas 14' Pullup Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,223,4,0,2,8:59 PM,0:39,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,224,6,3,2,8:59 PM,0:39,,,Morello L.B.FOUL (P2.PN),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,225,3,11,2,8:59 PM,0:39,MISS McCarville Free Throw 1 of 2,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,226,4,1,2,8:59 PM,0:39,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,227,3,12,2,8:59 PM,0:39,McCarville Free Throw 2 of 2 (7 PTS),,,34 - 49,15,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,229,1,66,2,9:00 PM,0:21,,,Thomas 12' Jump Bank Shot (4 PTS),36 - 49,13,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,230,1,5,2,9:00 PM,0:00,McCarville 1' Layup (9 PTS) (Whalen 4 AST),,,36 - 51,15,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,231,13,0,2,9:00 PM,0:00,,End of 2nd Period (9:00 PM EST),,36 - 51,15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,233,12,0,3,9:19 PM,10:00,,Start of 3rd Period (9:19 PM EST),,36 - 51,15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,234,1,5,3,9:19 PM,9:47,M. Moore 1' Layup (6 PTS) (McCarville 1 AST),,,36 - 53,17,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,235,5,1,3,9:19 PM,9:30,,,de Souza Bad Pass Turnover (P1.T6),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,236,5,1,3,9:20 PM,9:16,Augustus Bad Pass Turnover (P2.T10),,Thomas STEAL (1 STL),,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,237,6,2,3,9:20 PM,9:14,Brunson S.FOUL (P3.T1),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,238,3,11,3,9:20 PM,9:14,,,MISS Thomas Free Throw 1 of 2,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,239,4,1,3,9:20 PM,9:14,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,240,3,12,3,9:20 PM,9:14,,,Thomas Free Throw 2 of 2 (5 PTS),37 - 53,16,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,242,2,1,3,9:20 PM,9:01,MISS M. Moore 17' Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,243,4,0,3,9:20 PM,9:00,,,de Souza REBOUND (Off:0 Def:2),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,244,2,1,3,9:21 PM,8:51,,,MISS Thomas 19' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,245,4,0,3,9:21 PM,8:49,M. Moore REBOUND (Off:1 Def:4),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,246,6,1,3,9:21 PM,8:49,,,Morello P.FOUL (P3.T1),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,247,5,2,3,9:21 PM,8:35,Augustus Lost Ball Turnover (P3.T11),,Morello STEAL (3 STL),,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,248,2,1,3,9:21 PM,8:26,,,MISS Herrington 18' Jump Shot,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,249,4,0,3,9:21 PM,8:24,M. Moore REBOUND (Off:1 Def:5),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,250,5,1,3,9:21 PM,8:18,Whalen Bad Pass Turnover (P5.T12),,Herrington STEAL (2 STL),,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,251,1,1,3,9:21 PM,8:12,,,McCoughtry 21' Jump Shot (6 PTS),39 - 53,14,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,252,9,1,3,9:22 PM,8:10,LYNX Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,254,18,1,3,9:22 PM,8:10,,Overturn Ruling,,,,,251,Sean Elliott,,,,,0,0,,,,,,1,0,,,,,,0
+1041300302,256,2,1,3,9:26 PM,7:52,MISS M. Moore 18' Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,257,4,0,3,9:26 PM,7:50,McCarville REBOUND (Off:1 Def:3),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,258,6,1,3,9:26 PM,7:39,,,McCoughtry P.FOUL (P4.T2),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,259,2,1,3,9:26 PM,7:32,MISS Brunson 12' Jump Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,260,4,0,3,9:26 PM,7:30,,,Morello REBOUND (Off:1 Def:4),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,261,1,5,3,9:27 PM,7:12,,,de Souza 2' Layup (6 PTS) (McCoughtry 4 AST),41 - 53,12,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,262,1,1,3,9:27 PM,6:51,Brunson 17' Jump Shot (10 PTS) (McCarville 2 AST),,,41 - 55,14,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,263,2,5,3,9:27 PM,6:37,,,MISS de Souza 2' Layup,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,264,4,0,3,9:27 PM,6:36,McCarville REBOUND (Off:1 Def:4),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,265,5,2,3,9:27 PM,6:34,McCarville Lost Ball Turnover (P3.T13),,Herrington STEAL (3 STL),,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,266,8,0,3,9:27 PM,6:34,SUB: Wright FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,268,7,4,3,9:28 PM,6:34,,,McCoughtry Violation:Jump Ball,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300302,269,5,18,3,9:28 PM,6:34,,,McCoughtry Jump Ball Violation Turnover (P1.T7),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,267,10,0,3,9:28 PM,6:34,,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,2,1611661324,,,,,,0
+1041300302,272,2,45,3,9:28 PM,6:21,MISS Brunson 8' Jump Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,271,4,0,3,9:28 PM,6:20,,,de Souza REBOUND (Off:0 Def:3),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,273,5,1,3,9:29 PM,6:07,,,Thomas Bad Pass Turnover (P2.T8),,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,274,8,0,3,9:29 PM,6:07,SUB: Peters FOR McCarville,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,276,6,4,3,9:29 PM,5:52,Wright OFF.Foul (P1),,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,277,5,5,3,9:29 PM,5:52,Wright Foul Turnover (P2.T14),,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041300302,278,8,0,3,9:29 PM,5:52,,,SUB: Hayes FOR Morello,,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,280,1,42,3,9:30 PM,5:41,,,Thomas 3' Driving Layup (7 PTS),43 - 55,12,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,282,1,1,3,9:30 PM,5:27,Augustus 19' Jump Shot (15 PTS),,,43 - 57,14,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,283,2,46,3,9:30 PM,5:11,,,MISS Hayes 7' Running Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,284,4,0,3,9:30 PM,5:09,Augustus REBOUND (Off:1 Def:3),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,285,7,5,3,9:30 PM,5:06,,,McCoughtry Violation:Kicked Ball,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300302,286,6,1,3,9:31 PM,5:00,,,Hayes P.FOUL (P1.T3),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,287,8,0,3,9:31 PM,5:00,SUB: Whalen FOR Augustus,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,288,8,0,3,9:31 PM,5:00,,,SUB: Bentley FOR Thomas,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,289,5,4,3,9:31 PM,4:55,M. Moore Traveling Turnover (P1.T15),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041300302,290,1,42,3,9:32 PM,4:40,,,McCoughtry 1' Driving Layup (8 PTS) (Hayes 1 AST),45 - 57,12,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,291,2,5,3,9:32 PM,4:26,MISS Whalen 1' Layup,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,292,4,0,3,9:32 PM,4:25,,,de Souza REBOUND (Off:0 Def:4),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,293,1,1,3,9:32 PM,4:13,,,Hayes 11' Jump Shot (7 PTS) (Herrington 1 AST),47 - 57,10,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,294,2,42,3,9:32 PM,3:55,MISS Brunson 2' Driving Layup,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,295,4,0,3,9:33 PM,3:53,,,de Souza REBOUND (Off:0 Def:5),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,296,2,79,3,9:33 PM,3:47,,,MISS McCoughtry 13' Pullup Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,297,4,0,3,9:33 PM,3:46,M. Moore REBOUND (Off:1 Def:6),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,298,6,2,3,9:33 PM,3:41,,,Bentley S.FOUL (P3.T4),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,299,3,11,3,9:33 PM,3:41,Whalen Free Throw 1 of 2 (14 PTS),,,47 - 58,11,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,302,8,0,3,9:33 PM,3:41,SUB: McCarville FOR Brunson,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,303,3,12,3,9:33 PM,3:41,MISS Whalen Free Throw 2 of 2,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,305,4,0,3,9:34 PM,3:41,,,de Souza REBOUND (Off:0 Def:6),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,306,5,1,3,9:34 PM,3:29,Wright STEAL (2 STL),,Hayes Bad Pass Turnover (P2.T9),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,307,1,44,3,9:34 PM,3:12,Peters Reverse Layup (4 PTS) (McCarville 3 AST),,,47 - 60,13,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,308,2,1,3,9:34 PM,3:00,,,MISS McCoughtry 24' 3PT Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,309,4,0,3,9:34 PM,2:59,McCarville REBOUND (Off:1 Def:5),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,310,1,42,3,9:35 PM,2:43,M. Moore 1' Driving Layup (8 PTS),,,47 - 62,15,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,311,9,1,3,9:35 PM,2:42,,,Dream Timeout: Regular (Reg.3 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,313,8,0,3,9:36 PM,2:42,SUB: Augustus FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,314,8,0,3,9:37 PM,2:42,,,SUB: Thomas FOR Herrington,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,315,8,0,3,9:37 PM,2:42,,,SUB: Morello FOR de Souza,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,316,2,1,3,9:37 PM,2:29,,,MISS Bentley 3PT Jump Shot,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,317,4,0,3,9:37 PM,2:28,Augustus REBOUND (Off:1 Def:4),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,319,1,1,3,9:38 PM,2:09,Wright 20' Jump Shot (4 PTS),,,47 - 64,17,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,320,5,2,3,9:38 PM,1:53,Augustus STEAL (1 STL),,McCoughtry Lost Ball Turnover (P2.T10),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,321,6,2,3,9:38 PM,1:47,,,Morello S.FOUL (P4.PN),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,322,3,11,3,9:38 PM,1:47,MISS M. Moore Free Throw 1 of 2,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,323,4,1,3,9:38 PM,1:47,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,324,8,0,3,9:38 PM,1:47,SUB: L. Moore FOR Peters,,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,203409,Lindsey Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,325,3,12,3,9:39 PM,1:47,M. Moore Free Throw 2 of 2 (9 PTS),,,47 - 65,18,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,327,1,1,3,9:39 PM,1:33,,,Hayes 19' Jump Shot (9 PTS),49 - 65,16,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,328,2,1,3,9:39 PM,1:14,MISS M. Moore 17' Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,329,4,0,3,9:39 PM,1:12,,,Thomas REBOUND (Off:0 Def:2),,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,330,2,1,3,9:40 PM,1:00,,,MISS Bentley 3PT Jump Shot,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,331,4,0,3,9:40 PM,0:59,McCarville REBOUND (Off:1 Def:6),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,332,6,1,3,9:40 PM,0:50,,,Bentley P.FOUL (P4.PN),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,333,3,11,3,9:40 PM,0:50,M. Moore Free Throw 1 of 2 (10 PTS),,,49 - 66,17,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,335,8,0,3,9:40 PM,0:50,,,SUB: Herrington FOR Bentley,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,336,3,12,3,9:40 PM,0:50,MISS M. Moore Free Throw 2 of 2,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,340,4,0,3,9:41 PM,0:48,,,Morello REBOUND (Off:1 Def:5),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,341,1,1,3,9:41 PM,0:36,,,McCoughtry 3PT Jump Shot (11 PTS) (Herrington 2 AST),52 - 66,14,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,342,6,2,3,9:41 PM,0:29,,,Morello S.FOUL (P5.PN),,,5.0,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,343,3,11,3,9:41 PM,0:29,M. Moore Free Throw 1 of 2 (11 PTS),,,52 - 67,15,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,345,3,12,3,9:42 PM,0:29,M. Moore Free Throw 2 of 2 (12 PTS),,,52 - 68,16,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,348,2,1,3,9:42 PM,0:16,,,MISS McCoughtry 8' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,349,4,0,3,9:42 PM,0:15,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,350,2,1,3,9:43 PM,0:01,MISS McCarville 3PT Jump Shot,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,351,4,0,3,9:43 PM,0:00,,,Thomas REBOUND (Off:0 Def:3),,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,352,13,0,3,9:43 PM,0:00,,End of 3rd Period (9:43 PM EST),,52 - 68,16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,354,12,0,4,9:46 PM,10:00,,Start of 4th Period (9:46 PM EST),,52 - 68,16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,355,2,1,4,9:46 PM,9:44,,,MISS Thomas 15' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,356,4,0,4,9:47 PM,9:42,Peters REBOUND (Off:0 Def:1),,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,357,7,5,4,9:47 PM,9:26,,,de Souza Violation:Kicked Ball,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300302,358,2,1,4,9:47 PM,9:20,MISS Wright 13' Jump Shot,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,359,4,0,4,9:47 PM,9:19,Peters REBOUND (Off:1 Def:1),,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,360,6,2,4,9:47 PM,9:18,,,Hayes S.FOUL (P2.T1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,361,3,11,4,9:48 PM,9:18,MISS Peters Free Throw 1 of 2,,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,362,4,1,4,9:48 PM,9:18,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,363,3,12,4,9:48 PM,9:18,Peters Free Throw 2 of 2 (5 PTS),,,52 - 69,17,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,365,6,2,4,9:48 PM,9:05,M. Moore S.FOUL (P2.T1),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,366,3,11,4,9:48 PM,9:05,,,MISS McCoughtry Free Throw 1 of 2,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,367,4,1,4,9:48 PM,9:05,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,368,3,12,4,9:48 PM,9:05,,,McCoughtry Free Throw 2 of 2 (12 PTS),53 - 69,16,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,370,7,5,4,9:49 PM,8:54,,,Thomas Violation:Kicked Ball,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300302,371,2,79,4,9:49 PM,8:45,MISS Whalen 14' Pullup Jump Shot,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,372,4,0,4,9:49 PM,8:43,,,de Souza REBOUND (Off:0 Def:7),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,373,2,42,4,9:49 PM,8:36,,,MISS McCoughtry 2' Driving Layup,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,374,4,0,4,9:49 PM,8:35,,,McCoughtry REBOUND (Off:1 Def:0),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,375,2,5,4,9:50 PM,8:34,,,MISS McCoughtry Layup,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,376,4,0,4,9:50 PM,8:33,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,377,8,0,4,9:50 PM,8:33,SUB: Augustus FOR M. Moore,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,378,5,4,4,9:50 PM,8:11,Whalen Traveling Turnover (P6.T16),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041300302,379,2,1,4,9:51 PM,7:50,,,MISS Thomas 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,380,4,0,4,9:51 PM,7:49,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,381,6,3,4,9:51 PM,7:49,Peters L.B.FOUL (P4.T2),,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,382,9,2,4,9:51 PM,7:49,,,Dream Timeout: Short (Reg.3 Short 1),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,384,1,1,4,9:52 PM,7:40,,,de Souza 4' Jump Shot (8 PTS) (Herrington 3 AST),55 - 69,14,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,385,5,1,4,9:53 PM,7:26,Whalen Bad Pass Turnover (P7.T17),,Herrington STEAL (4 STL),,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,387,1,5,4,9:53 PM,7:10,,,McCoughtry 1' Layup (14 PTS) (Hayes 2 AST),57 - 69,12,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,388,2,42,4,9:54 PM,6:49,MISS Wright 2' Driving Layup,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,389,4,0,4,9:54 PM,6:48,,,de Souza REBOUND (Off:0 Def:8),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,390,8,0,4,9:54 PM,6:47,SUB: McCarville FOR Peters,,,,,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,391,8,0,4,9:54 PM,6:47,SUB: M. Moore FOR Wright,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,393,5,2,4,9:54 PM,6:47,Brunson STEAL (1 STL),,de Souza Lost Ball Turnover (P2.T11),,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,392,10,0,4,9:54 PM,6:47,Jump Ball Brunson vs. de Souza: Tip to Augustus,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0
+1041300302,394,2,1,4,9:54 PM,6:41,MISS Augustus 18' Jump Shot,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,395,4,0,4,9:54 PM,6:40,Brunson REBOUND (Off:4 Def:6),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,396,1,45,4,9:54 PM,6:37,Augustus 1' Jump Shot (17 PTS) (Brunson 3 AST),,,57 - 71,14,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,397,2,1,4,9:55 PM,6:18,,,MISS Thomas 6' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,398,4,0,4,9:55 PM,6:17,Whalen REBOUND (Off:0 Def:4),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,399,1,42,4,9:55 PM,6:12,Augustus 2' Driving Layup (19 PTS) (Whalen 5 AST),,,57 - 73,16,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,400,6,2,4,9:55 PM,6:12,,,Thomas S.FOUL (P1.T2),,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,401,8,0,4,9:55 PM,6:12,,,SUB: Bentley FOR Thomas,,,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,402,3,10,4,9:55 PM,6:12,Augustus Free Throw 1 of 1 (20 PTS),,,57 - 74,17,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,404,6,1,4,9:56 PM,5:56,Brunson P.FOUL (P4.T3),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,405,9,1,4,9:56 PM,5:56,,Timeout: Regular,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,408,2,1,4,9:59 PM,5:42,Brunson BLOCK (2 BLK),,MISS McCoughtry 15' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0
+1041300302,409,4,0,4,9:59 PM,5:41,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,410,5,11,4,9:59 PM,5:41,,,Dream Turnover: Shot Clock (T#12),,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300302,411,5,2,4,10:00 PM,5:27,McCarville Lost Ball Turnover (P4.T18),,McCoughtry STEAL (2 STL),,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,412,6,2,4,10:00 PM,5:24,McCarville S.FOUL (P2.T4),,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,413,3,11,4,10:00 PM,5:24,,,MISS McCoughtry Free Throw 1 of 2,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,414,4,1,4,10:00 PM,5:24,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,415,3,12,4,10:00 PM,5:24,,,McCoughtry Free Throw 2 of 2 (15 PTS),58 - 74,16,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,417,1,5,4,10:01 PM,5:09,McCarville 1' Layup (11 PTS) (Brunson 4 AST),,,58 - 76,18,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,418,2,1,4,10:01 PM,4:48,,,MISS McCoughtry 14' Jump Shot,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,419,4,0,4,10:01 PM,4:47,M. Moore REBOUND (Off:1 Def:7),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,420,6,1,4,10:02 PM,4:33,,,McCoughtry P.FOUL (P5.T3),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,421,1,1,4,10:02 PM,4:23,Brunson 11' Jump Shot (12 PTS) (M. Moore 4 AST),,,58 - 78,20,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,422,2,1,4,10:02 PM,3:55,,,MISS Herrington 19' Jump Shot,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,423,4,0,4,10:03 PM,3:54,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,424,6,3,4,10:03 PM,3:54,,,McCoughtry L.B.FOUL (P6.T4),,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,425,8,0,4,10:03 PM,3:54,SUB: Wright FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,426,8,0,4,10:03 PM,3:54,,,SUB: Willingham FOR McCoughtry,,,5.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,427,8,0,4,10:03 PM,3:54,,,SUB: Thomas FOR Herrington,,,5.0,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,428,6,2,4,10:04 PM,3:41,,,Bentley S.FOUL (P5.PN),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,429,3,11,4,10:04 PM,3:41,Wright Free Throw 1 of 2 (5 PTS),,,58 - 79,21,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,431,3,12,4,10:04 PM,3:41,Wright Free Throw 2 of 2 (6 PTS),,,58 - 80,22,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,433,5,1,4,10:04 PM,3:29,McCarville STEAL (1 STL),,Bentley Bad Pass Turnover (P2.T13),,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,434,1,66,4,10:05 PM,3:17,M. Moore 14' Jump Bank Shot (14 PTS) (McCarville 4 AST),,,58 - 82,24,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,435,9,1,4,10:05 PM,3:05,,,Dream Timeout: Regular (Reg.4 Short 1),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,437,8,0,4,10:07 PM,3:05,SUB: Peters FOR McCarville,,,,,4.0,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,438,8,0,4,10:07 PM,3:05,,,SUB: Riley FOR de Souza,,,5.0,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100656,Ruth Riley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,439,6,3,4,10:08 PM,3:01,M. Moore L.B.FOUL (P3.PN),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,440,3,11,4,10:09 PM,3:01,,,MISS Willingham Free Throw 1 of 2,,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,441,4,1,4,10:09 PM,3:01,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,442,8,0,4,10:09 PM,3:01,,,SUB: Clements FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203451,Courtney Clements,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,443,8,0,4,10:09 PM,3:01,SUB: L. Moore FOR M. Moore,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203409,Lindsey Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,444,8,0,4,10:09 PM,3:01,SUB: Jarry FOR Brunson,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,445,8,0,4,10:09 PM,3:01,SUB: Harris FOR Augustus,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,202644,Amber Harris,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,446,8,0,4,10:09 PM,3:01,SUB: Rodgers FOR Wright,,,,,4.0,202257,Monica Wright,1611661324.0,Minnesota,Lynx,MIN,4,203411,Sugar Rodgers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,447,3,12,4,10:09 PM,3:01,,,MISS Willingham Free Throw 2 of 2,,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,449,4,0,4,10:09 PM,3:00,Harris REBOUND (Off:0 Def:1),,,,,4.0,202644,Amber Harris,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,450,5,40,4,10:09 PM,2:42,Jarry Out of Bounds Lost Ball Turnover (P1.T19),,,,,4.0,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,451,1,1,4,10:10 PM,2:26,,,Thomas 20' Jump Shot (9 PTS) (Riley 1 AST),60 - 82,22,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,100656,Ruth Riley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,452,1,1,4,10:10 PM,2:10,Peters 18' Jump Shot (7 PTS) (L. Moore 1 AST),,,60 - 84,24,4.0,203016,Devereaux Peters,1611661324.0,Minnesota,Lynx,MIN,4,203409,Lindsey Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,453,5,40,4,10:10 PM,1:58,,,Willingham Out of Bounds Lost Ball Turnover (P2.T14),,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,454,1,1,4,10:11 PM,1:43,Harris 18' Jump Shot (2 PTS) (L. Moore 2 AST),,,60 - 86,26,4.0,202644,Amber Harris,1611661324.0,Minnesota,Lynx,MIN,4,203409,Lindsey Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,455,1,79,4,10:11 PM,1:33,,,Thomas 17' Pullup Jump Shot (11 PTS),62 - 86,24,5.0,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,456,2,5,4,10:11 PM,1:14,MISS Rodgers 2' Layup,,,,,4.0,203411,Sugar Rodgers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,457,4,0,4,10:11 PM,1:12,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300302,458,2,1,4,10:12 PM,0:59,,,MISS Bentley 19' Jump Shot,,,5.0,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,459,4,0,4,10:12 PM,0:57,,,Riley REBOUND (Off:1 Def:0),,,5.0,100656,Ruth Riley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,460,5,2,4,10:12 PM,0:56,Jarry STEAL (1 STL),,Riley Lost Ball Turnover (P1.T15),,,5.0,100656,Ruth Riley,1611661330.0,Atlanta,Dream,ATL,4,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041300302,461,6,1,4,10:12 PM,0:55,,,Willingham P.FOUL (P3.PN),,,5.0,100973,Le'coe Willingham,1611661330.0,Atlanta,Dream,ATL,4,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041300302,462,3,11,4,10:12 PM,0:55,Jarry Free Throw 1 of 2 (1 PTS),,,62 - 87,25,4.0,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,464,3,12,4,10:12 PM,0:55,Jarry Free Throw 2 of 2 (2 PTS),,,62 - 88,26,4.0,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,466,2,1,4,10:13 PM,0:44,,,MISS Clements 21' Jump Shot,,,5.0,203451,Courtney Clements,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,467,4,0,4,10:13 PM,0:42,Jarry REBOUND (Off:0 Def:1),,,,,4.0,202647,Rachel Jarry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,468,5,2,4,10:13 PM,0:24,Harris Lost Ball Turnover (P1.T20),,Thomas STEAL (2 STL),,,4.0,202644,Amber Harris,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300302,469,6,2,4,10:13 PM,0:19,Rodgers S.FOUL (P1.PN),,,,,4.0,203411,Sugar Rodgers,1611661324.0,Minnesota,Lynx,MIN,5,203451,Courtney Clements,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300302,470,3,11,4,10:13 PM,0:19,,,Clements Free Throw 1 of 2 (1 PTS),63 - 88,25,5.0,203451,Courtney Clements,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,472,3,12,4,10:14 PM,0:19,,,MISS Clements Free Throw 2 of 2,,,5.0,203451,Courtney Clements,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300302,474,4,0,4,10:14 PM,0:19,Harris REBOUND (Off:0 Def:2),,,,,4.0,202644,Amber Harris,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041300302,475,13,0,4,10:14 PM,0:00,,End of 4th Period (10:14 PM EST),,63 - 88,25,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

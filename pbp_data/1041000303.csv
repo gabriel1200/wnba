@@ -1,0 +1,429 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041000303,0,12,0,1,12:09 AM,10:00,,Start of 1st Period (12:09 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,1,10,0,1,12:11 AM,10:00,,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,2,1611661330,,,,,,0
+1041000303,2,5,8,1,12:12 AM,9:49,Lyttle 3 Second Violation Turnover (P1.T1),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000303,3,1,1,1,12:13 AM,9:26,,,Wright 18' Jump Shot (2 PTS),2 - 0,-2,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,4,2,5,1,12:13 AM,9:15,MISS de Souza 2' Layup,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,5,4,0,1,12:13 AM,9:13,,,Jackson REBOUND (Off:0 Def:1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,6,2,1,1,12:13 AM,8:54,,,MISS Jackson 17' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,7,4,0,1,12:13 AM,8:52,,,Cash REBOUND (Off:1 Def:0),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,8,1,1,1,12:13 AM,8:45,,,Bird 15' Jump Shot (2 PTS) (Wright 1 AST),4 - 0,-4,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,10,2,1,1,12:14 AM,8:28,MISS Lyttle 16' Jump Shot,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,11,4,0,1,12:14 AM,8:28,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,12,6,3,1,12:14 AM,8:28,McCoughtry L.B.FOUL (P1.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,13,2,1,1,12:14 AM,8:13,,,MISS Bird 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,14,4,0,1,12:14 AM,8:11,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,15,6,2,1,12:15 AM,8:09,Lyttle S.FOUL (P1.T2),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,16,3,11,1,12:15 AM,8:09,,,Little Free Throw 1 of 2 (1 PTS),5 - 0,-5,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,18,3,12,1,12:15 AM,8:09,,,Little Free Throw 2 of 2 (2 PTS),6 - 0,-6,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,20,2,42,1,12:16 AM,7:56,MISS McCoughtry 2' Driving Layup,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,21,4,0,1,12:16 AM,7:55,Lyttle REBOUND (Off:1 Def:0),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,22,2,72,1,12:16 AM,7:54,MISS Lyttle Putback Layup,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,23,4,0,1,12:16 AM,7:52,,,Jackson REBOUND (Off:0 Def:2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,24,1,1,1,12:16 AM,7:43,,,Wright 3PT Jump Shot (5 PTS) (Cash 1 AST),9 - 0,-9,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,25,9,1,1,12:16 AM,7:43,DREAM Timeout: Regular (Full 1 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,26,18,1,1,12:18 AM,7:43,,Instant Replay1st Period (12:18 AM EST),,9 - 0,-9,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1041000303,27,6,11,1,12:20 AM,7:43,,Carol Ross Foul:T.FOUL,,,,6,201928,,,,,,0,0,,,,,,1,0,,,,,,0
+1041000303,28,3,16,1,12:20 AM,7:43,,,MISS Jackson Free Throw Technical,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,29,4,1,1,12:20 AM,7:43,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,31,1,46,1,12:20 AM,7:33,Castro Marques 16' Running Jump Shot (2 PTS) (C. Miller 1 AST),,,9 - 2,-7,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,32,2,77,1,12:21 AM,7:10,,,MISS Little 3' Driving Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,33,4,0,1,12:21 AM,7:10,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,34,1,1,1,12:21 AM,6:59,de Souza 13' Jump Shot (2 PTS) (Lyttle 1 AST),,,9 - 4,-5,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,35,2,63,1,12:22 AM,6:35,,,MISS Bird 16' Fadeaway Jumper,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,37,4,0,1,12:22 AM,6:32,,,Jackson REBOUND (Off:1 Def:2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,36,1,72,1,12:22 AM,6:32,,,Jackson Putback Layup (2 PTS),11 - 4,-7,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,38,2,47,1,12:22 AM,6:16,MISS de Souza 12' Turnaround Jump Shot,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,39,4,0,1,12:22 AM,6:14,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,40,1,5,1,12:22 AM,6:09,,,Wright 2' Layup (7 PTS) (Jackson 1 AST),13 - 4,-9,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,41,2,1,1,12:22 AM,5:53,MISS McCoughtry 12' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,42,4,0,1,12:22 AM,5:51,,,Wright REBOUND (Off:0 Def:1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,43,2,1,1,12:22 AM,5:43,,,MISS Cash 18' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,44,4,0,1,12:22 AM,5:42,de Souza REBOUND (Off:0 Def:1),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,45,6,1,1,12:23 AM,5:37,,,Jackson P.FOUL (P1.T1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,46,1,77,1,12:23 AM,5:27,McCoughtry 7' Driving Jump Shot (2 PTS) (C. Miller 2 AST),,,13 - 6,-7,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,47,1,41,1,12:23 AM,5:07,,,Little 1' Running Layup (4 PTS) (Bird 1 AST),15 - 6,-9,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,48,6,1,1,12:24 AM,5:01,,,Little P.FOUL (P1.T2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,49,2,1,1,12:24 AM,4:55,MISS C. Miller 11' Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,50,4,0,1,12:24 AM,4:54,,,Cash REBOUND (Off:1 Def:1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,51,6,2,1,12:24 AM,4:49,C. Miller S.FOUL (P1.T3),,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,52,3,11,1,12:24 AM,4:49,,,Little Free Throw 1 of 2 (5 PTS),16 - 6,-10,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,54,8,0,1,12:25 AM,4:49,,,SUB: Abrosimova FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,55,3,12,1,12:25 AM,4:49,,,MISS Little Free Throw 2 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,57,4,0,1,12:25 AM,4:48,de Souza REBOUND (Off:0 Def:2),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,58,1,1,1,12:25 AM,4:37,C. Miller 3PT Jump Shot (3 PTS) (Lyttle 2 AST),,,16 - 9,-7,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,59,5,1,1,12:25 AM,4:20,Lyttle STEAL (1 STL),,Abrosimova Bad Pass Turnover (P1.T1),,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,60,1,46,1,12:25 AM,4:15,Castro Marques 6' Running Jump Shot (4 PTS),,,16 - 11,-5,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,61,1,1,1,12:26 AM,3:57,,,Bird 3PT Jump Shot (5 PTS),19 - 11,-8,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,62,1,1,1,12:26 AM,3:42,McCoughtry 16' Jump Shot (4 PTS) (C. Miller 3 AST),,,19 - 13,-6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,63,2,1,1,12:26 AM,3:21,,,MISS Abrosimova 3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,64,4,0,1,12:26 AM,3:20,de Souza REBOUND (Off:0 Def:3),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,65,1,1,1,12:26 AM,3:10,McCoughtry 3PT Jump Shot (7 PTS) (Castro Marques 1 AST),,,19 - 16,-3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,66,1,77,1,12:27 AM,2:46,,,Cash 3' Driving Jump Shot (2 PTS),21 - 16,-5,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,67,6,11,1,12:27 AM,2:45,McCoughtry T.FOUL (P1.T3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000303,68,3,16,1,12:27 AM,2:45,,,MISS Jackson Free Throw Technical,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,69,4,1,1,12:27 AM,2:45,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,71,8,0,1,12:28 AM,2:45,,,SUB: Willingham FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,72,8,0,1,12:28 AM,2:45,,,SUB: Wright FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,73,8,0,1,12:28 AM,2:45,SUB: Leuchanka FOR Lyttle,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,74,5,1,1,12:28 AM,2:28,de Souza Bad Pass Turnover (P1.T2),,Abrosimova STEAL (1 STL),,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,76,5,1,1,12:29 AM,2:06,Leuchanka STEAL (1 STL),,Cash Bad Pass Turnover (P1.T2),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,77,6,1,1,12:29 AM,1:59,,,Willingham P.FOUL (P1.T3),,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,78,2,5,1,12:29 AM,1:49,MISS de Souza 3' Layup,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,79,4,0,1,12:29 AM,1:48,,,Jackson REBOUND (Off:1 Def:3),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,80,1,41,1,12:30 AM,1:45,,,Willingham 2' Running Layup (2 PTS) (Wright 2 AST),23 - 16,-7,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,81,6,2,1,12:30 AM,1:45,C. Miller S.FOUL (P2.T4),,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,82,8,0,1,12:30 AM,1:45,SUB: K. Miller FOR C. Miller,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,83,3,10,1,12:30 AM,1:45,,,Willingham Free Throw 1 of 1 (3 PTS),24 - 16,-8,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,86,1,1,1,12:30 AM,1:35,Castro Marques 3PT Jump Shot (7 PTS),,,24 - 19,-5,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,87,6,2,1,12:30 AM,1:35,,,Willingham S.FOUL (P2.PN),,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,88,3,10,1,12:30 AM,1:35,Castro Marques Free Throw 1 of 1 (8 PTS),,,24 - 20,-4,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,90,2,42,1,12:31 AM,1:18,,,MISS Wright 2' Driving Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,91,4,0,1,12:31 AM,1:17,de Souza REBOUND (Off:0 Def:4),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,92,6,2,1,12:31 AM,0:57,,,Cash S.FOUL (P1.PN),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,93,3,11,1,12:32 AM,0:57,McCoughtry Free Throw 1 of 2 (8 PTS),,,24 - 21,-3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,95,3,12,1,12:32 AM,0:57,McCoughtry Free Throw 2 of 2 (9 PTS),,,24 - 22,-2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,97,2,1,1,12:32 AM,0:43,,,MISS Cash 3PT Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,98,4,0,1,12:32 AM,0:41,,,Cash REBOUND (Off:2 Def:1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,99,1,72,1,12:32 AM,0:41,,,Cash Putback Layup (4 PTS),26 - 22,-4,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,100,2,5,1,12:32 AM,0:32,MISS Leuchanka 2' Layup,,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,101,4,0,1,12:32 AM,0:32,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,102,6,3,1,12:33 AM,0:32,de Souza L.B.FOUL (P1.PN),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,103,8,0,1,12:33 AM,0:32,,,SUB: Little FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,104,3,11,1,12:33 AM,0:32,,,Abrosimova Free Throw 1 of 2 (1 PTS),27 - 22,-5,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,106,3,12,1,12:33 AM,0:32,,,Abrosimova Free Throw 2 of 2 (2 PTS),28 - 22,-6,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,109,1,77,1,12:34 AM,0:20,McCoughtry 9' Driving Jump Shot (11 PTS) (K. Miller 1 AST),,,28 - 24,-4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,110,2,1,1,12:34 AM,0:01,,,MISS Willingham 3PT Jump Shot,,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,112,4,0,1,12:34 AM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,113,8,0,1,12:34 AM,0:00,,,SUB: Bird FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,114,8,0,1,12:34 AM,0:00,,,SUB: Jackson FOR Willingham,,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,115,13,0,1,12:35 AM,0:00,,End of 1st Period (12:35 AM EST),,28 - 24,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,117,12,0,2,12:38 AM,10:00,,Start of 2nd Period (12:38 AM EST),,28 - 24,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,118,2,47,2,12:39 AM,9:39,,,MISS Jackson 11' Turnaround Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,119,4,0,2,12:39 AM,9:36,de Souza REBOUND (Off:0 Def:5),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,120,1,1,2,12:39 AM,9:26,Castro Marques 3PT Jump Shot (11 PTS),,,28 - 27,-1,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,121,2,5,2,12:40 AM,9:05,,,MISS Vesela 2' Layup,,,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,122,4,0,2,12:40 AM,9:03,de Souza REBOUND (Off:0 Def:6),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,123,2,47,2,12:40 AM,8:55,MISS Leuchanka 4' Turnaround Jump Shot,,Jackson BLOCK (1 BLK),,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1041000303,124,4,0,2,12:40 AM,8:54,,,Jackson REBOUND (Off:1 Def:4),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,125,2,77,2,12:40 AM,8:39,,,MISS Bird 12' Driving Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,126,4,0,2,12:40 AM,8:36,McCoughtry REBOUND (Off:0 Def:1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,127,5,1,2,12:40 AM,8:31,K. Miller Bad Pass Turnover (P1.T3),,Jackson STEAL (1 STL),,,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,128,1,41,2,12:41 AM,8:14,,,Little 2' Running Layup (7 PTS) (Bird 2 AST),30 - 27,-3,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,129,2,77,2,12:41 AM,7:52,MISS McCoughtry 4' Driving Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,130,4,0,2,12:41 AM,7:49,,,Bird REBOUND (Off:0 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,131,2,1,2,12:41 AM,7:38,,,MISS Jackson 3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,132,4,0,2,12:41 AM,7:37,,,Little REBOUND (Off:1 Def:0),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,133,1,1,2,12:41 AM,7:25,,,Vesela 3PT Jump Shot (3 PTS) (Bird 3 AST),33 - 27,-6,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,134,1,47,2,12:42 AM,7:08,de Souza 6' Turnaround Jump Shot (4 PTS) (McCoughtry 1 AST),,,33 - 29,-4,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,135,1,77,2,12:42 AM,6:51,,,Wright 6' Driving Jump Shot (9 PTS),35 - 29,-6,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,136,6,1,2,12:42 AM,6:41,,,Little P.FOUL (P2.T1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,137,8,0,2,12:43 AM,6:41,SUB: Lehning FOR McCoughtry,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,138,8,0,2,12:43 AM,6:41,SUB: Herrington FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,139,8,0,2,12:43 AM,6:41,SUB: Lyttle FOR K. Miller,,,,,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,140,2,1,2,12:43 AM,6:32,MISS Lehning 3PT Jump Shot,,,,,4,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,141,4,0,2,12:43 AM,6:31,,,Little REBOUND (Off:1 Def:1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,143,8,0,2,12:43 AM,6:27,SUB: Bales FOR Leuchanka,,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,144,5,1,2,12:43 AM,6:17,,,Little Bad Pass Turnover (P1.T3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,145,5,1,2,12:44 AM,6:04,Herrington Bad Pass Turnover (P1.T4),,Jackson STEAL (2 STL),,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,146,2,1,2,12:44 AM,5:58,,,MISS Bird 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,147,4,0,2,12:44 AM,5:56,Bales REBOUND (Off:0 Def:1),,,,,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,148,2,1,2,12:44 AM,5:47,MISS Lehning 3PT Jump Shot,,,,,4,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,149,4,0,2,12:44 AM,5:44,,,Wright REBOUND (Off:0 Def:2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,150,6,1,2,12:44 AM,5:31,Lyttle P.FOUL (P2.T1),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,151,9,4,2,12:45 AM,5:31,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,153,8,0,2,12:48 AM,5:31,,,SUB: Robinson FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,154,8,0,2,12:48 AM,5:31,,,SUB: Cash FOR Vesela,,,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,156,8,0,2,12:49 AM,5:31,SUB: Leuchanka FOR Lyttle,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,157,2,41,2,12:49 AM,5:19,,,MISS Robinson 2' Running Layup,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,158,4,0,2,12:49 AM,5:17,Leuchanka REBOUND (Off:0 Def:1),,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,159,2,42,2,12:49 AM,5:04,MISS Lehning 2' Driving Layup,,,,,4,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,160,10,0,2,12:50 AM,5:02,Jump Ball Herrington vs. Robinson: Tip to Leuchanka,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0
+1041000303,161,4,0,2,12:50 AM,5:02,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,162,2,1,2,12:50 AM,4:42,MISS Bales 19' Jump Shot,,,,,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,163,4,0,2,12:50 AM,4:40,,,Little REBOUND (Off:1 Def:2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,164,2,42,2,12:50 AM,4:24,,,MISS Little 2' Driving Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,165,4,0,2,12:50 AM,4:24,Leuchanka REBOUND (Off:0 Def:2),,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,166,6,3,2,12:50 AM,4:24,,,Little L.B.FOUL (P3.T2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,167,8,0,2,12:51 AM,4:24,SUB: McCoughtry FOR Castro Marques,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,168,8,0,2,12:51 AM,4:24,SUB: de Souza FOR Lehning,,,,,4,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,169,8,0,2,12:51 AM,4:24,SUB: K. Miller FOR Herrington,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,170,8,0,2,12:51 AM,4:24,SUB: C. Miller FOR Bales,,,,,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,171,8,0,2,12:51 AM,4:24,,,SUB: Willingham FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,172,8,0,2,12:51 AM,4:24,,,SUB: Jackson FOR Robinson,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,173,1,5,2,12:51 AM,4:12,de Souza 3' Layup (6 PTS) (Leuchanka 1 AST),,,35 - 31,-4,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,175,1,5,2,12:51 AM,3:48,,,Cash 2' Layup (6 PTS) (Willingham 1 AST),37 - 31,-6,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,176,1,1,2,12:52 AM,3:38,C. Miller 17' Jump Shot (5 PTS) (K. Miller 2 AST),,,37 - 33,-4,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,177,6,2,2,12:52 AM,3:16,de Souza S.FOUL (P2.T2),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,178,3,11,2,12:52 AM,3:16,,,Bird Free Throw 1 of 2 (6 PTS),38 - 33,-5,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,180,8,0,2,12:53 AM,3:16,,,SUB: Abrosimova FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,181,3,12,2,12:53 AM,3:16,,,Bird Free Throw 2 of 2 (7 PTS),39 - 33,-6,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,184,1,1,2,12:53 AM,3:01,McCoughtry 11' Jump Shot (13 PTS),,,39 - 35,-4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,185,2,1,2,12:53 AM,2:41,,,MISS Willingham 3PT Jump Shot,,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,186,4,0,2,12:53 AM,2:40,McCoughtry REBOUND (Off:0 Def:2),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,187,1,42,2,12:53 AM,2:32,McCoughtry 2' Driving Layup (15 PTS),,,39 - 37,-2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,188,6,2,2,12:53 AM,2:32,,,Cash S.FOUL (P2.T3),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,189,9,1,2,12:54 AM,2:32,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,192,3,10,2,12:58 AM,2:32,McCoughtry Free Throw 1 of 1 (16 PTS),,,39 - 38,-1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,194,2,1,2,12:58 AM,2:16,,,MISS Bird 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,195,4,0,2,12:58 AM,2:15,de Souza REBOUND (Off:0 Def:7),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,196,1,1,2,12:58 AM,2:02,K. Miller 3PT Jump Shot (3 PTS) (Leuchanka 2 AST),,,39 - 41,2,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,197,1,1,2,12:59 AM,1:37,,,Jackson 18' Jump Shot (4 PTS) (Bird 4 AST),41 - 41,TIE,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,198,2,77,2,12:59 AM,1:20,MISS McCoughtry 4' Driving Jump Shot,,Abrosimova BLOCK (1 BLK),,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0
+1041000303,199,4,0,2,12:59 AM,1:16,,,Jackson REBOUND (Off:1 Def:5),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,200,1,41,2,12:59 AM,1:11,,,Bird 2' Running Layup (9 PTS),43 - 41,-2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,202,2,1,2,12:59 AM,0:52,MISS C. Miller 16' Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,203,4,0,2,1:00 AM,0:51,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,204,6,3,2,1:00 AM,0:51,,,Cash L.B.FOUL (P3.T4),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,205,8,0,2,1:00 AM,0:51,,,SUB: Wright FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,206,8,0,2,1:00 AM,0:51,SUB: Bales FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,207,8,0,2,1:00 AM,0:51,,,SUB: Vesela FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,208,2,58,2,1:01 AM,0:44,MISS Leuchanka 5' Turnaround Hook Shot,,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,209,4,0,2,1:01 AM,0:44,Bales REBOUND (Off:1 Def:1),,,,,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,210,6,2,2,1:01 AM,0:44,,,Willingham S.FOUL (P3.PN),,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,211,3,11,2,1:01 AM,0:44,MISS Bales Free Throw 1 of 2,,,,,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,212,4,1,2,1:01 AM,0:44,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,213,3,12,2,1:01 AM,0:44,MISS Bales Free Throw 2 of 2,,,,,4,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,215,4,0,2,1:01 AM,0:43,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,216,6,4,2,1:02 AM,0:25,,,Jackson OFF.Foul (P2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,217,5,5,2,1:02 AM,0:25,,,Jackson Foul Turnover (P1.T4),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041000303,218,1,1,2,1:02 AM,0:14,McCoughtry 3PT Jump Shot (19 PTS) (K. Miller 3 AST),,,43 - 44,1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,219,5,1,2,1:02 AM,0:12,Leuchanka STEAL (2 STL),,Jackson Bad Pass Turnover (P2.T5),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,220,2,1,2,1:02 AM,0:03,MISS C. Miller 3PT Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,221,4,0,2,1:02 AM,0:01,,,Wright REBOUND (Off:0 Def:3),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,222,2,1,2,1:03 AM,0:01,,,MISS Wright 3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,223,4,0,2,1:03 AM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,225,13,0,2,1:03 AM,0:00,,End of 2nd Period (1:03 AM EST),,43 - 44,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,227,12,0,3,1:21 AM,10:00,,Start of 3rd Period (1:21 AM EST),,43 - 44,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,228,5,1,3,1:22 AM,9:46,Castro Marques STEAL (1 STL),,Wright Bad Pass Turnover (P1.T6),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,229,2,1,3,1:22 AM,9:46,MISS C. Miller 16' Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,230,4,0,3,1:22 AM,9:46,,,Bird REBOUND (Off:0 Def:3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,410,6,2,3,1:24 AM,9:31,McCoughtry S.FOUL (P2.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,232,3,11,3,1:24 AM,9:31,,,Jackson Free Throw 1 of 2 (5 PTS),44 - 44,TIE,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,234,3,12,3,1:24 AM,9:31,,,Jackson Free Throw 2 of 2 (6 PTS),45 - 44,-1,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,237,2,1,3,1:24 AM,9:17,MISS C. Miller 3PT Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,238,4,0,3,1:24 AM,9:15,,,Jackson REBOUND (Off:1 Def:6),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,239,2,1,3,1:25 AM,9:05,,,MISS Jackson 3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,240,4,0,3,1:25 AM,9:03,de Souza REBOUND (Off:0 Def:8),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,241,2,41,3,1:25 AM,8:58,MISS Castro Marques 2' Running Layup,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,242,4,0,3,1:25 AM,8:54,C. Miller REBOUND (Off:1 Def:0),,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,243,5,1,3,1:25 AM,8:53,C. Miller Bad Pass Turnover (P1.T5),,Bird STEAL (1 STL),,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,244,1,1,3,1:25 AM,8:43,,,Wright 16' Jump Shot (11 PTS) (Cash 2 AST),47 - 44,-3,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,245,1,1,3,1:25 AM,8:27,McCoughtry 16' Jump Shot (21 PTS) (C. Miller 4 AST),,,47 - 46,-1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,246,2,1,3,1:26 AM,8:07,,,MISS Bird 17' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,247,4,0,3,1:26 AM,8:04,,,Little REBOUND (Off:2 Def:2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,248,5,2,3,1:26 AM,8:04,C. Miller STEAL (1 STL),,Little Lost Ball Turnover (P2.T7),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,249,6,1,3,1:26 AM,8:04,,,Bird P.FOUL (P1.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,250,2,1,3,1:26 AM,7:47,MISS Castro Marques 12' Jump Shot,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,251,4,0,3,1:26 AM,7:44,Lyttle REBOUND (Off:2 Def:0),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,252,2,5,3,1:27 AM,7:40,MISS de Souza 3' Layup,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,253,4,0,3,1:27 AM,7:36,Lyttle REBOUND (Off:3 Def:0),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,254,2,72,3,1:27 AM,7:35,MISS Lyttle Putback Layup,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,255,4,0,3,1:27 AM,7:34,,,Cash REBOUND (Off:2 Def:2),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,256,2,1,3,1:27 AM,7:17,,,MISS Cash 3PT Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,257,4,0,3,1:27 AM,7:16,de Souza REBOUND (Off:0 Def:9),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,258,5,1,3,1:27 AM,7:08,Castro Marques Bad Pass Turnover (P1.T6),,Bird STEAL (2 STL),,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,259,6,1,3,1:27 AM,7:07,Castro Marques P.FOUL (P1.T2),,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,261,6,2,3,1:28 AM,6:52,de Souza S.FOUL (P3.T3),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,262,3,11,3,1:28 AM,6:52,,,Cash Free Throw 1 of 2 (7 PTS),48 - 46,-2,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,264,3,12,3,1:28 AM,6:52,,,Cash Free Throw 2 of 2 (8 PTS),49 - 46,-3,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,267,1,42,3,1:29 AM,6:46,C. Miller 3' Driving Layup (7 PTS),,,49 - 48,-1,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,268,6,2,3,1:29 AM,6:46,,,Wright S.FOUL (P1.T2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,269,3,10,3,1:29 AM,6:46,C. Miller Free Throw 1 of 1 (8 PTS),,,49 - 49,TIE,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,271,2,77,3,1:29 AM,6:27,,,MISS Wright 3' Driving Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,273,4,0,3,1:29 AM,6:25,,,Little REBOUND (Off:3 Def:2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,272,1,72,3,1:29 AM,6:25,,,Little Putback Layup (9 PTS),51 - 49,-2,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,274,2,1,3,1:30 AM,6:17,MISS Castro Marques 24' 3PT Jump Shot,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,275,4,0,3,1:30 AM,6:16,Lyttle REBOUND (Off:4 Def:0),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,276,5,2,3,1:30 AM,6:12,Castro Marques Lost Ball Turnover (P2.T7),,Little STEAL (1 STL),,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,277,2,1,3,1:30 AM,6:05,,,MISS Bird 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,278,4,0,3,1:30 AM,6:03,Lyttle REBOUND (Off:4 Def:1),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,279,6,1,3,1:30 AM,6:01,,,Wright P.FOUL (P2.T3),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,281,1,47,3,1:31 AM,5:56,de Souza 8' Turnaround Jump Shot (8 PTS) (McCoughtry 2 AST),,,51 - 51,TIE,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,282,2,42,3,1:31 AM,5:39,,,MISS Wright 2' Driving Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,283,4,0,3,1:31 AM,5:37,de Souza REBOUND (Off:0 Def:10),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,284,1,77,3,1:31 AM,5:34,McCoughtry 6' Driving Jump Shot (23 PTS),,,51 - 53,2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,285,6,2,3,1:31 AM,5:34,,,Jackson S.FOUL (P3.T4),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,286,8,0,3,1:32 AM,5:34,,,SUB: Abrosimova FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,287,8,0,3,1:32 AM,5:34,,,SUB: Willingham FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,288,3,10,3,1:32 AM,5:34,McCoughtry Free Throw 1 of 1 (24 PTS),,,51 - 54,3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,291,5,1,3,1:32 AM,5:18,Lyttle STEAL (2 STL),,Bird Bad Pass Turnover (P1.T8),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,292,5,4,3,1:32 AM,5:10,McCoughtry Traveling Turnover (P1.T8),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000303,293,5,40,3,1:33 AM,5:04,,,Abrosimova Out of Bounds Lost Ball Turnover (P2.T9),,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,294,2,56,3,1:33 AM,4:53,MISS de Souza 6' Running Hook Shot,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,295,4,0,3,1:33 AM,4:51,,,Jackson REBOUND (Off:1 Def:7),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,296,5,1,3,1:33 AM,4:48,C. Miller STEAL (2 STL),,Jackson Bad Pass Turnover (P3.T10),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,297,1,77,3,1:33 AM,4:43,Castro Marques 5' Driving Jump Shot (13 PTS) (C. Miller 5 AST),,,51 - 56,5,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,299,9,1,3,1:33 AM,4:33,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,300,8,0,3,1:37 AM,4:33,,,SUB: Little FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,301,8,0,3,1:37 AM,4:33,,,SUB: Vesela FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,303,2,1,3,1:38 AM,4:21,,,MISS Cash 4' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,304,4,0,3,1:38 AM,4:21,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,305,6,3,3,1:38 AM,4:21,Lyttle L.B.FOUL (P3.T4),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,306,1,42,3,1:38 AM,4:17,,,Willingham 2' Driving Layup (5 PTS) (Cash 3 AST),53 - 56,3,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,307,2,1,3,1:38 AM,4:07,MISS de Souza 5' Jump Shot,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,308,4,0,3,1:39 AM,4:03,,,Vesela REBOUND (Off:0 Def:1),,,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,309,2,1,3,1:39 AM,3:43,,,MISS Bird 16' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,310,4,0,3,1:39 AM,3:42,Castro Marques REBOUND (Off:0 Def:1),,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,312,6,1,3,1:39 AM,3:38,,,Bird P.FOUL (P2.PN),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,313,3,11,3,1:39 AM,3:38,MISS Castro Marques Free Throw 1 of 2,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,314,4,1,3,1:39 AM,3:38,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,315,3,12,3,1:40 AM,3:38,Castro Marques Free Throw 2 of 2 (14 PTS),,,53 - 57,4,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,317,5,1,3,1:40 AM,3:15,C. Miller STEAL (3 STL),,Bird Bad Pass Turnover (P2.T11),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,318,1,41,3,1:40 AM,3:10,McCoughtry 2' Running Layup (26 PTS) (Lyttle 3 AST),,,53 - 59,6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,319,1,1,3,1:41 AM,2:51,,,Cash 3PT Jump Shot (11 PTS) (Willingham 2 AST),56 - 59,3,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,320,2,5,3,1:41 AM,2:39,MISS de Souza 3' Layup,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,321,4,0,3,1:41 AM,2:38,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,322,8,0,3,1:41 AM,2:38,,,SUB: Jackson FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,323,8,0,3,1:41 AM,2:38,,,SUB: Wright FOR Vesela,,,5,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,324,8,0,3,1:41 AM,2:38,SUB: Leuchanka FOR Lyttle,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,325,8,0,3,1:41 AM,2:38,SUB: K. Miller FOR C. Miller,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,326,5,1,3,1:42 AM,2:28,K. Miller Bad Pass Turnover (P2.T9),,Wright STEAL (1 STL),,,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,327,5,40,3,1:42 AM,2:25,,,Wright Out of Bounds Lost Ball Turnover (P2.T12),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,328,2,1,3,1:42 AM,2:21,MISS McCoughtry 16' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,329,4,0,3,1:42 AM,2:20,,,Willingham REBOUND (Off:0 Def:1),,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,330,1,1,3,1:43 AM,2:03,,,Cash 3PT Jump Shot (14 PTS) (Willingham 3 AST),59 - 59,TIE,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,331,5,1,3,1:43 AM,1:48,McCoughtry Bad Pass Turnover (P2.T10),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,332,2,42,3,1:43 AM,1:43,de Souza BLOCK (1 BLK),,MISS Wright 2' Driving Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000303,333,4,0,3,1:43 AM,1:43,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,334,8,0,3,1:43 AM,1:43,SUB: Herrington FOR McCoughtry,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,335,1,1,3,1:44 AM,1:41,,,Bird 3PT Jump Shot (12 PTS) (Cash 4 AST),62 - 59,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,337,6,2,3,1:44 AM,1:28,,,Wright S.FOUL (P3.PN),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,340,8,0,3,1:44 AM,1:28,SUB: Lyttle FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,341,3,13,3,1:44 AM,1:28,Castro Marques Free Throw 1 of 3 (15 PTS),,,62 - 60,-2,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,343,3,14,3,1:45 AM,1:28,MISS Castro Marques Free Throw 2 of 3,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,344,4,1,3,1:45 AM,1:28,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,338,3,15,3,1:45 AM,1:28,MISS Castro Marques Free Throw 3 of 3,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,345,4,0,3,1:45 AM,1:26,,,Cash REBOUND (Off:2 Def:3),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,348,1,5,3,1:45 AM,1:10,,,Jackson 2' Layup (8 PTS) (Bird 5 AST),64 - 60,-4,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,349,6,2,3,1:45 AM,1:10,Leuchanka S.FOUL (P1.PN),,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,350,3,10,3,1:46 AM,1:10,,,Jackson Free Throw 1 of 1 (9 PTS),65 - 60,-5,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,352,2,1,3,1:46 AM,0:50,MISS Lyttle 17' Jump Shot,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,353,4,0,3,1:46 AM,0:48,Herrington REBOUND (Off:1 Def:0),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,354,2,46,3,1:46 AM,0:30,MISS Castro Marques 16' Running Jump Shot,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,355,4,0,3,1:46 AM,0:29,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,356,1,77,3,1:47 AM,0:16,,,Jackson 10' Driving Jump Shot (11 PTS) (Bird 6 AST),67 - 60,-7,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,357,2,1,3,1:47 AM,0:03,MISS Lyttle 16' Jump Shot,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,359,4,0,3,1:48 AM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,360,13,0,3,1:48 AM,0:00,,End of 3rd Period (1:48 AM EST),,67 - 60,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,362,12,0,4,1:51 AM,10:00,,Start of 4th Period (1:51 AM EST),,67 - 60,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,363,6,1,4,1:52 AM,9:48,,,Abrosimova P.FOUL (P1.T1),,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,364,5,1,4,1:52 AM,9:43,de Souza Bad Pass Turnover (P2.T11),,Wright STEAL (2 STL),,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,365,1,41,4,1:52 AM,9:38,,,Wright 1' Running Layup (13 PTS),69 - 60,-9,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,366,1,1,4,1:52 AM,9:28,C. Miller 9' Jump Shot (10 PTS) (de Souza 1 AST),,,69 - 62,-7,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,367,6,1,4,1:53 AM,9:05,Leuchanka P.FOUL (P2.T1),,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,368,1,5,4,1:53 AM,8:55,,,Willingham 1' Layup (7 PTS) (Jackson 2 AST),71 - 62,-9,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,369,9,1,4,1:54 AM,8:49,DREAM Timeout: Regular (Full 2 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,372,8,0,4,1:57 AM,8:49,SUB: K. Miller FOR Castro Marques,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,374,2,77,4,1:57 AM,8:38,MISS de Souza 5' Driving Jump Shot,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,375,4,0,4,1:58 AM,8:38,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,376,6,3,4,1:58 AM,8:38,,,Abrosimova L.B.FOUL (P2.T2),,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,377,8,0,4,1:58 AM,8:38,,,SUB: Little FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,378,8,0,4,1:58 AM,8:38,,,SUB: Bird FOR Willingham,,,5,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,379,2,1,4,1:58 AM,8:29,MISS McCoughtry 3PT Jump Shot,,Cash BLOCK (1 BLK),,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0
+1041000303,380,4,0,4,1:58 AM,8:28,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,381,6,1,4,1:59 AM,8:14,Leuchanka P.FOUL (P3.T2),,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,382,8,0,4,1:59 AM,8:14,SUB: Lyttle FOR Leuchanka,,,,,4,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,383,2,5,4,1:59 AM,8:01,de Souza BLOCK (2 BLK),,MISS Little 2' Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000303,384,4,0,4,1:59 AM,7:59,de Souza REBOUND (Off:0 Def:11),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,385,2,1,4,1:59 AM,7:50,MISS McCoughtry 3PT Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,386,4,0,4,1:59 AM,7:47,,,Wright REBOUND (Off:0 Def:4),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,387,6,2,4,2:00 AM,7:30,de Souza S.FOUL (P4.T3),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,388,3,11,4,2:00 AM,7:30,,,Cash Free Throw 1 of 2 (15 PTS),72 - 62,-10,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,390,3,12,4,2:00 AM,7:30,,,MISS Cash Free Throw 2 of 2,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,392,4,0,4,2:00 AM,7:29,K. Miller REBOUND (Off:0 Def:1),,,,,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,393,10,0,4,2:01 AM,7:17,,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,2,1611661330,,,,,,0
+1041000303,394,7,4,4,2:01 AM,7:17,,,Wright Violation:Jump Ball,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041000303,395,2,1,4,2:02 AM,7:03,MISS C. Miller 3PT Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,396,4,0,4,2:02 AM,7:00,de Souza REBOUND (Off:1 Def:11),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,397,2,72,4,2:02 AM,6:59,MISS de Souza Putback Layup,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,398,4,0,4,2:02 AM,6:58,,,Jackson REBOUND (Off:1 Def:8),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,399,6,2,4,2:02 AM,6:42,Lyttle S.FOUL (P4.T4),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,400,3,11,4,2:03 AM,6:42,,,MISS Little Free Throw 1 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,401,4,1,4,2:03 AM,6:42,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,402,3,12,4,2:03 AM,6:42,,,Little Free Throw 2 of 2 (10 PTS),73 - 62,-11,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,404,6,2,4,2:03 AM,6:33,,,Little S.FOUL (P4.T3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,405,3,11,4,2:03 AM,6:33,de Souza Free Throw 1 of 2 (9 PTS),,,73 - 63,-10,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,407,3,12,4,2:03 AM,6:33,de Souza Free Throw 2 of 2 (10 PTS),,,73 - 64,-9,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,409,9,2,4,2:05 AM,6:17,,,Storm Timeout: Short (Reg.2 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,414,2,1,4,2:06 AM,6:09,,,MISS Cash 16' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,415,4,0,4,2:06 AM,6:08,de Souza REBOUND (Off:1 Def:12),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,417,6,2,4,2:07 AM,5:58,,,Wright S.FOUL (P4.T4),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,418,3,13,4,2:07 AM,5:58,K. Miller Free Throw 1 of 3 (4 PTS),,,73 - 65,-8,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,420,3,14,4,2:07 AM,5:58,K. Miller Free Throw 2 of 3 (5 PTS),,,73 - 66,-7,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,422,3,15,4,2:07 AM,5:58,K. Miller Free Throw 3 of 3 (6 PTS),,,73 - 67,-6,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,425,1,1,4,2:08 AM,5:35,,,Cash 3PT Jump Shot (18 PTS) (Wright 3 AST),76 - 67,-9,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,426,6,1,4,2:08 AM,5:29,,,Bird P.FOUL (P3.PN),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,427,8,0,4,2:08 AM,5:29,SUB: Herrington FOR K. Miller,,,,,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,428,3,11,4,2:08 AM,5:29,C. Miller Free Throw 1 of 2 (11 PTS),,,76 - 68,-8,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,430,3,12,4,2:08 AM,5:29,C. Miller Free Throw 2 of 2 (12 PTS),,,76 - 69,-7,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,433,2,1,4,2:09 AM,5:10,,,MISS Wright 3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,434,4,0,4,2:09 AM,5:09,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,436,2,1,4,2:10 AM,4:46,,,MISS Cash 17' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,437,4,0,4,2:10 AM,4:45,Lyttle REBOUND (Off:4 Def:2),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,439,2,77,4,2:10 AM,4:33,MISS McCoughtry 11' Driving Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,440,4,0,4,2:10 AM,4:30,,,Cash REBOUND (Off:2 Def:4),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,441,6,2,4,2:10 AM,4:24,Lyttle S.FOUL (P5.PN),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,442,3,11,4,2:10 AM,4:24,,,Little Free Throw 1 of 2 (11 PTS),77 - 69,-8,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,445,8,0,4,2:11 AM,4:24,SUB: Castro Marques FOR Lyttle,,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,447,3,12,4,2:11 AM,4:24,,,Little Free Throw 2 of 2 (12 PTS),78 - 69,-9,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,449,2,1,4,2:11 AM,4:03,MISS C. Miller 3PT Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,450,4,0,4,2:11 AM,4:03,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,453,6,3,4,2:12 AM,4:03,,,Cash L.B.FOUL (P4.PN),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,454,3,11,4,2:12 AM,4:03,Castro Marques Free Throw 1 of 2 (16 PTS),,,78 - 70,-8,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,456,3,12,4,2:12 AM,4:03,MISS Castro Marques Free Throw 2 of 2,,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,458,4,0,4,2:12 AM,4:03,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,459,6,3,4,2:12 AM,4:03,de Souza L.B.FOUL (P5.PN),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,460,3,11,4,2:12 AM,4:03,,,Jackson Free Throw 1 of 2 (12 PTS),79 - 70,-9,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,462,3,12,4,2:13 AM,4:03,,,Jackson Free Throw 2 of 2 (13 PTS),80 - 70,-10,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,464,2,1,4,2:13 AM,3:51,MISS McCoughtry 17' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,465,4,0,4,2:13 AM,3:49,,,Little REBOUND (Off:3 Def:3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,466,5,2,4,2:13 AM,3:33,de Souza STEAL (1 STL),,Cash Lost Ball Turnover (P2.T13),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,467,5,7,4,2:13 AM,3:30,McCoughtry Discontinue Dribble Turnover (P3.T12),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000303,468,1,41,4,2:14 AM,3:15,,,Jackson 3' Running Layup (15 PTS) (Bird 7 AST),82 - 70,-12,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,469,1,1,4,2:14 AM,3:01,Castro Marques 3PT Jump Shot (19 PTS),,,82 - 73,-9,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,470,2,5,4,2:14 AM,2:42,de Souza BLOCK (3 BLK),,MISS Wright 2' Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000303,471,4,0,4,2:14 AM,2:42,,,Little REBOUND (Off:4 Def:3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,472,6,2,4,2:15 AM,2:42,C. Miller S.FOUL (P3.PN),,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,473,9,4,4,2:15 AM,2:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,477,8,0,4,2:18 AM,2:42,SUB: Lyttle FOR Herrington,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,478,3,11,4,2:18 AM,2:42,,,MISS Little Free Throw 1 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,479,4,1,4,2:18 AM,2:42,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,480,3,12,4,2:19 AM,2:42,,,Little Free Throw 2 of 2 (13 PTS),83 - 73,-10,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,483,1,1,4,2:19 AM,2:32,McCoughtry 16' Jump Shot (28 PTS),,,83 - 75,-8,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,484,8,0,4,2:19 AM,2:16,SUB: K. Miller FOR C. Miller,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,485,2,1,4,2:19 AM,2:06,,,MISS Little 3PT Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,486,4,0,4,2:19 AM,2:04,Lyttle REBOUND (Off:4 Def:3),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,487,1,1,4,2:20 AM,1:55,McCoughtry 13' Jump Shot (30 PTS) (K. Miller 4 AST),,,83 - 77,-6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,488,2,1,4,2:20 AM,1:30,,,MISS Wright 3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,489,4,0,4,2:20 AM,1:28,Lyttle REBOUND (Off:4 Def:4),,,,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,490,5,2,4,2:20 AM,1:26,Lyttle Lost Ball Turnover (P2.T13),,Cash STEAL (1 STL),,,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000303,491,1,1,4,2:20 AM,1:06,,,Bird 15' Jump Shot (14 PTS),85 - 77,-8,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,492,1,42,4,2:21 AM,0:46,McCoughtry 1' Driving Layup (32 PTS) (Lyttle 4 AST),,,85 - 79,-6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,493,6,2,4,2:21 AM,0:46,,,Jackson S.FOUL (P4.PN),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,494,3,10,4,2:21 AM,0:46,McCoughtry Free Throw 1 of 1 (33 PTS),,,85 - 80,-5,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,496,6,1,4,2:21 AM,0:36,Castro Marques P.FOUL (P2.PN),,,,,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,497,3,11,4,2:22 AM,0:36,,,MISS Wright Free Throw 1 of 2,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,498,4,1,4,2:22 AM,0:36,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,499,3,12,4,2:22 AM,0:36,,,MISS Wright Free Throw 2 of 2,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,501,4,0,4,2:22 AM,0:33,de Souza REBOUND (Off:1 Def:13),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,502,9,1,4,2:22 AM,0:33,DREAM Timeout: Regular (Full 3 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,504,6,2,4,2:25 AM,0:31,,,Cash S.FOUL (P5.PN),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000303,505,3,13,4,2:25 AM,0:31,McCoughtry Free Throw 1 of 3 (34 PTS),,,85 - 81,-4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,507,3,14,4,2:26 AM,0:31,MISS McCoughtry Free Throw 2 of 3,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,508,4,1,4,2:26 AM,0:31,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,509,3,15,4,2:26 AM,0:31,McCoughtry Free Throw 3 of 3 (35 PTS),,,85 - 82,-3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,511,9,2,4,2:26 AM,0:31,,,Storm Timeout: Short (Reg.2 Short 2),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,513,2,1,4,2:28 AM,0:13,,,MISS Bird 17' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,514,4,0,4,2:28 AM,0:11,McCoughtry REBOUND (Off:0 Def:3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,515,1,41,4,2:28 AM,0:06,Castro Marques 2' Running Layup (21 PTS) (McCoughtry 3 AST),,,85 - 84,-1,4,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,516,6,1,4,2:28 AM,0:06,McCoughtry P.FOUL (P3.PN),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000303,517,3,11,4,2:29 AM,0:06,,,Little Free Throw 1 of 2 (14 PTS),86 - 84,-2,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,519,3,12,4,2:29 AM,0:06,,,Little Free Throw 2 of 2 (15 PTS),87 - 84,-3,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000303,521,9,2,4,2:29 AM,0:06,DREAM Timeout: Short (Full 3 Short 1),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,525,8,0,4,2:29 AM,0:06,SUB: C. Miller FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000303,523,2,1,4,2:30 AM,0:02,MISS McCoughtry 3PT Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,524,4,0,4,2:30 AM,0:02,K. Miller REBOUND (Off:1 Def:1),,,,,4,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,526,2,1,4,2:31 AM,0:01,MISS C. Miller 3PT Jump Shot,,,,,4,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000303,527,4,0,4,2:31 AM,0:00,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000303,528,13,0,4,2:31 AM,0:00,,End of 4th Period (2:31 AM EST),,87 - 84,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

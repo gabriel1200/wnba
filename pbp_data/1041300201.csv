@@ -1,0 +1,354 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041300201,0,12,0,1,7:00 PM,10:00,,Start of 1st Period (7:00 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,1,10,0,1,7:01 PM,10:00,Jump Ball de Souza vs. Larkins: Tip to Catchings,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1041300201,2,1,41,1,7:01 PM,9:53,,,Catchings 2' Running Layup (2 PTS),2 - 0,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,3,2,1,1,7:01 PM,9:37,MISS Hayes 24' 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,4,4,0,1,7:01 PM,9:35,Herrington REBOUND (Off:1 Def:0),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,5,1,56,1,7:01 PM,9:18,de Souza 10' Running Hook Shot (2 PTS) (Hayes 1 AST),,,2 - 2,TIE,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,6,2,1,1,7:02 PM,8:59,,,MISS January 21' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,8,4,0,1,7:02 PM,8:55,,,Larkins REBOUND (Off:1 Def:0),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,7,2,4,1,7:02 PM,8:55,,,MISS Larkins  Tip Shot,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,9,4,0,1,7:02 PM,8:54,Herrington REBOUND (Off:1 Def:1),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,11,5,4,1,7:02 PM,8:47,McCoughtry Traveling Turnover (P1.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300201,12,6,2,1,7:03 PM,8:31,McCoughtry S.FOUL (P1.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,13,3,11,1,7:03 PM,8:31,,,MISS Catchings Free Throw 1 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,14,4,1,1,7:03 PM,8:31,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,15,3,12,1,7:03 PM,8:31,,,MISS Catchings Free Throw 2 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,17,4,0,1,7:03 PM,8:28,de Souza REBOUND (Off:0 Def:1),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,18,1,42,1,7:04 PM,8:13,McCoughtry 2' Driving Layup (2 PTS) (Herrington 1 AST),,,2 - 4,2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,19,6,1,1,7:04 PM,8:00,Thomas P.FOUL (P1.T2),,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,20,1,1,1,7:04 PM,7:44,,,January 16' Jump Shot (2 PTS) (Catchings 1 AST),4 - 4,TIE,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,21,6,2,1,7:05 PM,7:33,,,January S.FOUL (P1.T1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,22,3,11,1,7:05 PM,7:33,Thomas Free Throw 1 of 2 (1 PTS),,,4 - 5,1,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,24,3,12,1,7:05 PM,7:33,MISS Thomas Free Throw 2 of 2,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,26,4,0,1,7:05 PM,7:30,,,Christmas-Kelly REBOUND (Off:0 Def:1),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,27,1,77,1,7:06 PM,7:21,,,Christmas-Kelly 4' Driving Jump Shot (2 PTS),6 - 5,-1,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,28,2,47,1,7:06 PM,7:08,MISS de Souza 14' Turnaround Jump Shot,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,29,4,0,1,7:06 PM,7:05,,,Zellous REBOUND (Off:0 Def:1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,30,1,1,1,7:06 PM,6:51,,,Catchings  3PT Jump Shot (5 PTS) (Larkins 1 AST),9 - 5,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,31,1,41,1,7:06 PM,6:32,Herrington 2' Running Layup (2 PTS) (McCoughtry 1 AST),,,9 - 7,-2,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,33,5,2,1,7:07 PM,6:11,de Souza STEAL (1 STL),,Christmas-Kelly Lost Ball Turnover (P1.T1),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,32,10,0,1,7:07 PM,6:11,Jump Ball de Souza vs. Christmas-Kelly: Tip to,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,2,1611661330,,,,,,0
+1041300201,34,6,2,1,7:08 PM,5:59,,,Zellous S.FOUL (P1.T2),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,35,3,11,1,7:08 PM,5:59,Hayes Free Throw 1 of 2 (1 PTS),,,9 - 8,-1,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,37,3,12,1,7:08 PM,5:59,Hayes Free Throw 2 of 2 (2 PTS),,,9 - 9,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,39,1,1,1,7:09 PM,5:39,,,Catchings 19' Jump Shot (7 PTS),11 - 9,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,40,1,46,1,7:09 PM,5:30,Herrington 3' Running Jump Shot (4 PTS) (Thomas 1 AST),,,11 - 11,TIE,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,42,5,1,1,7:09 PM,5:09,McCoughtry STEAL (1 STL),,January Bad Pass Turnover (P1.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,43,5,1,1,7:09 PM,5:02,Thomas Bad Pass Turnover (P1.T2),,Catchings STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,44,1,42,1,7:09 PM,4:54,,,Catchings 2' Driving Layup (9 PTS),13 - 11,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,45,6,2,1,7:09 PM,4:54,Hayes S.FOUL (P1.T3),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,46,9,4,1,7:10 PM,4:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,47,3,10,1,7:13 PM,4:54,,,Catchings Free Throw 1 of 1 (10 PTS),14 - 11,-3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,49,1,1,1,7:14 PM,4:32,Hayes  3PT Jump Shot (5 PTS) (Herrington 2 AST),,,14 - 14,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,50,2,42,1,7:14 PM,4:06,McCoughtry BLOCK (1 BLK),,MISS Zellous 3' Driving Layup,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1041300201,51,4,0,1,7:14 PM,4:04,,,Christmas-Kelly REBOUND (Off:1 Def:1),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,52,1,72,1,7:14 PM,4:03,,,Christmas-Kelly  Putback Layup (4 PTS),16 - 14,-2,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,53,1,1,1,7:15 PM,3:42,McCoughtry 15' Jump Shot (4 PTS) (Hayes 2 AST),,,16 - 16,TIE,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,54,5,1,1,7:15 PM,3:28,de Souza STEAL (2 STL),,Larkins Bad Pass Turnover (P1.T3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,55,2,5,1,7:15 PM,3:22,MISS Thomas 1' Layup,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,56,4,0,1,7:15 PM,3:21,Thomas REBOUND (Off:1 Def:0),,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,57,1,5,1,7:15 PM,3:17,de Souza 2' Layup (4 PTS) (McCoughtry 2 AST),,,16 - 18,2,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,58,1,42,1,7:15 PM,3:00,,,Zellous 1' Driving Layup (2 PTS),18 - 18,TIE,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,60,1,1,1,7:16 PM,2:43,Hayes 24' 3PT Jump Shot (8 PTS) (Thomas 2 AST),,,18 - 21,3,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,61,6,2,1,7:16 PM,2:24,Herrington S.FOUL (P1.T4),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,62,3,11,1,7:16 PM,2:24,,,Catchings Free Throw 1 of 2 (11 PTS),19 - 21,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,64,8,0,1,7:16 PM,2:24,,,SUB: Clarendon FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,65,8,0,1,7:17 PM,2:24,,,SUB: Phillips FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,66,8,0,1,7:17 PM,2:24,SUB: Bentley FOR Thomas,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,67,3,12,1,7:17 PM,2:24,,,Catchings Free Throw 2 of 2 (12 PTS),20 - 21,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,69,2,47,1,7:17 PM,2:06,MISS de Souza 4' Turnaround Jump Shot,,Larkins BLOCK (1 BLK),,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0
+1041300201,70,4,0,1,7:17 PM,2:04,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,71,1,5,1,7:17 PM,1:58,,,Larkins 1' Layup (2 PTS) (Phillips 1 AST),22 - 21,-1,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,72,6,2,1,7:17 PM,1:58,de Souza S.FOUL (P1.PN),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,73,3,10,1,7:18 PM,1:58,,,Larkins Free Throw 1 of 1 (3 PTS),23 - 21,-2,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,75,6,2,1,7:18 PM,1:44,,,Catchings S.FOUL (P1.T3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,76,3,11,1,7:18 PM,1:44,Herrington Free Throw 1 of 2 (5 PTS),,,23 - 22,-1,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,78,3,12,1,7:19 PM,1:44,Herrington Free Throw 2 of 2 (6 PTS),,,23 - 23,TIE,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,80,5,2,1,7:19 PM,1:30,Herrington STEAL (1 STL),,Catchings Lost Ball Turnover (P1.T4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,81,2,41,1,7:19 PM,1:24,MISS Herrington 2' Running Layup,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,82,4,0,1,7:19 PM,1:22,Herrington REBOUND (Off:2 Def:1),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,83,1,72,1,7:19 PM,1:19,Herrington 1' Putback Layup (8 PTS),,,23 - 25,2,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,84,2,1,1,7:20 PM,0:55,,,MISS Christmas-Kelly 6' Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,85,4,0,1,7:20 PM,0:52,,,Larkins REBOUND (Off:2 Def:0),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,86,1,5,1,7:20 PM,0:41,,,Larkins 1' Layup (5 PTS) (Clarendon 1 AST),25 - 25,TIE,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,88,2,1,1,7:20 PM,0:28,MISS Bentley 24' 3PT Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,89,4,0,1,7:20 PM,0:26,de Souza REBOUND (Off:1 Def:1),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,90,1,72,1,7:20 PM,0:24,de Souza  Putback Layup (6 PTS),,,25 - 27,2,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,91,6,1,1,7:21 PM,0:07,Bentley P.FOUL (P1.PN),,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,92,3,11,1,7:21 PM,0:07,,,MISS Clarendon Free Throw 1 of 2,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,93,4,1,1,7:21 PM,0:07,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,94,3,12,1,7:21 PM,0:07,,,Clarendon Free Throw 2 of 2 (1 PTS),26 - 27,1,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,96,6,28,1,7:22 PM,0:03,,,Clarendon Personal Take Foul (P1.PN),,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,97,5,40,1,7:22 PM,0:02,McCoughtry Out of Bounds Lost Ball Turnover (P2.T3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,98,13,0,1,7:22 PM,0:00,,End of 1st Period (7:22 PM EST),,26 - 27,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,100,12,0,2,7:26 PM,10:00,,Start of 2nd Period (7:26 PM EST),,26 - 27,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,101,6,1,2,7:26 PM,9:41,,,Zellous P.FOUL (P2.T1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,102,2,1,2,7:27 PM,9:35,MISS Hayes 24' 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,103,4,0,2,7:27 PM,9:33,,,Phillips REBOUND (Off:0 Def:1),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,104,2,1,2,7:27 PM,9:15,,,MISS Phillips  3PT Jump Shot,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,105,4,0,2,7:27 PM,9:13,,,Phillips REBOUND (Off:1 Def:1),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,106,1,5,2,7:27 PM,8:51,,,Larkins 1' Layup (7 PTS) (Clarendon 2 AST),28 - 27,-1,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,107,5,1,2,7:27 PM,8:41,McCoughtry Bad Pass Turnover (P3.T4),,Christmas-Kelly STEAL (1 STL),,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,108,2,42,2,7:28 PM,8:30,,,MISS Clarendon 2' Driving Layup,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,109,4,0,2,7:28 PM,8:29,McCoughtry REBOUND (Off:0 Def:1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,110,1,77,2,7:28 PM,8:21,Bentley 11' Driving Jump Shot (2 PTS),,,28 - 29,1,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,111,5,1,2,7:28 PM,8:06,McCoughtry STEAL (2 STL),,Clarendon Bad Pass Turnover (P1.T5),,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,112,6,1,2,7:28 PM,8:06,,,Clarendon P.FOUL (P2.T2),,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,113,8,0,2,7:28 PM,8:06,SUB: Morello FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,115,2,42,2,7:29 PM,7:52,MISS McCoughtry 3' Driving Layup,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,116,4,0,2,7:29 PM,7:51,Morello REBOUND (Off:1 Def:0),,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,117,1,72,2,7:29 PM,7:49,Morello  Putback Layup (2 PTS),,,28 - 31,3,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,119,6,2,2,7:29 PM,7:33,McCoughtry S.FOUL (P2.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,120,3,11,2,7:30 PM,7:33,,,MISS Christmas-Kelly Free Throw 1 of 2,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,121,4,1,2,7:30 PM,7:33,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,122,8,0,2,7:30 PM,7:33,,,SUB: Hassell FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203418,Jasmine Hassell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,123,8,0,2,7:30 PM,7:33,,,SUB: January FOR Clarendon,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,124,3,12,2,7:30 PM,7:33,,,Christmas-Kelly Free Throw 2 of 2 (5 PTS),29 - 31,2,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,127,6,4,2,7:30 PM,7:22,Morello OFF.Foul (P1),,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,128,5,5,2,7:30 PM,7:22,Morello Foul Turnover (P1.T5),,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300201,129,8,0,2,7:31 PM,7:22,,,SUB: Catchings FOR Christmas-Kelly,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,130,5,39,2,7:31 PM,7:03,,,Hassell Step Out of Bounds Turnover (P1.T6),,,5,203418,Jasmine Hassell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,131,9,1,2,7:31 PM,7:03,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,134,8,0,2,7:34 PM,7:03,SUB: Herrington FOR Thomas,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,135,6,1,2,7:35 PM,6:51,,,Zellous P.FOUL (P3.T3),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,136,1,1,2,7:35 PM,6:40,Herrington 16' Jump Shot (10 PTS) (Bentley 1 AST),,,29 - 33,4,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,137,6,1,2,7:35 PM,6:30,Hayes P.FOUL (P2.T2),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,138,8,0,2,7:36 PM,6:30,,,SUB: Christmas-Kelly FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,139,2,1,2,7:36 PM,6:14,,,MISS January 24' 3PT Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,140,4,0,2,7:36 PM,6:14,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,141,8,0,2,7:36 PM,6:14,,,SUB: Larkins FOR Hassell,,,5,203418,Jasmine Hassell,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,142,2,1,2,7:37 PM,5:55,MISS Hayes 26' 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,143,4,0,2,7:37 PM,5:53,,,Larkins REBOUND (Off:2 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,144,2,42,2,7:37 PM,5:44,,,MISS Christmas-Kelly 1' Driving Layup,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,145,4,0,2,7:37 PM,5:43,Hayes REBOUND (Off:0 Def:1),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,146,5,1,2,7:37 PM,5:39,Hayes Bad Pass Turnover (P1.T6),,Phillips STEAL (1 STL),,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,147,2,77,2,7:37 PM,5:28,,,MISS Catchings 4' Driving Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,148,4,0,2,7:37 PM,5:26,,,Larkins REBOUND (Off:3 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,149,1,1,2,7:37 PM,5:16,,,Phillips  3PT Jump Shot (3 PTS) (January 1 AST),32 - 33,1,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,150,5,11,2,7:38 PM,4:45,DREAM Turnover: Shot Clock (T#7),,,,,2,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300201,151,2,77,2,7:38 PM,4:31,,,MISS Catchings 6' Driving Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,152,4,0,2,7:38 PM,4:29,,,Larkins REBOUND (Off:4 Def:1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,153,5,1,2,7:38 PM,4:17,Herrington STEAL (2 STL),,Larkins Bad Pass Turnover (P2.T7),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,154,1,5,2,7:38 PM,4:08,Morello 2' Layup (4 PTS) (Herrington 3 AST),,,32 - 35,3,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,156,1,43,2,7:39 PM,3:50,,,Larkins 2' Alley Oop Layup (9 PTS) (Phillips 2 AST),34 - 35,1,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,157,1,5,2,7:39 PM,3:38,Herrington 2' Layup (12 PTS) (McCoughtry 3 AST),,,34 - 37,3,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,158,1,42,2,7:39 PM,3:18,,,January 2' Driving Layup (4 PTS) (Larkins 2 AST),36 - 37,1,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,160,9,1,2,7:39 PM,3:09,DREAM Timeout: Regular (Full 1 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,161,18,1,2,7:40 PM,3:09,,Overturn Ruling,,,,0,150,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300201,163,8,0,2,7:43 PM,3:09,SUB: Thomas FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,164,7,5,2,7:44 PM,2:51,,,January Violation:Kicked Ball,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,165,1,1,2,7:44 PM,2:44,McCoughtry 15' Jump Shot (6 PTS) (Bentley 2 AST),,,36 - 39,3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,166,2,42,2,7:44 PM,2:24,,,MISS January 2' Driving Layup,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,168,4,0,2,7:44 PM,2:23,,,Christmas-Kelly REBOUND (Off:2 Def:1),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,167,1,72,2,7:44 PM,2:23,,,Christmas-Kelly 1' Putback Layup (7 PTS),38 - 39,1,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,169,2,1,2,7:45 PM,2:05,MISS Bentley 24' 3PT Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,170,4,0,2,7:45 PM,2:03,,,Larkins REBOUND (Off:4 Def:2),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,171,2,77,2,7:45 PM,1:50,Morello BLOCK (1 BLK),,MISS Christmas-Kelly 4' Driving Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0
+1041300201,172,4,0,2,7:45 PM,1:48,McCoughtry REBOUND (Off:0 Def:2),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,173,6,2,2,7:45 PM,1:47,,,Phillips S.FOUL (P1.T4),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,174,3,11,2,7:46 PM,1:47,Herrington Free Throw 1 of 2 (13 PTS),,,38 - 40,2,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,176,3,12,2,7:46 PM,1:47,MISS Herrington Free Throw 2 of 2,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,178,4,0,2,7:46 PM,1:43,,,Christmas-Kelly REBOUND (Off:2 Def:2),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,179,5,1,2,7:46 PM,1:27,Herrington STEAL (3 STL),,Catchings Bad Pass Turnover (P2.T8),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,180,6,1,2,7:46 PM,1:24,,,Christmas-Kelly P.FOUL (P1.PN),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,181,3,11,2,7:47 PM,1:24,McCoughtry Free Throw 1 of 2 (7 PTS),,,38 - 41,3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,183,3,12,2,7:47 PM,1:24,McCoughtry Free Throw 2 of 2 (8 PTS),,,38 - 42,4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,185,9,1,2,7:47 PM,1:24,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,189,8,0,2,7:49 PM,1:19,SUB: Hayes FOR McCoughtry,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,190,2,77,2,7:49 PM,1:05,,,MISS Christmas-Kelly 5' Driving Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,191,4,0,2,7:49 PM,1:04,Morello REBOUND (Off:1 Def:1),,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,192,2,77,2,7:50 PM,0:50,MISS Hayes 3' Driving Jump Shot,,Christmas-Kelly BLOCK (1 BLK),,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0
+1041300201,193,4,0,2,7:50 PM,0:48,,,Catchings REBOUND (Off:0 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,194,6,1,2,7:50 PM,0:28,Hayes P.FOUL (P3.T3),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,195,8,0,2,7:51 PM,0:28,SUB: McCoughtry FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,196,2,42,2,7:51 PM,0:17,,,MISS Christmas-Kelly 1' Driving Layup,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,197,4,0,2,7:51 PM,0:16,,,Larkins REBOUND (Off:5 Def:2),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,198,1,72,2,7:51 PM,0:16,,,Larkins 1' Putback Layup (11 PTS),40 - 42,2,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,199,2,1,2,7:51 PM,0:02,MISS McCoughtry 25' 3PT Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,200,4,0,2,7:51 PM,0:01,,,Catchings REBOUND (Off:0 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,201,2,1,2,7:51 PM,0:00,,,MISS Catchings 24' 3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,202,4,0,2,7:51 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,203,13,0,2,7:51 PM,0:00,,End of 2nd Period (7:51 PM EST),,40 - 42,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,205,12,0,3,8:10 PM,10:00,,Start of 3rd Period (8:10 PM EST),,40 - 42,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,206,5,1,3,8:10 PM,9:48,McCoughtry Bad Pass Turnover (P4.T8),,Catchings STEAL (2 STL),,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,207,5,2,3,8:10 PM,9:38,McCoughtry STEAL (3 STL),,Larkins Lost Ball Turnover (P3.T9),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,208,5,1,3,8:10 PM,9:33,Thomas Bad Pass Turnover (P2.T9),,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,209,2,47,3,8:11 PM,9:10,,,MISS Christmas-Kelly 13' Turnaround Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,210,4,0,3,8:11 PM,9:08,McCoughtry REBOUND (Off:0 Def:3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,211,2,78,3,8:11 PM,8:59,MISS McCoughtry 6' Floating Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,212,4,0,3,8:11 PM,8:58,,,Larkins REBOUND (Off:5 Def:3),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,213,6,29,3,8:12 PM,8:39,Thomas Shooting Block Foul (P2.T1),,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,214,3,11,3,8:12 PM,8:39,,,Christmas-Kelly Free Throw 1 of 2 (8 PTS),41 - 42,1,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,216,3,12,3,8:12 PM,8:39,,,Christmas-Kelly Free Throw 2 of 2 (9 PTS),42 - 42,TIE,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,218,2,1,3,8:13 PM,8:21,MISS de Souza 4' Jump Shot,,Larkins BLOCK (2 BLK),,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0
+1041300201,219,4,0,3,8:13 PM,8:19,,,Larkins REBOUND (Off:5 Def:4),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,220,1,73,3,8:13 PM,8:07,,,Catchings 2' Driving Reverse Layup (14 PTS) (Christmas-Kelly 1 AST),44 - 42,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,221,1,42,3,8:13 PM,7:57,Hayes 2' Driving Layup (10 PTS),,,44 - 44,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,222,1,5,3,8:13 PM,7:35,,,Zellous 2' Layup (4 PTS) (Christmas-Kelly 2 AST),46 - 44,-2,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,224,1,1,3,8:13 PM,7:27,McCoughtry 18' Jump Shot (10 PTS),,,46 - 46,TIE,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,225,5,2,3,8:14 PM,7:11,de Souza STEAL (3 STL),,Larkins Lost Ball Turnover (P4.T10),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,226,2,1,3,8:14 PM,6:57,MISS McCoughtry 19' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,227,4,0,3,8:14 PM,6:54,,,January REBOUND (Off:0 Def:1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,228,6,2,3,8:14 PM,6:47,de Souza S.FOUL (P2.T2),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,229,3,11,3,8:14 PM,6:47,,,Larkins Free Throw 1 of 2 (12 PTS),47 - 46,-1,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,231,3,12,3,8:15 PM,6:47,,,Larkins Free Throw 2 of 2 (13 PTS),48 - 46,-2,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,234,2,77,3,8:15 PM,6:35,MISS Herrington 11' Driving Jump Shot,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,236,4,0,3,8:15 PM,6:34,Herrington REBOUND (Off:3 Def:1),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,235,1,72,3,8:15 PM,6:34,Herrington 1' Putback Layup (15 PTS),,,48 - 48,TIE,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,237,2,1,3,8:16 PM,6:13,,,MISS Christmas-Kelly  3PT Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,238,4,0,3,8:16 PM,6:12,de Souza REBOUND (Off:1 Def:2),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,239,1,1,3,8:16 PM,6:00,Thomas 18' Jump Shot (3 PTS) (Hayes 3 AST),,,48 - 50,2,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,240,6,1,3,8:16 PM,5:44,Thomas P.FOUL (P3.T3),,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,241,8,0,3,8:16 PM,5:44,,,SUB: Phillips FOR Zellous,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,242,8,0,3,8:16 PM,5:44,SUB: Bentley FOR Thomas,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,243,6,1,3,8:17 PM,5:36,Herrington P.FOUL (P2.T4),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,244,2,1,3,8:17 PM,5:25,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,245,4,0,3,8:17 PM,5:24,Hayes REBOUND (Off:0 Def:2),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,246,2,47,3,8:17 PM,5:11,MISS de Souza 5' Turnaround Jump Shot,,Larkins BLOCK (3 BLK),,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0
+1041300201,247,4,0,3,8:17 PM,5:10,Herrington REBOUND (Off:4 Def:1),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,248,6,2,3,8:18 PM,5:10,,,Larkins S.FOUL (P1.T1),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,249,3,11,3,8:18 PM,5:10,Herrington Free Throw 1 of 2 (16 PTS),,,48 - 51,3,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,251,8,0,3,8:18 PM,5:10,,,SUB: Clarendon FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,255,5,17,3,8:18 PM,5:10,de Souza Lane Violation Turnover (P1.T10),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300201,257,2,1,3,8:19 PM,4:57,,,MISS Christmas-Kelly  3PT Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,258,4,0,3,8:19 PM,4:56,McCoughtry REBOUND (Off:0 Def:4),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,259,2,1,3,8:19 PM,4:51,MISS Hayes 19' Jump Shot,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,260,4,0,3,8:19 PM,4:47,,,Christmas-Kelly REBOUND (Off:2 Def:3),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,261,2,1,3,8:19 PM,4:39,,,MISS Catchings 20' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,262,4,0,3,8:19 PM,4:38,de Souza REBOUND (Off:1 Def:3),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,264,9,4,3,8:20 PM,4:33,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,266,6,11,3,8:21 PM,4:33,de Souza T.FOUL (P2.T4),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041300201,269,3,16,3,8:23 PM,4:33,,,Catchings Free Throw Technical (15 PTS),49 - 51,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,271,1,42,3,8:23 PM,4:24,Hayes 2' Driving Layup (12 PTS),,,49 - 53,4,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,272,1,42,3,8:24 PM,4:00,,,Clarendon 3' Driving Layup (3 PTS) (Christmas-Kelly 3 AST),51 - 53,2,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,273,2,1,3,8:24 PM,3:44,MISS Herrington 18' Jump Shot,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,274,4,0,3,8:24 PM,3:43,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,275,6,3,3,8:24 PM,3:43,Hayes L.B.FOUL (P4.PN),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,276,3,11,3,8:25 PM,3:43,,,Catchings Free Throw 1 of 2 (16 PTS),52 - 53,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,278,8,0,3,8:25 PM,3:43,,,SUB: January FOR Christmas-Kelly,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,279,3,12,3,8:25 PM,3:43,,,Catchings Free Throw 2 of 2 (17 PTS),53 - 53,TIE,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,282,2,77,3,8:26 PM,3:22,MISS Hayes 8' Driving Jump Shot,,Larkins BLOCK (4 BLK),,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0
+1041300201,283,4,0,3,8:26 PM,3:20,,,January REBOUND (Off:0 Def:2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,284,1,1,3,8:26 PM,3:13,,,Phillips  3PT Jump Shot (6 PTS) (Clarendon 3 AST),56 - 53,-3,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,286,2,1,3,8:26 PM,2:47,MISS Bentley  3PT Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,287,4,0,3,8:26 PM,2:46,,,Catchings REBOUND (Off:0 Def:4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,288,2,5,3,8:27 PM,2:39,de Souza BLOCK (1 BLK),,MISS Larkins 1' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041300201,291,4,0,3,8:27 PM,2:38,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,290,10,0,3,8:27 PM,2:38,Jump Ball de Souza vs. Clarendon: Tip to McCoughtry,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1041300201,292,1,1,3,8:27 PM,2:24,Hayes 25' 3PT Jump Shot (15 PTS) (Herrington 4 AST),,,56 - 56,TIE,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,293,2,5,3,8:28 PM,2:11,,,MISS Larkins 2' Layup,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,294,4,0,3,8:28 PM,2:09,de Souza REBOUND (Off:1 Def:4),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,295,5,1,3,8:28 PM,2:07,de Souza Bad Pass Turnover (P2.T11),,Phillips STEAL (2 STL),,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,296,2,1,3,8:28 PM,1:48,,,MISS Phillips 25' 3PT Jump Shot,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,297,4,0,3,8:28 PM,1:47,de Souza REBOUND (Off:1 Def:5),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,298,1,41,3,8:28 PM,1:41,McCoughtry 1' Running Layup (12 PTS) (Herrington 5 AST),,,56 - 58,2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,299,5,11,3,8:29 PM,1:12,,,Fever Turnover: Shot Clock (T#11),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300201,300,9,1,3,8:29 PM,1:12,DREAM Timeout: Regular (Full 2 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,303,8,0,3,8:31 PM,1:12,SUB: Thomas FOR McCoughtry,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,304,1,77,3,8:31 PM,0:55,Hayes 4' Driving Jump Shot (17 PTS) (Bentley 3 AST),,,56 - 60,4,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,305,5,1,3,8:32 PM,0:45,,,Catchings Bad Pass Turnover (P3.T12),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,306,1,1,3,8:32 PM,0:29,Bentley 19' Jump Shot (4 PTS),,,56 - 62,6,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,307,5,1,3,8:33 PM,0:05,Herrington STEAL (4 STL),,January Bad Pass Turnover (P2.T13),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,308,5,1,3,8:33 PM,0:00,Thomas Bad Pass Turnover (P3.T12),,January STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,309,2,1,3,8:33 PM,0:00,,,MISS Clarendon 25' 3PT Jump Shot,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,310,4,0,3,8:33 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,311,13,0,3,8:33 PM,0:00,,End of 3rd Period (8:33 PM EST),,56 - 62,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,313,12,0,4,8:36 PM,10:00,,Start of 4th Period (8:36 PM EST),,56 - 62,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,314,1,42,4,8:37 PM,9:41,,,Zellous 1' Driving Layup (6 PTS) (Larkins 3 AST),58 - 62,4,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,315,6,2,4,8:37 PM,9:33,,,Zellous S.FOUL (P4.T1),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,316,3,11,4,8:37 PM,9:33,Bentley Free Throw 1 of 2 (5 PTS),,,58 - 63,5,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,318,3,12,4,8:37 PM,9:33,Bentley Free Throw 2 of 2 (6 PTS),,,58 - 64,6,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,320,2,77,4,8:38 PM,9:10,de Souza BLOCK (2 BLK),,MISS Christmas-Kelly 3' Driving Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041300201,321,4,0,4,8:38 PM,9:08,Herrington REBOUND (Off:4 Def:2),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,322,2,77,4,8:38 PM,8:46,MISS Bentley 9' Driving Jump Shot,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,323,4,0,4,8:38 PM,8:43,,,Larkins REBOUND (Off:5 Def:5),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,324,1,41,4,8:38 PM,8:37,,,Larkins 1' Running Layup (15 PTS) (Clarendon 4 AST),60 - 64,4,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,325,1,47,4,8:39 PM,8:18,de Souza 11' Turnaround Jump Shot (8 PTS) (Bentley 4 AST),,,60 - 66,6,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,326,5,1,4,8:39 PM,7:55,,,Clarendon Bad Pass Turnover (P2.T14),,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,327,6,2,4,8:40 PM,7:37,,,January S.FOUL (P2.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,328,3,11,4,8:40 PM,7:37,MISS Hayes Free Throw 1 of 2,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,329,4,1,4,8:40 PM,7:37,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,330,8,0,4,8:40 PM,7:37,,,SUB: Catchings FOR Clarendon,,,5,203406,Layshia Clarendon,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,331,8,0,4,8:40 PM,7:37,SUB: McCoughtry FOR Herrington,,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,332,3,12,4,8:41 PM,7:37,Hayes Free Throw 2 of 2 (18 PTS),,,60 - 67,7,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,335,1,1,4,8:41 PM,7:22,,,Christmas-Kelly 16' Jump Shot (11 PTS),62 - 67,5,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,336,2,1,4,8:41 PM,7:06,MISS McCoughtry 19' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,337,4,0,4,8:41 PM,7:03,,,Larkins REBOUND (Off:5 Def:6),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,338,6,2,4,8:41 PM,6:55,de Souza S.FOUL (P3.T1),,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,339,3,11,4,8:42 PM,6:55,,,Zellous Free Throw 1 of 2 (7 PTS),63 - 67,4,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,341,8,0,4,8:42 PM,6:55,SUB: Morello FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,342,3,12,4,8:42 PM,6:55,,,Zellous Free Throw 2 of 2 (8 PTS),64 - 67,3,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,344,1,1,4,8:42 PM,6:41,Thomas 19' Jump Shot (5 PTS),,,64 - 69,5,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,345,2,42,4,8:43 PM,6:31,,,MISS Christmas-Kelly 1' Driving Layup,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,346,4,0,4,8:43 PM,6:30,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,347,8,0,4,8:43 PM,6:30,SUB: Herrington FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,348,8,0,4,8:43 PM,6:30,,,SUB: Phillips FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,349,2,1,4,8:43 PM,6:24,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,350,4,0,4,8:43 PM,6:22,,,Christmas-Kelly REBOUND (Off:3 Def:3),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,351,1,72,4,8:43 PM,6:20,,,Christmas-Kelly 1' Putback Layup (13 PTS),66 - 69,3,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,352,2,1,4,8:44 PM,6:02,MISS Thomas 24' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,353,4,0,4,8:44 PM,6:01,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,354,6,3,4,8:44 PM,6:01,,,Christmas-Kelly L.B.FOUL (P2.T3),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,355,2,1,4,8:44 PM,5:53,MISS McCoughtry 19' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,356,4,0,4,8:44 PM,5:51,,,Catchings REBOUND (Off:0 Def:5),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,357,5,1,4,8:44 PM,5:44,Thomas STEAL (1 STL),,Catchings Bad Pass Turnover (P4.T15),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,358,1,41,4,8:44 PM,5:38,Thomas 1' Running Layup (7 PTS) (McCoughtry 4 AST),,,66 - 71,5,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,359,1,1,4,8:45 PM,5:15,,,Zellous 16' Jump Shot (10 PTS) (Catchings 2 AST),68 - 71,3,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,360,2,1,4,8:45 PM,4:55,MISS McCoughtry 18' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,361,4,0,4,8:45 PM,4:55,,,Catchings REBOUND (Off:0 Def:6),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,362,6,1,4,8:45 PM,4:55,Morello P.FOUL (P2.T2),,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,363,9,1,4,8:46 PM,4:55,DREAM Timeout: Regular (Full 3 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,365,8,0,4,8:49 PM,4:55,SUB: Hayes FOR Bentley,,,,,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,366,8,0,4,8:49 PM,4:55,SUB: de Souza FOR Morello,,,,,4,202623,Aneika Morello,1611661330.0,Atlanta,Dream,ATL,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,368,1,42,4,8:49 PM,4:39,,,Christmas-Kelly 2' Driving Layup (15 PTS) (January 2 AST),70 - 71,1,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,369,1,46,4,8:49 PM,4:34,Hayes 6' Running Jump Shot (20 PTS),,,70 - 73,3,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,370,6,2,4,8:49 PM,4:34,,,Phillips S.FOUL (P2.T4),,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,371,3,10,4,8:50 PM,4:34,Hayes Free Throw 1 of 1 (21 PTS),,,70 - 74,4,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,374,8,0,4,8:50 PM,4:17,,,SUB: Larkins FOR Phillips,,,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,375,2,1,4,8:51 PM,4:09,,,MISS Zellous 24' 3PT Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,376,4,0,4,8:51 PM,4:07,Hayes REBOUND (Off:0 Def:3),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,377,2,77,4,8:51 PM,3:53,MISS McCoughtry 8' Driving Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,378,4,0,4,8:51 PM,3:50,,,Zellous REBOUND (Off:0 Def:2),,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,379,6,2,4,8:51 PM,3:35,Hayes S.FOUL (P5.T3),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,380,3,11,4,8:52 PM,3:35,,,Zellous Free Throw 1 of 2 (11 PTS),71 - 74,3,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,382,3,12,4,8:52 PM,3:35,,,Zellous Free Throw 2 of 2 (12 PTS),72 - 74,2,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,385,1,5,4,8:52 PM,3:13,de Souza 2' Layup (10 PTS) (McCoughtry 5 AST),,,72 - 76,4,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,386,6,1,4,8:53 PM,2:56,McCoughtry P.FOUL (P3.T4),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,388,9,1,4,8:53 PM,2:56,,,Fever Timeout: Regular (Reg.3 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,390,6,26,4,8:57 PM,2:50,,,January Offensive Charge Foul (P3.PN),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,391,5,5,4,8:57 PM,2:50,,,January Foul Turnover (P3.T16),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1041300201,392,2,1,4,8:57 PM,2:35,MISS Thomas 19' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,393,4,0,4,8:57 PM,2:32,,,Catchings REBOUND (Off:0 Def:7),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,394,5,1,4,8:58 PM,2:15,Hayes STEAL (1 STL),,Christmas-Kelly Bad Pass Turnover (P2.T17),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,395,1,42,4,8:58 PM,1:51,Hayes 1' Driving Layup (23 PTS),,,72 - 78,6,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,396,1,1,4,8:58 PM,1:28,,,Zellous  3PT Jump Shot (15 PTS) (Christmas-Kelly 4 AST),75 - 78,3,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,397,1,77,4,8:59 PM,1:07,McCoughtry 9' Driving Jump Shot (14 PTS) (Thomas 3 AST),,,75 - 80,5,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,398,6,2,4,8:59 PM,1:07,,,Christmas-Kelly S.FOUL (P3.PN),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,399,3,10,4,8:59 PM,1:07,McCoughtry Free Throw 1 of 1 (15 PTS),,,75 - 81,6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,402,9,1,4,9:00 PM,0:53,,,Fever Timeout: Regular (Reg.4 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,403,1,1,4,9:02 PM,0:42,,,Catchings 24' 3PT Jump Shot (20 PTS) (Zellous 1 AST),78 - 81,3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,404,6,2,4,9:02 PM,0:42,McCoughtry S.FOUL (P4.PN),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,405,18,0,4,9:03 PM,0:42,,Support Ruling,,,,0,403,,,,,,0,0,,,,,,1,0,,,,,,0
+1041300201,406,3,10,4,9:04 PM,0:42,,,MISS Catchings Free Throw 1 of 1,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,408,4,0,4,9:04 PM,0:39,,,Larkins REBOUND (Off:6 Def:6),,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,409,2,1,4,9:04 PM,0:19,,,MISS Zellous  3PT Jump Shot,,,5,201919,Shavonte Zellous,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,410,4,0,4,9:04 PM,0:17,McCoughtry REBOUND (Off:0 Def:5),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,411,6,28,4,9:04 PM,0:16,,,Christmas-Kelly Personal Take Foul (P4.PN),,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,412,3,11,4,9:05 PM,0:16,MISS McCoughtry Free Throw 1 of 2,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,413,4,1,4,9:05 PM,0:16,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,414,3,12,4,9:05 PM,0:16,McCoughtry Free Throw 2 of 2 (16 PTS),,,78 - 82,4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,416,9,2,4,9:05 PM,0:16,,,Fever Timeout: Short (Reg.4 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,417,8,0,4,9:06 PM,0:16,,,SUB: Phillips FOR Christmas-Kelly,,,5,202640,Karima Christmas-Kelly,1611661325.0,Indiana,Fever,IND,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,418,6,6,4,9:07 PM,0:16,Hayes AWAY.FROM.PLAY.FOUL (P6.PN),,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,101039,Erin Phillips,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1041300201,419,8,0,4,9:07 PM,0:16,SUB: Bentley FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,420,3,10,4,9:08 PM,0:16,,,Catchings Free Throw 1 of 1 (21 PTS),79 - 82,3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,422,8,0,4,9:08 PM,0:16,,,SUB: Pohlen-Mavunga FOR Larkins,,,5,201503,Erlana Larkins,1611661325.0,Indiana,Fever,IND,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1041300201,423,9,2,4,9:09 PM,0:16,,,Fever Timeout: Short (Reg.4 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1041300201,425,8,0,4,9:09 PM,0:16,SUB: Clements FOR de Souza,,,,,4,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,203451,Courtney Clements,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041300201,427,2,77,4,9:10 PM,0:07,,,MISS January 13' Driving Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1041300201,428,4,0,4,9:10 PM,0:05,Herrington REBOUND (Off:4 Def:3),,,,,4,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,429,6,28,4,9:10 PM,0:05,,,Pohlen-Mavunga Personal Take Foul (P1.PN),,,5,202656,Jeanette Pohlen-Mavunga,1611661325.0,Indiana,Fever,IND,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041300201,430,3,11,4,9:10 PM,0:05,McCoughtry Free Throw 1 of 2 (17 PTS),,,79 - 83,4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,432,3,12,4,9:11 PM,0:05,McCoughtry Free Throw 2 of 2 (18 PTS),,,79 - 84,5,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041300201,434,13,0,4,9:11 PM,0:00,,End of 4th Period (9:11 PM EST),,79 - 84,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

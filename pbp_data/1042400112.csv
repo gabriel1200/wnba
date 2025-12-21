@@ -1,0 +1,386 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042400112,2,12,0,1,9:41 PM,10:00,,Start of 1st Period (9:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,4,10,0,1,9:41 PM,10:00,Jump Ball Collier vs. Griner: Tip to Cloud,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,1
+1042400112,8,1,6,1,9:42 PM,9:34,,,Cloud 3' Driving Layup (2 PTS) (Cunningham 1 AST),2 - 0,-2,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,10,1,98,1,9:42 PM,9:22,Collier 2' Cutting Layup Shot (2 PTS) (Smith 1 AST),,,2 - 2,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,12,6,4,1,9:43 PM,9:15,,,Griner OFF.Foul (P1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,14,5,37,1,9:43 PM,9:15,,,Griner Offensive Foul Turnover (P1.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,15,2,98,1,9:43 PM,9:03,MISS Smith 3' Cutting Layup Shot,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,16,4,0,1,9:43 PM,9:01,,,Griner REBOUND (Off:0 Def:1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,17,1,98,1,9:43 PM,8:50,,,Griner 2' Cutting Layup Shot (2 PTS) (Taurasi 1 AST),4 - 2,-2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,19,1,98,1,9:43 PM,8:38,Collier 4' Cutting Layup Shot (4 PTS) (Carleton 1 AST),,,4 - 4,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,21,6,2,1,9:43 PM,8:38,,,Cloud S.FOUL (P1.T1),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,23,3,10,1,9:44 PM,8:38,Collier Free Throw 1 of 1 (5 PTS),,,4 - 5,1,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,24,6,4,1,9:44 PM,8:29,,,Copper OFF.Foul (P1),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,26,5,37,1,9:44 PM,8:29,,,Copper Offensive Foul Turnover (P1.T2),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,27,2,79,1,9:45 PM,8:12,MISS Williams 21' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,28,4,0,1,9:45 PM,8:08,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,29,6,1,1,9:45 PM,8:05,Collier P.FOUL (P1.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,31,1,6,1,9:45 PM,7:50,,,Griner 1' Driving Layup (4 PTS) (Cloud 1 AST),6 - 5,-1,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,33,2,1,1,9:46 PM,7:41,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,34,4,0,1,9:46 PM,7:36,Smith REBOUND (Off:1 Def:0),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,36,2,1,1,9:46 PM,7:28,MISS Smith 24' 3PT Jump Shot,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,40,4,0,1,9:46 PM,7:19,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,37,10,0,1,9:47 PM,7:19,Jump Ball Carleton vs. Cunningham: Tip to Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0
+1042400112,41,2,73,1,9:47 PM,7:07,MISS Williams 5' Driving Reverse Layup,,Griner BLOCK (1 BLK),,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1042400112,43,4,0,1,9:47 PM,7:05,,,Griner REBOUND (Off:0 Def:2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,44,1,41,1,9:47 PM,7:01,,,Cloud 2' Running Layup (4 PTS),8 - 5,-3,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,45,5,1,1,9:47 PM,6:50,McBride Bad Pass Turnover (P1.T1),,Taurasi STEAL (1 STL),,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,47,1,41,1,9:47 PM,6:41,,,Copper 3' Running Layup (2 PTS) (Cloud 2 AST),10 - 5,-5,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,48,6,1,1,9:48 PM,6:30,,,Taurasi P.FOUL (P1.T2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,51,2,47,1,9:48 PM,6:18,MISS Collier 6' Turnaround Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,52,4,0,1,9:48 PM,6:15,,,Griner REBOUND (Off:0 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,53,1,1,1,9:48 PM,6:09,,,Taurasi 24' 3PT Jump Shot (3 PTS),13 - 5,-8,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,54,9,1,1,9:48 PM,6:03,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,56,2,1,1,9:52 PM,5:44,MISS McBride 18' Jump Shot,,Griner BLOCK (2 BLK),,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1042400112,58,4,0,1,9:52 PM,5:39,,,Taurasi REBOUND (Off:0 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,59,2,103,1,9:52 PM,5:36,,,MISS Taurasi 24' 3PT Running Pull-Up Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,60,4,0,1,9:52 PM,5:36,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,61,2,1,1,9:53 PM,5:26,MISS Carleton 25' 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,62,4,0,1,9:53 PM,5:23,,,Cunningham REBOUND (Off:0 Def:1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,63,5,40,1,9:53 PM,5:12,,,Copper Out of Bounds Lost Ball Turnover (P2.T3),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,65,1,1,1,9:53 PM,5:03,McBride 24' 3PT Jump Shot (3 PTS) (Collier 1 AST),,,13 - 8,-5,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,67,1,80,1,9:53 PM,4:43,,,Taurasi 3PT Step Back Jump Shot (6 PTS),16 - 8,-8,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,68,1,98,1,9:54 PM,4:32,Smith 3' Cutting Layup Shot (2 PTS) (Williams 1 AST),,,16 - 10,-6,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,72,6,17,1,9:54 PM,4:19,LYNX T.Foul (Def. 3 Sec Smith ),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400112,73,3,16,1,9:55 PM,4:19,,,Taurasi Free Throw Technical (7 PTS),17 - 10,-7,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,74,8,0,1,9:55 PM,4:19,,,SUB: Mack FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,75,8,0,1,9:55 PM,4:19,,,SUB: Taylor FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,78,2,47,1,9:55 PM,4:06,,,MISS Mack 1' Turnaround Jump Shot,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,79,4,0,1,9:55 PM,4:01,Smith REBOUND (Off:1 Def:1),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,80,5,2,1,9:55 PM,4:01,Smith Lost Ball Turnover (P1.T2),,Cunningham STEAL (1 STL),,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,82,6,2,1,9:55 PM,3:52,Smith S.FOUL (P1.T2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,84,3,11,1,9:56 PM,3:52,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,87,4,1,1,9:56 PM,3:52,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,85,8,0,1,9:56 PM,3:52,SUB: Hines-Allen FOR Smith,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,88,3,12,1,9:56 PM,3:52,,,Copper Free Throw 2 of 2 (3 PTS),18 - 10,-8,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042400112,89,2,1,1,9:56 PM,3:34,MISS Williams 24' 3PT Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,90,4,0,1,9:56 PM,3:30,,,Mack REBOUND (Off:0 Def:1),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,91,2,79,1,9:57 PM,3:15,,,MISS Copper 17' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,92,4,0,1,9:57 PM,3:12,Hines-Allen REBOUND (Off:0 Def:1),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,93,1,98,1,9:57 PM,3:05,Collier 2' Cutting Layup Shot (7 PTS) (Williams 2 AST),,,18 - 12,-6,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,95,6,2,1,9:57 PM,2:54,Hines-Allen S.FOUL (P1.T3),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,97,3,11,1,9:57 PM,2:54,,,Cloud Free Throw 1 of 2 (5 PTS),19 - 12,-7,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,98,8,0,1,9:57 PM,2:54,SUB: Zandalasini FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,99,8,0,1,9:57 PM,2:54,,,SUB: Taurasi FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,100,8,0,1,9:57 PM,2:54,,,SUB: Billings FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,104,3,12,1,9:58 PM,2:54,,,Cloud Free Throw 2 of 2 (6 PTS),20 - 12,-8,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,105,1,6,1,9:58 PM,2:41,Collier 4' Driving Layup (9 PTS) (Williams 3 AST),,,20 - 14,-6,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,107,2,1,1,9:58 PM,2:30,,,MISS Taylor 24' 3PT Jump Shot,,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,108,4,0,1,9:58 PM,2:26,Zandalasini REBOUND (Off:0 Def:1),,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,109,2,1,1,9:58 PM,2:21,MISS Zandalasini 24' 3PT Jump Shot,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,110,4,0,1,9:58 PM,2:17,,,Billings REBOUND (Off:0 Def:1),,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,111,2,79,1,9:58 PM,2:10,,,MISS Taurasi 26' 3PT Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,112,4,0,1,9:58 PM,2:10,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,114,1,1,1,9:59 PM,2:00,Carleton 25' 3PT Jump Shot (3 PTS) (Collier 2 AST),,,20 - 17,-3,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,116,1,1,1,9:59 PM,1:33,,,Mack 17' Jump Shot (2 PTS) (Cloud 3 AST),22 - 17,-5,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,118,1,79,1,9:59 PM,1:13,Williams 5' Pullup Jump Shot (2 PTS),,,22 - 19,-3,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,119,1,1,1,10:00 PM,1:02,,,Cloud 24' 3PT Jump Shot (9 PTS),25 - 19,-6,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,121,7,5,1,10:00 PM,0:54,,,Billings Violation:Kicked Ball,,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1042400112,122,8,0,1,10:00 PM,0:54,SUB: Hiedeman FOR Williams,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,123,8,0,1,10:00 PM,0:54,,,SUB: Griner FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,126,2,1,1,10:00 PM,0:45,MISS Zandalasini 3PT Jump Shot,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,127,4,0,1,10:00 PM,0:42,,,Taurasi REBOUND (Off:0 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,128,2,1,1,10:01 PM,0:25,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,129,4,0,1,10:01 PM,0:21,Carleton REBOUND (Off:0 Def:1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,130,6,1,1,10:01 PM,0:21,,,Taylor P.FOUL (P1.T3),,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,132,8,0,1,10:01 PM,0:21,,,SUB: Copper FOR Cloud,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,134,1,47,1,10:01 PM,0:05,Collier 5' Turnaround Jump Shot (11 PTS) (Hiedeman 1 AST),,,25 - 21,-4,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,137,2,79,1,10:02 PM,0:00,Collier BLOCK (1 BLK),,MISS Copper 25' 3PT Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400112,139,4,0,1,10:02 PM,0:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,136,13,0,1,10:02 PM,0:00,,End of 1st Period (10:02 PM EST),,25 - 21,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,144,12,0,2,10:06 PM,10:00,,Start of 2nd Period (10:06 PM EST),,25 - 21,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,145,1,6,2,10:06 PM,9:50,Hiedeman 6' Driving Layup (2 PTS) (Collier 3 AST),,,25 - 23,-2,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,147,2,1,2,10:06 PM,9:29,,,MISS Copper 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042400112,151,4,0,2,10:06 PM,9:24,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,148,10,0,2,10:07 PM,9:24,Jump Ball Collier vs. Griner: Tip to Cunningham,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0
+1042400112,152,2,63,2,10:07 PM,9:15,,,MISS Griner 12' Fadeaway Jumper,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,153,4,0,2,10:07 PM,9:09,Collier REBOUND (Off:0 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,154,1,2,2,10:07 PM,9:05,Collier 15' Running Jump Shot (13 PTS) (Hiedeman 2 AST),,,25 - 25,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,156,5,40,2,10:08 PM,8:51,,,Copper Out of Bounds Lost Ball Turnover (P3.T4),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,157,2,1,2,10:08 PM,8:32,MISS Hiedeman 25' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,158,4,0,2,10:08 PM,8:28,,,Copper REBOUND (Off:0 Def:1),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,159,1,1,2,10:08 PM,8:21,,,Mack 9' Jump Shot (4 PTS) (Copper 1 AST),27 - 25,-2,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,161,6,1,2,10:08 PM,8:05,,,Mack P.FOUL (P1.T1),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,163,8,0,2,10:09 PM,8:05,SUB: McBride FOR Hines-Allen,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,164,8,0,2,10:09 PM,8:05,SUB: Smith FOR Zandalasini,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,165,8,0,2,10:09 PM,8:05,,,SUB: Billings FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,166,8,0,2,10:09 PM,8:05,,,SUB: Cloud FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,171,1,75,2,10:09 PM,7:55,McBride 8' Driving Finger Roll Layup (5 PTS),,,27 - 27,TIE,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,173,2,1,2,10:09 PM,7:42,,,MISS Cunningham 24' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,174,4,0,2,10:09 PM,7:39,,,Billings REBOUND (Off:1 Def:1),,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,175,1,72,2,10:09 PM,7:36,,,Billings 1' Putback Layup (2 PTS),29 - 27,-2,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,176,1,98,2,10:09 PM,7:30,Smith 2' Cutting Layup Shot (4 PTS) (Hiedeman 3 AST),,,29 - 29,TIE,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,178,6,2,2,10:09 PM,7:30,,,Cloud S.FOUL (P2.T2),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1042400112,180,3,10,2,10:10 PM,7:30,Smith Free Throw 1 of 1 (5 PTS),,,29 - 30,1,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,181,2,47,2,10:10 PM,7:16,,,MISS Griner 5' Turnaround Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,190,2,97,2,10:10 PM,7:13,,,MISS Copper 1' Tip Layup Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,191,4,0,2,10:10 PM,7:13,,,Copper REBOUND (Off:1 Def:1),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,182,4,0,2,10:10 PM,7:13,,,Copper REBOUND (Off:2 Def:1),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,183,2,72,2,10:10 PM,7:12,Collier BLOCK (2 BLK),,MISS Copper 3' Putback Layup,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042400112,185,4,0,2,10:10 PM,7:12,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,186,2,1,2,10:11 PM,7:07,,,MISS Cloud 17' Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,187,4,0,2,10:11 PM,7:06,Smith REBOUND (Off:1 Def:2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,192,6,31,2,10:11 PM,7:06,,,Cloud Transition Take Foul (P3.T3),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,194,3,10,2,10:11 PM,7:06,Collier Free Throw 1 of 1 (14 PTS),,,29 - 31,2,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,195,8,0,2,10:11 PM,7:06,,,SUB: Taylor FOR Cloud,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,197,2,6,2,10:12 PM,6:55,MISS McBride 3' Driving Layup,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,198,4,0,2,10:12 PM,6:53,Smith REBOUND (Off:2 Def:2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,199,1,1,2,10:12 PM,6:51,Carleton 29' 3PT Jump Shot (6 PTS) (Smith 2 AST),,,29 - 34,5,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,202,9,1,2,10:12 PM,6:50,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,204,8,0,2,10:15 PM,6:50,,,SUB: Taurasi FOR Billings,,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,206,5,1,2,10:16 PM,6:36,Smith STEAL (1 STL),,Taurasi Bad Pass Turnover (P1.T5),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,208,6,2,2,10:16 PM,6:24,,,Cunningham S.FOUL (P1.T4),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,210,3,11,2,10:16 PM,6:24,Collier Free Throw 1 of 2 (15 PTS),,,29 - 35,6,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,211,3,12,2,10:16 PM,6:24,Collier Free Throw 2 of 2 (16 PTS),,,29 - 36,7,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,212,1,1,2,10:17 PM,6:05,,,Griner 8' Jump Shot (6 PTS) (Taylor 1 AST),31 - 36,5,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,214,1,98,2,10:17 PM,5:46,Smith 2' Cutting Layup Shot (7 PTS) (Hiedeman 4 AST),,,31 - 38,7,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,216,5,2,2,10:17 PM,5:31,Smith STEAL (2 STL),,Taurasi Lost Ball Turnover (P2.T6),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,218,1,41,2,10:17 PM,5:27,Smith 4' Running Layup (9 PTS) (McBride 1 AST),,,31 - 40,9,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,220,6,1,2,10:18 PM,5:18,Carleton P.FOUL (P1.T1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,222,8,0,2,10:18 PM,5:18,,,SUB: Cloud FOR Taylor,,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,223,8,0,2,10:18 PM,5:18,,,SUB: Mack FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,226,1,79,2,10:18 PM,5:12,,,Copper 9' Pullup Jump Shot (5 PTS) (Cunningham 2 AST),33 - 40,7,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,228,7,5,2,10:18 PM,5:04,,,Cloud Violation:Kicked Ball,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1042400112,229,6,1,2,10:19 PM,4:52,,,Copper P.FOUL (P2.PN),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,231,3,11,2,10:19 PM,4:52,Hiedeman Free Throw 1 of 2 (3 PTS),,,33 - 41,8,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,232,3,12,2,10:19 PM,4:52,Hiedeman Free Throw 2 of 2 (4 PTS),,,33 - 42,9,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,233,6,1,2,10:20 PM,4:42,Carleton P.FOUL (P2.T2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,235,8,0,2,10:20 PM,4:42,SUB: Williams FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,237,1,5,2,10:20 PM,4:28,,,Mack 2' Layup (6 PTS) (Taurasi 2 AST),35 - 42,7,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,239,2,75,2,10:20 PM,4:16,MISS Collier 8' Driving Finger Roll Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,240,4,0,2,10:20 PM,4:14,,,Cunningham REBOUND (Off:0 Def:2),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,241,2,1,2,10:21 PM,4:07,,,MISS Copper 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,242,4,0,2,10:21 PM,4:04,Carleton REBOUND (Off:0 Def:2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,243,2,2,2,10:21 PM,3:58,MISS Williams 25' 3PT Running Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,244,4,0,2,10:21 PM,3:56,,,Cloud REBOUND (Off:0 Def:2),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,245,1,5,2,10:21 PM,3:33,,,Mack 2' Layup (8 PTS) (Cloud 4 AST),37 - 42,5,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,247,9,1,2,10:21 PM,3:24,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,248,8,0,2,10:24 PM,3:24,,,SUB: Taylor FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,249,8,0,2,10:24 PM,3:24,,,SUB: Billings FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,252,5,13,2,10:25 PM,3:18,Smith Backcourt Turnover (P2.T3),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400112,253,5,1,2,10:25 PM,3:08,Smith STEAL (3 STL),,Cunningham Bad Pass Turnover (P1.T7),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,255,1,1,2,10:26 PM,2:58,Collier 24' 3PT Jump Shot (19 PTS) (Williams 4 AST),,,37 - 45,8,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,257,2,79,2,10:26 PM,2:38,,,MISS Cloud 15' Pullup Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,258,4,0,2,10:26 PM,2:36,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,259,8,0,2,10:26 PM,2:36,,,SUB: Griner FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,262,1,98,2,10:26 PM,2:26,,,Billings 2' Cutting Layup Shot (4 PTS) (Cunningham 3 AST),39 - 45,6,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,264,6,2,2,10:26 PM,2:26,Smith S.FOUL (P2.T3),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,266,3,10,2,10:27 PM,2:26,,,MISS Billings Free Throw 1 of 1,,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,268,1,72,2,10:27 PM,2:23,,,Griner 2' Putback Layup (8 PTS),41 - 45,4,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,267,4,0,2,10:27 PM,2:23,,,Griner REBOUND (Off:1 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,269,2,1,2,10:27 PM,2:11,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,270,4,0,2,10:27 PM,2:08,Carleton REBOUND (Off:1 Def:2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,271,2,1,2,10:27 PM,2:06,MISS Smith 24' 3PT Jump Shot,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,272,4,0,2,10:27 PM,2:03,,,Cunningham REBOUND (Off:0 Def:3),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,273,1,5,2,10:27 PM,1:59,,,Griner 2' Layup (10 PTS) (Cloud 5 AST),43 - 45,2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,275,6,2,2,10:27 PM,1:59,Smith S.FOUL (P3.T4),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,277,3,10,2,10:28 PM,1:59,,,Griner Free Throw 1 of 1 (11 PTS),44 - 45,1,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,278,8,0,2,10:28 PM,1:59,SUB: Hines-Allen FOR Smith,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,280,2,6,2,10:28 PM,1:39,MISS Collier 7' Driving Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,281,4,0,2,10:28 PM,1:39,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,283,1,6,2,10:29 PM,1:36,Collier 3' Driving Layup (21 PTS) (Williams 5 AST),,,44 - 47,3,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,285,2,1,2,10:29 PM,1:23,,,MISS Cunningham 26' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,286,4,0,2,10:29 PM,1:19,,,Taylor REBOUND (Off:1 Def:0),,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,287,1,1,2,10:29 PM,1:09,,,Cloud 24' 3PT Jump Shot (12 PTS) (Billings 1 AST),47 - 47,TIE,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,289,6,1,2,10:29 PM,0:50,,,Griner P.FOUL (P2.PN),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,291,3,11,2,10:30 PM,0:50,Collier Free Throw 1 of 2 (22 PTS),,,47 - 48,1,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,292,8,0,2,10:30 PM,0:50,,,SUB: Copper FOR Taylor,,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,293,8,0,2,10:30 PM,0:50,,,SUB: Taurasi FOR Billings,,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,296,3,12,2,10:30 PM,0:50,Collier Free Throw 2 of 2 (23 PTS),,,47 - 49,2,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,297,2,6,2,10:30 PM,0:34,,,MISS Cloud 2' Driving Layup,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,298,4,0,2,10:30 PM,0:32,Hines-Allen REBOUND (Off:0 Def:2),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,299,2,41,2,10:31 PM,0:29,MISS Hines-Allen 4' Running Layup,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,300,4,0,2,10:31 PM,0:27,,,Copper REBOUND (Off:2 Def:2),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,301,5,40,2,10:31 PM,0:23,,,Copper Out of Bounds Lost Ball Turnover (P4.T8),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,302,8,0,2,10:31 PM,0:23,,,SUB: Taylor FOR Cloud,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,304,2,1,2,10:31 PM,0:05,MISS Collier 24' 3PT Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,305,4,0,2,10:32 PM,0:00,,,Taylor REBOUND (Off:1 Def:1),,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,306,13,0,2,10:32 PM,0:00,,End of 2nd Period (10:32 PM EST),,47 - 49,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,311,12,0,3,10:47 PM,10:00,,Start of 3rd Period (10:47 PM EST),,47 - 49,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,313,5,8,3,10:48 PM,9:44,Collier 3 Second Violation Turnover (P1.T4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400112,314,6,2,3,10:48 PM,9:39,Carleton S.FOUL (P3.T1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,316,3,11,3,10:48 PM,9:39,,,Cloud Free Throw 1 of 2 (13 PTS),48 - 49,1,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042400112,317,3,12,3,10:48 PM,9:39,,,Cloud Free Throw 2 of 2 (14 PTS),49 - 49,TIE,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042400112,318,1,75,3,10:49 PM,9:26,Williams 2' Driving Finger Roll Layup (4 PTS),,,49 - 51,2,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042400112,319,2,1,3,10:49 PM,9:07,,,MISS Griner 11' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,320,4,0,3,10:49 PM,9:04,Collier REBOUND (Off:0 Def:2),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,321,2,5,3,10:49 PM,8:56,MISS Collier 3' Layup,,Cunningham BLOCK (1 BLK),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1
+1042400112,323,4,0,3,10:49 PM,8:56,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,325,2,1,3,10:49 PM,8:52,MISS Williams 18' Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,326,4,0,3,10:49 PM,8:48,,,Taurasi REBOUND (Off:0 Def:3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,327,1,1,3,10:50 PM,8:38,,,Copper 25' 3PT Jump Shot (8 PTS) (Cunningham 4 AST),52 - 51,-1,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,329,5,1,3,10:50 PM,8:26,Williams Bad Pass Turnover (P1.T5),,Cloud STEAL (1 STL),,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,331,2,2,3,10:50 PM,8:21,,,MISS Copper 27' 3PT Running Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,332,4,0,3,10:50 PM,8:14,Williams REBOUND (Off:0 Def:1),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,333,1,79,3,10:50 PM,8:06,McBride 14' Pullup Jump Shot (7 PTS),,,52 - 53,1,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,334,5,1,3,10:51 PM,7:44,Carleton STEAL (1 STL),,Cloud Bad Pass Turnover (P1.T9),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,336,6,14,3,10:51 PM,7:43,,,Cunningham FLAGRANT.FOUL.TYPE1 (P2.T1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,338,18,1,3,10:52 PM,7:43,,Instant Replay3rd Period (10:52 PM EST),,52 - 53,1,0,336,,,,,,0,0,,,,,,1,0,,,,,,0
+1042400112,339,6,11,3,10:54 PM,7:43,Williams T.FOUL (P0.T1),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400112,340,3,16,3,10:55 PM,7:43,,,Taurasi Free Throw Technical (8 PTS),53 - 53,TIE,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042400112,341,3,18,3,10:55 PM,7:43,Carleton Free Throw Flagrant 1 of 2 (7 PTS),,,53 - 54,1,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,342,3,19,3,10:55 PM,7:43,Carleton Free Throw Flagrant 2 of 2 (8 PTS),,,53 - 55,2,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,344,1,1,3,10:56 PM,7:26,McBride 24' 3PT Jump Shot (10 PTS) (Williams 6 AST),,,53 - 58,5,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,346,2,47,3,10:57 PM,7:02,,,MISS Griner 5' Turnaround Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,347,4,0,3,10:57 PM,7:02,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,349,2,1,3,10:57 PM,6:57,,,MISS Taurasi 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,350,4,0,3,10:57 PM,6:53,Carleton REBOUND (Off:1 Def:3),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,351,2,1,3,10:57 PM,6:40,MISS McBride 26' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,352,4,0,3,10:57 PM,6:40,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,353,6,3,3,10:57 PM,6:40,,,Taurasi L.B.FOUL (P2.T2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,355,2,47,3,10:58 PM,6:35,MISS Collier 8' Turnaround Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,356,4,0,3,10:58 PM,6:31,,,Copper REBOUND (Off:2 Def:3),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,357,6,1,3,10:58 PM,6:28,Williams P.FOUL (P1.T2),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,359,2,80,3,10:58 PM,6:22,,,MISS Cloud 25' 3PT Step Back Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,360,4,0,3,10:58 PM,6:18,Collier REBOUND (Off:0 Def:3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,361,1,103,3,10:59 PM,6:11,Williams 17' Running Pull-Up Jump Shot (6 PTS),,,53 - 60,7,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,362,1,1,3,10:59 PM,5:53,,,Copper 3PT Jump Shot (11 PTS) (Cunningham 5 AST),56 - 60,4,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,364,1,47,3,10:59 PM,5:39,Collier 10' Turnaround Jump Shot (25 PTS) (Carleton 2 AST),,,56 - 62,6,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,366,2,1,3,10:59 PM,5:27,,,MISS Cloud 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,367,4,0,3,10:59 PM,5:25,Collier REBOUND (Off:0 Def:4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,368,6,1,3,11:00 PM,5:12,,,Taurasi P.FOUL (P3.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,370,7,5,3,11:00 PM,4:59,,,Cunningham Violation:Kicked Ball,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1042400112,371,2,79,3,11:00 PM,4:55,MISS Williams 21' Pullup Jump Shot,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,372,4,0,3,11:00 PM,4:52,,,Cunningham REBOUND (Off:0 Def:4),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,374,9,4,3,11:01 PM,4:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,375,2,75,3,11:04 PM,4:43,,,MISS Taurasi 5' Driving Finger Roll Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,376,4,0,3,11:04 PM,4:39,Williams REBOUND (Off:0 Def:2),,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,377,1,1,3,11:04 PM,4:20,Smith 24' 3PT Jump Shot (12 PTS) (McBride 2 AST),,,56 - 65,9,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,379,1,5,3,11:05 PM,4:01,,,Griner 4' Layup (13 PTS) (Cloud 6 AST),58 - 65,7,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,381,1,98,3,11:05 PM,3:40,Collier 1' Cutting Layup Shot (27 PTS) (Carleton 3 AST),,,58 - 67,9,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,383,6,1,3,11:05 PM,3:22,Carleton P.FOUL (P4.T3),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,385,8,0,3,11:06 PM,3:22,,,SUB: Mack FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,386,8,0,3,11:06 PM,3:22,,,SUB: Taylor FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,389,1,79,3,11:06 PM,3:17,,,Copper 15' Pullup Jump Shot (13 PTS),60 - 67,7,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,390,6,2,3,11:06 PM,2:59,,,Mack S.FOUL (P2.T4),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,392,3,11,3,11:07 PM,2:59,Collier Free Throw 1 of 2 (28 PTS),,,60 - 68,8,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,393,8,0,3,11:07 PM,2:59,SUB: Hiedeman FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,395,3,12,3,11:07 PM,2:59,Collier Free Throw 2 of 2 (29 PTS),,,60 - 69,9,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,396,2,1,3,11:07 PM,2:35,,,MISS Mack 16' Jump Shot,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,397,4,0,3,11:07 PM,2:35,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,398,5,11,3,11:07 PM,2:35,,,Mercury Turnover: Shot Clock (T#10),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,1
+1042400112,399,1,1,3,11:08 PM,2:17,Williams 24' 3PT Jump Shot (9 PTS) (Hiedeman 5 AST),,,60 - 72,12,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,401,1,98,3,11:08 PM,1:55,,,Mack 3' Cutting Layup Shot (10 PTS) (Taylor 2 AST),62 - 72,10,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,403,2,75,3,11:09 PM,1:40,MISS Williams 1' Driving Finger Roll Layup,,,,,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,404,4,0,3,11:09 PM,1:38,Smith REBOUND (Off:3 Def:2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,405,1,5,3,11:09 PM,1:29,Collier 2' Layup (31 PTS) (Smith 3 AST),,,62 - 74,12,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,407,1,63,3,11:09 PM,1:09,,,Cloud 11' Fadeaway Jumper (16 PTS),64 - 74,10,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,408,6,1,3,11:09 PM,0:56,,,Copper P.FOUL (P3.PN),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,410,3,11,3,11:10 PM,0:56,Williams Free Throw 1 of 2 (10 PTS),,,64 - 75,11,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042400112,411,8,0,3,11:10 PM,0:56,SUB: Hines-Allen FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,413,8,0,3,11:10 PM,0:56,,,SUB: Taurasi FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,414,8,0,3,11:10 PM,0:56,,,SUB: Billings FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,417,3,12,3,11:11 PM,0:56,Williams Free Throw 2 of 2 (11 PTS),,,64 - 76,12,4,1627675,Courtney Williams,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,418,6,1,3,11:11 PM,0:44,McBride P.FOUL (P1.T4),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,420,2,1,3,11:11 PM,0:30,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,421,4,0,3,11:11 PM,0:28,Hiedeman REBOUND (Off:0 Def:1),,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,422,2,1,3,11:12 PM,0:08,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,423,4,0,3,11:12 PM,0:05,Hines-Allen REBOUND (Off:1 Def:2),,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,424,2,72,3,11:12 PM,0:04,MISS Hines-Allen 2' Putback Layup,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,425,4,0,3,11:12 PM,0:02,,,Taurasi REBOUND (Off:0 Def:4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,426,13,0,3,11:12 PM,0:00,,End of 3rd Period (11:12 PM EST),,64 - 76,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,431,12,0,4,11:16 PM,10:00,,Start of 4th Period (11:16 PM EST),,64 - 76,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,432,2,47,4,11:16 PM,9:50,,,MISS Cloud 13' Turnaround Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,433,4,0,4,11:16 PM,9:47,,,Mack REBOUND (Off:1 Def:1),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,434,1,47,4,11:16 PM,9:39,,,Taurasi 7' Turnaround Jump Shot (10 PTS) (Cloud 7 AST),66 - 76,10,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,436,2,1,4,11:17 PM,9:14,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,437,4,0,4,11:17 PM,9:14,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,440,6,3,4,11:17 PM,9:14,,,Taurasi L.B.FOUL (P4.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,539,6,16,4,11:17 PM,9:14,,"Double Technical - Taurasi, Hines-Allen",,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,442,6,1,4,11:18 PM,9:10,,,Billings P.FOUL (P1.T2),,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,444,6,2,4,11:18 PM,9:02,,,Cloud S.FOUL (P4.T3),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,447,3,11,4,11:19 PM,9:02,Hines-Allen Free Throw 1 of 2 (1 PTS),,,66 - 77,11,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,449,3,12,4,11:19 PM,9:02,MISS Hines-Allen Free Throw 2 of 2,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,450,4,0,4,11:19 PM,8:59,,,Cloud REBOUND (Off:0 Def:3),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,451,2,1,4,11:19 PM,8:50,,,MISS Mack 5' Jump Shot,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,452,4,0,4,11:19 PM,8:47,Hiedeman REBOUND (Off:0 Def:2),,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,453,1,99,4,11:19 PM,8:29,Collier 2' Cutting Finger Roll Layup Shot (33 PTS) (McBride 3 AST),,,66 - 79,13,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,455,9,1,4,11:20 PM,8:29,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,456,8,0,4,11:23 PM,8:29,SUB: Smith FOR Hines-Allen,,,,,4,1628899,Myisha Hines-Allen,1611661324.0,Minnesota,Lynx,MIN,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,457,8,0,4,11:23 PM,8:29,,,SUB: Copper FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,458,8,0,4,11:23 PM,8:29,,,SUB: Griner FOR Taylor,,,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,459,8,0,4,11:23 PM,8:29,,,SUB: Cunningham FOR Billings,,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,464,1,98,4,11:23 PM,8:15,,,Griner 3' Cutting Layup Shot (15 PTS) (Taurasi 3 AST),68 - 79,11,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,466,6,2,4,11:23 PM,8:15,Collier S.FOUL (P2.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,468,3,10,4,11:24 PM,8:15,,,MISS Griner Free Throw 1 of 1,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,469,4,0,4,11:24 PM,8:14,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,471,1,101,4,11:24 PM,7:56,Hiedeman 11' Driving Floating Jump Shot (6 PTS) (Carleton 4 AST),,,68 - 81,13,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,473,1,1,4,11:24 PM,7:37,,,Cunningham 3PT Jump Shot (3 PTS) (Copper 2 AST),71 - 81,10,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,475,1,79,4,11:25 PM,7:24,Carleton 24' 3PT Pullup Jump Shot (11 PTS),,,71 - 84,13,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,476,1,98,4,11:25 PM,7:05,,,Griner 2' Cutting Layup Shot (17 PTS) (Cunningham 6 AST),73 - 84,11,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,478,6,2,4,11:25 PM,6:57,,,Copper S.FOUL (P4.T4),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,481,3,11,4,11:27 PM,6:57,Hiedeman Free Throw 1 of 2 (7 PTS),,,73 - 85,12,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,482,3,12,4,11:27 PM,6:57,Hiedeman Free Throw 2 of 2 (8 PTS),,,73 - 86,13,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,483,5,45,4,11:27 PM,6:48,,,Copper Out of Bounds - Bad Pass Turnover Turnover (P5.T11),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,485,6,1,4,11:27 PM,6:32,,,Copper P.FOUL (P5.PN),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,489,8,0,4,11:28 PM,6:32,,,SUB: Billings FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,491,3,11,4,11:28 PM,6:32,Collier Free Throw 1 of 2 (34 PTS),,,73 - 87,14,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,492,3,12,4,11:28 PM,6:32,Collier Free Throw 2 of 2 (35 PTS),,,73 - 88,15,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,493,5,1,4,11:28 PM,6:25,Collier STEAL (1 STL),,Griner Bad Pass Turnover (P2.T12),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,495,6,1,4,11:29 PM,6:19,,,Taurasi P.FOUL (P5.PN),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,497,7,1,4,11:29 PM,6:19,,,Mercury Violation: Delay of game Violation,,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1042400112,498,3,11,4,11:29 PM,6:19,MISS Collier Free Throw 1 of 2,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,499,4,1,4,11:29 PM,6:19,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,500,3,12,4,11:29 PM,6:19,Collier Free Throw 2 of 2 (36 PTS),,,73 - 89,16,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,501,5,1,4,11:30 PM,6:03,Smith STEAL (4 STL),,Taurasi Bad Pass Turnover (P3.T13),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,503,1,5,4,11:30 PM,5:55,Collier 2' Layup (38 PTS) (Hiedeman 6 AST),,,73 - 91,18,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,505,1,1,4,11:30 PM,5:45,,,Cunningham 14' Jump Shot (5 PTS) (Cloud 8 AST),75 - 91,16,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,507,5,45,4,11:30 PM,5:33,Collier Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,508,6,2,4,11:31 PM,5:19,Smith S.FOUL (P4.T2),,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,510,3,11,4,11:31 PM,5:19,,,Griner Free Throw 1 of 2 (18 PTS),76 - 91,15,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,511,3,12,4,11:31 PM,5:19,,,Griner Free Throw 2 of 2 (19 PTS),77 - 91,14,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,512,1,79,4,11:31 PM,5:04,McBride 17' Pullup Jump Shot (12 PTS) (Collier 4 AST),,,77 - 93,16,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,514,1,47,4,11:32 PM,4:55,,,Griner 7' Turnaround Jump Shot (21 PTS) (Cloud 9 AST),79 - 93,14,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,516,2,1,4,11:32 PM,4:38,MISS McBride 24' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,517,4,0,4,11:32 PM,4:34,,,Cloud REBOUND (Off:0 Def:4),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,518,2,2,4,11:32 PM,4:30,,,MISS Taurasi 3PT Running Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,519,4,0,4,11:32 PM,4:26,,,Billings REBOUND (Off:2 Def:1),,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,520,1,72,4,11:32 PM,4:26,,,Billings 4' Putback Layup (6 PTS),81 - 93,12,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,521,1,1,4,11:32 PM,4:08,Collier 3PT Jump Shot (41 PTS) (McBride 4 AST),,,81 - 96,15,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,523,1,1,4,11:33 PM,3:45,,,Griner 3PT Jump Shot (24 PTS) (Cloud 10 AST),84 - 96,12,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,525,9,1,4,11:33 PM,3:38,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,527,6,2,4,11:37 PM,3:19,,,Cunningham S.FOUL (P3.PN),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,529,3,11,4,11:37 PM,3:19,Collier Free Throw 1 of 2 (42 PTS),,,84 - 97,13,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,530,3,12,4,11:37 PM,3:19,MISS Collier Free Throw 2 of 2,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,531,4,0,4,11:37 PM,3:18,,,Griner REBOUND (Off:1 Def:4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,532,9,1,4,11:38 PM,3:18,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,533,6,26,4,11:40 PM,3:04,,,Griner Offensive Charge Foul (P3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1042400112,535,5,37,4,11:40 PM,3:04,,,Griner Offensive Foul Turnover (P3.T14),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1042400112,537,6,2,4,11:40 PM,2:40,,,Billings S.FOUL (P2.PN),,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,540,9,1,4,11:41 PM,2:40,,,Mercury Timeout: Regular (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,541,8,0,4,11:42 PM,2:40,,,SUB: Mack FOR Billings,,,5,1628881,Monique Billings,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,543,3,11,4,11:43 PM,2:40,MISS Carleton Free Throw 1 of 2,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,544,4,1,4,11:43 PM,2:40,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,545,3,12,4,11:43 PM,2:40,Carleton Free Throw 2 of 2 (12 PTS),,,84 - 98,14,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,546,6,4,4,11:43 PM,2:34,,,Taurasi OFF.Foul (P6),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042400112,548,5,37,4,11:43 PM,2:34,,,Taurasi Offensive Foul Turnover (P4.T15),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042400112,549,8,0,4,11:44 PM,2:34,,,SUB: Taylor FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,551,2,6,4,11:44 PM,2:12,MISS Hiedeman 4' Driving Layup,,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,552,4,0,4,11:44 PM,2:10,,,Cunningham REBOUND (Off:0 Def:5),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,553,2,2,4,11:44 PM,2:06,,,MISS Cunningham 28' 3PT Running Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,554,4,0,4,11:44 PM,2:02,McBride REBOUND (Off:0 Def:1),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,555,1,1,4,11:45 PM,1:42,McBride 25' 3PT Jump Shot (15 PTS) (Hiedeman 7 AST),,,84 - 101,17,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042400112,557,2,1,4,11:45 PM,1:32,,,MISS Griner 24' 3PT Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,558,4,0,4,11:45 PM,1:29,McBride REBOUND (Off:0 Def:2),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,559,2,1,4,11:45 PM,1:11,MISS Smith 3PT Jump Shot,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,560,4,0,4,11:45 PM,1:08,,,Cloud REBOUND (Off:0 Def:5),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,561,2,79,4,11:46 PM,1:02,,,MISS Cloud 25' 3PT Pullup Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,562,4,0,4,11:46 PM,0:58,Collier REBOUND (Off:0 Def:5),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,563,9,1,4,11:46 PM,0:58,LYNX Timeout: Regular (Full 4 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042400112,564,8,0,4,11:47 PM,0:58,SUB: Époupa FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661324.0,Minnesota,Lynx,MIN,4,1630151,Olivia Époupa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,565,8,0,4,11:47 PM,0:58,SUB: Miller FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1641649,Diamond Miller,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,566,8,0,4,11:47 PM,0:58,SUB: Zandalasini FOR Smith,,,,,4,1629501,Alanna Smith,1611661324.0,Minnesota,Lynx,MIN,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,567,8,0,4,11:47 PM,0:58,SUB: Juhász FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1641657,Dorka Juhász,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,568,8,0,4,11:47 PM,0:58,SUB: Pili FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1642293,Alissa Pili,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042400112,569,8,0,4,11:47 PM,0:58,,,SUB: Atwell FOR Cloud,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1631056,Amy Atwell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,570,8,0,4,11:47 PM,0:58,,,SUB: Herbert Harrigan FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042400112,578,2,79,4,11:47 PM,0:45,MISS Zandalasini 15' Pullup Jump Shot,,,,,4,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,579,4,0,4,11:47 PM,0:42,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042400112,581,1,5,4,11:48 PM,0:31,,,Mack 4' Layup (12 PTS) (Taylor 3 AST),86 - 101,15,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042400112,583,6,2,4,11:48 PM,0:31,Époupa S.FOUL (P1.T3),,,,,4,1630151,Olivia Époupa,1611661324.0,Minnesota,Lynx,MIN,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042400112,585,3,10,4,11:48 PM,0:31,,,MISS Mack Free Throw 1 of 1,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,586,4,0,4,11:48 PM,0:29,Juhász REBOUND (Off:0 Def:1),,,,,4,1641657,Dorka Juhász,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042400112,588,5,4,4,11:48 PM,0:13,Pili Traveling Turnover (P1.T7),,,,,4,1642293,Alissa Pili,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042400112,589,1,75,4,11:49 PM,0:05,,,Taylor 3' Driving Finger Roll Layup (2 PTS),88 - 101,13,5,1642298,Celeste Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042400112,590,13,0,4,11:50 PM,0:00,,End of 4th Period (11:50 PM EST),,88 - 101,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

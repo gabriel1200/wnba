@@ -1,0 +1,317 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041000121,0,12,0,1,12:09 AM,10:00,,Start of 1st Period (12:09 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,1,10,0,1,12:09 AM,10:00,Jump Ball Jackson vs. Milton-Jones: Tip to Wright,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0
+1041000121,2,1,5,1,12:10 AM,9:44,Jackson  Layup (2 PTS) (Bird 1 AST),,,0 - 2,2,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,3,2,1,1,12:10 AM,9:27,,,MISS Thompson 17' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,4,4,0,1,12:10 AM,9:26,Cash REBOUND (Off:0 Def:1),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,5,5,1,1,12:10 AM,9:19,Little Bad Pass Turnover (P1.T1),,Quinn STEAL (1 STL),,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,6,5,1,1,12:10 AM,9:14,Jackson STEAL (1 STL),,Penicheiro Bad Pass Turnover (P1.T1),,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,7,6,2,1,12:11 AM,8:55,,,Quinn S.FOUL (P1.T1),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,8,3,11,1,12:11 AM,8:55,Jackson Free Throw 1 of 2 (3 PTS),,,0 - 3,3,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,10,3,12,1,12:11 AM,8:55,Jackson Free Throw 2 of 2 (4 PTS),,,0 - 4,4,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,13,6,2,1,12:12 AM,8:37,Cash S.FOUL (P1.T1),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,14,3,11,1,12:12 AM,8:37,,,Thompson Free Throw 1 of 2 (1 PTS),1 - 4,3,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,16,3,12,1,12:12 AM,8:37,,,Thompson Free Throw 2 of 2 (2 PTS),2 - 4,2,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,18,2,1,1,12:13 AM,8:18,MISS Cash 4' Jump Shot,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,19,4,0,1,12:13 AM,8:16,,,Thompson REBOUND (Off:0 Def:1),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,20,1,42,1,12:13 AM,8:09,,,Milton-Jones  Driving Layup (2 PTS),4 - 4,TIE,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,21,2,1,1,12:14 AM,7:45,MISS Bird 13' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,22,4,0,1,12:14 AM,7:44,,,Thompson REBOUND (Off:0 Def:2),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,23,6,2,1,12:14 AM,7:41,Little S.FOUL (P1.T2),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,24,3,11,1,12:14 AM,7:41,,,Penicheiro Free Throw 1 of 2 (1 PTS),5 - 4,-1,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,26,3,12,1,12:14 AM,7:41,,,Penicheiro Free Throw 2 of 2 (2 PTS),6 - 4,-2,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,29,1,1,1,12:15 AM,7:30,Wright 14' Jump Shot (2 PTS) (Bird 2 AST),,,6 - 6,TIE,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,30,5,1,1,12:15 AM,7:16,,,Penicheiro Bad Pass Turnover (P2.T2),,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,31,1,5,1,12:15 AM,7:07,Jackson  Layup (6 PTS) (Cash 1 AST),,,6 - 8,2,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,32,2,1,1,12:16 AM,6:44,,,MISS Ferdinand-Harris  3PT Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,33,4,0,1,12:16 AM,6:43,Jackson REBOUND (Off:0 Def:1),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,34,1,1,1,12:16 AM,6:34,Cash 5' Jump Shot (2 PTS) (Bird 3 AST),,,6 - 10,4,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,36,5,4,1,12:16 AM,6:23,,,Thompson Traveling Turnover (P1.T3),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,37,2,47,1,12:16 AM,6:07,MISS Jackson 9' Turnaround Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,38,4,0,1,12:16 AM,6:05,,,Ferdinand-Harris REBOUND (Off:0 Def:1),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,39,5,1,1,12:17 AM,5:52,Jackson STEAL (2 STL),,Milton-Jones Bad Pass Turnover (P1.T4),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,40,1,42,1,12:17 AM,5:47,Cash  Driving Layup (4 PTS) (Wright 1 AST),,,6 - 12,6,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,41,9,1,1,12:17 AM,5:46,,,Sparks Timeout: Regular (Reg.1 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,43,1,1,1,12:21 AM,5:22,,,Ferdinand-Harris 15' Jump Shot (2 PTS) (Penicheiro 1 AST),8 - 12,4,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,44,1,1,1,12:21 AM,5:03,Wright 19' Jump Shot (4 PTS),,,8 - 14,6,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,45,2,1,1,12:21 AM,4:36,,,MISS Quinn 16' Jump Shot,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,46,4,0,1,12:21 AM,4:35,Cash REBOUND (Off:0 Def:2),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,47,6,1,1,12:22 AM,4:24,,,Penicheiro P.FOUL (P1.T2),,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,49,8,0,1,12:23 AM,4:14,SUB: Willingham FOR Little,,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,50,8,0,1,12:23 AM,4:14,SUB: Abrosimova FOR Wright,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,51,1,1,1,12:23 AM,4:06,Bird 14' Jump Shot (2 PTS),,,8 - 16,8,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,53,6,1,1,12:23 AM,3:58,Abrosimova P.FOUL (P1.T3),,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,54,2,1,1,12:23 AM,3:48,,,MISS Quinn 24' 3PT Jump Shot,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,55,4,0,1,12:23 AM,3:47,Willingham REBOUND (Off:0 Def:1),,,,,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,56,2,5,1,12:24 AM,3:26,MISS Jackson  Layup,,Thompson BLOCK (1 BLK),,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0
+1041000121,57,4,0,1,12:24 AM,3:23,,,Thompson REBOUND (Off:0 Def:3),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,58,2,1,1,12:24 AM,3:15,,,MISS Thompson 5' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,59,4,0,1,12:24 AM,3:13,Cash REBOUND (Off:0 Def:3),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,60,1,1,1,12:24 AM,3:04,Bird 11' Jump Shot (4 PTS),,,8 - 18,10,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,61,1,1,1,12:25 AM,2:48,,,Thompson 6' Jump Shot (4 PTS),10 - 18,8,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,62,6,2,1,12:25 AM,2:48,Jackson S.FOUL (P1.T4),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,63,8,0,1,12:25 AM,2:48,SUB: Robinson FOR Jackson,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,64,8,0,1,12:25 AM,2:48,,,SUB: Toliver FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,65,3,10,1,12:25 AM,2:48,,,Thompson Free Throw 1 of 1 (5 PTS),11 - 18,7,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,68,1,1,1,12:26 AM,2:32,Abrosimova  3PT Jump Shot (3 PTS) (Robinson 1 AST),,,11 - 21,10,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,69,2,1,1,12:26 AM,2:13,,,MISS Thompson 24' 3PT Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,70,4,0,1,12:26 AM,2:12,Robinson REBOUND (Off:0 Def:1),,,,,4,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,71,5,4,1,12:26 AM,2:02,Robinson Traveling Turnover (P1.T2),,,,,4,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041000121,72,8,0,1,12:26 AM,2:02,,,SUB: Wisdom-Hylton FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,73,5,2,1,12:27 AM,1:44,Bird STEAL (1 STL),,Toliver Lost Ball Turnover (P1.T5),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,74,1,5,1,12:27 AM,1:38,Cash  Layup (6 PTS) (Bird 4 AST),,,11 - 23,12,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,75,2,1,1,12:27 AM,1:23,,,MISS Ferdinand-Harris 24' 3PT Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,76,4,0,1,12:27 AM,1:22,Willingham REBOUND (Off:0 Def:2),,,,,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,77,2,1,1,12:27 AM,1:09,MISS Willingham  3PT Jump Shot,,,,,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,78,4,0,1,12:27 AM,1:08,,,Thompson REBOUND (Off:0 Def:4),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,79,5,2,1,12:28 AM,1:00,Bird STEAL (2 STL),,Toliver Lost Ball Turnover (P2.T6),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,80,1,5,1,12:28 AM,0:55,Cash  Layup (8 PTS) (Bird 5 AST),,,11 - 25,14,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,82,6,2,1,12:28 AM,0:37,Robinson S.FOUL (P1.PN),,,,,4,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,83,8,0,1,12:28 AM,0:37,SUB: Wright FOR Bird,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,84,8,0,1,12:28 AM,0:37,SUB: Jackson FOR Robinson,,,,,4,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,85,3,11,1,12:28 AM,0:37,,,Thompson Free Throw 1 of 2 (6 PTS),12 - 25,13,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,87,3,12,1,12:29 AM,0:37,,,Thompson Free Throw 2 of 2 (7 PTS),13 - 25,12,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,90,2,1,1,12:29 AM,0:20,MISS Abrosimova  3PT Jump Shot,,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,91,4,0,1,12:29 AM,0:18,,,Quinn REBOUND (Off:0 Def:1),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,92,1,75,1,12:30 AM,0:01,,,Toliver  Driving Finger Roll Layup (2 PTS),15 - 25,10,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,93,13,0,1,12:30 AM,0:00,,End of 1st Period (12:30 AM EST),,15 - 25,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,95,12,0,2,12:33 AM,10:00,,Start of 2nd Period (12:33 AM EST),,15 - 25,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,96,6,2,2,12:34 AM,9:48,Abrosimova S.FOUL (P2.T1),,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,97,3,11,2,12:34 AM,9:48,,,Quinn Free Throw 1 of 2 (1 PTS),16 - 25,9,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,99,3,12,2,12:34 AM,9:48,,,Quinn Free Throw 2 of 2 (2 PTS),17 - 25,8,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,101,1,1,2,12:35 AM,9:32,Vesela  3PT Jump Shot (3 PTS) (Wright 2 AST),,,17 - 28,11,4,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,102,1,42,2,12:35 AM,9:06,,,Thompson  Driving Layup (9 PTS),19 - 28,9,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,103,2,1,2,12:36 AM,8:46,MISS Abrosimova 24' 3PT Jump Shot,,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,104,4,0,2,12:36 AM,8:46,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,105,6,3,2,12:36 AM,8:46,Wright L.B.FOUL (P1.T2),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,106,8,0,2,12:36 AM,8:46,,,SUB: Milton-Jones FOR Wisdom-Hylton,,,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,107,8,0,2,12:36 AM,8:46,SUB: Bird FOR Willingham,,,,,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,108,8,0,2,12:36 AM,8:46,SUB: Little FOR Abrosimova,,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,109,1,1,2,12:36 AM,8:32,,,Ferdinand-Harris 19' Jump Shot (4 PTS) (Toliver 1 AST),21 - 28,7,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,110,1,1,2,12:37 AM,8:12,Vesela 7' Jump Shot (5 PTS) (Bird 6 AST),,,21 - 30,9,4,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,111,6,1,2,12:37 AM,8:05,Wright P.FOUL (P2.T3),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,112,8,0,2,12:37 AM,8:05,SUB: Abrosimova FOR Wright,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,113,5,4,2,12:38 AM,7:50,,,Milton-Jones Traveling Turnover (P2.T7),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,115,5,1,2,12:38 AM,7:39,Bird Bad Pass Turnover (P1.T3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,116,1,1,2,12:39 AM,7:23,,,Toliver  3PT Jump Shot (5 PTS) (Thompson 1 AST),24 - 30,6,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,117,1,1,2,12:39 AM,7:08,Little 20' Jump Shot (2 PTS) (Bird 7 AST),,,24 - 32,8,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,118,2,1,2,12:39 AM,6:53,,,MISS Thompson 11' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,119,4,0,2,12:39 AM,6:52,Bird REBOUND (Off:0 Def:1),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,120,2,1,2,12:39 AM,6:39,MISS Jackson 17' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,121,4,0,2,12:39 AM,6:38,,,Ferdinand-Harris REBOUND (Off:0 Def:2),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,122,2,1,2,12:40 AM,6:30,,,MISS Quinn 16' Jump Shot,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,123,4,0,2,12:40 AM,6:28,Bird REBOUND (Off:0 Def:2),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,124,1,1,2,12:40 AM,6:20,Vesela  3PT Jump Shot (8 PTS) (Jackson 1 AST),,,24 - 35,11,4,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,125,2,5,2,12:40 AM,6:01,,,MISS Milton-Jones  Layup,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,126,4,0,2,12:40 AM,6:00,Abrosimova REBOUND (Off:0 Def:1),,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,127,2,1,2,12:40 AM,5:51,MISS Little 5' Jump Shot,,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,128,4,0,2,12:40 AM,5:50,Abrosimova REBOUND (Off:1 Def:1),,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,129,5,40,2,12:41 AM,5:37,Bird Out of Bounds Lost Ball Turnover (P2.T4),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,130,9,4,2,12:41 AM,5:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,132,8,0,2,12:44 AM,5:37,SUB: Cash FOR Little,,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,133,8,0,2,12:44 AM,5:37,,,SUB: Wisdom-Hylton FOR Quinn,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,134,8,0,2,12:44 AM,5:37,,,SUB: Penicheiro FOR Thompson,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,135,1,80,2,12:45 AM,5:17,,,Toliver 24' 3PT Step Back Jump Shot (8 PTS),27 - 35,8,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,136,2,1,2,12:45 AM,4:53,MISS Cash 5' Jump Shot,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,137,4,0,2,12:45 AM,4:52,,,Wisdom-Hylton REBOUND (Off:0 Def:1),,,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,138,5,4,2,12:45 AM,4:42,,,Milton-Jones Traveling Turnover (P3.T8),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,140,6,1,2,12:46 AM,4:33,,,Milton-Jones P.FOUL (P1.T1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,141,8,0,2,12:46 AM,4:33,SUB: Wright FOR Abrosimova,,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,142,8,0,2,12:46 AM,4:33,,,SUB: Thompson FOR Wisdom-Hylton,,,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,143,5,11,2,12:46 AM,4:17,STORM Turnover: Shot Clock (T#5),,,,,2,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1041000121,144,8,0,2,12:46 AM,4:17,,,SUB: Wisdom-Hylton FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,145,2,1,2,12:47 AM,3:57,,,MISS Ferdinand-Harris 15' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,146,4,0,2,12:47 AM,3:55,,,Penicheiro REBOUND (Off:1 Def:0),,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,147,1,5,2,12:47 AM,3:54,,,Penicheiro  Layup (4 PTS),29 - 35,6,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,149,1,1,2,12:47 AM,3:34,Vesela  3PT Jump Shot (11 PTS) (Bird 8 AST),,,29 - 38,9,4,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,150,2,5,2,12:48 AM,3:08,,,MISS Penicheiro  Layup,,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,151,4,0,2,12:48 AM,3:06,,,Wisdom-Hylton REBOUND (Off:1 Def:1),,,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,152,2,5,2,12:48 AM,3:04,Jackson BLOCK (1 BLK),,MISS Wisdom-Hylton  Layup,,,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1041000121,153,4,0,2,12:48 AM,3:02,Bird REBOUND (Off:0 Def:3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,154,1,42,2,12:48 AM,3:00,Cash  Driving Layup (10 PTS) (Bird 9 AST),,,29 - 40,11,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,155,9,1,2,12:48 AM,2:55,,,Sparks Timeout: Regular (Reg.2 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,157,8,0,2,12:51 AM,2:55,,,SUB: Quinn FOR Wisdom-Hylton,,,5,201918,Lindsay Wisdom-Hylton,1611661320.0,Los Angeles,Sparks,LAS,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,158,8,0,2,12:51 AM,2:55,,,SUB: Milton-Jones FOR Ferdinand-Harris,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,159,2,1,2,12:52 AM,2:42,,,MISS Milton-Jones 6' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,160,4,0,2,12:52 AM,2:42,Jackson REBOUND (Off:0 Def:2),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,161,6,1,2,12:52 AM,2:42,,,Milton-Jones P.FOUL (P2.T2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,163,5,1,2,12:53 AM,2:26,Wright Bad Pass Turnover (P1.T6),,Penicheiro STEAL (1 STL),,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,164,1,66,2,12:53 AM,2:20,,,Toliver 6' Jump Bank Shot (10 PTS),31 - 40,9,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,165,2,1,2,12:53 AM,2:03,MISS Bird  3PT Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,166,4,0,2,12:53 AM,2:02,,,Penicheiro REBOUND (Off:1 Def:1),,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,167,6,4,2,12:53 AM,1:56,,,Quinn OFF.Foul (P2),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,168,5,5,2,12:53 AM,1:56,,,Quinn Foul Turnover (P1.T9),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,169,5,1,2,12:54 AM,1:42,Cash Bad Pass Turnover (P1.T7),,Penicheiro STEAL (2 STL),,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,170,1,66,2,12:54 AM,1:31,,,Thompson 13' Jump Bank Shot (11 PTS),33 - 40,7,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,171,9,1,2,12:54 AM,1:25,STORM Timeout: Regular (Full 1 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,173,8,0,2,12:55 AM,1:25,SUB: Abrosimova FOR Wright,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,174,8,0,2,12:55 AM,1:25,SUB: Little FOR Cash,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,175,1,1,2,12:56 AM,1:12,Bird  3PT Jump Shot (7 PTS) (Jackson 2 AST),,,33 - 43,10,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,176,5,11,2,12:56 AM,0:45,,,Sparks Turnover: Shot Clock (T#10),,,3,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1041000121,178,6,4,2,12:57 AM,0:38,Little OFF.Foul (P2),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,179,5,5,2,12:57 AM,0:38,Little Foul Turnover (P2.T8),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041000121,180,2,5,2,12:57 AM,0:18,,,MISS Toliver  Layup,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,181,4,0,2,12:57 AM,0:18,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,182,6,3,2,12:57 AM,0:18,,,Thompson L.B.FOUL (P1.T3),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,183,9,1,2,12:58 AM,0:18,STORM Timeout: Regular (Full 2 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,185,2,1,2,1:00 AM,0:02,MISS Jackson  3PT Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,186,4,0,2,1:00 AM,0:01,,,Quinn REBOUND (Off:0 Def:2),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,187,13,0,2,1:00 AM,0:00,,End of 2nd Period (1:00 AM EST),,33 - 43,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,189,12,0,3,1:18 AM,10:00,,Start of 3rd Period (1:18 AM EST),,33 - 43,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,190,2,5,3,1:19 AM,9:44,,,MISS Milton-Jones  Layup,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,191,4,0,3,1:20 AM,9:43,,,Milton-Jones REBOUND (Off:1 Def:0),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,192,1,44,3,1:20 AM,9:41,,,Milton-Jones  Reverse Layup (4 PTS),35 - 43,8,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,193,2,1,3,1:20 AM,9:23,MISS Cash 24' 3PT Jump Shot,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,194,4,0,3,1:20 AM,9:21,,,Milton-Jones REBOUND (Off:1 Def:1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,195,9,2,3,1:20 AM,9:11,,,Sparks Timeout: Short (Reg.2 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,196,8,0,3,1:21 AM,9:11,,,SUB: Toliver FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,197,1,79,3,1:21 AM,9:00,,,Ferdinand-Harris 16' Pullup Jump Shot (6 PTS),37 - 43,6,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,198,1,66,3,1:22 AM,8:47,Cash 7' Jump Bank Shot (12 PTS),,,37 - 45,8,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,199,2,1,3,1:22 AM,8:35,,,MISS Thompson 10' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,200,4,0,3,1:22 AM,8:34,Jackson REBOUND (Off:0 Def:3),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,201,6,2,3,1:22 AM,8:27,,,Quinn S.FOUL (P3.T1),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,202,3,11,3,1:22 AM,8:27,MISS Cash Free Throw 1 of 2,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,203,4,1,3,1:22 AM,8:27,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,204,3,12,3,1:22 AM,8:27,Cash Free Throw 2 of 2 (13 PTS),,,37 - 46,9,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,207,2,1,3,1:23 AM,8:13,Wright BLOCK (1 BLK),,MISS Ferdinand-Harris 15' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0
+1041000121,208,4,0,3,1:23 AM,8:10,Wright REBOUND (Off:0 Def:1),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,209,2,1,3,1:23 AM,8:00,MISS Jackson 18' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,210,4,0,3,1:23 AM,8:00,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,211,2,1,3,1:24 AM,7:45,,,MISS Milton-Jones 8' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,212,4,0,3,1:24 AM,7:44,,,Quinn REBOUND (Off:1 Def:2),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,213,1,1,3,1:24 AM,7:41,,,Quinn 9' Jump Shot (4 PTS),39 - 46,7,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,214,6,2,3,1:24 AM,7:23,,,Ferdinand-Harris S.FOUL (P1.T2),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,215,3,11,3,1:24 AM,7:23,Wright Free Throw 1 of 2 (5 PTS),,,39 - 47,8,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,217,3,12,3,1:25 AM,7:23,MISS Wright Free Throw 2 of 2,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,219,4,0,3,1:25 AM,7:21,,,Milton-Jones REBOUND (Off:1 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,221,2,1,3,1:25 AM,7:04,,,MISS Thompson  3PT Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,222,4,0,3,1:25 AM,7:03,Jackson REBOUND (Off:0 Def:4),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,223,1,5,3,1:25 AM,6:53,Little  Layup (4 PTS),,,39 - 49,10,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,224,6,2,3,1:27 AM,6:42,Jackson S.FOUL (P2.T1),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,225,6,11,3,1:27 AM,6:42,Jackson T.FOUL (P2.T1),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1041000121,226,3,16,3,1:27 AM,6:42,,,Thompson Free Throw Technical (12 PTS),40 - 49,9,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,228,3,11,3,1:28 AM,6:42,,,MISS Milton-Jones Free Throw 1 of 2,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,229,4,1,3,1:28 AM,6:42,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,230,3,12,3,1:28 AM,6:42,,,MISS Milton-Jones Free Throw 2 of 2,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,232,4,0,3,1:28 AM,6:40,Cash REBOUND (Off:0 Def:4),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,234,5,2,3,1:28 AM,6:17,Wright Lost Ball Turnover (P2.T9),,Ferdinand-Harris STEAL (1 STL),,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,235,2,5,3,1:28 AM,6:12,Bird BLOCK (1 BLK),,MISS Toliver 3' Layup,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1041000121,236,4,0,3,1:28 AM,6:09,Bird REBOUND (Off:0 Def:4),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,237,1,42,3,1:29 AM,6:08,Jackson  Driving Layup (8 PTS) (Bird 10 AST),,,40 - 51,11,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,238,6,2,3,1:29 AM,6:08,,,Thompson S.FOUL (P2.T3),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,239,3,10,3,1:29 AM,6:08,Jackson Free Throw 1 of 1 (9 PTS),,,40 - 52,12,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,241,1,1,3,1:29 AM,5:56,,,Toliver 12' Jump Shot (12 PTS),42 - 52,10,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,242,6,2,3,1:29 AM,5:56,Bird S.FOUL (P1.T2),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,243,3,10,3,1:29 AM,5:56,,,Toliver Free Throw 1 of 1 (13 PTS),43 - 52,9,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,246,1,1,3,1:30 AM,5:36,Little 7' Jump Shot (6 PTS),,,43 - 54,11,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,247,6,1,3,1:30 AM,5:25,Wright P.FOUL (P3.T3),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,248,2,1,3,1:31 AM,5:15,,,MISS Quinn 15' Jump Shot,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,249,4,0,3,1:31 AM,5:14,Little REBOUND (Off:0 Def:1),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,250,5,2,3,1:31 AM,5:10,Little Lost Ball Turnover (P3.T10),,Ferdinand-Harris STEAL (2 STL),,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,251,2,5,3,1:31 AM,5:06,,,MISS Ferdinand-Harris  Layup,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,253,4,0,3,1:32 AM,5:00,Wright REBOUND (Off:0 Def:2),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,254,5,2,3,1:32 AM,4:52,Bird Lost Ball Turnover (P3.T11),,Toliver STEAL (1 STL),,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,255,2,1,3,1:32 AM,4:42,,,MISS Thompson 4' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,256,4,0,3,1:32 AM,4:41,Jackson REBOUND (Off:0 Def:5),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,258,9,4,3,1:32 AM,4:24,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,260,1,1,3,1:35 AM,4:19,Bird 6' Jump Shot (9 PTS) (Jackson 3 AST),,,43 - 56,13,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,261,2,1,3,1:36 AM,3:58,,,MISS Milton-Jones 7' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,262,4,0,3,1:36 AM,3:57,Bird REBOUND (Off:0 Def:5),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,263,5,2,3,1:36 AM,3:39,Wright Lost Ball Turnover (P3.T12),,Thompson STEAL (1 STL),,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,264,2,1,3,1:36 AM,3:25,,,MISS Quinn  3PT Jump Shot,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,265,4,0,3,1:36 AM,3:23,Little REBOUND (Off:0 Def:2),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,266,2,1,3,1:37 AM,3:02,MISS Cash  3PT Jump Shot,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,267,4,0,3,1:37 AM,3:02,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,268,8,0,3,1:37 AM,3:02,SUB: Abrosimova FOR Wright,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,269,1,3,3,1:37 AM,2:36,,,Thompson 4' Hook Shot (14 PTS),45 - 56,11,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,270,8,0,3,1:38 AM,2:15,SUB: Willingham FOR Little,,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,271,2,1,3,1:38 AM,2:11,MISS Bird 17' Jump Shot,,Thompson BLOCK (2 BLK),,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0
+1041000121,272,4,0,3,1:38 AM,2:11,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,273,5,11,3,1:38 AM,2:11,STORM Turnover: Shot Clock (T#13),,,,,2,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1041000121,275,5,4,3,1:39 AM,1:55,,,Toliver Traveling Turnover (P3.T11),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,276,1,1,3,1:39 AM,1:39,Jackson 8' Jump Shot (11 PTS) (Abrosimova 1 AST),,,45 - 58,13,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,277,1,1,3,1:39 AM,1:14,,,Ferdinand-Harris  3PT Jump Shot (9 PTS) (Toliver 2 AST),48 - 58,10,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,278,6,2,3,1:40 AM,1:01,,,Quinn S.FOUL (P4.T4),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,279,3,11,3,1:40 AM,1:01,MISS Cash Free Throw 1 of 2,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,280,4,1,3,1:40 AM,1:01,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,282,8,0,3,1:40 AM,1:01,,,SUB: Penicheiro FOR Quinn,,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,283,3,12,3,1:40 AM,1:01,Cash Free Throw 2 of 2 (14 PTS),,,48 - 59,11,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,286,2,1,3,1:41 AM,0:47,,,MISS Ferdinand-Harris 13' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,287,4,0,3,1:41 AM,0:46,,,Ferdinand-Harris REBOUND (Off:1 Def:2),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,288,2,1,3,1:41 AM,0:23,,,MISS Penicheiro 5' Jump Shot,,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,289,4,0,3,1:41 AM,0:21,Jackson REBOUND (Off:0 Def:6),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,290,2,1,3,1:42 AM,0:04,MISS Bird 11' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,291,4,0,3,1:42 AM,0:03,,,Milton-Jones REBOUND (Off:1 Def:3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,292,13,0,3,1:42 AM,0:00,,End of 3rd Period (1:42 AM EST),,48 - 59,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,294,12,0,4,1:45 AM,10:00,,Start of 4th Period (1:45 AM EST),,48 - 59,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,295,1,85,4,1:46 AM,9:35,Cash 11' Turnaround Bank Shot (16 PTS),,,48 - 61,13,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,296,2,1,4,1:46 AM,9:19,,,MISS Ferdinand-Harris 18' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,297,4,0,4,1:46 AM,9:17,,,Milton-Jones REBOUND (Off:2 Def:3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,298,6,4,4,1:46 AM,9:17,,,Milton-Jones OFF.Foul (P3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,299,5,5,4,1:46 AM,9:17,,,Milton-Jones Foul Turnover (P4.T12),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,300,1,5,4,1:47 AM,9:02,Cash  Layup (18 PTS) (Little 1 AST),,,48 - 63,15,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,301,6,2,4,1:47 AM,8:38,Abrosimova S.FOUL (P3.T1),,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,302,3,11,4,1:47 AM,8:38,,,Ferdinand-Harris Free Throw 1 of 2 (10 PTS),49 - 63,14,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,304,3,12,4,1:48 AM,8:38,,,Ferdinand-Harris Free Throw 2 of 2 (11 PTS),50 - 63,13,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,306,5,1,4,1:48 AM,8:20,Cash Bad Pass Turnover (P2.T14),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,307,1,1,4,1:49 AM,8:03,,,Toliver  3PT Jump Shot (16 PTS) (Milton-Jones 1 AST),53 - 63,10,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,309,2,1,4,1:49 AM,7:41,MISS Little 4' Jump Shot,,Thompson BLOCK (3 BLK),,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0
+1041000121,310,4,0,4,1:49 AM,7:39,,,Milton-Jones REBOUND (Off:2 Def:4),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,311,2,1,4,1:49 AM,7:28,,,MISS Ferdinand-Harris 17' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,312,4,0,4,1:49 AM,7:28,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,313,6,3,4,1:49 AM,7:28,Wright L.B.FOUL (P4.T2),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,314,8,0,4,1:50 AM,7:28,SUB: Bird FOR Wright,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,315,8,0,4,1:50 AM,7:28,SUB: Jackson FOR Willingham,,,,,4,100973,Le'coe Willingham,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,316,2,1,4,1:50 AM,7:15,,,MISS Toliver 24' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,317,4,0,4,1:50 AM,7:14,,,Milton-Jones REBOUND (Off:3 Def:4),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,318,1,42,4,1:50 AM,7:07,,,Ferdinand-Harris  Driving Layup (13 PTS),55 - 63,8,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,320,2,1,4,1:51 AM,6:43,MISS Cash 20' Jump Shot,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,321,4,0,4,1:51 AM,6:42,,,Thompson REBOUND (Off:0 Def:5),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,322,2,1,4,1:51 AM,6:24,,,MISS Thompson 5' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,323,4,0,4,1:51 AM,6:22,Jackson REBOUND (Off:0 Def:7),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,324,5,1,4,1:52 AM,6:06,Cash Bad Pass Turnover (P3.T15),,Penicheiro STEAL (3 STL),,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,325,2,1,4,1:52 AM,5:58,,,MISS Thompson  3PT Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,326,4,0,4,1:52 AM,5:57,Little REBOUND (Off:0 Def:3),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,327,6,2,4,1:52 AM,5:43,,,Ferdinand-Harris S.FOUL (P2.T1),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041000121,328,9,1,4,1:52 AM,5:43,STORM Timeout: Regular (Full 3 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,330,8,0,4,1:54 AM,5:43,SUB: Vesela FOR Cash,,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,331,8,0,4,1:54 AM,5:43,SUB: Wright FOR Abrosimova,,,,,4,100658,Svetlana Abrosimova,1611661328.0,Seattle,Storm,SEA,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,332,3,11,4,1:55 AM,5:43,Jackson Free Throw 1 of 2 (12 PTS),,,55 - 64,9,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,334,3,12,4,1:55 AM,5:43,Jackson Free Throw 2 of 2 (13 PTS),,,55 - 65,10,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,336,1,44,4,1:56 AM,5:30,,,Milton-Jones  Reverse Layup (6 PTS) (Toliver 3 AST),57 - 65,8,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,337,2,1,4,1:56 AM,5:09,MISS Jackson  3PT Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,338,4,0,4,1:56 AM,5:07,,,Milton-Jones REBOUND (Off:3 Def:5),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,339,2,5,4,1:57 AM,4:51,,,MISS Milton-Jones 3' Layup,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,340,4,0,4,1:57 AM,4:49,Jackson REBOUND (Off:0 Def:8),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,341,1,66,4,1:57 AM,4:27,Little  3PT Jump Bank Shot (9 PTS) (Bird 11 AST),,,57 - 68,11,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,342,5,1,4,1:58 AM,4:04,,,Toliver Bad Pass Turnover (P4.T13),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,343,2,1,4,1:58 AM,3:46,MISS Jackson 16' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,344,4,0,4,1:58 AM,3:45,Wright REBOUND (Off:1 Def:2),,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,345,1,1,4,1:58 AM,3:40,Wright  3PT Jump Shot (8 PTS),,,57 - 71,14,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,347,6,1,4,1:58 AM,3:32,Bird P.FOUL (P2.T3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041000121,348,8,0,4,1:58 AM,3:32,,,SUB: Quinn FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661320.0,Los Angeles,Sparks,LAS,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,349,8,0,4,1:59 AM,3:32,SUB: Cash FOR Vesela,,,,,4,202239,Jana Vesela,1611661328.0,Seattle,Storm,SEA,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,351,5,1,4,1:59 AM,3:23,,,Milton-Jones Bad Pass Turnover (P5.T14),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,352,1,47,4,1:59 AM,3:02,Jackson 11' Turnaround Jump Shot (15 PTS) (Bird 12 AST),,,57 - 73,16,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,353,9,1,4,1:59 AM,3:02,,,Sparks Timeout: Regular (Reg.3 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,356,1,85,4,2:03 AM,2:45,,,Thompson 8' Turnaround Bank Shot (16 PTS) (Toliver 4 AST),59 - 73,14,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,357,1,47,4,2:03 AM,2:30,Jackson 10' Turnaround Jump Shot (17 PTS) (Wright 3 AST),,,59 - 75,16,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041000121,358,2,1,4,2:03 AM,2:14,,,MISS Thompson 10' Jump Shot,,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,359,4,0,4,2:03 AM,2:12,Jackson REBOUND (Off:0 Def:9),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,360,2,1,4,2:04 AM,1:52,MISS Jackson 14' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,361,4,0,4,2:04 AM,1:51,Little REBOUND (Off:1 Def:3),,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,362,1,5,4,2:04 AM,1:50,Little  Layup (11 PTS),,,59 - 77,18,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,363,1,1,4,2:04 AM,1:25,,,Ferdinand-Harris 16' Jump Shot (15 PTS),61 - 77,16,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,365,2,1,4,2:05 AM,1:03,MISS Wright 17' Jump Shot,,,,,4,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,366,4,0,4,2:05 AM,1:01,,,Quinn REBOUND (Off:1 Def:3),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,367,1,42,4,2:05 AM,0:49,,,Milton-Jones  Driving Layup (8 PTS),63 - 77,14,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,368,2,1,4,2:05 AM,0:34,MISS Bird 5' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,369,4,0,4,2:05 AM,0:31,,,Thompson REBOUND (Off:0 Def:6),,,5,100076,Tina Thompson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041000121,370,1,1,4,2:05 AM,0:25,,,Ferdinand-Harris  3PT Jump Shot (18 PTS) (Toliver 5 AST),66 - 77,11,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041000121,371,2,1,4,2:06 AM,0:04,MISS Little  3PT Jump Shot,,,,,4,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,372,4,0,4,2:06 AM,0:03,Cash REBOUND (Off:1 Def:4),,,,,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,373,1,5,4,2:06 AM,0:02,Cash  Layup (20 PTS),,,66 - 79,13,4,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,374,6,11,4,2:06 AM,0:02,,,Quinn T.FOUL (P4.T1),,,5,201049,Noelle Quinn,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041000121,375,3,16,4,2:06 AM,0:02,MISS Bird Free Throw Technical,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041000121,376,4,1,4,2:06 AM,0:02,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000121,378,13,0,4,2:07 AM,0:00,,End of 4th Period (2:07 AM EST),,66 - 79,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

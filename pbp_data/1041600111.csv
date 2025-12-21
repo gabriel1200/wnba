@@ -1,0 +1,380 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041600111,0,12,0,1,8:27 AM,10:00,,Start of 1st Period (8:27 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,1,10,0,1,8:28 AM,9:59,Jump Ball Williams vs. Stewart: Tip to Bird,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1
+1041600111,5,2,42,1,8:28 AM,9:59,Williams BLOCK (1 BLK),,MISS Clark 3' Driving Layup,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,2,4,0,1,8:29 AM,9:41,Clarendon REBOUND (Off:0 Def:1),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,3,2,79,1,8:29 AM,9:34,MISS Holmes 6' Pullup Jump Shot,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,6,4,0,1,8:29 AM,9:18,Williams REBOUND (Off:1 Def:0),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,7,2,1,1,8:30 AM,9:05,MISS Holmes 25' 3PT Jump Shot,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,29,4,0,1,8:30 AM,9:05,McCoughtry REBOUND (Off:1 Def:0),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,8,6,3,1,8:30 AM,9:05,McCoughtry L.B.FOUL (P1.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,9,5,5,1,8:30 AM,9:05,McCoughtry Foul Turnover (P1.T1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041600111,10,2,1,1,8:30 AM,8:40,,,MISS Loyd 21' Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,11,4,0,1,8:30 AM,8:40,Williams REBOUND (Off:1 Def:1),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,12,2,1,1,8:31 AM,8:31,MISS Ajavon 6' Jump Shot,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,13,4,0,1,8:31 AM,8:30,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,14,1,1,1,8:31 AM,8:23,,,Bird 26' 3PT Jump Shot (3 PTS) (Langhorne 1 AST),3 - 0,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,16,1,1,1,8:31 AM,7:57,Holmes 12' Jump Shot (2 PTS) (Clarendon 1 AST),,,3 - 2,-1,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,18,6,1,1,8:31 AM,7:48,Williams P.FOUL (P1.T2),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,20,3,11,1,8:32 AM,7:48,,,Stewart Free Throw 1 of 2 (1 PTS),4 - 2,-2,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,23,3,12,1,8:32 AM,7:48,,,Stewart Free Throw 2 of 2 (2 PTS),5 - 2,-3,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,26,2,1,1,8:32 AM,7:28,MISS Williams 8' Jump Shot,,Langhorne BLOCK (1 BLK),,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1
+1041600111,27,4,0,1,8:32 AM,7:23,,,Langhorne REBOUND (Off:0 Def:1),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,30,2,1,1,8:33 AM,7:16,,,MISS Bird 8' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,31,4,0,1,8:33 AM,7:16,Ajavon REBOUND (Off:0 Def:1),,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,32,2,1,1,8:33 AM,7:09,MISS Ajavon 30' 3PT Jump Shot,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,35,4,0,1,8:33 AM,7:04,Williams REBOUND (Off:2 Def:1),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,38,1,1,1,8:34 AM,6:45,Clarendon 19' Jump Shot (2 PTS),,,5 - 4,-1,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,40,6,4,1,8:34 AM,6:23,,,Clark OFF.Foul (P1),,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,41,5,5,1,8:34 AM,6:23,,,Clark Foul Turnover (P1.T1),,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1041600111,43,2,1,1,8:34 AM,6:10,MISS Williams 17' Jump Shot,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,44,4,0,1,8:34 AM,6:08,Williams REBOUND (Off:3 Def:1),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,45,2,5,1,8:34 AM,6:06,MISS Williams 2' Layup,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,46,4,0,1,8:35 AM,6:05,Holmes REBOUND (Off:1 Def:0),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,47,1,42,1,8:35 AM,5:53,McCoughtry 2' Driving Layup (2 PTS) (Clarendon 2 AST),,,5 - 6,1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,48,6,1,1,8:35 AM,5:47,Ajavon P.FOUL (P1.T3),,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,50,2,1,1,8:35 AM,5:39,,,MISS Loyd 17' Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,51,4,0,1,8:35 AM,5:38,Williams REBOUND (Off:3 Def:2),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,53,1,1,1,8:35 AM,5:29,McCoughtry 26' 3PT Jump Shot (5 PTS) (Clarendon 3 AST),,,5 - 9,4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,55,2,1,1,8:36 AM,5:13,,,MISS Clark 10' Jump Shot,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,56,4,0,1,8:36 AM,5:11,,,Clark REBOUND (Off:1 Def:0),,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,57,1,1,1,8:36 AM,5:05,,,Stewart 26' 3PT Jump Shot (5 PTS) (Clark 1 AST),8 - 9,1,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,59,6,1,1,8:36 AM,4:54,,,Bird P.FOUL (P1.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,60,9,4,1,8:37 AM,4:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,61,8,0,1,8:39 AM,4:54,,,SUB: Tokashiki FOR Langhorne,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,62,2,1,1,8:40 AM,4:44,MISS McCoughtry 15' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,63,4,0,1,8:40 AM,4:42,,,Bird REBOUND (Off:0 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,64,6,17,1,8:40 AM,4:30,DREAM T.Foul (Def. 3 Sec Williams ),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041600111,65,3,16,1,8:40 AM,4:30,,,Loyd Free Throw Technical (1 PTS),9 - 9,TIE,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,67,2,1,1,8:41 AM,4:16,,,MISS Clark 8' Jump Shot,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,68,4,0,1,8:41 AM,4:15,Williams REBOUND (Off:3 Def:3),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,69,1,1,1,8:41 AM,4:00,McCoughtry 15' Jump Shot (7 PTS),,,9 - 11,2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,70,6,1,1,8:41 AM,3:50,Clarendon P.FOUL (P1.T4),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,71,2,1,1,8:41 AM,3:45,,,MISS Loyd 13' Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,72,4,0,1,8:42 AM,3:45,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,73,6,1,1,8:42 AM,3:43,,,Tokashiki P.FOUL (P1.T2),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,74,2,1,1,8:42 AM,3:29,MISS Holmes 26' 3PT Jump Shot,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,75,4,0,1,8:42 AM,3:27,,,Stewart REBOUND (Off:0 Def:1),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,76,1,42,1,8:42 AM,3:17,,,Stewart 4' Driving Layup (7 PTS) (Clark 2 AST),11 - 11,TIE,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,77,1,1,1,8:42 AM,3:00,Williams 5' Jump Shot (2 PTS),,,11 - 13,2,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,78,1,1,1,8:43 AM,2:45,,,Bird 7' Jump Shot (5 PTS),13 - 13,TIE,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,80,5,1,1,8:43 AM,2:37,Ajavon Bad Pass Turnover (P1.T2),,Bird STEAL (1 STL),,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,106,2,40,1,8:43 AM,2:21,,,MISS Clark 3' Layup,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,110,4,0,1,8:43 AM,2:21,Clarendon REBOUND (Off:0 Def:2),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,82,8,0,1,8:43 AM,2:09,SUB: Simmons FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,166,8,0,1,8:43 AM,2:09,,,SUB: Mosqueda-Lewis FOR Loyd,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,121,1,40,1,8:43 AM,2:08,Holmes 2' Layup (4 PTS) (McCoughtry 1 AST),,,13 - 15,2,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,83,2,1,1,8:44 AM,1:47,,,MISS Bird 13' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,84,4,0,1,8:44 AM,1:46,,,Bird REBOUND (Off:1 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,85,2,5,1,8:44 AM,1:39,,,MISS Stewart 3' Layup,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,87,4,0,1,8:44 AM,1:34,,,Stewart REBOUND (Off:1 Def:1),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,86,1,5,1,8:44 AM,1:34,,,Stewart 1' Layup (9 PTS),15 - 15,TIE,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,88,6,2,1,8:44 AM,1:26,,,Tokashiki S.FOUL (P2.T3),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,89,3,11,1,8:45 AM,1:26,Holmes Free Throw 1 of 2 (5 PTS),,,15 - 16,1,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,91,8,0,1,8:45 AM,1:26,,,SUB: Quinn FOR Clark,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,92,3,12,1,8:45 AM,1:26,Holmes Free Throw 2 of 2 (6 PTS),,,15 - 17,2,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,94,1,1,1,8:45 AM,1:07,,,Mosqueda-Lewis  3PT Jump Shot (3 PTS),18 - 17,-1,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,96,1,1,1,8:46 AM,0:46,McCoughtry 11' Jump Shot (9 PTS),,,18 - 19,1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,200,6,2,1,8:46 AM,0:46,,,Quinn S.FOUL (P1.PN),,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041600111,97,3,10,1,8:46 AM,0:46,MISS McCoughtry Free Throw 1 of 1,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,100,4,0,1,8:46 AM,0:27,,,Quinn REBOUND (Off:0 Def:1),,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,99,2,1,1,8:46 AM,0:27,Clarendon BLOCK (1 BLK),,MISS Quinn 18' Jump Shot,,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,102,4,0,1,8:47 AM,0:14,,,Quinn REBOUND (Off:1 Def:1),,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,101,2,1,1,8:47 AM,0:14,,,MISS Quinn 4' Jump Shot,,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,103,4,0,1,8:48 AM,0:13,Clarendon REBOUND (Off:0 Def:3),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,108,13,0,1,8:50 AM,0:00,,End of 1st Period (8:50 AM EST),,18 - 19,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,109,12,0,2,8:50 AM,10:00,,Start of 2nd Period (8:50 AM EST),,18 - 19,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,113,2,1,2,8:52 AM,10:00,MISS Simmons 14' Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,114,4,0,2,8:52 AM,9:32,,,Stewart REBOUND (Off:1 Def:2),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,115,6,2,2,8:52 AM,9:29,Williams S.FOUL (P2.T1),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041600111,116,3,11,2,8:52 AM,9:29,,,Stewart Free Throw 1 of 2 (10 PTS),19 - 19,TIE,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,118,3,12,2,8:52 AM,9:29,,,Stewart Free Throw 2 of 2 (11 PTS),20 - 19,-1,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,120,1,41,2,8:52 AM,9:11,Cortijo 3' Running Layup (2 PTS),,,20 - 21,1,4,1627635,Carla Cortijo,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,122,6,2,2,8:52 AM,9:01,Simmons S.FOUL (P1.T2),,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,123,3,11,2,8:52 AM,9:01,,,MISS Loyd Free Throw 1 of 2,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,124,4,1,2,8:52 AM,9:01,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,125,3,12,2,8:53 AM,9:01,,,Loyd Free Throw 2 of 2 (2 PTS),21 - 21,TIE,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,127,6,2,2,8:53 AM,8:45,,,Tokashiki S.FOUL (P3.T1),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,128,3,11,2,8:53 AM,8:45,Holmes Free Throw 1 of 2 (7 PTS),,,21 - 22,1,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,130,8,0,2,8:54 AM,8:45,,,SUB: Langhorne FOR Tokashiki,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,131,3,12,2,8:54 AM,8:45,Holmes Free Throw 2 of 2 (8 PTS),,,21 - 23,2,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,133,1,42,2,8:54 AM,8:28,,,Loyd 3' Driving Layup (4 PTS),23 - 23,TIE,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,134,2,1,2,8:54 AM,8:14,MISS Simmons 24' 3PT Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,135,4,0,2,8:54 AM,8:12,,,Loyd REBOUND (Off:0 Def:1),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,136,2,1,2,8:54 AM,8:05,,,MISS Loyd 25' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,137,4,0,2,8:54 AM,8:02,,,Loyd REBOUND (Off:1 Def:1),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,138,1,1,2,8:55 AM,7:53,,,Quinn 6' Jump Shot (2 PTS) (Stewart 1 AST),25 - 23,-2,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,140,2,1,2,8:55 AM,7:42,MISS Simmons 24' 3PT Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,142,4,0,2,8:55 AM,7:41,,,Langhorne REBOUND (Off:0 Def:2),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,144,1,1,2,8:55 AM,7:32,,,Mosqueda-Lewis 8' Jump Shot (5 PTS),27 - 23,-4,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,145,6,2,2,8:55 AM,7:32,Cortijo S.FOUL (P1.T3),,,,,4,1627635,Carla Cortijo,1611661330.0,Atlanta,Dream,ATL,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041600111,147,3,10,2,8:56 AM,7:32,,,Mosqueda-Lewis Free Throw 1 of 1 (6 PTS),28 - 23,-5,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,150,8,0,2,8:56 AM,7:23,SUB: Ajavon FOR Simmons,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,151,8,0,2,8:56 AM,7:23,SUB: Clarendon FOR Cortijo,,,,,4,1627635,Carla Cortijo,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,153,10,0,2,8:56 AM,7:21,Jump Ball Holmes vs. Quinn: Tip to Clarendon,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,155,6,27,2,8:57 AM,7:15,,,Loyd Personal Block Foul (P1.T2),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,157,2,1,2,8:57 AM,7:07,MISS McCoughtry 18' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,158,4,0,2,8:57 AM,7:06,,,Loyd REBOUND (Off:1 Def:2),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,159,2,5,2,8:57 AM,6:54,Holmes BLOCK (1 BLK),,MISS Langhorne 2' Layup,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,160,4,0,2,8:57 AM,6:50,Holmes REBOUND (Off:1 Def:1),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,161,6,1,2,8:57 AM,6:48,,,Langhorne P.FOUL (P1.T3),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,162,2,1,2,8:58 AM,6:38,MISS Clarendon 10' Jump Shot,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,163,4,0,2,8:58 AM,6:35,,,Langhorne REBOUND (Off:0 Def:3),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,164,1,41,2,8:58 AM,6:31,,,Stewart 4' Running Layup (13 PTS) (Loyd 1 AST),30 - 23,-7,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,165,9,1,2,8:58 AM,6:27,DREAM Timeout: Regular (Full 1 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,168,8,0,2,9:00 AM,6:27,SUB: Gray FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,204334,Reshanda Gray,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,169,8,0,2,9:00 AM,6:27,,,SUB: Bird FOR Mosqueda-Lewis,,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,170,2,1,2,9:02 AM,6:11,MISS Clarendon 25' 3PT Jump Shot,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,171,4,0,2,9:02 AM,6:09,,,Quinn REBOUND (Off:1 Def:2),,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,172,6,1,2,9:02 AM,5:46,Gray P.FOUL (P1.T4),,,,,4,204334,Reshanda Gray,1611661330.0,Atlanta,Dream,ATL,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,173,2,1,2,9:03 AM,5:38,,,MISS Stewart 19' Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,174,4,0,2,9:03 AM,5:37,Clarendon REBOUND (Off:0 Def:4),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,175,1,1,2,9:03 AM,5:21,McCoughtry 20' Jump Shot (11 PTS) (Williams 1 AST),,,30 - 25,-5,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,176,1,1,2,9:03 AM,4:59,,,Langhorne 5' Jump Shot (2 PTS) (Bird 1 AST),32 - 25,-7,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,177,6,2,2,9:03 AM,4:59,McCoughtry S.FOUL (P2.PN),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,178,8,0,2,9:04 AM,4:59,,,SUB: Clark FOR Quinn,,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,179,3,10,2,9:04 AM,4:59,,,Langhorne Free Throw 1 of 1 (3 PTS),33 - 25,-8,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,181,1,1,2,9:04 AM,4:45,McCoughtry 17' Jump Shot (13 PTS) (Clarendon 4 AST),,,33 - 27,-6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,182,1,1,2,9:04 AM,4:29,,,Langhorne 4' Jump Shot (5 PTS) (Stewart 2 AST),35 - 27,-8,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,183,1,1,2,9:04 AM,4:14,McCoughtry 19' Jump Shot (15 PTS) (Holmes 1 AST),,,35 - 29,-6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,185,1,5,2,9:05 AM,4:04,,,Loyd 2' Layup (6 PTS) (Bird 2 AST),37 - 29,-8,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,186,2,1,2,9:05 AM,3:47,MISS Williams 7' Jump Shot,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,187,4,0,2,9:05 AM,3:46,,,Langhorne REBOUND (Off:0 Def:4),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,188,2,1,2,9:05 AM,3:39,,,MISS Stewart 26' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,189,4,0,2,9:05 AM,3:37,McCoughtry REBOUND (Off:1 Def:1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,190,6,4,2,9:05 AM,3:35,McCoughtry OFF.Foul (P3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,191,5,5,2,9:05 AM,3:35,McCoughtry Foul Turnover (P2.T3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041600111,192,8,0,2,9:05 AM,3:35,SUB: Gatling FOR Gray,,,,,4,204334,Reshanda Gray,1611661330.0,Atlanta,Dream,ATL,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,193,1,1,2,9:06 AM,3:24,,,Loyd 5' Jump Shot (8 PTS),39 - 29,-10,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,194,6,2,2,9:06 AM,3:24,Holmes S.FOUL (P1.PN),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,195,8,0,2,9:06 AM,3:24,SUB: Ajavon FOR Clarendon,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,196,3,10,2,9:06 AM,3:24,,,Loyd Free Throw 1 of 1 (9 PTS),40 - 29,-11,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,199,1,1,2,9:07 AM,2:58,Ajavon 21' Jump Shot (2 PTS),,,40 - 31,-9,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,201,9,1,2,9:07 AM,2:36,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,204,8,0,2,9:10 AM,2:36,SUB: Clarendon FOR McCoughtry,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,205,2,1,2,9:10 AM,2:32,,,MISS Stewart 5' Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,206,4,0,2,9:10 AM,2:30,,,Langhorne REBOUND (Off:1 Def:4),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,207,2,5,2,9:11 AM,2:25,Williams BLOCK (2 BLK),,MISS Langhorne 4' Layup,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,209,4,0,2,9:11 AM,2:21,Clarendon REBOUND (Off:0 Def:5),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,210,1,46,2,9:11 AM,2:19,Ajavon 4' Running Jump Shot (4 PTS),,,40 - 33,-7,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,211,7,1,2,9:11 AM,2:19,DREAM Violation: Delay of game Violation,,,,,2,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600111,212,2,1,2,9:11 AM,1:55,,,MISS Bird 15' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,213,4,0,2,9:11 AM,1:54,Gatling REBOUND (Off:0 Def:1),,,,,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,214,5,2,2,9:12 AM,1:46,Holmes Lost Ball Turnover (P1.T4),,Stewart STEAL (1 STL),,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,215,1,1,2,9:12 AM,1:33,,,Loyd 25' 3PT Jump Shot (12 PTS) (Bird 3 AST),43 - 33,-10,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,216,6,2,2,9:12 AM,1:20,,,Langhorne S.FOUL (P2.T4),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,217,3,11,2,9:12 AM,1:20,Gatling Free Throw 1 of 2 (1 PTS),,,43 - 34,-9,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,220,3,12,2,9:12 AM,1:20,Gatling Free Throw 2 of 2 (2 PTS),,,43 - 35,-8,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,223,5,1,2,9:13 AM,1:06,Holmes STEAL (1 STL),,Langhorne Bad Pass Turnover (P1.T2),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,224,6,1,2,9:13 AM,0:56,,,Loyd P.FOUL (P2.PN),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,226,3,11,2,9:13 AM,0:56,Ajavon Free Throw 1 of 2 (5 PTS),,,43 - 36,-7,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,228,3,12,2,9:13 AM,0:56,Ajavon Free Throw 2 of 2 (6 PTS),,,43 - 37,-6,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,230,9,1,2,9:14 AM,0:56,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,233,2,1,2,9:16 AM,0:31,,,MISS Loyd 25' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,234,4,0,2,9:16 AM,0:27,Williams REBOUND (Off:3 Def:4),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,236,5,1,2,9:16 AM,0:12,Clarendon Bad Pass Turnover (P1.T5),,Bird STEAL (2 STL),,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,237,1,1,2,9:16 AM,0:01,,,Stewart 5' Jump Shot (15 PTS) (Langhorne 2 AST),45 - 37,-8,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,238,13,0,2,9:16 AM,0:00,,End of 2nd Period (9:16 AM EST),,45 - 37,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,240,12,0,3,9:33 AM,10:00,,Start of 3rd Period (9:33 AM EST),,45 - 37,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,241,1,1,3,9:33 AM,9:47,McCoughtry 24' 3PT Jump Shot (18 PTS) (Holmes 2 AST),,,45 - 40,-5,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,242,5,4,3,9:34 AM,9:28,,,Langhorne Traveling Turnover (P2.T3),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1041600111,244,1,42,3,9:34 AM,9:17,Holmes 1' Driving Layup (10 PTS),,,45 - 42,-3,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,246,6,1,3,9:34 AM,9:08,Ajavon P.FOUL (P2.T1),,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,247,2,1,3,9:35 AM,8:55,,,MISS Clark 3' Jump Shot,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,248,4,0,3,9:35 AM,8:52,Williams REBOUND (Off:3 Def:5),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,249,2,1,3,9:35 AM,8:46,MISS Ajavon 19' Jump Shot,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,250,4,0,3,9:35 AM,8:43,McCoughtry REBOUND (Off:2 Def:1),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,251,1,72,3,9:35 AM,8:41,McCoughtry 2' Putback Layup (20 PTS),,,45 - 44,-1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,252,6,1,3,9:35 AM,8:32,Williams P.FOUL (P3.T2),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1041600111,253,3,11,3,9:35 AM,8:32,,,Loyd Free Throw 1 of 2 (13 PTS),46 - 44,-2,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,255,3,12,3,9:35 AM,8:32,,,Loyd Free Throw 2 of 2 (14 PTS),47 - 44,-3,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,257,2,1,3,9:36 AM,8:15,MISS McCoughtry 17' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,258,4,0,3,9:36 AM,8:13,,,Stewart REBOUND (Off:1 Def:3),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,259,1,1,3,9:36 AM,7:59,,,Clark 6' Jump Shot (2 PTS),49 - 44,-5,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,261,1,1,3,9:36 AM,7:44,Ajavon 19' Jump Shot (8 PTS) (McCoughtry 2 AST),,,49 - 46,-3,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,262,1,42,3,9:37 AM,7:29,,,Loyd 3' Driving Layup (16 PTS),51 - 46,-5,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,263,1,80,3,9:37 AM,7:08,Clarendon 19' Step Back Jump Shot (4 PTS) (Ajavon 1 AST),,,51 - 48,-3,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,265,6,1,3,9:37 AM,6:55,McCoughtry P.FOUL (P4.T3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,266,3,11,3,9:37 AM,6:55,,,Clark Free Throw 1 of 2 (3 PTS),52 - 48,-4,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,268,3,12,3,9:38 AM,6:55,,,Clark Free Throw 2 of 2 (4 PTS),53 - 48,-5,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,270,6,2,3,9:38 AM,6:44,,,Langhorne S.FOUL (P3.T1),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,271,3,11,3,9:38 AM,6:44,McCoughtry Free Throw 1 of 2 (21 PTS),,,53 - 49,-4,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,273,3,12,3,9:38 AM,6:44,McCoughtry Free Throw 2 of 2 (22 PTS),,,53 - 50,-3,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,275,1,1,3,9:39 AM,6:28,,,Loyd 25' 3PT Jump Shot (19 PTS) (Clark 3 AST),56 - 50,-6,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,276,1,3,3,9:39 AM,6:09,Williams 5' Hook Shot (4 PTS) (McCoughtry 3 AST),,,56 - 52,-4,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,277,2,1,3,9:39 AM,5:57,,,MISS Bird 25' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,278,4,0,3,9:39 AM,5:56,Holmes REBOUND (Off:1 Def:2),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,279,6,1,3,9:40 AM,5:54,,,Bird P.FOUL (P2.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,280,8,0,3,9:40 AM,5:54,,,SUB: Tokashiki FOR Langhorne,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,281,8,0,3,9:40 AM,5:54,SUB: Simmons FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,282,1,42,3,9:40 AM,5:49,McCoughtry 4' Driving Layup (24 PTS),,,56 - 54,-2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,283,6,2,3,9:40 AM,5:49,,,Clark S.FOUL (P2.T3),,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,284,9,1,3,9:41 AM,5:49,,,Storm Timeout: Regular (Reg.3 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,287,3,10,3,9:43 AM,5:49,McCoughtry Free Throw 1 of 1 (25 PTS),,,56 - 55,-1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,289,2,1,3,9:44 AM,5:25,,,MISS Tokashiki 6' Jump Shot,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,290,4,0,3,9:44 AM,5:24,Williams REBOUND (Off:3 Def:6),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,292,2,1,3,9:44 AM,5:14,MISS McCoughtry 24' 3PT Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,293,4,0,3,9:44 AM,5:12,Williams REBOUND (Off:4 Def:6),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,294,6,2,3,9:44 AM,5:05,,,Tokashiki S.FOUL (P4.T4),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,295,3,11,3,9:45 AM,5:05,Williams Free Throw 1 of 2 (5 PTS),,,56 - 56,TIE,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,298,8,0,3,9:45 AM,5:05,,,SUB: Mosqueda-Lewis FOR Loyd,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,299,9,1,3,9:45 AM,5:05,DREAM Timeout: Regular (Full 2 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,297,3,12,3,9:45 AM,5:05,MISS Williams Free Throw 2 of 2,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,300,4,0,3,9:47 AM,5:03,,,Tokashiki REBOUND (Off:0 Def:1),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,301,2,1,3,9:47 AM,4:48,,,MISS Mosqueda-Lewis 24' 3PT Jump Shot,,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,302,4,0,3,9:47 AM,4:47,Simmons REBOUND (Off:0 Def:1),,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,303,2,1,3,9:47 AM,4:31,MISS McCoughtry 14' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,304,4,0,3,9:47 AM,4:29,,,Stewart REBOUND (Off:1 Def:4),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,305,1,98,3,9:48 AM,4:16,,,Stewart 2' Cutting Layup Shot (17 PTS) (Tokashiki 1 AST),58 - 56,-2,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,307,2,1,3,9:48 AM,3:55,MISS Holmes 25' 3PT Jump Shot,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,308,4,0,3,9:48 AM,3:53,,,Clark REBOUND (Off:1 Def:1),,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,309,2,5,3,9:48 AM,3:45,,,MISS Bird 2' Layup,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,310,4,0,3,9:48 AM,3:43,Williams REBOUND (Off:4 Def:7),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,311,6,2,3,9:48 AM,3:41,,,Mosqueda-Lewis S.FOUL (P1.PN),,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,312,3,11,3,9:49 AM,3:41,MISS Clarendon Free Throw 1 of 2,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,313,4,1,3,9:49 AM,3:41,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,314,8,0,3,9:49 AM,3:41,,,SUB: Quinn FOR Clark,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,315,3,12,3,9:49 AM,3:41,MISS Clarendon Free Throw 2 of 2,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,317,4,0,3,9:49 AM,3:37,,,Tokashiki REBOUND (Off:0 Def:2),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,318,2,1,3,9:49 AM,3:19,,,MISS Bird 20' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,319,4,0,3,9:50 AM,3:17,,,Stewart REBOUND (Off:2 Def:4),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,320,2,1,3,9:50 AM,3:10,,,MISS Bird 25' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,321,4,0,3,9:50 AM,3:09,,,Tokashiki REBOUND (Off:1 Def:2),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,322,1,72,3,9:50 AM,3:05,,,Tokashiki 3' Putback Layup (2 PTS),60 - 56,-4,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,324,1,1,3,9:50 AM,2:51,Holmes 24' 3PT Jump Shot (13 PTS) (McCoughtry 4 AST),,,60 - 59,-1,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,325,6,2,3,9:50 AM,2:33,Williams S.FOUL (P4.T4),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,326,3,11,3,9:51 AM,2:33,,,Tokashiki Free Throw 1 of 2 (3 PTS),61 - 59,-2,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,328,3,12,3,9:51 AM,2:33,,,Tokashiki Free Throw 2 of 2 (4 PTS),62 - 59,-3,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,330,5,1,3,9:51 AM,2:16,Holmes Bad Pass Turnover (P2.T6),,Stewart STEAL (2 STL),,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,331,6,1,3,9:51 AM,2:16,Clarendon P.FOUL (P2.PN),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,332,3,11,3,9:52 AM,2:16,,,Stewart Free Throw 1 of 2 (18 PTS),63 - 59,-4,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,334,3,12,3,9:52 AM,2:16,,,Stewart Free Throw 2 of 2 (19 PTS),64 - 59,-5,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,336,1,5,3,9:52 AM,2:04,Holmes 2' Layup (15 PTS) (McCoughtry 5 AST),,,64 - 61,-3,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,337,2,1,3,9:52 AM,1:53,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,338,4,0,3,9:53 AM,1:51,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,339,1,1,3,9:53 AM,1:41,Simmons 25' 3PT Jump Shot (3 PTS) (McCoughtry 6 AST),,,64 - 64,TIE,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,341,8,0,3,9:53 AM,1:23,,,SUB: Langhorne FOR Stewart,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,342,5,4,3,9:54 AM,1:20,,,Bird Traveling Turnover (P1.T4),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1041600111,343,8,0,3,9:54 AM,1:20,,,SUB: Loyd FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,344,8,0,3,9:54 AM,1:20,SUB: Gatling FOR Williams,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,346,6,1,3,9:54 AM,1:11,,,Quinn P.FOUL (P2.PN),,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,347,3,11,3,9:55 AM,1:11,McCoughtry Free Throw 1 of 2 (26 PTS),,,64 - 65,1,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,349,3,12,3,9:55 AM,1:11,McCoughtry Free Throw 2 of 2 (27 PTS),,,64 - 66,2,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,351,2,1,3,9:55 AM,0:55,Gatling BLOCK (1 BLK),,MISS Langhorne 5' Jump Shot,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,352,4,0,3,9:55 AM,0:47,Clarendon REBOUND (Off:0 Def:6),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,353,2,1,3,9:55 AM,0:42,MISS McCoughtry 9' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,354,4,0,3,9:55 AM,0:39,Holmes REBOUND (Off:2 Def:2),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,355,2,1,3,9:56 AM,0:37,MISS Simmons  3PT Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,356,4,0,3,9:56 AM,0:37,,,Langhorne REBOUND (Off:1 Def:5),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,359,6,1,3,9:56 AM,0:37,Clarendon P.FOUL (P3.PN),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,360,3,11,3,9:56 AM,0:37,,,Langhorne Free Throw 1 of 2 (6 PTS),65 - 66,1,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,362,3,12,3,9:56 AM,0:37,,,Langhorne Free Throw 2 of 2 (7 PTS),66 - 66,TIE,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,365,2,1,3,9:57 AM,0:18,MISS Holmes 20' Jump Shot,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,366,4,0,3,9:57 AM,0:17,,,Loyd REBOUND (Off:1 Def:3),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,368,2,1,3,9:57 AM,0:00,,,MISS Loyd 24' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,369,4,0,3,9:57 AM,0:00,Simmons REBOUND (Off:0 Def:2),,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,370,13,0,3,9:57 AM,0:00,,End of 3rd Period (9:57 AM EST),,66 - 66,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,372,12,0,4,10:00 AM,10:00,,Start of 4th Period (10:00 AM EST),,66 - 66,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,373,2,45,4,10:01 AM,9:44,,,MISS Mosqueda-Lewis 6' Jump Shot,,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,374,4,0,4,10:01 AM,9:43,,,Langhorne REBOUND (Off:2 Def:5),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,375,2,1,4,10:01 AM,9:36,,,MISS Langhorne 4' Jump Shot,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,376,4,0,4,10:01 AM,9:36,Holmes REBOUND (Off:2 Def:3),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,377,1,41,4,10:01 AM,9:36,Holmes 1' Running Layup (17 PTS),,,66 - 68,2,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,378,6,2,4,10:01 AM,9:36,,,Langhorne S.FOUL (P4.T1),,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,379,3,10,4,10:02 AM,9:36,Holmes Free Throw 1 of 1 (18 PTS),,,66 - 69,3,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,382,2,1,4,10:02 AM,9:20,,,MISS Mosqueda-Lewis 24' 3PT Jump Shot,,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,383,4,0,4,10:02 AM,9:17,Simmons REBOUND (Off:0 Def:3),,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,385,2,1,4,10:02 AM,9:07,MISS Simmons 25' 3PT Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,386,4,0,4,10:02 AM,9:06,,,Quinn REBOUND (Off:1 Def:3),,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,388,6,2,4,10:02 AM,9:03,Holmes S.FOUL (P2.T1),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,389,3,11,4,10:02 AM,9:03,,,Mosqueda-Lewis Free Throw 1 of 2 (7 PTS),67 - 69,2,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,391,8,0,4,10:03 AM,9:03,,,SUB: Bird FOR Quinn,,,5,201049,Noelle Quinn,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,392,8,0,4,10:03 AM,9:03,,,SUB: Stewart FOR Langhorne,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,393,8,0,4,10:03 AM,9:03,SUB: Williams FOR Gatling,,,,,4,203832,Markeisha Gatling,1611661330.0,Atlanta,Dream,ATL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,396,8,0,4,10:03 AM,9:03,SUB: McCoughtry FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,394,3,12,4,10:03 AM,9:03,,,Mosqueda-Lewis Free Throw 2 of 2 (8 PTS),68 - 69,1,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,397,1,5,4,10:03 AM,8:51,Clarendon 3' Layup (6 PTS) (McCoughtry 7 AST),,,68 - 71,3,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,398,2,1,4,10:03 AM,8:38,,,MISS Loyd 5' Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,399,4,0,4,10:03 AM,8:36,Williams REBOUND (Off:4 Def:8),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,400,2,1,4,10:04 AM,8:29,MISS McCoughtry 3' Jump Shot,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,401,4,0,4,10:04 AM,8:29,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,403,8,0,4,10:04 AM,8:29,,,SUB: Clark FOR Loyd,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,405,2,1,4,10:04 AM,8:14,,,MISS Mosqueda-Lewis 24' 3PT Jump Shot,,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,406,4,0,4,10:04 AM,8:13,Holmes REBOUND (Off:2 Def:4),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,408,1,79,4,10:04 AM,8:04,McCoughtry 11' Pullup Jump Shot (29 PTS),,,68 - 73,5,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,409,6,2,4,10:04 AM,8:04,,,Mosqueda-Lewis S.FOUL (P2.T2),,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,410,3,10,4,10:05 AM,8:04,McCoughtry Free Throw 1 of 1 (30 PTS),,,68 - 74,6,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,412,6,1,4,10:05 AM,7:52,Holmes P.FOUL (P3.T2),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,413,3,11,4,10:05 AM,7:52,,,Tokashiki Free Throw 1 of 2 (5 PTS),69 - 74,5,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,415,3,12,4,10:05 AM,7:52,,,MISS Tokashiki Free Throw 2 of 2,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1041600111,417,4,0,4,10:06 AM,7:42,Williams REBOUND (Off:4 Def:9),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,418,6,2,4,10:06 AM,7:36,,,Stewart S.FOUL (P1.T3),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,419,3,11,4,10:06 AM,7:36,Williams Free Throw 1 of 2 (6 PTS),,,69 - 75,6,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,421,3,12,4,10:06 AM,7:36,Williams Free Throw 2 of 2 (7 PTS),,,69 - 76,7,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,423,6,4,4,10:07 AM,7:26,,,Mosqueda-Lewis OFF.Foul (P3),,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,424,5,5,4,10:07 AM,7:26,,,Mosqueda-Lewis Foul Turnover (P1.T5),,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1041600111,425,8,0,4,10:07 AM,7:26,,,SUB: Loyd FOR Mosqueda-Lewis,,,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,427,6,1,4,10:07 AM,7:20,,,Clark P.FOUL (P3.T4),,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,428,2,1,4,10:08 AM,7:10,MISS Simmons 14' Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,429,4,0,4,10:08 AM,7:09,,,Tokashiki REBOUND (Off:1 Def:3),,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,430,1,1,4,10:08 AM,7:00,,,Loyd 12' Jump Shot (21 PTS) (Bird 4 AST),71 - 76,5,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,432,1,42,4,10:08 AM,6:43,Clarendon 2' Driving Layup (8 PTS),,,71 - 78,7,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,433,2,1,4,10:08 AM,6:30,,,MISS Clark 26' 3PT Jump Shot,,,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,434,4,0,4,10:08 AM,6:29,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,435,9,1,4,10:09 AM,6:24,DREAM Timeout: Regular (Full 3 Short 0),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,437,1,1,4,10:12 AM,6:13,McCoughtry 25' 3PT Jump Shot (33 PTS) (Clarendon 5 AST),,,71 - 81,10,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,438,2,1,4,10:12 AM,5:52,,,MISS Tokashiki 3' Jump Shot,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,439,4,0,4,10:12 AM,5:51,Williams REBOUND (Off:4 Def:10),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,440,1,1,4,10:13 AM,5:33,McCoughtry 6' Jump Shot (35 PTS),,,71 - 83,12,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,441,5,1,4,10:13 AM,5:29,,,Bird Bad Pass Turnover (P2.T6),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,442,1,1,4,10:13 AM,5:16,McCoughtry 15' Jump Shot (37 PTS) (Clarendon 6 AST),,,71 - 85,14,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,443,6,1,4,10:14 AM,5:04,McCoughtry P.FOUL (P5.T3),,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,444,9,2,4,10:14 AM,5:04,DREAM Timeout: Short (Full 3 Short 1),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,445,8,0,4,10:15 AM,5:04,SUB: Ajavon FOR McCoughtry,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,446,2,1,4,10:15 AM,4:54,,,MISS Tokashiki 25' 3PT Jump Shot,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,447,4,0,4,10:15 AM,4:54,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,448,6,3,4,10:16 AM,4:54,Holmes L.B.FOUL (P4.T4),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,449,1,1,4,10:16 AM,4:46,,,Loyd 24' 3PT Jump Shot (24 PTS) (Bird 5 AST),74 - 85,11,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,450,2,1,4,10:16 AM,4:32,MISS Holmes 6' Jump Shot,,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,451,4,0,4,10:16 AM,4:31,Holmes REBOUND (Off:3 Def:4),,,,,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,452,1,1,4,10:16 AM,4:26,Clarendon 7' Jump Shot (10 PTS) (Holmes 3 AST),,,74 - 87,13,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,453,2,1,4,10:16 AM,4:13,,,MISS Loyd 24' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,454,4,0,4,10:16 AM,4:11,Williams REBOUND (Off:4 Def:11),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,455,1,1,4,10:17 AM,4:01,Holmes 25' 3PT Jump Shot (21 PTS),,,74 - 90,16,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,456,2,1,4,10:17 AM,3:48,,,MISS Loyd 25' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,457,4,0,4,10:17 AM,3:47,Williams REBOUND (Off:4 Def:12),,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,458,2,1,4,10:17 AM,3:25,MISS Simmons 27' 3PT Jump Shot,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,459,4,0,4,10:17 AM,3:24,,,Stewart REBOUND (Off:2 Def:5),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,460,1,79,4,10:17 AM,3:18,,,Bird 13' Pullup Jump Shot (7 PTS) (Stewart 3 AST),76 - 90,14,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,461,5,11,4,10:18 AM,2:50,DREAM Turnover: Shot Clock (T#7),,,,,2,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600111,462,9,4,4,10:18 AM,2:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,464,2,1,4,10:22 AM,2:30,Williams BLOCK (3 BLK),,MISS Tokashiki 4' Jump Shot,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,465,4,0,4,10:22 AM,2:26,,,Bird REBOUND (Off:2 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,466,2,1,4,10:22 AM,2:26,,,MISS Loyd 25' 3PT Jump Shot,,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,467,4,0,4,10:22 AM,2:26,DREAM Rebound,,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,468,8,0,4,10:22 AM,2:26,SUB: McCoughtry FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,469,6,4,4,10:22 AM,2:14,Clarendon OFF.Foul (P4),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,470,5,5,4,10:22 AM,2:14,Clarendon Foul Turnover (P2.T8),,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041600111,471,2,1,4,10:23 AM,1:59,,,MISS Tokashiki 4' Jump Shot,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,472,4,0,4,10:23 AM,1:59,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,473,8,0,4,10:23 AM,1:59,,,SUB: Langhorne FOR Tokashiki,,,5,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,474,10,0,4,10:24 AM,1:59,Jump Ball McCoughtry vs. Langhorne: Tip to Holmes,,,,,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1
+1041600111,475,1,5,4,10:24 AM,1:38,Williams 2' Layup (9 PTS) (Clarendon 7 AST),,,76 - 92,16,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1041600111,477,8,0,4,10:25 AM,1:27,,,SUB: Mosqueda-Lewis FOR Langhorne,,,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1041600111,478,1,1,4,10:25 AM,1:22,,,Bird 25' 3PT Jump Shot (10 PTS) (Loyd 2 AST),79 - 92,13,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,479,6,1,4,10:25 AM,1:20,,,Loyd P.FOUL (P3.PN),,,5,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1041600111,480,3,11,4,10:25 AM,1:20,Clarendon Free Throw 1 of 2 (11 PTS),,,79 - 93,14,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,482,3,12,4,10:26 AM,1:20,Clarendon Free Throw 2 of 2 (12 PTS),,,79 - 94,15,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041600111,485,2,1,4,10:26 AM,1:08,,,MISS Bird 25' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,486,4,0,4,10:26 AM,1:06,,,Bird REBOUND (Off:3 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,487,1,72,4,10:26 AM,1:02,,,Bird 3' Putback Layup (12 PTS),81 - 94,13,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1041600111,488,9,2,4,10:26 AM,1:00,DREAM Timeout: Short (Full 3 Short 2),,,,,2,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600111,490,8,0,4,10:27 AM,1:00,SUB: Ajavon FOR Simmons,,,,,4,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041600111,491,2,1,4,10:28 AM,0:44,MISS Clarendon 6' Jump Shot,,,,,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,492,4,0,4,10:28 AM,0:40,Ajavon REBOUND (Off:1 Def:1),,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1041600111,493,6,4,4,10:28 AM,0:29,Ajavon OFF.Foul (P3),,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1041600111,494,5,5,4,10:28 AM,0:29,Ajavon Foul Turnover (P2.T9),,,,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1041600111,496,1,1,4,10:28 AM,0:20,,,Clark 3' Jump Shot (6 PTS) (Bird 6 AST),83 - 94,11,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,497,5,1,4,10:29 AM,0:12,Ajavon Bad Pass Turnover (P3.T10),,Bird STEAL (3 STL),,,4,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,498,1,5,4,10:29 AM,0:08,,,Clark 2' Layup (8 PTS) (Bird 7 AST),85 - 94,9,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1041600111,499,13,0,4,10:29 AM,0:00,,End of 4th Period (10:29 AM EST),,85 - 94,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

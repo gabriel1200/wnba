@@ -1,0 +1,344 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042000211,2,12,0,1,7:04 PM,10:00,,Start of 1st Period (7:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,4,10,0,1,7:04 PM,10:00,Jump Ball Fowles vs. Turner: Tip to Sims,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1
+1042000211,7,5,1,1,7:04 PM,9:43,Dantas Bad Pass Turnover (P1.T1),,Peddy STEAL (1 STL),,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,9,1,1,1,7:04 PM,9:28,,,Vaughn 18' Jump Shot (2 PTS) (Diggins-Smith 1 AST),2 - 0,-2,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,11,1,102,1,7:05 PM,9:13,Dantas 4' Driving Floating Bank Jump Shot (2 PTS) (Collier 1 AST),,,2 - 2,TIE,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,13,1,101,1,7:05 PM,8:57,,,Taurasi 7' Driving Floating Jump Shot (2 PTS),4 - 2,-2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,14,1,1,1,7:05 PM,8:49,Dantas 25' 3PT Jump Shot (5 PTS) (Collier 2 AST),,,4 - 5,1,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,17,2,79,1,7:06 PM,8:24,,,MISS Diggins-Smith 13' Pullup Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,18,4,0,1,7:06 PM,8:24,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,19,2,47,1,7:06 PM,8:00,MISS Fowles 7' Turnaround Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,20,4,0,1,7:06 PM,7:58,,,Vaughn REBOUND (Off:0 Def:1),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,21,2,3,1,7:07 PM,7:48,,,MISS Vaughn 8' Hook Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,22,4,0,1,7:07 PM,7:45,Dantas REBOUND (Off:0 Def:1),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,23,2,1,1,7:07 PM,7:34,MISS Sims 25' 3PT Jump Shot,,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,24,4,0,1,7:07 PM,7:30,,,Turner REBOUND (Off:0 Def:1),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,25,1,41,1,7:07 PM,7:27,,,Turner 4' Running Layup (2 PTS),6 - 5,-1,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,26,1,5,1,7:07 PM,7:01,Fowles 3' Layup (2 PTS) (Dantas 1 AST),,,6 - 7,1,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,28,1,103,1,7:08 PM,6:49,,,Taurasi 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Turner 1 AST),9 - 7,-2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,31,5,2,1,7:08 PM,6:24,Sims Lost Ball Turnover (P1.T2),,Peddy STEAL (2 STL),,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,33,1,1,1,7:08 PM,6:19,,,Taurasi 25' 3PT Jump Shot (8 PTS) (Peddy 1 AST),12 - 7,-5,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,35,2,1,1,7:08 PM,6:05,MISS Dantas 24' 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,36,4,0,1,7:09 PM,6:01,,,Diggins-Smith REBOUND (Off:0 Def:1),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,37,1,1,1,7:09 PM,5:55,,,Peddy 24' 3PT Jump Shot (3 PTS) (Diggins-Smith 2 AST),15 - 7,-8,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,39,9,1,1,7:09 PM,5:49,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,40,2,79,1,7:12 PM,5:36,MISS Dangerfield 12' Pullup Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,41,4,0,1,7:12 PM,5:33,,,Turner REBOUND (Off:0 Def:2),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,43,1,98,1,7:13 PM,5:23,,,Turner 2' Cutting Layup Shot (4 PTS) (Taurasi 1 AST),17 - 7,-10,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,46,8,0,1,7:13 PM,5:09,SUB: Carleton FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,48,6,2,1,7:13 PM,5:01,,,Peddy S.FOUL (P1.T1),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,50,3,11,1,7:14 PM,5:01,Dangerfield Free Throw 1 of 2 (1 PTS),,,17 - 8,-9,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,51,3,12,1,7:14 PM,5:01,Dangerfield Free Throw 2 of 2 (2 PTS),,,17 - 9,-8,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,52,1,1,1,7:14 PM,4:45,,,Vaughn 18' Jump Shot (4 PTS) (Diggins-Smith 3 AST),19 - 9,-10,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,55,2,1,1,7:15 PM,4:34,MISS Dantas 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,56,4,0,1,7:15 PM,4:31,,,Diggins-Smith REBOUND (Off:0 Def:2),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,57,2,6,1,7:15 PM,4:18,,,MISS Diggins-Smith 3' Driving Layup,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,58,4,0,1,7:15 PM,4:17,Dantas REBOUND (Off:0 Def:2),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,59,5,1,1,7:15 PM,4:07,Sims Bad Pass Turnover (P2.T3),,Peddy STEAL (3 STL),,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,61,1,71,1,7:15 PM,4:01,,,Diggins-Smith 3' Finger Roll Layup (2 PTS) (Peddy 2 AST),21 - 9,-12,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,63,6,1,1,7:15 PM,3:54,,,Diggins-Smith P.FOUL (P1.T2),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,65,8,0,1,7:15 PM,3:54,SUB: Banham FOR Sims,,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,67,2,79,1,7:16 PM,3:48,MISS Dangerfield 17' Pullup Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,69,1,72,1,7:16 PM,3:42,Collier 1' Putback Layup (2 PTS),,,21 - 11,-10,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,68,4,0,1,7:16 PM,3:42,Collier REBOUND (Off:1 Def:0),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,70,2,1,1,7:16 PM,3:30,,,MISS Vaughn 10' Jump Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,71,4,0,1,7:16 PM,3:28,Dantas REBOUND (Off:0 Def:3),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,72,2,1,1,7:17 PM,3:07,MISS Carleton 25' 3PT Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,73,4,0,1,7:17 PM,3:07,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,74,6,1,1,7:17 PM,3:07,,,Vaughn P.FOUL (P1.T3),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,76,8,0,1,7:17 PM,3:07,,,SUB: Cunningham FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,78,2,75,1,7:17 PM,3:00,MISS Dangerfield 3' Driving Finger Roll Layup,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,79,4,0,1,7:17 PM,2:58,Dantas REBOUND (Off:1 Def:3),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,80,2,6,1,7:17 PM,2:52,MISS Collier 2' Driving Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,81,4,0,1,7:17 PM,2:50,,,Turner REBOUND (Off:0 Def:3),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,82,2,1,1,7:18 PM,2:44,,,MISS Peddy 25' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,83,4,0,1,7:18 PM,2:41,Dangerfield REBOUND (Off:0 Def:1),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,84,1,1,1,7:18 PM,2:35,Dantas 24' 3PT Jump Shot (8 PTS) (Collier 3 AST),,,21 - 14,-7,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,86,2,1,1,7:18 PM,2:18,,,MISS Vaughn 26' 3PT Jump Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,87,4,0,1,7:18 PM,2:15,Carleton REBOUND (Off:0 Def:1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,88,1,1,1,7:18 PM,1:58,Banham 24' 3PT Jump Shot (3 PTS) (Carleton 1 AST),,,21 - 17,-4,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,90,6,4,1,7:19 PM,1:48,,,Cunningham OFF.Foul (P1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,92,5,37,1,7:19 PM,1:48,,,Cunningham Offensive Foul Turnover (P1.T1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,93,8,0,1,7:19 PM,1:48,,,SUB: Smith FOR Vaughn,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,94,8,0,1,7:19 PM,1:48,,,SUB: Walker-Kimbrough FOR Peddy,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,97,1,79,1,7:19 PM,1:38,Banham 19' Pullup Jump Shot (5 PTS),,,21 - 19,-2,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,98,9,1,1,7:19 PM,1:30,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,99,5,1,1,7:21 PM,1:27,Dangerfield STEAL (1 STL),,Cunningham Bad Pass Turnover (P2.T2),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,101,5,1,1,7:21 PM,1:20,Dangerfield Bad Pass Turnover (P1.T4),,Turner STEAL (1 STL),,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,103,1,79,1,7:22 PM,0:59,,,Cunningham 26' 3PT Pullup Jump Shot (3 PTS) (Diggins-Smith 4 AST),24 - 19,-5,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,105,1,6,1,7:22 PM,0:37,Banham 6' Driving Layup (7 PTS),,,24 - 21,-3,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,106,2,1,1,7:22 PM,0:22,,,MISS Walker-Kimbrough 26' 3PT Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,107,4,0,1,7:22 PM,0:19,Dantas REBOUND (Off:1 Def:4),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,108,1,5,1,7:23 PM,0:03,Dantas 3' Layup (10 PTS) (Collier 4 AST),,,24 - 23,-1,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,110,2,79,1,7:23 PM,0:00,,,MISS Diggins-Smith 42' 3PT Pullup Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,111,4,0,1,7:23 PM,0:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,112,13,0,1,7:23 PM,0:00,,End of 1st Period (7:23 PM EST),,24 - 23,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000211,119,12,0,2,7:26 PM,10:00,,Start of 2nd Period (7:26 PM EST),,24 - 23,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,120,5,1,2,7:26 PM,9:40,Sims STEAL (1 STL),,Smith Bad Pass Turnover (P1.T3),,,5,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,122,1,5,2,7:26 PM,9:36,Sims 1' Layup (2 PTS),,,24 - 25,1,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,123,2,79,2,7:27 PM,9:24,,,MISS Taurasi 21' Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,124,4,0,2,7:27 PM,9:22,Banham REBOUND (Off:0 Def:1),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,125,2,5,2,7:27 PM,9:12,MISS Fowles 3' Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,126,4,0,2,7:27 PM,9:09,,,Turner REBOUND (Off:0 Def:4),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,127,1,5,2,7:27 PM,9:06,,,Cunningham 3' Layup (5 PTS) (Taurasi 2 AST),26 - 25,-1,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,129,6,1,2,7:27 PM,8:50,,,Taurasi P.FOUL (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,131,8,0,2,7:27 PM,8:50,,,SUB: Vaughn FOR Turner,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,133,5,40,2,7:28 PM,8:45,Banham Out of Bounds Lost Ball Turnover (P1.T5),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,134,1,79,2,7:28 PM,8:35,,,Taurasi 19' Pullup Jump Shot (10 PTS),28 - 25,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,135,1,1,2,7:28 PM,8:19,Dantas 24' 3PT Jump Shot (13 PTS) (Sims 1 AST),,,28 - 28,TIE,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,137,1,79,2,7:29 PM,8:00,,,Taurasi 25' 3PT Pullup Jump Shot (13 PTS),31 - 28,-3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,139,2,79,2,7:29 PM,7:34,MISS Sims 14' Pullup Jump Shot,,Walker-Kimbrough BLOCK (1 BLK),,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1
+1042000211,141,4,0,2,7:29 PM,7:34,Dantas REBOUND (Off:2 Def:4),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,181,5,11,2,7:29 PM,7:34,LYNX Turnover: Shot Clock (T#6),,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000211,143,6,2,2,7:29 PM,7:20,Dantas S.FOUL (P1.T1),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,145,3,11,2,7:30 PM,7:20,,,MISS Walker-Kimbrough Free Throw 1 of 2,,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,146,4,1,2,7:30 PM,7:20,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,147,8,0,2,7:30 PM,7:20,SUB: Collier FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,148,8,0,2,7:30 PM,7:20,,,SUB: Turner FOR Smith,,,5,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,151,3,12,2,7:30 PM,7:20,,,Walker-Kimbrough Free Throw 2 of 2 (1 PTS),32 - 28,-4,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,152,2,44,2,7:30 PM,7:07,MISS Fowles 1' Reverse Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,153,4,0,2,7:30 PM,7:06,,,Vaughn REBOUND (Off:0 Def:2),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,154,5,45,2,7:31 PM,7:02,,,Taurasi Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,155,8,0,2,7:31 PM,7:02,,,SUB: Diggins-Smith FOR Walker-Kimbrough,,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,157,2,1,2,7:31 PM,6:42,MISS Fowles 12' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,158,4,0,2,7:31 PM,6:40,,,Turner REBOUND (Off:0 Def:5),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,159,2,101,2,7:31 PM,6:33,,,MISS Diggins-Smith 12' Driving Floating Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,160,4,0,2,7:31 PM,6:32,Collier REBOUND (Off:1 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,161,1,6,2,7:31 PM,6:26,Banham 3' Driving Layup (9 PTS),,,32 - 30,-2,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,162,2,1,2,7:32 PM,6:10,,,MISS Taurasi 27' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,163,4,0,2,7:32 PM,6:07,Fowles REBOUND (Off:0 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,164,5,45,2,7:32 PM,6:05,Fowles Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,165,8,0,2,7:32 PM,6:05,SUB: Carleton FOR Banham,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,166,8,0,2,7:32 PM,6:05,SUB: Dangerfield FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,169,2,1,2,7:32 PM,5:53,,,MISS Cunningham 26' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,170,4,0,2,7:32 PM,5:49,Dangerfield REBOUND (Off:0 Def:2),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,171,2,101,2,7:32 PM,5:41,MISS Dangerfield 3' Driving Floating Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,172,4,0,2,7:32 PM,5:38,Collier REBOUND (Off:2 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,173,1,98,2,7:32 PM,5:37,Collier 3' Cutting Layup Shot (4 PTS) (Carleton 2 AST),,,32 - 32,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,175,2,1,2,7:33 PM,5:21,,,MISS Diggins-Smith 3PT Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,176,4,0,2,7:33 PM,5:21,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,177,9,4,2,7:33 PM,5:21,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,178,18,1,2,7:33 PM,5:21,,Instant Replay2nd Period (7:33 PM EST),,32 - 32,TIE,0,142,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000211,179,8,0,2,7:35 PM,5:21,,,SUB: Peddy FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,182,2,79,2,7:36 PM,5:02,MISS Dangerfield 12' Pullup Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,183,4,0,2,7:36 PM,5:00,,,Peddy REBOUND (Off:0 Def:1),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,184,2,1,2,7:36 PM,4:45,,,MISS Peddy 24' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,185,4,0,2,7:36 PM,4:41,,,Peddy REBOUND (Off:1 Def:1),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,186,5,2,2,7:36 PM,4:39,Sims STEAL (2 STL),,Vaughn Lost Ball Turnover (P1.T5),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,188,1,71,2,7:37 PM,4:37,Sims 4' Finger Roll Layup (4 PTS),,,32 - 34,2,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,189,6,1,2,7:37 PM,4:21,Dantas P.FOUL (P2.T2),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,191,1,58,2,7:37 PM,4:10,,,Vaughn 12' Turnaround Hook Shot (6 PTS) (Taurasi 3 AST),34 - 34,TIE,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,194,6,26,2,7:38 PM,3:48,Sims Offensive Charge Foul (P1.T3),,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,196,5,37,2,7:38 PM,3:48,Sims Offensive Foul Turnover (P3.T8),,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,197,18,0,2,7:39 PM,3:48,,Instant Replay2nd Period (7:39 PM EST),,34 - 34,TIE,0,194,Anthony Bowie,,,,,0,0,,,,,,1,0,,,,,,0
+1042000211,198,8,0,2,7:40 PM,3:48,,,SUB: Walker-Kimbrough FOR Peddy,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,203,8,0,2,7:40 PM,3:48,SUB: Fowles FOR Dantas,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,200,2,6,2,7:41 PM,3:34,,,MISS Taurasi 2' Driving Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,201,4,0,2,7:41 PM,3:34,Fowles REBOUND (Off:0 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,202,6,11,2,7:41 PM,3:34,,,Taurasi T.FOUL (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,205,3,16,2,7:41 PM,3:34,Collier Free Throw Technical (5 PTS),,,34 - 35,1,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,206,6,4,2,7:42 PM,3:20,Collier OFF.Foul (P1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,208,5,37,2,7:42 PM,3:20,Collier Offensive Foul Turnover (P1.T9),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,209,5,1,2,7:42 PM,3:09,Collier STEAL (1 STL),,Diggins-Smith Bad Pass Turnover (P1.T6),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,211,5,4,2,7:42 PM,2:51,Carleton Traveling Turnover (P1.T10),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,212,9,1,2,7:43 PM,2:51,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,213,8,0,2,7:44 PM,2:51,SUB: Banham FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,215,1,1,2,7:46 PM,2:30,,,Vaughn 17' Jump Shot (8 PTS) (Taurasi 4 AST),36 - 35,-1,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,217,2,86,2,7:46 PM,2:09,MISS Collier 9' Turnaround Fadeaway Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,218,4,0,2,7:46 PM,2:08,,,Turner REBOUND (Off:0 Def:6),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,219,1,1,2,7:46 PM,2:02,,,Taurasi 31' 3PT Jump Shot (16 PTS) (Walker-Kimbrough 1 AST),39 - 35,-4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,221,9,1,2,7:47 PM,1:55,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,222,2,5,2,7:49 PM,1:38,MISS Fowles 3' Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,223,4,0,2,7:49 PM,1:36,,,Vaughn REBOUND (Off:0 Def:3),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,224,2,1,2,7:49 PM,1:21,,,MISS Vaughn 21' Jump Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,225,4,0,2,7:49 PM,1:17,Collier REBOUND (Off:2 Def:2),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,226,6,2,2,7:49 PM,1:13,,,Vaughn S.FOUL (P2.T2),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,228,3,11,2,7:49 PM,1:13,Fowles Free Throw 1 of 2 (3 PTS),,,39 - 36,-3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,229,3,12,2,7:50 PM,1:13,Fowles Free Throw 2 of 2 (4 PTS),,,39 - 37,-2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,230,1,78,2,7:50 PM,0:54,,,Turner 13' Floating Jump Shot (6 PTS) (Walker-Kimbrough 2 AST),41 - 37,-4,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,232,2,1,2,7:50 PM,0:44,MISS Dangerfield 25' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,233,4,0,2,7:50 PM,0:42,,,Turner REBOUND (Off:0 Def:7),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,234,2,1,2,7:50 PM,0:37,,,MISS Diggins-Smith 25' 3PT Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,235,4,0,2,7:50 PM,0:34,,,Walker-Kimbrough REBOUND (Off:1 Def:0),,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,236,1,1,2,7:51 PM,0:25,,,Walker-Kimbrough 3PT Jump Shot (4 PTS) (Taurasi 5 AST),44 - 37,-7,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,238,10,0,2,7:52 PM,0:17,Jump Ball Collier vs. Taurasi: Tip to Walker-Kimbrough,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1
+1042000211,241,5,2,2,7:52 PM,0:17,Banham Lost Ball Turnover (P2.T11),,Taurasi STEAL (1 STL),,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,243,2,1,2,7:52 PM,0:03,,,MISS Taurasi 32' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,244,4,0,2,7:52 PM,0:01,,,Turner REBOUND (Off:1 Def:7),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,245,1,72,2,7:52 PM,0:01,,,Turner 1' Putback Layup (8 PTS),46 - 37,-9,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,246,13,0,2,7:52 PM,0:00,,End of 2nd Period (7:52 PM EST),,46 - 37,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000211,251,12,0,3,8:08 PM,10:00,,Start of 3rd Period (8:08 PM EST),,46 - 37,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,252,2,1,3,8:08 PM,9:52,,,MISS Peddy 24' 3PT Jump Shot,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,253,4,0,3,8:08 PM,9:49,Collier REBOUND (Off:2 Def:3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,254,2,1,3,8:09 PM,9:26,MISS Dantas 25' 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,255,4,0,3,8:09 PM,9:26,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,256,1,5,3,8:09 PM,9:13,Dantas 4' Layup (15 PTS) (Fowles 1 AST),,,46 - 39,-7,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,258,1,1,3,8:09 PM,8:58,,,Taurasi 17' Jump Shot (18 PTS) (Turner 2 AST),48 - 39,-9,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,260,1,79,3,8:10 PM,8:46,Dantas 9' Pullup Jump Shot (17 PTS) (Sims 2 AST),,,48 - 41,-7,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,262,5,4,3,8:10 PM,8:32,,,Taurasi Traveling Turnover (P2.T7),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,263,2,1,3,8:10 PM,8:11,MISS Collier 4' Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,264,4,0,3,8:10 PM,8:08,Fowles REBOUND (Off:1 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,265,2,72,3,8:10 PM,8:08,MISS Fowles 1' Putback Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,266,4,0,3,8:10 PM,8:07,,,Vaughn REBOUND (Off:0 Def:4),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,267,1,1,3,8:11 PM,7:52,,,Vaughn 12' Jump Shot (10 PTS) (Turner 3 AST),50 - 41,-9,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,269,2,1,3,8:11 PM,7:27,MISS Collier 24' 3PT Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,270,4,0,3,8:11 PM,7:25,,,Diggins-Smith REBOUND (Off:0 Def:3),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,271,6,2,3,8:11 PM,7:23,Sims S.FOUL (P2.T1),,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,273,3,11,3,8:12 PM,7:23,,,Diggins-Smith Free Throw 1 of 2 (3 PTS),51 - 41,-10,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,274,3,12,3,8:12 PM,7:23,,,Diggins-Smith Free Throw 2 of 2 (4 PTS),52 - 41,-11,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,275,1,5,3,8:12 PM,7:09,Fowles 3' Layup (6 PTS) (Dantas 2 AST),,,52 - 43,-9,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,277,6,26,3,8:12 PM,6:53,,,Turner Offensive Charge Foul (P1.T1),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,279,5,37,3,8:12 PM,6:53,,,Turner Offensive Foul Turnover (P1.T8),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,280,2,1,3,8:13 PM,6:45,MISS Dangerfield 27' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,281,4,0,3,8:13 PM,6:44,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000211,282,6,3,3,8:13 PM,6:44,Dantas L.B.FOUL (P3.T2),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,284,2,79,3,8:13 PM,6:27,,,MISS Taurasi 29' 3PT Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,285,4,0,3,8:13 PM,6:24,Dantas REBOUND (Off:2 Def:5),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,286,1,6,3,8:14 PM,6:10,Dantas 6' Driving Layup (19 PTS) (Collier 5 AST),,,52 - 45,-7,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,288,2,6,3,8:14 PM,6:00,,,MISS Diggins-Smith 5' Driving Layup,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,289,4,0,3,8:14 PM,5:59,Fowles REBOUND (Off:1 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,290,1,41,3,8:14 PM,5:54,Dangerfield 3' Running Layup (4 PTS),,,52 - 47,-5,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,291,5,1,3,8:14 PM,5:38,Dantas STEAL (1 STL),,Peddy Bad Pass Turnover (P1.T9),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,293,6,1,3,8:14 PM,5:38,,,Peddy P.FOUL (P2.T2),,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,295,8,0,3,8:14 PM,5:38,,,SUB: Walker-Kimbrough FOR Peddy,,,5,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,297,6,4,3,8:15 PM,5:30,Dantas OFF.Foul (P4),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,299,5,37,3,8:15 PM,5:30,Dantas Offensive Foul Turnover (P2.T12),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,300,6,1,3,8:15 PM,5:20,Dangerfield P.FOUL (P1.T3),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,302,5,2,3,8:15 PM,5:14,Sims STEAL (3 STL),,Taurasi Lost Ball Turnover (P3.T10),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,304,1,75,3,8:16 PM,5:10,Sims 3' Driving Finger Roll Layup (6 PTS),,,52 - 49,-3,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,305,2,1,3,8:16 PM,4:54,,,MISS Vaughn 12' Jump Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,306,4,0,3,8:16 PM,4:52,Dantas REBOUND (Off:2 Def:6),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,308,2,5,3,8:16 PM,4:42,MISS Dantas 2' Layup,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,309,4,0,3,8:16 PM,4:39,,,Vaughn REBOUND (Off:0 Def:5),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,310,1,43,3,8:16 PM,4:34,,,Turner 2' Alley Oop Layup (10 PTS) (Taurasi 6 AST),54 - 49,-5,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,312,9,1,3,8:16 PM,4:28,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,313,8,0,3,8:19 PM,4:28,SUB: Carleton FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,315,1,1,3,8:20 PM,4:16,Carleton 26' 3PT Jump Shot (3 PTS) (Sims 3 AST),,,54 - 52,-2,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,317,2,1,3,8:20 PM,4:00,,,MISS Vaughn 19' Jump Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,318,4,0,3,8:20 PM,3:57,,,Vaughn REBOUND (Off:1 Def:5),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,319,1,1,3,8:20 PM,3:49,,,Walker-Kimbrough 24' 3PT Jump Shot (7 PTS) (Taurasi 7 AST),57 - 52,-5,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,321,6,1,3,8:20 PM,3:42,,,Taurasi P.FOUL (P2.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,323,8,0,3,8:21 PM,3:42,,,SUB: Cunningham FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,325,2,1,3,8:21 PM,3:33,MISS Dantas 20' Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,326,4,0,3,8:21 PM,3:30,,,Turner REBOUND (Off:1 Def:8),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,327,5,2,3,8:21 PM,3:14,Sims STEAL (4 STL),,Walker-Kimbrough Lost Ball Turnover (P1.T11),,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,330,1,79,3,8:21 PM,3:09,Sims 17' Pullup Jump Shot (8 PTS),,,57 - 54,-3,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,331,2,1,3,8:22 PM,2:43,,,MISS Walker-Kimbrough 24' 3PT Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,332,4,0,3,8:22 PM,2:41,Collier REBOUND (Off:2 Def:4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,333,1,79,3,8:22 PM,2:33,Dangerfield 20' Pullup Jump Shot (6 PTS),,,57 - 56,-1,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,334,9,1,3,8:22 PM,2:33,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,335,8,0,3,8:23 PM,2:33,,,SUB: Smith FOR Vaughn,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,337,5,1,3,8:24 PM,2:14,Carleton STEAL (1 STL),,Diggins-Smith Bad Pass Turnover (P2.T12),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,339,6,2,3,8:24 PM,2:01,,,Diggins-Smith S.FOUL (P2.T4),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,341,3,11,3,8:25 PM,2:01,Dangerfield Free Throw 1 of 2 (7 PTS),,,57 - 57,TIE,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,342,8,0,3,8:25 PM,2:01,,,SUB: Taurasi FOR Diggins-Smith,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1042000211,344,3,12,3,8:25 PM,2:01,Dangerfield Free Throw 2 of 2 (8 PTS),,,57 - 58,1,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,345,6,1,3,8:25 PM,1:45,Carleton P.FOUL (P1.T4),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,347,1,1,3,8:26 PM,1:34,,,Smith 24' 3PT Jump Shot (3 PTS) (Walker-Kimbrough 3 AST),60 - 58,-2,5,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,349,1,79,3,8:26 PM,1:12,Sims 20' Pullup Jump Shot (10 PTS),,,60 - 60,TIE,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,350,2,79,3,8:26 PM,1:04,Collier BLOCK (1 BLK),,MISS Taurasi 24' 3PT Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1042000211,352,4,0,3,8:26 PM,1:04,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,353,6,3,3,8:26 PM,1:04,,,Taurasi L.B.FOUL (P3.PN),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,355,2,1,3,8:27 PM,0:49,MISS Dantas 25' 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,356,4,0,3,8:27 PM,0:47,,,Turner REBOUND (Off:1 Def:9),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,357,6,4,3,8:27 PM,0:37,,,Cunningham OFF.Foul (P2),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,359,5,37,3,8:27 PM,0:37,,,Cunningham Offensive Foul Turnover (P3.T13),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,360,2,80,3,8:27 PM,0:29,MISS Dangerfield 13' Step Back Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,361,4,0,3,8:28 PM,0:27,,,Cunningham REBOUND (Off:0 Def:1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,362,2,79,3,8:28 PM,0:03,,,MISS Taurasi 26' 3PT Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,363,4,0,3,8:28 PM,0:02,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,364,8,0,3,8:28 PM,0:02,SUB: Banham FOR Sims,,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,366,13,0,3,8:28 PM,0:00,,End of 3rd Period (8:28 PM EST),,60 - 60,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042000211,373,12,0,4,8:31 PM,10:00,,Start of 4th Period (8:31 PM EST),,60 - 60,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,374,1,101,4,8:32 PM,9:44,Banham 11' Driving Floating Jump Shot (11 PTS) (Sims 4 AST),,,60 - 62,2,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,376,6,2,4,8:32 PM,9:26,Collier S.FOUL (P2.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,378,3,11,4,8:32 PM,9:26,,,Taurasi Free Throw 1 of 2 (19 PTS),61 - 62,1,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,379,3,12,4,8:33 PM,9:26,,,Taurasi Free Throw 2 of 2 (20 PTS),62 - 62,TIE,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,380,1,101,4,8:33 PM,9:06,Sims 11' Driving Floating Jump Shot (12 PTS),,,62 - 64,2,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,381,2,6,4,8:33 PM,8:48,,,MISS Taurasi 2' Driving Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,382,4,0,4,8:33 PM,8:46,Carleton REBOUND (Off:0 Def:2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,383,2,6,4,8:33 PM,8:39,MISS Banham 4' Driving Layup,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,384,4,0,4,8:33 PM,8:37,,,Vaughn REBOUND (Off:1 Def:6),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,385,2,79,4,8:34 PM,8:27,,,MISS Diggins-Smith 24' 3PT Pullup Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,386,4,0,4,8:34 PM,8:24,Sims REBOUND (Off:0 Def:1),,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,387,2,79,4,8:34 PM,8:16,MISS Sims 20' Pullup Jump Shot,,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,388,4,0,4,8:34 PM,8:14,,,Taurasi REBOUND (Off:0 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,389,1,6,4,8:34 PM,8:07,,,Diggins-Smith 3' Driving Layup (6 PTS),64 - 64,TIE,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,390,6,1,4,8:34 PM,7:55,,,Walker-Kimbrough P.FOUL (P1.T1),,,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,392,8,0,4,8:34 PM,7:55,SUB: Dangerfield FOR Sims,,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,394,1,80,4,8:35 PM,7:45,Dangerfield 24' 3PT Step Back Jump Shot (11 PTS),,,64 - 67,3,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,395,2,6,4,8:35 PM,7:24,,,MISS Diggins-Smith 6' Driving Layup,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,396,4,0,4,8:35 PM,7:22,Banham REBOUND (Off:0 Def:2),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,397,1,1,4,8:35 PM,7:13,Dantas 25' 3PT Jump Shot (22 PTS) (Collier 6 AST),,,64 - 70,6,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1042000211,399,9,1,4,8:35 PM,7:12,,,Mercury Timeout: Regular (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,400,1,98,4,8:39 PM,6:59,,,Turner 2' Cutting Layup Shot (12 PTS) (Diggins-Smith 5 AST),66 - 70,4,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,402,1,79,4,8:39 PM,6:36,Dangerfield 13' Pullup Jump Shot (13 PTS),,,66 - 72,6,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,403,6,2,4,8:39 PM,6:24,Dangerfield S.FOUL (P2.T2),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,405,3,11,4,8:40 PM,6:24,,,MISS Turner Free Throw 1 of 2,,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,406,4,1,4,8:40 PM,6:24,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,407,3,12,4,8:40 PM,6:24,,,Turner Free Throw 2 of 2 (13 PTS),67 - 72,5,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,408,6,4,4,8:40 PM,6:14,Collier OFF.Foul (P3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,410,5,37,4,8:40 PM,6:14,Collier Offensive Foul Turnover (P2.T13),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1042000211,411,2,6,4,8:41 PM,6:00,,,MISS Diggins-Smith 3' Driving Layup,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,412,4,0,4,8:41 PM,5:57,Collier REBOUND (Off:2 Def:5),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,413,1,102,4,8:41 PM,5:49,Dangerfield 5' Driving Floating Bank Jump Shot (15 PTS),,,67 - 74,7,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,414,1,5,4,8:41 PM,5:45,,,Walker-Kimbrough 3' Layup (9 PTS) (Taurasi 8 AST),69 - 74,5,5,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,416,2,6,4,8:41 PM,5:23,MISS Banham 7' Driving Layup,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,417,4,0,4,8:41 PM,5:20,,,Vaughn REBOUND (Off:1 Def:7),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,418,2,73,4,8:41 PM,5:14,,,MISS Vaughn 2' Driving Reverse Layup,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,419,4,0,4,8:41 PM,5:13,Collier REBOUND (Off:2 Def:6),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,420,6,2,4,8:42 PM,5:09,,,Turner S.FOUL (P2.T2),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,422,3,11,4,8:42 PM,5:09,Collier Free Throw 1 of 2 (6 PTS),,,69 - 75,6,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,423,8,0,4,8:42 PM,5:09,SUB: Sims FOR Banham,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1042000211,425,3,12,4,8:42 PM,5:09,Collier Free Throw 2 of 2 (7 PTS),,,69 - 76,7,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1042000211,426,1,1,4,8:42 PM,5:01,,,Taurasi 25' 3PT Jump Shot (23 PTS) (Diggins-Smith 6 AST),72 - 76,4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,428,6,2,4,8:42 PM,5:01,Dangerfield S.FOUL (P3.T3),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,430,3,10,4,8:43 PM,5:01,,,Taurasi Free Throw 1 of 1 (24 PTS),73 - 76,3,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,431,6,1,4,8:43 PM,4:51,,,Diggins-Smith P.FOUL (P3.T3),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,433,2,47,4,8:44 PM,4:33,MISS Dantas 5' Turnaround Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,434,4,0,4,8:44 PM,4:32,,,Turner REBOUND (Off:1 Def:10),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,435,5,45,4,8:44 PM,4:15,,,Turner Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,436,2,1,4,8:44 PM,3:59,MISS Carleton 18' Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,437,4,0,4,8:44 PM,3:58,,,Turner REBOUND (Off:1 Def:11),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,438,2,47,4,8:45 PM,3:48,,,MISS Vaughn 13' Turnaround Jump Shot,,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,439,4,0,4,8:45 PM,3:46,Dangerfield REBOUND (Off:0 Def:3),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,440,1,75,4,8:45 PM,3:31,Dangerfield 2' Driving Finger Roll Layup (17 PTS),,,73 - 78,5,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,441,1,1,4,8:45 PM,3:17,,,Taurasi 24' 3PT Jump Shot (27 PTS),76 - 78,2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,443,6,2,4,8:45 PM,3:17,Collier S.FOUL (P4.T4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1042000211,445,3,10,4,8:46 PM,3:17,,,Taurasi Free Throw 1 of 1 (28 PTS),77 - 78,1,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1042000211,446,2,1,4,8:46 PM,3:01,MISS Dantas 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,447,4,0,4,8:46 PM,2:58,,,Turner REBOUND (Off:1 Def:12),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,448,2,1,4,8:46 PM,2:47,,,MISS Taurasi 25' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,449,4,0,4,8:46 PM,2:43,Collier REBOUND (Off:2 Def:7),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,450,1,80,4,8:46 PM,2:31,Sims 19' Step Back Jump Shot (14 PTS),,,77 - 80,3,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,451,2,6,4,8:47 PM,2:12,,,MISS Diggins-Smith 4' Driving Layup,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,452,4,0,4,8:47 PM,2:12,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,453,9,4,4,8:47 PM,2:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,454,2,79,4,8:50 PM,1:59,MISS Sims 7' Pullup Jump Shot,,,,,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,455,4,0,4,8:50 PM,1:56,,,Diggins-Smith REBOUND (Off:0 Def:4),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,456,2,78,4,8:50 PM,1:33,,,MISS Taurasi 7' Floating Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,457,4,0,4,8:51 PM,1:32,,,Taurasi REBOUND (Off:1 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,458,9,2,4,8:51 PM,1:32,,,Mercury Timeout: Short (Reg.4 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,459,2,1,4,8:52 PM,1:21,,,MISS Taurasi 26' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,460,4,0,4,8:52 PM,1:19,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,461,2,79,4,8:53 PM,0:56,MISS Dangerfield 16' Pullup Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,462,4,0,4,8:53 PM,0:54,,,Turner REBOUND (Off:1 Def:13),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,463,1,79,4,8:53 PM,0:35,,,Diggins-Smith 12' Pullup Jump Shot (8 PTS) (Taurasi 9 AST),79 - 80,1,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1042000211,465,9,2,4,8:53 PM,0:35,LYNX Timeout: Short (Full 3 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,467,18,0,4,8:55 PM,0:21,,Instant Replay4th Period (8:55 PM EST),,79 - 80,1,0,466,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000211,468,2,102,4,8:59 PM,0:14,MISS Dangerfield 7' Driving Floating Bank Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,469,4,0,4,8:59 PM,0:14,,,Taurasi REBOUND (Off:1 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,470,9,2,4,8:59 PM,0:14,,,Mercury Timeout: Short (Reg.4 Short 2),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,471,5,39,4,9:01 PM,0:08,,,Turner Step Out of Bounds Turnover (P3.T15),,,5,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1042000211,472,18,0,4,9:01 PM,0:08,,Instant Replay4th Period (9:01 PM EST),,79 - 80,1,0,471,,,,,,0,0,,,,,,1,0,,,,,,0
+1042000211,473,9,2,4,9:03 PM,0:08,LYNX Timeout: Short (Full 3 Short 2),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,474,6,1,4,9:05 PM,0:07,,,Vaughn P.FOUL (P3.T4),,,5,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,476,6,1,4,9:05 PM,0:06,,,Diggins-Smith P.FOUL (P4.PN),,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1042000211,478,3,11,4,9:06 PM,0:06,MISS Dantas Free Throw 1 of 2,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,479,4,1,4,9:06 PM,0:06,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,480,3,12,4,9:06 PM,0:06,MISS Dantas Free Throw 2 of 2,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1042000211,481,4,0,4,9:06 PM,0:04,,,Taurasi REBOUND (Off:1 Def:3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,482,2,79,4,9:06 PM,0:00,,,MISS Diggins-Smith 25' 3PT Pullup Jump Shot,,,5,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1042000211,483,4,0,4,9:06 PM,0:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1042000211,484,13,0,4,9:06 PM,0:00,,End of 4th Period (9:06 PM EST),,79 - 80,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

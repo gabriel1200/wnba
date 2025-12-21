@@ -1,0 +1,381 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042300214,2,12,0,1,3:03 PM,10:00,,Start of 1st Period (3:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,4,10,0,1,3:03 PM,10:00,Jump Ball Bonner vs. Jones: Tip to Laney,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1
+1042300214,7,2,6,1,3:04 PM,9:47,Hayes BLOCK (1 BLK),,MISS Laney 3' Driving Layup,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,1
+1042300214,8,4,0,1,3:04 PM,9:46,,,Laney REBOUND (Off:1 Def:0),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,80,2,72,1,3:04 PM,9:46,Allen BLOCK (1 BLK),,MISS Laney 2' Putback Layup,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,1
+1042300214,82,4,0,1,3:04 PM,9:45,,,Jones REBOUND (Off:1 Def:0),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,10,6,2,1,3:04 PM,9:45,Hayes S.FOUL (P1.T1),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,12,3,11,1,3:04 PM,9:45,,,Jones Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,13,3,12,1,3:04 PM,9:45,,,MISS Jones Free Throw 2 of 2,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,14,4,0,1,3:04 PM,9:43,Bonner REBOUND (Off:0 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,15,1,1,1,3:05 PM,9:25,Bonner 25' 3PT Jump Shot (3 PTS) (Hiedeman 1 AST),,,1 - 3,2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,17,2,1,1,3:05 PM,9:00,,,MISS Ionescu 24' 3PT Jump Shot,,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,18,4,0,1,3:05 PM,8:55,Hayes REBOUND (Off:0 Def:1),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,19,2,5,1,3:05 PM,8:47,MISS Hiedeman 1' Layup,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,20,4,0,1,3:05 PM,8:44,Thomas REBOUND (Off:1 Def:0),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,21,2,72,1,3:05 PM,8:43,MISS Thomas 1' Putback Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,22,4,0,1,3:05 PM,8:43,Thomas REBOUND (Off:2 Def:0),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,23,1,72,1,3:05 PM,8:40,Thomas 1' Putback Layup (2 PTS),,,1 - 5,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,24,1,79,1,3:06 PM,8:23,,,Ionescu 14' Pullup Jump Shot (2 PTS),3 - 5,2,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,25,2,1,1,3:06 PM,7:57,MISS Bonner 24' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,26,4,0,1,3:06 PM,7:52,,,Laney REBOUND (Off:1 Def:1),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,27,5,2,1,3:06 PM,7:47,Bonner STEAL (1 STL),,Ionescu Lost Ball Turnover (P1.T1),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,29,2,1,1,3:06 PM,7:40,MISS Hiedeman 25' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,30,4,0,1,3:06 PM,7:36,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,31,10,0,1,3:07 PM,7:25,Jump Ball Hayes vs. Vandersloot: Tip to Jones,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0
+1042300214,34,2,1,1,3:07 PM,7:18,,,MISS Laney 3PT Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,35,4,0,1,3:07 PM,7:15,Bonner REBOUND (Off:0 Def:2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,36,1,6,1,3:07 PM,7:04,Thomas 1' Driving Layup (4 PTS),,,3 - 7,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,37,5,45,1,3:08 PM,6:49,,,Stewart Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300214,38,2,1,1,3:08 PM,6:33,MISS Thomas 13' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,39,4,0,1,3:08 PM,6:30,,,Jones REBOUND (Off:1 Def:1),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,40,1,3,1,3:08 PM,6:23,,,Stewart 8' Hook Shot (2 PTS) (Ionescu 1 AST),5 - 7,2,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,42,2,6,1,3:09 PM,6:12,MISS Hayes 1' Driving Layup,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,43,4,0,1,3:09 PM,6:06,,,Jones REBOUND (Off:1 Def:2),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,45,1,1,1,3:09 PM,5:59,,,Laney 3PT Jump Shot (3 PTS) (Stewart 1 AST),8 - 7,-1,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,47,1,1,1,3:09 PM,5:49,Hayes 25' 3PT Jump Shot (3 PTS) (Thomas 1 AST),,,8 - 10,2,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,56,1,5,1,3:09 PM,5:42,,,Laney 2' Layup (5 PTS),10 - 10,TIE,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,49,6,2,1,3:09 PM,5:42,Hayes S.FOUL (P2.T2),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,53,3,10,1,3:09 PM,5:42,,,Laney Free Throw 1 of 1 (6 PTS),11 - 10,-1,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,51,5,1,1,3:10 PM,5:32,Hayes Bad Pass Turnover (P1.T1),,Ionescu STEAL (1 STL),,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,54,2,1,1,3:10 PM,5:16,,,MISS Stewart 19' Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,55,4,0,1,3:10 PM,5:16,,,Jones REBOUND (Off:2 Def:2),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,57,6,3,1,3:10 PM,5:16,,,Jones L.B.FOUL (P1.T1),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,59,5,0,1,3:10 PM,5:16,,,Jones Turnover Turnover (P1.T3),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300214,60,8,0,1,3:11 PM,5:16,SUB: Carrington FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,62,1,79,1,3:11 PM,5:05,Allen 15' Pullup Jump Shot (2 PTS),,,11 - 12,1,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,63,2,1,1,3:11 PM,4:54,,,MISS Laney 24' 3PT Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,64,4,0,1,3:11 PM,4:50,Thomas REBOUND (Off:2 Def:1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,65,2,5,1,3:11 PM,4:45,MISS Bonner 2' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,66,4,0,1,3:11 PM,4:42,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,67,1,1,1,3:11 PM,4:36,,,Laney 24' 3PT Jump Shot (9 PTS) (Ionescu 2 AST),14 - 12,-2,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,69,1,6,1,3:12 PM,4:11,Carrington 1' Driving Layup (2 PTS) (Thomas 2 AST),,,14 - 14,TIE,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,71,5,1,1,3:12 PM,3:48,Thomas STEAL (1 STL),,Laney Bad Pass Turnover (P1.T4),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,73,1,41,1,3:12 PM,3:41,Hiedeman 1' Running Layup (2 PTS) (Thomas 3 AST),,,14 - 16,2,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,75,2,47,1,3:12 PM,3:25,,,MISS Stewart 11' Turnaround Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,76,4,0,1,3:12 PM,3:22,Bonner REBOUND (Off:0 Def:3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,77,1,1,1,3:13 PM,3:19,Allen 26' 3PT Jump Shot (5 PTS) (Thomas 4 AST),,,14 - 19,5,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,79,9,1,1,3:13 PM,3:09,,,Liberty Timeout: Regular (Reg.1 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,83,2,5,1,3:17 PM,2:53,,,MISS Stewart 3' Layup,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,84,4,0,1,3:17 PM,2:47,Thomas REBOUND (Off:2 Def:2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,85,5,1,1,3:17 PM,2:42,Carrington Bad Pass Turnover (P1.T2),,Vandersloot STEAL (1 STL),,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,87,1,79,1,3:17 PM,2:37,,,Stewart 24' 3PT Pullup Jump Shot (5 PTS) (Laney 1 AST),17 - 19,2,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,89,1,79,1,3:17 PM,2:14,Thomas 11' Pullup Jump Shot (6 PTS) (Allen 1 AST),,,17 - 21,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,91,2,1,1,3:18 PM,1:58,,,MISS Laney 3PT Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,92,4,0,1,3:18 PM,1:55,Hiedeman REBOUND (Off:0 Def:1),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,93,8,0,1,3:18 PM,1:47,,,SUB: Thornton FOR Ionescu,,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300214,95,10,0,1,3:18 PM,1:46,Jump Ball Carrington vs. Laney: Tip to Hiedeman,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0
+1042300214,98,2,79,1,3:19 PM,1:39,MISS Hiedeman 25' 3PT Pullup Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,99,4,0,1,3:19 PM,1:36,,,Jones REBOUND (Off:2 Def:3),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,100,2,6,1,3:19 PM,1:24,,,MISS Vandersloot 3' Driving Layup,,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,101,4,0,1,3:19 PM,1:22,Allen REBOUND (Off:0 Def:1),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,102,6,4,1,3:19 PM,1:22,Allen OFF.Foul (P1),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,104,5,37,1,3:19 PM,1:22,Allen Offensive Foul Turnover (P1.T3),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042300214,105,2,1,1,3:19 PM,1:14,,,MISS Laney 24' 3PT Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,106,4,0,1,3:19 PM,1:12,,,Jones REBOUND (Off:3 Def:3),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,107,2,72,1,3:20 PM,1:11,Bonner BLOCK (1 BLK),,MISS Jones 3' Putback Layup,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1042300214,109,4,0,1,3:20 PM,1:11,,,Jones REBOUND (Off:4 Def:3),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,110,10,0,1,3:20 PM,1:09,Jump Ball Bonner vs. Jones: Tip to Thornton,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0
+1042300214,113,6,1,1,3:20 PM,1:03,Hiedeman P.FOUL (P1.T3),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,115,1,6,1,3:20 PM,0:59,,,Jones 1' Driving Layup (3 PTS) (Laney 2 AST),19 - 21,2,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,117,2,79,1,3:21 PM,0:46,MISS Allen 25' 3PT Pullup Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,118,4,0,1,3:21 PM,0:43,,,Laney REBOUND (Off:1 Def:2),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,119,5,45,1,3:21 PM,0:28,,,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300214,121,2,6,1,3:22 PM,0:10,MISS Carrington 3' Driving Layup,,Jones BLOCK (1 BLK),,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300214,123,4,0,1,3:22 PM,0:09,Thomas REBOUND (Off:3 Def:2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,124,1,72,1,3:22 PM,0:07,Thomas 2' Putback Layup (8 PTS),,,19 - 23,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,125,2,1,1,3:22 PM,0:05,,,MISS Stewart 6' Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,126,4,0,1,3:22 PM,0:04,Bonner REBOUND (Off:0 Def:4),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,127,2,79,1,3:22 PM,0:01,MISS Bonner 26' 3PT Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,128,4,0,1,3:22 PM,0:01,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,129,13,0,1,3:22 PM,0:00,,End of 1st Period (3:22 PM EST),,19 - 23,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,134,12,0,2,3:27 PM,10:00,,Start of 2nd Period (3:27 PM EST),,19 - 23,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,135,1,75,2,3:27 PM,9:47,Allen 2' Driving Finger Roll Layup (7 PTS),,,19 - 25,6,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,136,2,1,2,3:27 PM,9:34,,,MISS Thornton 3PT Jump Shot,,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,137,4,0,2,3:27 PM,9:30,Carrington REBOUND (Off:0 Def:1),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,138,2,1,2,3:27 PM,9:23,MISS Allen 18' Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,139,4,0,2,3:27 PM,9:21,,,Thornton REBOUND (Off:0 Def:1),,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,140,2,5,2,3:27 PM,9:15,,,MISS Thornton 2' Layup,,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,141,4,0,2,3:27 PM,9:14,,,Thornton REBOUND (Off:1 Def:1),,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,142,2,72,2,3:27 PM,9:14,,,MISS Thornton Putback Layup,,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,143,4,0,2,3:27 PM,9:13,,,Thornton REBOUND (Off:2 Def:1),,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,144,6,2,2,3:27 PM,9:13,Allen S.FOUL (P2.T1),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,146,3,11,2,3:28 PM,9:13,,,Thornton Free Throw 1 of 2 (1 PTS),20 - 25,5,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,147,8,0,2,3:28 PM,9:13,SUB: Nelson-Ododa FOR Allen,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,149,3,12,2,3:28 PM,9:13,,,Thornton Free Throw 2 of 2 (2 PTS),21 - 25,4,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,150,1,85,2,3:29 PM,8:53,Harris 12' Turnaround Bank Shot (2 PTS),,,21 - 27,6,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,151,1,6,2,3:29 PM,8:34,,,Laney 1' Driving Layup (11 PTS),23 - 27,4,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,153,8,0,2,3:29 PM,8:20,,,SUB: Dolson FOR Jones,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300214,155,2,1,2,3:30 PM,8:08,MISS Thomas 11' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,156,4,0,2,3:30 PM,8:05,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,158,7,5,2,3:30 PM,8:05,,,Stewart Violation:Kicked Ball,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1042300214,159,2,63,2,3:31 PM,7:54,MISS Nelson-Ododa 8' Fadeaway Jumper,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,160,4,0,2,3:31 PM,7:50,,,Stewart REBOUND (Off:0 Def:1),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,162,8,0,2,3:31 PM,7:32,,,SUB: Vandersloot FOR Thornton,,,5,203866,Kayla Thornton,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300214,164,8,0,2,3:31 PM,7:32,SUB: Hayes FOR Carrington,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,166,5,1,2,3:32 PM,7:27,Bonner STEAL (2 STL),,Vandersloot Bad Pass Turnover (P1.T6),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,168,2,79,2,3:32 PM,7:22,MISS Harris 25' 3PT Pullup Jump Shot,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,169,4,0,2,3:32 PM,7:19,,,Stewart REBOUND (Off:0 Def:2),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,170,2,1,2,3:32 PM,7:10,,,MISS Dolson 25' 3PT Jump Shot,,,5,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,171,4,0,2,3:32 PM,7:07,Thomas REBOUND (Off:3 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,173,1,1,2,3:33 PM,6:50,Bonner 24' 3PT Jump Shot (6 PTS) (Nelson-Ododa 1 AST),,,23 - 30,7,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,175,5,2,2,3:33 PM,6:28,Thomas STEAL (2 STL),,Vandersloot Lost Ball Turnover (P2.T7),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,177,2,79,2,3:33 PM,6:21,MISS Bonner 31' 3PT Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,178,4,0,2,3:33 PM,6:19,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,179,6,3,2,3:33 PM,6:19,,,Dolson L.B.FOUL (P1.T1),,,5,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,181,1,1,2,3:33 PM,6:16,Hayes 26' 3PT Jump Shot (6 PTS) (Thomas 5 AST),,,23 - 33,10,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,183,9,1,2,3:34 PM,6:08,,,Liberty Timeout: Regular (Reg.2 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,184,8,0,2,3:36 PM,6:08,SUB: Allen FOR Nelson-Ododa,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,186,1,79,2,3:37 PM,5:58,,,Stewart 10' Pullup Jump Shot (7 PTS) (Vandersloot 1 AST),25 - 33,8,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,188,2,63,2,3:38 PM,5:40,MISS Thomas 6' Fadeaway Jumper,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,189,4,0,2,3:38 PM,5:38,,,Stewart REBOUND (Off:0 Def:3),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,190,1,1,2,3:38 PM,5:28,,,Stewart 24' 3PT Jump Shot (10 PTS),28 - 33,5,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,191,2,1,2,3:38 PM,5:04,MISS Thomas 17' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,192,4,0,2,3:38 PM,5:01,,,Ionescu REBOUND (Off:0 Def:1),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,193,2,5,2,3:38 PM,4:57,,,MISS Stewart 2' Layup,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,194,4,0,2,3:38 PM,4:55,,,Stewart REBOUND (Off:1 Def:3),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,195,1,72,2,3:38 PM,4:55,,,Stewart 1' Putback Layup (12 PTS),30 - 33,3,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,196,9,1,2,3:39 PM,4:55,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,197,8,0,2,3:41 PM,4:55,SUB: Hiedeman FOR Harris,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,198,8,0,2,3:41 PM,4:55,,,SUB: Jones FOR Dolson,,,5,203828,Stefanie Dolson,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300214,201,1,98,2,3:42 PM,4:43,Hiedeman 1' Cutting Layup Shot (4 PTS) (Thomas 6 AST),,,30 - 35,5,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,203,6,1,2,3:42 PM,4:30,Thomas P.FOUL (P1.T2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,205,2,63,2,3:42 PM,4:23,,,MISS Stewart 16' Fadeaway Jumper,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,206,4,0,2,3:42 PM,4:21,Hiedeman REBOUND (Off:0 Def:2),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,207,5,2,2,3:42 PM,4:16,Thomas Lost Ball Turnover (P1.T4),,Vandersloot STEAL (2 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,209,1,79,2,3:43 PM,3:59,,,Laney 13' Pullup Jump Shot (13 PTS) (Vandersloot 2 AST),32 - 35,3,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,211,1,98,2,3:43 PM,3:42,Thomas 1' Cutting Layup Shot (10 PTS) (Allen 2 AST),,,32 - 37,5,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,213,1,98,2,3:43 PM,3:29,,,Jones 3' Cutting Layup Shot (5 PTS) (Ionescu 3 AST),34 - 37,3,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,215,1,73,2,3:43 PM,3:09,Hayes Driving Reverse Layup (8 PTS) (Allen 3 AST),,,34 - 39,5,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,217,1,1,2,3:44 PM,2:54,,,Vandersloot 3PT Jump Shot (3 PTS) (Laney 3 AST),37 - 39,2,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,219,1,66,2,3:44 PM,2:38,Thomas 7' Jump Bank Shot (12 PTS) (Hiedeman 2 AST),,,37 - 41,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,221,7,5,2,3:44 PM,2:31,Hiedeman Violation:Kicked Ball,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1042300214,222,8,0,2,3:44 PM,2:31,SUB: Nelson-Ododa FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,224,2,98,2,3:45 PM,2:18,,,MISS Jones 3' Cutting Layup Shot,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,225,4,0,2,3:45 PM,2:17,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,227,2,5,2,3:45 PM,2:05,Allen BLOCK (2 BLK),,MISS Jones 3' Layup,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,1
+1042300214,229,4,0,2,3:45 PM,2:05,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,231,1,5,2,3:45 PM,2:03,,,Stewart 1' Layup (14 PTS) (Vandersloot 3 AST),39 - 41,2,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,233,2,5,2,3:46 PM,1:58,MISS Hayes 2' Layup,,Jones BLOCK (2 BLK),,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300214,235,4,0,2,3:46 PM,1:57,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,237,8,0,2,3:46 PM,1:57,SUB: Bonner FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,240,2,5,2,3:47 PM,1:45,MISS Bonner 4' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,241,4,0,2,3:47 PM,1:42,Nelson-Ododa REBOUND (Off:1 Def:0),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,242,1,72,2,3:47 PM,1:41,Nelson-Ododa 1' Putback Layup (2 PTS),,,39 - 43,4,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,243,6,3,2,3:47 PM,1:41,Thomas L.B.FOUL (P2.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,245,5,2,2,3:47 PM,1:28,Nelson-Ododa STEAL (1 STL),,Vandersloot Lost Ball Turnover (P3.T8),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,247,6,2,2,3:47 PM,1:25,,,Stewart S.FOUL (P1.T2),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,250,3,11,2,3:48 PM,1:25,MISS Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,251,4,1,2,3:48 PM,1:25,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,252,3,12,2,3:49 PM,1:25,Thomas Free Throw 2 of 2 (13 PTS),,,39 - 44,5,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,253,2,1,2,3:49 PM,1:03,,,MISS Stewart 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,254,4,0,2,3:49 PM,1:02,,,Laney REBOUND (Off:2 Def:2),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,255,1,72,2,3:49 PM,1:01,,,Laney 1' Putback Layup (15 PTS),41 - 44,3,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,256,2,79,2,3:49 PM,0:49,MISS Hiedeman 15' Pullup Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,257,4,0,2,3:49 PM,0:46,,,Stewart REBOUND (Off:1 Def:4),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,258,6,2,2,3:50 PM,0:29,Allen S.FOUL (P3.PN),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,260,3,11,2,3:50 PM,0:29,,,Ionescu Free Throw 1 of 2 (3 PTS),42 - 44,2,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,261,8,0,2,3:50 PM,0:29,SUB: Carrington FOR Nelson-Ododa,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,263,3,12,2,3:51 PM,0:29,,,Ionescu Free Throw 2 of 2 (4 PTS),43 - 44,1,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,264,2,6,2,3:51 PM,0:06,MISS Bonner 1' Driving Layup,,Jones BLOCK (3 BLK),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300214,266,4,0,2,3:51 PM,0:02,,,Laney REBOUND (Off:2 Def:3),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,267,1,5,2,3:51 PM,0:00,,,Ionescu 3' Layup (6 PTS) (Laney 4 AST),45 - 44,-1,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,269,5,45,2,3:51 PM,0:00,Hiedeman Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042300214,270,2,1,2,3:52 PM,0:00,,,MISS Ionescu 3PT Jump Shot,,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,274,18,0,2,3:52 PM,0:00,,Instant Replay2nd Period (3:52 PM EST),,45 - 44,-1,0,255,Grant Hill,,,,,0,0,,,,,,1,0,,,,,,0
+1042300214,273,18,0,2,3:52 PM,0:00,,Instant Replay2nd Period (3:52 PM EST),,45 - 44,-1,0,231,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300214,271,4,0,2,3:52 PM,0:00,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,272,13,0,2,3:52 PM,0:00,,End of 2nd Period (3:52 PM EST),,45 - 44,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,277,12,0,3,4:09 PM,10:00,,Start of 3rd Period (4:09 PM EST),,45 - 44,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,278,2,1,3,4:10 PM,9:39,MISS Hiedeman 24' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,279,4,0,3,4:10 PM,9:35,,,Stewart REBOUND (Off:1 Def:5),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,280,2,73,3,4:10 PM,9:14,,,MISS Vandersloot 1' Driving Reverse Layup,,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,281,4,0,3,4:10 PM,9:12,Thomas REBOUND (Off:3 Def:4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,282,2,79,3,4:10 PM,9:01,MISS Bonner 20' Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,283,4,0,3,4:10 PM,8:59,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,284,1,5,3,4:11 PM,8:55,,,Stewart Layup (16 PTS) (Vandersloot 4 AST),47 - 44,-3,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,286,2,6,3,4:11 PM,8:27,MISS Thomas 2' Driving Layup,,Stewart BLOCK (1 BLK),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300214,288,4,0,3,4:11 PM,8:24,,,Ionescu REBOUND (Off:0 Def:2),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,289,6,2,3,4:11 PM,8:19,Bonner S.FOUL (P1.T1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,291,3,11,3,4:12 PM,8:19,,,Jones Free Throw 1 of 2 (6 PTS),48 - 44,-4,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,292,3,12,3,4:12 PM,8:19,,,Jones Free Throw 2 of 2 (7 PTS),49 - 44,-5,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,293,6,1,3,4:12 PM,8:07,,,Stewart P.FOUL (P2.T1),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,295,6,2,3,4:12 PM,8:03,,,Jones S.FOUL (P2.T2),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,297,3,11,3,4:13 PM,8:03,MISS Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,298,4,1,3,4:13 PM,8:03,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,299,3,12,3,4:14 PM,8:03,MISS Thomas Free Throw 2 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,300,4,0,3,4:14 PM,8:01,,,Jones REBOUND (Off:4 Def:4),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,301,2,1,3,4:14 PM,7:36,,,MISS Jones 8' Jump Shot,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,302,4,0,3,4:14 PM,7:33,Hiedeman REBOUND (Off:0 Def:3),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,303,2,1,3,4:14 PM,7:21,MISS Hayes 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,304,4,0,3,4:14 PM,7:18,,,Stewart REBOUND (Off:1 Def:6),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,305,1,1,3,4:15 PM,7:10,,,Laney 25' 3PT Jump Shot (18 PTS) (Jones 1 AST),52 - 44,-8,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,307,9,1,3,4:15 PM,7:09,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,308,1,98,3,4:18 PM,6:58,Hayes 2' Cutting Layup Shot (10 PTS) (Thomas 7 AST),,,52 - 46,-6,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,310,1,1,3,4:18 PM,6:41,,,Ionescu 27' 3PT Jump Shot (9 PTS) (Vandersloot 5 AST),55 - 46,-9,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,312,2,5,3,4:19 PM,6:24,MISS Hiedeman 1' Layup,,Jones BLOCK (4 BLK),,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1
+1042300214,314,4,0,3,4:19 PM,6:21,Thomas REBOUND (Off:4 Def:4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,354,2,6,3,4:19 PM,6:11,MISS Bonner 4' Driving Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,355,4,0,3,4:19 PM,6:10,,,Stewart REBOUND (Off:1 Def:7),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,390,2,73,3,4:19 PM,6:10,,,MISS Laney 2' Driving Reverse Layup,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,391,4,0,3,4:19 PM,6:08,Thomas REBOUND (Off:4 Def:5),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,406,1,1,3,4:19 PM,6:01,Thomas 13' Jump Shot (15 PTS) (Hayes 1 AST),,,55 - 48,-7,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,318,2,1,3,4:19 PM,5:38,,,MISS Laney 21' Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,319,4,0,3,4:19 PM,5:37,Thomas REBOUND (Off:4 Def:6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,323,6,2,3,4:20 PM,5:32,,,Vandersloot S.FOUL (P1.T3),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,325,3,11,3,4:20 PM,5:32,Hiedeman Free Throw 1 of 2 (5 PTS),,,55 - 49,-6,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,329,3,12,3,4:20 PM,5:32,MISS Hiedeman Free Throw 2 of 2,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,326,8,0,3,4:20 PM,5:32,SUB: Carrington FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,330,4,0,3,4:20 PM,5:31,,,Jones REBOUND (Off:4 Def:5),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,331,6,1,3,4:21 PM,5:19,Bonner P.FOUL (P2.T2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,333,2,5,3,4:21 PM,5:04,Bonner BLOCK (2 BLK),,MISS Jones 2' Layup,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1042300214,335,4,0,3,4:21 PM,5:04,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,336,5,11,3,4:21 PM,5:04,,,Liberty Turnover: Shot Clock (T#9),,,3,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300214,337,2,101,3,4:22 PM,4:52,MISS Hiedeman 5' Driving Floating Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,338,4,0,3,4:22 PM,4:49,,,Ionescu REBOUND (Off:0 Def:3),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,339,2,1,3,4:22 PM,4:43,,,MISS Stewart 25' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,340,4,0,3,4:22 PM,4:40,Carrington REBOUND (Off:0 Def:2),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,341,1,41,3,4:22 PM,4:35,Carrington 1' Running Layup (4 PTS),,,55 - 51,-4,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,342,2,1,3,4:22 PM,4:27,,,MISS Ionescu 27' 3PT Jump Shot,,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,343,4,0,3,4:22 PM,4:24,Thomas REBOUND (Off:4 Def:7),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,344,6,3,3,4:22 PM,4:15,Carrington L.B.FOUL (P1.T3),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,346,5,0,3,4:22 PM,4:15,Carrington Turnover Turnover (P2.T6),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042300214,347,8,0,3,4:23 PM,4:15,SUB: Harris FOR Allen,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,349,1,5,3,4:23 PM,3:59,,,Jones 1' Layup (9 PTS) (Laney 5 AST),57 - 51,-6,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,351,5,39,3,4:23 PM,3:42,Bonner Step Out of Bounds Turnover (P1.T7),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,352,1,1,3,4:24 PM,3:25,,,Jones 24' 3PT Jump Shot (12 PTS) (Vandersloot 6 AST),60 - 51,-9,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,356,2,1,3,4:24 PM,3:05,MISS Harris 20' Jump Shot,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,357,4,0,3,4:24 PM,3:03,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,358,6,3,3,4:24 PM,3:03,,,Stewart L.B.FOUL (P3.T4),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,360,2,1,3,4:25 PM,2:52,MISS Carrington 29' 3PT Jump Shot,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,361,4,0,3,4:25 PM,2:49,,,Laney REBOUND (Off:2 Def:4),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,362,1,47,3,4:25 PM,2:43,,,Stewart 13' Turnaround Jump Shot (18 PTS) (Ionescu 4 AST),62 - 51,-11,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,364,1,63,3,4:25 PM,2:14,Hiedeman 14' Fadeaway Jumper (7 PTS) (Harris 1 AST),,,62 - 53,-9,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,366,1,86,3,4:26 PM,2:01,,,Jones 12' Turnaround Fadeaway (14 PTS) (Ionescu 5 AST),64 - 53,-11,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,368,2,1,3,4:26 PM,1:44,MISS Hiedeman 26' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,369,4,0,3,4:26 PM,1:41,Carrington REBOUND (Off:1 Def:2),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,370,5,2,3,4:26 PM,1:39,Carrington Lost Ball Turnover (P3.T8),,Ionescu STEAL (2 STL),,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,372,5,1,3,4:26 PM,1:29,Harris STEAL (1 STL),,Vandersloot Bad Pass Turnover (P4.T10),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,374,2,6,3,4:26 PM,1:23,MISS Thomas 3' Driving Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,375,4,0,3,4:26 PM,1:19,Carrington REBOUND (Off:2 Def:2),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,376,1,72,3,4:26 PM,1:12,Carrington 3' Putback Layup (6 PTS),,,64 - 55,-9,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,378,8,0,3,4:27 PM,0:53,SUB: Hayes FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,379,8,0,3,4:27 PM,0:53,SUB: Nelson-Ododa FOR Carrington,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,382,2,1,3,4:27 PM,0:49,,,MISS Stewart 17' Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,383,4,0,3,4:27 PM,0:47,Thomas REBOUND (Off:4 Def:8),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,384,1,1,3,4:27 PM,0:42,Hayes 3PT Jump Shot (13 PTS) (Thomas 8 AST),,,64 - 58,-6,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,386,1,98,3,4:28 PM,0:29,,,Laney 1' Cutting Layup Shot (20 PTS) (Jones 2 AST),66 - 58,-8,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,388,2,1,3,4:28 PM,0:20,MISS Bonner 26' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,389,4,0,3,4:28 PM,0:16,,,Laney REBOUND (Off:2 Def:5),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,392,2,1,3,4:28 PM,0:00,,,MISS Ionescu 19' Jump Shot,,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,393,4,0,3,4:28 PM,0:00,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,394,13,0,3,4:28 PM,0:00,,End of 3rd Period (4:28 PM EST),,66 - 58,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,397,12,0,4,4:33 PM,10:00,,Start of 4th Period (4:33 PM EST),,66 - 58,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,398,2,6,4,4:33 PM,9:39,,,MISS Ionescu 3' Driving Layup,,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,399,4,0,4,4:33 PM,9:36,Nelson-Ododa REBOUND (Off:1 Def:1),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,400,1,5,4,4:33 PM,9:31,Carrington 2' Layup (8 PTS),,,66 - 60,-6,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,401,6,28,4,4:34 PM,9:23,Harris Personal Take Foul (P1.T1),,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,403,9,2,4,4:34 PM,9:23,SUN Timeout: Short (Full 2 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,404,8,0,4,4:35 PM,9:23,SUB: Bonner FOR Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,408,6,4,4,4:36 PM,9:17,,,Jones OFF.Foul (P3),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,410,5,37,4,4:36 PM,9:17,,,Jones Offensive Foul Turnover (P3.T11),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300214,411,2,1,4,4:36 PM,9:02,MISS Hayes 25' 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,412,4,0,4,4:37 PM,8:57,,,Jones REBOUND (Off:4 Def:6),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,413,2,1,4,4:37 PM,8:38,,,MISS Vandersloot 7' Jump Shot,,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,414,4,0,4,4:37 PM,8:35,Bonner REBOUND (Off:0 Def:5),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,415,1,41,4,4:37 PM,8:31,Hayes 3' Running Layup (15 PTS) (Carrington 1 AST),,,66 - 62,-4,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,417,5,1,4,4:37 PM,8:14,Harris STEAL (2 STL),,Stewart Bad Pass Turnover (P2.T12),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,419,1,80,4,4:37 PM,8:04,Harris 11' Step Back Jump Shot (4 PTS),,,66 - 64,-2,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,420,9,1,4,4:38 PM,8:03,,,Liberty Timeout: Regular (Reg.3 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,422,6,1,4,4:41 PM,7:48,Nelson-Ododa P.FOUL (P1.T2),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1042300214,501,2,5,4,4:41 PM,7:34,Nelson-Ododa BLOCK (1 BLK),,MISS Jones 2' Layup,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0
+1042300214,503,4,0,4,4:41 PM,7:33,Hayes REBOUND (Off:0 Def:2),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,426,6,1,4,4:42 PM,7:18,,,Laney P.FOUL (P1.T1),,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,428,2,5,4,4:42 PM,7:05,MISS Harris 6' Layup,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,429,4,0,4,4:42 PM,7:01,,,Stewart REBOUND (Off:1 Def:8),,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,430,6,2,4,4:43 PM,6:52,Nelson-Ododa S.FOUL (P2.T3),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1042300214,432,3,11,4,4:43 PM,6:52,,,MISS Jones Free Throw 1 of 2,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,433,4,1,4,4:43 PM,6:52,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,434,8,0,4,4:43 PM,6:52,SUB: Thomas FOR Nelson-Ododa,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,436,3,12,4,4:43 PM,6:52,,,Jones Free Throw 2 of 2 (15 PTS),67 - 64,-3,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,437,1,98,4,4:44 PM,6:37,Carrington 2' Cutting Layup Shot (10 PTS) (Thomas 9 AST),,,67 - 66,-1,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,439,2,5,4,4:44 PM,6:22,,,MISS Laney 1' Layup,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,440,4,0,4,4:44 PM,6:22,,,Jones REBOUND (Off:5 Def:6),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,441,6,1,4,4:44 PM,6:22,Hayes P.FOUL (P3.T4),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,443,5,4,4,4:45 PM,6:10,,,Vandersloot Traveling Turnover (P5.T13),,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1042300214,444,2,1,4,4:45 PM,5:57,MISS Hayes 19' Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,445,4,0,4,4:45 PM,5:53,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1042300214,447,2,5,4,4:45 PM,5:50,MISS Carrington 2' Layup,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,448,4,0,4,4:45 PM,5:47,,,Jones REBOUND (Off:5 Def:7),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,449,1,98,4,4:46 PM,5:33,,,Jones 1' Cutting Layup Shot (17 PTS) (Ionescu 6 AST),69 - 66,-3,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,451,1,66,4,4:46 PM,5:13,Carrington 24' 3PT Jump Bank Shot (13 PTS) (Harris 2 AST),,,69 - 69,TIE,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,453,6,2,4,4:46 PM,4:55,Thomas S.FOUL (P3.PN),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,455,3,11,4,4:47 PM,4:55,,,Stewart Free Throw 1 of 2 (19 PTS),70 - 69,-1,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,456,8,0,4,4:47 PM,4:55,SUB: Allen FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,458,7,1,4,4:48 PM,4:55,SUN Violation: Delay of game Violation,,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300214,459,7,1,4,4:48 PM,4:55,,,Liberty Violation: Delay of game Violation,,,3,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1042300214,460,3,12,4,4:48 PM,4:55,,,Stewart Free Throw 2 of 2 (20 PTS),71 - 69,-2,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,461,2,6,4,4:48 PM,4:33,MISS Harris 4' Driving Layup,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,462,4,0,4,4:48 PM,4:30,,,Jones REBOUND (Off:5 Def:8),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,463,2,80,4,4:48 PM,4:08,,,MISS Laney 4' Step Back Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,464,4,0,4,4:48 PM,4:05,Thomas REBOUND (Off:4 Def:9),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,465,2,6,4,4:49 PM,4:00,MISS Carrington 4' Driving Layup,,Stewart BLOCK (2 BLK),,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1
+1042300214,467,4,0,4,4:49 PM,4:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,468,1,1,4,4:49 PM,3:54,Bonner 24' 3PT Jump Shot (9 PTS) (Thomas 10 AST),,,71 - 72,1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,470,1,1,4,4:49 PM,3:26,,,Jones 25' 3PT Jump Shot (20 PTS) (Ionescu 7 AST),74 - 72,-2,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,472,1,6,4,4:50 PM,3:14,Thomas 3' Driving Layup (17 PTS),,,74 - 74,TIE,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,473,2,1,4,4:50 PM,3:03,,,MISS Jones 26' 3PT Jump Shot,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,474,4,0,4,4:50 PM,3:00,Thomas REBOUND (Off:4 Def:10),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,475,6,2,4,4:50 PM,2:53,,,Ionescu S.FOUL (P1.T2),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,477,9,4,4,4:50 PM,2:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,478,3,11,4,4:54 PM,2:53,Carrington Free Throw 1 of 2 (14 PTS),,,74 - 75,1,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,479,3,12,4,4:54 PM,2:53,MISS Carrington Free Throw 2 of 2,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042300214,480,4,0,4,4:54 PM,2:49,,,Ionescu REBOUND (Off:0 Def:4),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,481,2,47,4,4:54 PM,2:28,,,MISS Stewart 16' Turnaround Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,482,4,0,4,4:54 PM,2:24,Thomas REBOUND (Off:4 Def:11),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,483,6,26,4,4:54 PM,2:20,Carrington Offensive Charge Foul (P2),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,485,5,37,4,4:54 PM,2:20,Carrington Offensive Foul Turnover (P4.T9),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042300214,486,1,1,4,4:55 PM,2:08,,,Stewart 25' 3PT Jump Shot (23 PTS) (Vandersloot 7 AST),77 - 75,-2,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1042300214,488,2,6,4,4:55 PM,1:46,MISS Thomas 2' Driving Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,489,4,0,4,4:55 PM,1:42,,,Ionescu REBOUND (Off:0 Def:5),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,490,6,2,4,4:55 PM,1:33,Bonner S.FOUL (P3.PN),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,492,3,11,4,4:56 PM,1:33,,,Stewart Free Throw 1 of 2 (24 PTS),78 - 75,-3,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,493,3,12,4,4:56 PM,1:33,,,Stewart Free Throw 2 of 2 (25 PTS),79 - 75,-4,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1042300214,494,7,5,4,4:56 PM,1:25,,,Vandersloot Violation:Kicked Ball,,,5,202664,Courtney Vandersloot,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1042300214,495,1,1,4,4:57 PM,1:21,Bonner 27' 3PT Jump Shot (12 PTS) (Thomas 11 AST),,,79 - 78,-1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042300214,497,9,2,4,4:57 PM,1:08,,,Liberty Timeout: Short (Reg.3 Short 1),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,498,8,0,4,4:58 PM,1:08,SUB: Hayes FOR Harris,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,500,2,1,4,4:58 PM,0:58,,,MISS Stewart 15' Jump Shot,,,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,504,4,0,4,4:58 PM,0:54,,,Jones REBOUND (Off:6 Def:8),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,505,6,1,4,4:58 PM,0:54,Hayes P.FOUL (P4.PN),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,507,9,1,4,4:59 PM,0:54,SUN Timeout: Regular (Full 3 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,509,18,4,4,4:59 PM,0:54,,Instant Replay4th Period (4:59 PM EST),,79 - 78,-1,0,505,,,,,,0,0,,,,,,1,0,,,,,,1
+1042300214,511,3,11,4,5:02 PM,0:54,,,Jones Free Throw 1 of 2 (21 PTS),80 - 78,-2,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,512,3,12,4,5:03 PM,0:54,,,Jones Free Throw 2 of 2 (22 PTS),81 - 78,-3,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,513,6,1,4,5:03 PM,0:47,,,Ionescu P.FOUL (P2.T3),,,5,1629477,Sabrina Ionescu,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042300214,515,5,1,4,5:03 PM,0:45,Hayes Bad Pass Turnover (P2.T10),,Jones STEAL (1 STL),,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1042300214,517,6,2,4,5:03 PM,0:42,Thomas S.FOUL (P4.PN),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,519,3,11,4,5:04 PM,0:42,,,Jones Free Throw 1 of 2 (23 PTS),82 - 78,-4,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,520,3,12,4,5:04 PM,0:42,,,Jones Free Throw 2 of 2 (24 PTS),83 - 78,-5,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,521,9,2,4,5:04 PM,0:42,SUN Timeout: Short (Full 3 Short 2),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,522,2,1,4,5:06 PM,0:32,MISS Allen 3PT Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,523,4,0,4,5:06 PM,0:29,,,Jones REBOUND (Off:6 Def:9),,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,524,6,28,4,5:06 PM,0:29,Carrington Personal Take Foul (P3.PN),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,526,3,11,4,5:06 PM,0:29,,,MISS Jones Free Throw 1 of 2,,,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,527,4,1,4,5:06 PM,0:29,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,528,8,0,4,5:06 PM,0:29,SUB: Harris FOR Carrington,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,530,3,12,4,5:07 PM,0:29,,,Jones Free Throw 2 of 2 (25 PTS),84 - 78,-6,5,1627673,Jonquel Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,531,1,1,4,5:07 PM,0:18,Harris 25' 3PT Jump Shot (7 PTS),,,84 - 81,-3,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,532,6,28,4,5:07 PM,0:16,Allen Personal Take Foul (P4.PN),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,534,3,11,4,5:08 PM,0:16,,,Laney Free Throw 1 of 2 (21 PTS),85 - 81,-4,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,535,3,12,4,5:08 PM,0:16,,,MISS Laney Free Throw 2 of 2,,,5,204335,Betnijah Laney-Hamilton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,536,4,0,4,5:08 PM,0:14,Bonner REBOUND (Off:0 Def:6),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,538,1,1,4,5:08 PM,0:07,Harris 25' 3PT Jump Shot (10 PTS),,,85 - 84,-1,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042300214,539,9,2,4,5:08 PM,0:07,,,Liberty Timeout: Short (Reg.3 Short 2),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1042300214,540,8,0,4,5:09 PM,0:07,SUB: Carrington FOR Harris,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,542,6,28,4,5:10 PM,0:06,Carrington Personal Take Foul (P4.PN),,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1042300214,544,3,11,4,5:10 PM,0:06,,,Stewart Free Throw 1 of 2 (26 PTS),86 - 84,-2,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,545,8,0,4,5:11 PM,0:06,SUB: Harris FOR Carrington,,,,,4,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042300214,547,3,12,4,5:11 PM,0:06,,,Stewart Free Throw 2 of 2 (27 PTS),87 - 84,-3,5,1627668,Breanna Stewart,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1042300214,548,13,0,4,5:11 PM,0:00,,End of 4th Period (5:11 PM EST),,87 - 84,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

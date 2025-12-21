@@ -1,0 +1,378 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041700303,0,12,0,1,3:09 PM,10:00,,Start of 1st Period (3:09 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,1,10,0,1,3:09 PM,10:00,Jump Ball Thomas vs. Fowles: Tip to Toliver,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1
+1041700303,3,5,2,1,3:10 PM,9:48,Thomas Lost Ball Turnover (P1.T1),,Fowles STEAL (1 STL),,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,4,5,45,1,3:10 PM,9:40,,,Moore Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,5,2,78,1,3:10 PM,9:18,MISS Toliver 10' Floating Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,6,4,0,1,3:10 PM,9:16,,,Fowles REBOUND (Off:0 Def:1),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,7,2,1,1,3:10 PM,9:11,,,MISS Moore 21' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,8,4,0,1,3:10 PM,9:09,,,Brunson REBOUND (Off:1 Def:0),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,9,1,75,1,3:11 PM,8:59,,,Moore 1' Driving Finger Roll Layup (2 PTS),2 - 0,-2,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,10,2,1,1,3:11 PM,8:44,MISS Ruffin-Pratt 12' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,11,4,0,1,3:11 PM,8:42,Thomas REBOUND (Off:1 Def:0),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,12,5,2,1,3:11 PM,8:39,Thomas Lost Ball Turnover (P2.T2),,Brunson STEAL (1 STL),,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,13,1,1,1,3:11 PM,8:24,,,Fowles 16' Jump Shot (2 PTS) (Augustus 1 AST),4 - 0,-4,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,15,1,1,1,3:11 PM,8:09,Delle Donne 26' 3PT Jump Shot (3 PTS) (Toliver 1 AST),,,4 - 3,-1,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,16,1,5,1,3:12 PM,7:49,,,Fowles 2' Layup (4 PTS) (Augustus 2 AST),6 - 3,-3,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,17,2,1,1,3:12 PM,7:35,MISS Meesseman 17' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,18,4,0,1,3:12 PM,7:34,,,Brunson REBOUND (Off:1 Def:1),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,20,6,27,1,3:12 PM,7:25,Delle Donne Personal Block Foul (P1.T1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1041700303,21,2,1,1,3:13 PM,7:18,,,MISS Augustus 16' Jump Shot,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,22,4,0,1,3:13 PM,7:17,Ruffin-Pratt REBOUND (Off:0 Def:1),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,23,2,1,1,3:13 PM,7:06,MISS Delle Donne 4' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,24,4,0,1,3:13 PM,7:06,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,25,1,75,1,3:13 PM,6:48,,,Brunson 3' Driving Finger Roll Layup (2 PTS) (Moore 1 AST),8 - 3,-5,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,26,6,1,1,3:14 PM,6:38,,,Brunson P.FOUL (P1.T1),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,27,6,2,1,3:14 PM,6:30,,,Brunson S.FOUL (P2.T2),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,28,3,11,1,3:14 PM,6:30,Delle Donne Free Throw 1 of 2 (4 PTS),,,8 - 4,-4,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,30,8,0,1,3:15 PM,6:30,,,SUB: Howard FOR Brunson,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,31,8,0,1,3:15 PM,6:30,,,SUB: Montgomery FOR Whalen,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,32,3,12,1,3:15 PM,6:30,Delle Donne Free Throw 2 of 2 (5 PTS),,,8 - 5,-3,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,35,2,1,1,3:15 PM,6:15,,,MISS Fowles 3' Jump Shot,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,36,4,0,1,3:15 PM,6:15,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,37,2,1,1,3:15 PM,6:12,,,MISS Augustus 11' Jump Shot,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,38,4,0,1,3:15 PM,6:11,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,39,2,1,1,3:16 PM,5:54,MISS Meesseman 6' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,40,4,0,1,3:16 PM,5:53,Thomas REBOUND (Off:2 Def:0),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,41,6,1,1,3:16 PM,5:53,,,Fowles P.FOUL (P1.T3),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,42,1,80,1,3:16 PM,5:44,Toliver 3PT Step Back Jump Shot (3 PTS),,,8 - 8,TIE,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,57,18,0,1,3:16 PM,5:44,,Support Ruling,,,,,42,Monty Williams,,,,,0,0,,,,,,1,0,,,,,,0
+1041700303,43,2,5,1,3:17 PM,5:26,,,MISS Howard 2' Layup,,,5.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,44,4,0,1,3:17 PM,5:25,Thomas REBOUND (Off:2 Def:1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,45,2,1,1,3:17 PM,5:13,MISS Meesseman 16' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,46,4,0,1,3:17 PM,5:12,,,Montgomery REBOUND (Off:0 Def:1),,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,47,1,1,1,3:17 PM,5:00,,,Moore 25' 3PT Jump Shot (5 PTS) (Montgomery 1 AST),11 - 8,-3,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,48,2,1,1,3:17 PM,4:37,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,49,4,0,1,3:17 PM,4:37,Delle Donne REBOUND (Off:1 Def:0),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,50,2,1,1,3:18 PM,4:34,MISS Delle Donne 17' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,51,4,0,1,3:18 PM,4:33,Delle Donne REBOUND (Off:2 Def:0),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,52,2,1,1,3:18 PM,4:31,MISS Delle Donne 4' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,53,4,0,1,3:18 PM,4:30,,,Montgomery REBOUND (Off:0 Def:2),,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,55,9,4,1,3:18 PM,4:29,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,58,8,0,1,3:21 PM,4:29,,,SUB: Perkins FOR Fowles,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,59,8,0,1,3:21 PM,4:29,,,SUB: Pierson FOR Augustus,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,60,1,1,1,3:21 PM,4:10,,,Montgomery 26' 3PT Jump Shot (3 PTS),14 - 8,-6,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,61,1,5,1,3:22 PM,3:54,Thomas 1' Layup (2 PTS) (Delle Donne 1 AST),,,14 - 10,-4,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,62,2,78,1,3:22 PM,3:32,,,MISS Perkins 13' Floating Jump Shot,,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,63,4,0,1,3:22 PM,3:30,Ruffin-Pratt REBOUND (Off:0 Def:2),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,64,2,1,1,3:22 PM,3:13,MISS Meesseman 3PT Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,65,4,0,1,3:22 PM,3:12,,,Pierson REBOUND (Off:0 Def:1),,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,66,5,2,1,3:22 PM,3:01,Meesseman STEAL (1 STL),,Howard Lost Ball Turnover (P1.T2),,,5.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,67,1,1,1,3:23 PM,2:53,Ruffin-Pratt 16' Jump Shot (2 PTS) (Toliver 2 AST),,,14 - 12,-2,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,68,1,63,1,3:23 PM,2:38,,,Moore 10' Fadeaway Jumper (7 PTS),16 - 12,-4,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,69,1,1,1,3:23 PM,2:15,Delle Donne 16' Jump Shot (7 PTS) (Ruffin-Pratt 1 AST),,,16 - 14,-2,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,70,6,1,1,3:23 PM,2:01,Delle Donne P.FOUL (P2.T2),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,71,8,0,1,3:24 PM,2:01,SUB: Cloud FOR Delle Donne,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,72,8,0,1,3:24 PM,2:01,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,73,8,0,1,3:24 PM,2:01,SUB: Hightower FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,74,8,0,1,3:24 PM,2:01,,,SUB: Augustus FOR Moore,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,75,8,0,1,3:24 PM,2:01,,,SUB: Fowles FOR Howard,,,5.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,76,2,1,1,3:24 PM,1:56,,,MISS Montgomery 25' 3PT Jump Shot,,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,77,4,0,1,3:24 PM,1:55,Hawkins REBOUND (Off:0 Def:1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,79,2,1,1,3:24 PM,1:34,MISS Meesseman 15' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,80,4,0,1,3:24 PM,1:33,,,Augustus REBOUND (Off:0 Def:1),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,81,5,1,1,3:25 PM,1:24,Meesseman STEAL (2 STL),,Fowles Bad Pass Turnover (P1.T3),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,82,6,1,1,3:25 PM,1:17,,,Pierson P.FOUL (P1.T4),,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,84,2,66,1,3:25 PM,1:08,MISS Toliver 9' Jump Bank Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,85,4,0,1,3:25 PM,1:06,,,Fowles REBOUND (Off:0 Def:2),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,86,1,98,1,3:25 PM,0:59,,,Pierson 1' Cutting Layup Shot (2 PTS) (Montgomery 2 AST),18 - 14,-4,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,87,1,98,1,3:25 PM,0:49,Hawkins Cutting Layup Shot (2 PTS) (Meesseman 1 AST),,,18 - 16,-2,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,88,5,45,1,3:26 PM,0:33,,,Fowles Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,89,8,0,1,3:26 PM,0:33,SUB: Ruffin-Pratt FOR Toliver,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,90,2,1,1,3:26 PM,0:22,MISS Hawkins 16' Jump Shot,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,91,4,0,1,3:26 PM,0:20,,,Pierson REBOUND (Off:0 Def:2),,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,92,6,4,1,3:27 PM,0:01,,,Pierson OFF.Foul (P2),,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,93,5,5,1,3:27 PM,0:01,,,Pierson Foul Turnover (P1.T5),,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,94,2,1,1,3:27 PM,0:01,MISS Cloud 53' 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,95,4,0,1,3:27 PM,0:00,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,96,13,0,1,3:27 PM,0:00,,End of 1st Period (3:27 PM EST),,18 - 16,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,98,12,0,2,3:30 PM,10:00,,Start of 2nd Period (3:30 PM EST),,18 - 16,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,99,2,5,2,3:31 PM,9:36,,,MISS Fowles 2' Layup,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,100,4,0,2,3:31 PM,9:35,Hightower REBOUND (Off:0 Def:1),,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,101,6,4,2,3:31 PM,9:22,Hawkins OFF.Foul (P1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,102,5,5,2,3:31 PM,9:22,Hawkins Foul Turnover (P1.T3),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700303,103,2,1,2,3:31 PM,9:06,,,MISS Moore 3' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,104,4,0,2,3:31 PM,9:05,,,Fowles REBOUND (Off:1 Def:2),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,105,1,72,2,3:31 PM,9:05,,,Fowles 1' Putback Layup (6 PTS),20 - 16,-4,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,106,6,2,2,3:31 PM,9:05,Hawkins S.FOUL (P2.T1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,107,3,10,2,3:32 PM,9:05,,,Fowles Free Throw 1 of 1 (7 PTS),21 - 16,-5,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,110,2,1,2,3:32 PM,8:47,MISS Cloud 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,111,4,0,2,3:32 PM,8:46,,,Fowles REBOUND (Off:1 Def:3),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,112,5,1,2,3:32 PM,8:38,Hightower STEAL (1 STL),,Moore Bad Pass Turnover (P2.T6),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,113,1,82,2,3:32 PM,8:33,Hightower 4' Driving Bank Shot (2 PTS),,,21 - 18,-3,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,114,6,1,2,3:33 PM,8:15,Thomas P.FOUL (P1.T2),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,115,8,0,2,3:33 PM,8:15,,,SUB: Brunson FOR Pierson,,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,116,8,0,2,3:33 PM,8:15,SUB: Delle Donne FOR Cloud,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,117,8,0,2,3:33 PM,8:15,SUB: Toliver FOR Hightower,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,119,1,1,2,3:33 PM,8:10,,,Moore 3PT Jump Shot (10 PTS) (Whalen 1 AST),24 - 18,-6,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,120,6,1,2,3:34 PM,7:56,,,Augustus P.FOUL (P1.T1),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,121,6,2,2,3:34 PM,7:43,,,Augustus S.FOUL (P2.T2),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,122,18,2,2,3:35 PM,7:43,,Altercation Ruling,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700303,125,3,11,2,3:38 PM,7:43,Ruffin-Pratt Free Throw 1 of 2 (3 PTS),,,24 - 19,-5,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,127,3,12,2,3:38 PM,7:43,Ruffin-Pratt Free Throw 2 of 2 (4 PTS),,,24 - 20,-4,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,129,1,42,2,3:38 PM,7:28,,,Moore 2' Driving Layup (12 PTS),26 - 20,-6,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,130,1,1,2,3:39 PM,7:06,Ruffin-Pratt 15' Jump Shot (6 PTS) (Toliver 3 AST),,,26 - 22,-4,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,131,2,1,2,3:39 PM,6:54,Ruffin-Pratt BLOCK (1 BLK),,MISS Moore 7' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1
+1041700303,132,4,0,2,3:39 PM,6:54,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,133,8,0,2,3:39 PM,6:54,SUB: Meesseman FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,134,8,0,2,3:39 PM,6:54,,,SUB: Perkins FOR Augustus,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,135,6,2,2,3:39 PM,6:49,Ruffin-Pratt S.FOUL (P1.T3),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,136,3,11,2,3:40 PM,6:49,,,Moore Free Throw 1 of 2 (13 PTS),27 - 22,-5,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,138,3,12,2,3:40 PM,6:49,,,MISS Moore Free Throw 2 of 2,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,140,4,0,2,3:40 PM,6:47,Thomas REBOUND (Off:2 Def:2),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,141,6,2,2,3:40 PM,6:40,,,Perkins S.FOUL (P1.T3),,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,142,3,11,2,3:40 PM,6:40,Ruffin-Pratt Free Throw 1 of 2 (7 PTS),,,27 - 23,-4,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,144,3,12,2,3:41 PM,6:40,Ruffin-Pratt Free Throw 2 of 2 (8 PTS),,,27 - 24,-3,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,148,1,1,2,3:41 PM,6:27,,,Perkins 24' 3PT Jump Shot (3 PTS) (Moore 2 AST),30 - 24,-6,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,149,6,1,2,3:41 PM,6:15,,,Perkins P.FOUL (P2.T4),,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,151,7,5,2,3:42 PM,6:13,,,Whalen Violation:Kicked Ball,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041700303,152,2,1,2,3:42 PM,6:01,MISS Ruffin-Pratt 13' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,153,4,0,2,3:42 PM,6:00,,,Perkins REBOUND (Off:0 Def:1),,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,154,5,39,2,3:42 PM,5:54,,,Moore Step Out of Bounds Turnover (P3.T7),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,155,9,1,2,3:42 PM,5:54,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,157,1,1,2,3:46 PM,5:32,Meesseman 15' Jump Shot (2 PTS) (Toliver 4 AST),,,30 - 26,-4,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,158,2,1,2,3:46 PM,5:13,,,MISS Moore 25' 3PT Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,159,4,0,2,3:46 PM,5:12,Toliver REBOUND (Off:0 Def:1),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,160,2,5,2,3:46 PM,4:58,MISS Thomas Layup,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,161,4,0,2,3:46 PM,4:57,,,Fowles REBOUND (Off:1 Def:4),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,163,5,8,2,3:46 PM,4:42,,,Whalen 3 Second Violation Turnover (P1.T8),,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,164,8,0,2,3:47 PM,4:42,,,SUB: Montgomery FOR Whalen,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,165,2,1,2,3:47 PM,4:30,MISS Meesseman 10' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,166,4,0,2,3:47 PM,4:29,,,Fowles REBOUND (Off:1 Def:5),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,167,2,1,2,3:47 PM,4:17,Meesseman BLOCK (1 BLK),,MISS Fowles 4' Jump Shot,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041700303,168,4,0,2,3:47 PM,4:15,Meesseman REBOUND (Off:0 Def:1),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,169,6,1,2,3:47 PM,4:09,,,Perkins P.FOUL (P3.PN),,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,170,3,11,2,3:48 PM,4:09,Meesseman Free Throw 1 of 2 (3 PTS),,,30 - 27,-3,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,172,8,0,2,3:48 PM,4:09,SUB: Cloud FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,173,8,0,2,3:48 PM,4:09,,,SUB: Augustus FOR Moore,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,174,3,12,2,3:48 PM,4:09,Meesseman Free Throw 2 of 2 (4 PTS),,,30 - 28,-2,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,177,2,1,2,3:48 PM,3:44,,,MISS Brunson 3PT Jump Shot,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,178,4,0,2,3:48 PM,3:43,,,Brunson REBOUND (Off:2 Def:1),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,179,2,1,2,3:48 PM,3:40,Delle Donne BLOCK (1 BLK),,MISS Brunson 3' Jump Shot,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1041700303,180,4,0,2,3:49 PM,3:39,Delle Donne REBOUND (Off:2 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,181,1,58,2,3:49 PM,3:28,Meesseman 6' Turnaround Hook Shot (6 PTS),,,30 - 30,TIE,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,182,9,1,2,3:49 PM,3:17,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,184,8,0,2,3:52 PM,3:17,,,SUB: Zandalasini FOR Fowles,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,185,8,0,2,3:52 PM,3:17,,,SUB: Pierson FOR Perkins,,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,186,1,75,2,3:53 PM,3:05,,,Pierson 1' Driving Finger Roll Layup (4 PTS) (Augustus 3 AST),32 - 30,-2,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,187,1,99,2,3:53 PM,2:49,Thomas 1' Cutting Finger Roll Layup Shot (4 PTS) (Meesseman 2 AST),,,32 - 32,TIE,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,189,2,5,2,3:53 PM,2:27,Meesseman BLOCK (2 BLK),,MISS Pierson 1' Layup,,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041700303,190,4,0,2,3:53 PM,2:26,Meesseman REBOUND (Off:0 Def:2),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,191,1,86,2,3:53 PM,2:17,Toliver 10' Turnaround Fadeaway (5 PTS),,,32 - 34,2,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,192,2,5,2,3:54 PM,1:56,,,MISS Brunson 2' Layup,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,193,4,0,2,3:54 PM,1:55,Thomas REBOUND (Off:2 Def:3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,194,2,1,2,3:54 PM,1:35,MISS Meesseman 3' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,195,4,0,2,3:54 PM,1:34,Delle Donne REBOUND (Off:3 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,196,1,44,2,3:54 PM,1:32,Delle Donne 1' Reverse Layup (9 PTS),,,32 - 36,4,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,198,2,1,2,3:54 PM,1:20,Thomas BLOCK (1 BLK),,MISS Montgomery 4' Jump Shot,,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1
+1041700303,199,4,0,2,3:54 PM,1:19,Toliver REBOUND (Off:0 Def:2),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,200,1,42,2,3:54 PM,1:15,Toliver Driving Layup (7 PTS),,,32 - 38,6,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,201,6,2,2,3:54 PM,1:15,,,Pierson S.FOUL (P3.PN),,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,202,9,1,2,3:55 PM,1:15,,,Lynx Timeout: Regular (Reg.2 Short 0),,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,203,8,0,2,3:56 PM,1:15,,,SUB: Fowles FOR Montgomery,,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,204,8,0,2,3:56 PM,1:15,,,SUB: Whalen FOR Pierson,,,5.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,205,8,0,2,3:56 PM,1:15,,,SUB: Moore FOR Zandalasini,,,5.0,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,206,8,0,2,3:56 PM,1:15,SUB: Hawkins FOR Meesseman,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,207,8,0,2,3:56 PM,1:15,SUB: Hightower FOR Delle Donne,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,208,3,10,2,3:56 PM,1:15,Toliver Free Throw 1 of 1 (8 PTS),,,32 - 39,7,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,211,1,1,2,3:57 PM,0:59,,,Augustus 19' Jump Shot (2 PTS) (Whalen 2 AST),34 - 39,5,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,212,5,2,2,3:57 PM,0:47,Toliver Lost Ball Turnover (P1.T4),,Moore STEAL (1 STL),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,213,1,98,2,3:57 PM,0:42,,,Fowles 1' Cutting Layup Shot (9 PTS) (Whalen 3 AST),36 - 39,3,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,214,6,2,2,3:57 PM,0:42,Hawkins S.FOUL (P3.T4),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,215,8,0,2,3:57 PM,0:42,SUB: Meesseman FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,216,3,10,2,3:57 PM,0:42,,,MISS Fowles Free Throw 1 of 1,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,218,4,0,2,3:58 PM,0:41,Hightower REBOUND (Off:0 Def:2),,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,221,2,1,2,3:58 PM,0:30,MISS Hightower 11' Jump Shot,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,222,4,0,2,3:58 PM,0:27,,,Augustus REBOUND (Off:0 Def:2),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,225,6,1,2,3:59 PM,0:10,Toliver P.FOUL (P1.PN),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,226,3,11,2,3:59 PM,0:10,,,Fowles Free Throw 1 of 2 (10 PTS),37 - 39,2,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,228,3,12,2,3:59 PM,0:10,,,Fowles Free Throw 2 of 2 (11 PTS),38 - 39,1,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,231,2,1,2,3:59 PM,0:03,MISS Meesseman 5' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,232,4,0,2,3:59 PM,0:03,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,233,9,1,2,4:00 PM,0:03,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,234,5,39,2,4:01 PM,0:01,Cloud Step Out of Bounds Turnover (P1.T5),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700303,235,13,0,2,4:01 PM,0:00,,End of 2nd Period (4:01 PM EST),,38 - 39,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,237,12,0,3,4:18 PM,10:00,,Start of 3rd Period (4:18 PM EST),,38 - 39,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,238,2,1,3,4:18 PM,9:48,,,MISS Augustus 13' Jump Shot,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,239,4,0,3,4:19 PM,9:47,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,240,6,3,3,4:19 PM,9:47,Thomas L.B.FOUL (P2.T1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,241,1,1,3,4:19 PM,9:40,,,Augustus 13' Jump Shot (4 PTS) (Whalen 4 AST),40 - 39,-1,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,242,6,1,3,4:19 PM,9:26,,,Brunson P.FOUL (P3.T1),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,243,2,1,3,4:20 PM,9:11,MISS Delle Donne 19' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,244,4,0,3,4:20 PM,9:10,,,Augustus REBOUND (Off:0 Def:3),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,245,2,5,3,4:20 PM,9:00,,,MISS Fowles 3' Layup,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,246,4,0,3,4:20 PM,8:59,Meesseman REBOUND (Off:0 Def:3),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,247,2,1,3,4:20 PM,8:40,MISS Meesseman 12' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,248,4,0,3,4:20 PM,8:39,,,Fowles REBOUND (Off:1 Def:6),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,249,1,1,3,4:21 PM,8:23,,,Augustus 3PT Jump Shot (7 PTS) (Whalen 5 AST),43 - 39,-4,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,250,9,1,3,4:21 PM,8:22,MYSTICS Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,252,2,1,3,4:24 PM,8:02,MISS Toliver 6' Jump Shot,,Augustus BLOCK (1 BLK),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1
+1041700303,253,4,0,3,4:24 PM,8:00,,,Whalen REBOUND (Off:0 Def:1),,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,254,6,1,3,4:25 PM,8:00,Toliver P.FOUL (P2.T2),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,255,1,86,3,4:25 PM,7:46,,,Augustus 13' Turnaround Fadeaway (9 PTS),45 - 39,-6,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,256,5,13,3,4:25 PM,7:32,Ruffin-Pratt Backcourt Turnover (P1.T6),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700303,259,2,1,3,4:26 PM,7:18,,,MISS Moore 16' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,260,4,0,3,4:26 PM,7:17,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,261,2,1,3,4:26 PM,6:53,MISS Meesseman 13' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,262,4,0,3,4:26 PM,6:52,,,Fowles REBOUND (Off:1 Def:7),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,263,1,1,3,4:26 PM,6:43,,,Augustus 24' 3PT Jump Shot (12 PTS) (Moore 3 AST),48 - 39,-9,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,334,18,0,3,4:26 PM,6:43,,Support Ruling,,,,,263,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700303,264,6,11,3,4:27 PM,6:41,,Michael Thibault Foul:T.FOUL,,,,6.0,100894,,,,,,0,0,,,,,,1,0,,,,,,1
+1041700303,265,3,16,3,4:27 PM,6:41,,,Moore Free Throw Technical (14 PTS),49 - 39,-10,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,268,2,1,3,4:28 PM,6:28,MISS Delle Donne 19' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,269,4,0,3,4:28 PM,6:27,,,Whalen REBOUND (Off:0 Def:2),,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,270,2,5,3,4:28 PM,6:20,,,MISS Fowles 1' Layup,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,271,4,0,3,4:28 PM,6:18,,,Fowles REBOUND (Off:2 Def:7),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,272,5,8,3,4:28 PM,6:17,,,Fowles 3 Second Violation Turnover (P3.T9),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,274,1,1,3,4:28 PM,6:04,Thomas 3' Jump Shot (6 PTS) (Delle Donne 2 AST),,,49 - 41,-8,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,276,2,1,3,4:29 PM,5:45,,,MISS Moore 5' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,277,4,0,3,4:29 PM,5:44,Thomas REBOUND (Off:2 Def:4),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,278,6,1,3,4:29 PM,5:40,,,Whalen P.FOUL (P1.T2),,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,279,8,0,3,4:29 PM,5:40,SUB: Cloud FOR Meesseman,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,280,6,2,3,4:30 PM,5:25,,,Fowles S.FOUL (P2.T3),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,281,3,11,3,4:30 PM,5:25,Ruffin-Pratt Free Throw 1 of 2 (9 PTS),,,49 - 42,-7,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,283,3,12,3,4:30 PM,5:25,Ruffin-Pratt Free Throw 2 of 2 (10 PTS),,,49 - 43,-6,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,286,2,1,3,4:31 PM,5:04,,,MISS Whalen 18' Jump Shot,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,287,4,0,3,4:31 PM,5:03,,,Fowles REBOUND (Off:3 Def:7),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,288,1,82,3,4:31 PM,4:58,,,Moore 4' Driving Bank Shot (16 PTS) (Fowles 1 AST),51 - 43,-8,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,289,6,1,3,4:31 PM,4:49,,,Moore P.FOUL (P1.T4),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,290,8,0,3,4:31 PM,4:49,,,SUB: Montgomery FOR Whalen,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,291,1,1,3,4:31 PM,4:39,Toliver 28' 3PT Jump Shot (11 PTS) (Delle Donne 3 AST),,,51 - 46,-5,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,293,2,1,3,4:32 PM,4:24,,,MISS Moore 14' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,294,4,0,3,4:32 PM,4:23,Ruffin-Pratt REBOUND (Off:0 Def:3),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,295,1,75,3,4:32 PM,4:14,Ruffin-Pratt 2' Driving Finger Roll Layup (12 PTS),,,51 - 48,-3,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,296,9,2,3,4:32 PM,4:14,,,Lynx Timeout: Short (Reg.2 Short 1),,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,298,6,1,3,4:33 PM,4:04,Cloud P.FOUL (P1.T3),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,299,1,1,3,4:33 PM,3:56,,,Moore 24' 3PT Jump Shot (19 PTS) (Montgomery 3 AST),54 - 48,-6,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,300,1,1,3,4:34 PM,3:39,Delle Donne 12' Jump Shot (11 PTS) (Toliver 5 AST),,,54 - 50,-4,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,301,2,1,3,4:34 PM,3:23,,,MISS Moore 26' 3PT Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,302,4,0,3,4:34 PM,3:21,Toliver REBOUND (Off:0 Def:3),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,303,5,7,3,4:34 PM,3:13,Toliver Discontinue Dribble Turnover (P2.T7),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700303,304,6,2,3,4:35 PM,2:56,Thomas S.FOUL (P3.T4),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,305,3,11,3,4:35 PM,2:56,,,MISS Brunson Free Throw 1 of 2,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,306,4,1,3,4:35 PM,2:56,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,307,3,12,3,4:35 PM,2:56,,,Brunson Free Throw 2 of 2 (3 PTS),55 - 50,-5,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,310,5,2,3,4:36 PM,2:44,Toliver Lost Ball Turnover (P3.T8),,Fowles STEAL (2 STL),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,311,2,1,3,4:36 PM,2:35,,,MISS Brunson 20' Jump Shot,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,312,4,0,3,4:36 PM,2:34,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,314,2,1,3,4:37 PM,2:10,MISS Ruffin-Pratt 16' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,315,4,0,3,4:37 PM,2:09,,,Fowles REBOUND (Off:3 Def:8),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,316,1,73,3,4:37 PM,1:47,,,Moore 3' Driving Reverse Layup (21 PTS),57 - 50,-7,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,317,5,45,3,4:37 PM,1:31,Toliver Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700303,318,8,0,3,4:37 PM,1:31,SUB: Hightower FOR Toliver,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,319,8,0,3,4:37 PM,1:31,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,321,1,1,3,4:38 PM,1:16,,,Augustus 8' Jump Shot (14 PTS),59 - 50,-9,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,322,2,1,3,4:38 PM,0:56,MISS Hawkins 12' Jump Shot,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,323,4,0,3,4:38 PM,0:55,,,Moore REBOUND (Off:0 Def:1),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,324,2,1,3,4:38 PM,0:43,,,MISS Moore 17' Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,325,4,0,3,4:38 PM,0:42,Ruffin-Pratt REBOUND (Off:0 Def:4),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,326,1,1,3,4:39 PM,0:25,Hightower 24' 3PT Jump Shot (5 PTS) (Cloud 1 AST),,,59 - 53,-6,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,328,5,4,3,4:39 PM,0:06,,,Fowles Traveling Turnover (P4.T10),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041700303,329,2,1,3,4:39 PM,0:01,MISS Cloud 17' Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,330,4,0,3,4:39 PM,0:00,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,331,13,0,3,4:39 PM,0:00,,End of 3rd Period (4:39 PM EST),,59 - 53,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,335,12,0,4,4:43 PM,10:00,,Start of 4th Period (4:43 PM EST),,59 - 53,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,336,2,1,4,4:43 PM,9:47,MISS Hightower 15' Jump Shot,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,337,4,0,4,4:43 PM,9:46,Delle Donne REBOUND (Off:4 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,338,1,72,4,4:43 PM,9:44,Delle Donne Putback Layup (13 PTS),,,59 - 55,-4,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,339,6,4,4,4:43 PM,9:32,,,Perkins OFF.Foul (P4),,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041700303,340,5,5,4,4:43 PM,9:32,,,Perkins Foul Turnover (P1.T11),,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1041700303,341,18,0,4,4:44 PM,9:32,,Support Ruling,,,,,339,Tom Gugliotta,,,,,0,0,,,,,,1,0,,,,,,0
+1041700303,342,18,2,4,4:44 PM,9:32,,Instant Replay4th Period (4:44 PM EST),,59 - 55,-4,0.0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1041700303,344,2,1,4,4:47 PM,9:19,MISS Hightower 14' Jump Shot,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,345,4,0,4,4:47 PM,9:18,Hawkins REBOUND (Off:1 Def:1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,346,1,1,4,4:48 PM,9:13,Ruffin-Pratt 16' Jump Shot (14 PTS) (Cloud 2 AST),,,59 - 57,-2,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,347,1,44,4,4:48 PM,8:52,,,Fowles 2' Reverse Layup (13 PTS) (Montgomery 4 AST),61 - 57,-4,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,348,6,2,4,4:48 PM,8:52,Hightower S.FOUL (P1.T1),,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,349,3,10,4,4:48 PM,8:52,,,MISS Fowles Free Throw 1 of 1,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,351,4,0,4,4:48 PM,8:51,,,Brunson REBOUND (Off:3 Def:1),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,352,2,1,4,4:49 PM,8:40,,,MISS Whalen 15' Jump Shot,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,353,4,0,4,4:49 PM,8:40,,,Fowles REBOUND (Off:4 Def:8),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,354,1,5,4,4:49 PM,8:37,,,Fowles 1' Layup (15 PTS),63 - 57,-6,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,355,2,1,4,4:49 PM,8:23,MISS Cloud 24' 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,356,4,0,4,4:49 PM,8:22,Delle Donne REBOUND (Off:5 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,357,8,0,4,4:49 PM,8:16,SUB: Toliver FOR Hightower,,,,,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,358,10,0,4,4:50 PM,8:16,Jump Ball Delle Donne vs. Perkins: Tip to Cloud,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1
+1041700303,360,1,83,4,4:50 PM,8:06,Cloud 7' Fadeaway Bank Shot (2 PTS),,,63 - 59,-4,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,361,6,2,4,4:50 PM,7:56,Toliver S.FOUL (P3.T2),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,362,3,11,4,4:50 PM,7:56,,,Whalen Free Throw 1 of 2 (1 PTS),64 - 59,-5,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,364,8,0,4,4:51 PM,7:56,,,SUB: Augustus FOR Montgomery,,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,365,8,0,4,4:51 PM,7:56,,,SUB: Moore FOR Perkins,,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,366,3,12,4,4:51 PM,7:56,,,Whalen Free Throw 2 of 2 (2 PTS),65 - 59,-6,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,369,8,0,4,4:51 PM,7:39,SUB: Meesseman FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,370,8,0,4,4:51 PM,7:39,SUB: Thomas FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,371,2,1,4,4:52 PM,7:37,MISS Delle Donne 14' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,372,4,0,4,4:52 PM,7:35,,,Fowles REBOUND (Off:4 Def:9),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,373,1,63,4,4:52 PM,7:18,,,Whalen 11' Fadeaway Jumper (4 PTS),67 - 59,-8,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,374,6,1,4,4:52 PM,7:01,,,Augustus P.FOUL (P3.T1),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,375,5,40,4,4:53 PM,6:56,Cloud Out of Bounds Lost Ball Turnover (P2.T10),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1041700303,377,2,1,4,4:53 PM,6:41,,,MISS Augustus 13' Jump Shot,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,378,4,0,4,4:53 PM,6:40,,,Fowles REBOUND (Off:5 Def:9),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,379,5,2,4,4:53 PM,6:38,Toliver STEAL (1 STL),,Fowles Lost Ball Turnover (P5.T12),,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,380,2,1,4,4:53 PM,6:24,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,381,4,0,4,4:53 PM,6:23,Delle Donne REBOUND (Off:6 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,382,2,1,4,4:53 PM,6:21,MISS Delle Donne 4' Jump Shot,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,383,4,0,4,4:53 PM,6:20,,,Whalen REBOUND (Off:0 Def:3),,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,384,1,79,4,4:54 PM,5:58,,,Augustus 14' Pullup Jump Shot (16 PTS),69 - 59,-10,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,385,9,2,4,4:54 PM,5:58,MYSTICS Timeout: Short (Full 3 Short 1),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,387,9,4,4,4:55 PM,5:58,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,389,8,0,4,4:57 PM,5:58,SUB: Ruffin-Pratt FOR Cloud,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,390,8,0,4,4:57 PM,5:58,,,SUB: Montgomery FOR Whalen,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,391,6,2,4,4:58 PM,5:37,,,Moore S.FOUL (P2.T2),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,392,3,11,4,4:58 PM,5:37,Thomas Free Throw 1 of 2 (7 PTS),,,69 - 60,-9,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,394,3,12,4,4:58 PM,5:37,MISS Thomas Free Throw 2 of 2,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,396,4,0,4,4:58 PM,5:36,,,Brunson REBOUND (Off:3 Def:2),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,398,2,1,4,4:59 PM,5:18,Meesseman BLOCK (3 BLK),,MISS Montgomery 27' 3PT Jump Shot,,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1041700303,399,4,0,4,4:59 PM,5:17,Ruffin-Pratt REBOUND (Off:0 Def:5),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,401,2,1,4,4:59 PM,5:06,MISS Meesseman 18' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,402,4,0,4,4:59 PM,5:05,,,Moore REBOUND (Off:0 Def:2),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,403,1,73,4,4:59 PM,4:49,,,Augustus 2' Driving Reverse Layup (18 PTS) (Moore 4 AST),71 - 60,-11,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,404,2,1,4,4:59 PM,4:36,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,405,4,0,4,4:59 PM,4:35,,,Moore REBOUND (Off:0 Def:3),,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,406,1,66,4,5:00 PM,4:18,,,Fowles 3' Jump Bank Shot (17 PTS) (Augustus 4 AST),73 - 60,-13,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,407,9,2,4,5:00 PM,4:18,MYSTICS Timeout: Short (Full 3 Short 2),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,409,8,0,4,5:00 PM,4:18,,,SUB: Whalen FOR Montgomery,,,5.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,410,2,1,4,5:01 PM,4:06,MISS Ruffin-Pratt 12' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,411,4,0,4,5:01 PM,4:04,,,Brunson REBOUND (Off:3 Def:3),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,412,2,1,4,5:01 PM,3:52,,,MISS Moore 28' 3PT Jump Shot,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,413,4,0,4,5:01 PM,3:52,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,414,2,1,4,5:02 PM,3:37,MISS Meesseman 19' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,415,4,0,4,5:02 PM,3:34,,,Augustus REBOUND (Off:0 Def:4),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,417,6,1,4,5:02 PM,3:19,Thomas P.FOUL (P4.T3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,418,6,2,4,5:02 PM,3:07,Toliver S.FOUL (P4.T4),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,419,3,11,4,5:03 PM,3:07,,,MISS Fowles Free Throw 1 of 2,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,420,4,1,4,5:03 PM,3:07,,,Lynx Rebound,,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,421,3,12,4,5:03 PM,3:07,,,MISS Fowles Free Throw 2 of 2,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,423,4,0,4,5:03 PM,3:07,Thomas REBOUND (Off:2 Def:5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,425,1,80,4,5:03 PM,3:00,Toliver 14' Step Back Jump Shot (13 PTS),,,73 - 62,-11,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,426,9,1,4,5:03 PM,3:00,,,Lynx Timeout: Regular (Reg.3 Short 1),,,3.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041700303,427,6,1,4,5:07 PM,2:41,Meesseman P.FOUL (P1.PN),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041700303,428,3,11,4,5:07 PM,2:41,,,Brunson Free Throw 1 of 2 (4 PTS),74 - 62,-12,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,430,3,12,4,5:07 PM,2:41,,,Brunson Free Throw 2 of 2 (5 PTS),75 - 62,-13,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041700303,433,1,81,4,5:07 PM,2:28,Delle Donne 4' Pullup Bank Shot (15 PTS) (Meesseman 3 AST),,,75 - 64,-11,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,434,1,1,4,5:08 PM,2:06,,,Whalen 15' Jump Shot (6 PTS) (Moore 5 AST),77 - 64,-13,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,435,2,1,4,5:08 PM,1:56,MISS Toliver 17' Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,436,4,0,4,5:08 PM,1:56,Delle Donne REBOUND (Off:7 Def:1),,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,437,6,3,4,5:08 PM,1:56,,,Brunson L.B.FOUL (P4.T3),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,439,2,1,4,5:08 PM,1:44,MISS Toliver 17' Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,440,4,0,4,5:08 PM,1:43,,,Augustus REBOUND (Off:0 Def:5),,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,441,1,1,4,5:09 PM,1:20,,,Whalen 18' Jump Shot (8 PTS),79 - 64,-15,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,442,6,3,4,5:09 PM,1:20,,,Brunson L.B.FOUL (P5.PN),,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1041700303,443,3,11,4,5:10 PM,1:20,Meesseman Free Throw 1 of 2 (7 PTS),,,79 - 65,-14,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,445,8,0,4,5:10 PM,1:20,SUB: Taylor FOR Delle Donne,,,,,4.0,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203859,Asia Taylor,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,446,8,0,4,5:10 PM,1:20,SUB: Cloud FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,447,8,0,4,5:10 PM,1:20,SUB: Walker-Kimbrough FOR Toliver,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,448,8,0,4,5:10 PM,1:20,SUB: Hightower FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041700303,449,8,0,4,5:10 PM,1:20,,,SUB: Perkins FOR Moore,,,5.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,450,8,0,4,5:10 PM,1:20,,,SUB: Jones FOR Brunson,,,5.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,1628283,Alexis Jones,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,451,8,0,4,5:10 PM,1:20,,,SUB: Zandalasini FOR Fowles,,,5.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,452,8,0,4,5:10 PM,1:20,,,SUB: Howard FOR Augustus,,,5.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,453,8,0,4,5:10 PM,1:20,,,SUB: Fagbenle FOR Whalen,,,5.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041700303,454,3,12,4,5:10 PM,1:20,Meesseman Free Throw 2 of 2 (8 PTS),,,79 - 66,-13,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041700303,457,2,1,4,5:10 PM,1:02,,,MISS Perkins 26' 3PT Jump Shot,,,5.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041700303,458,4,0,4,5:11 PM,1:01,Taylor REBOUND (Off:0 Def:1),,,,,4.0,203859,Asia Taylor,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,459,1,78,4,5:11 PM,0:53,Hightower 6' Floating Jump Shot (7 PTS),,,79 - 68,-11,4.0,202255,Allison Hightower,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,461,5,2,4,5:11 PM,0:31,Cloud STEAL (1 STL),,Jones Lost Ball Turnover (P1.T13),,,5.0,1628283,Alexis Jones,1611661324.0,Minnesota,Lynx,MIN,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1041700303,462,1,41,4,5:11 PM,0:27,Cloud 1' Running Layup (4 PTS),,,79 - 70,-9,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1041700303,464,1,82,4,5:12 PM,0:04,,,Fagbenle 6' Driving Bank Shot (2 PTS) (Zandalasini 1 AST),81 - 70,-11,5.0,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,5,1628508,Cecilia Zandalasini,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041700303,465,13,0,4,5:12 PM,0:00,,End of 4th Period (5:12 PM EST),,81 - 70,-11,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

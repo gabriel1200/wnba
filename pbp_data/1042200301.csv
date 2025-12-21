@@ -1,0 +1,346 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1042200301,2,12,0,1,3:13 PM,10:00,,Start of 1st Period (3:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,4,10,0,1,3:13 PM,10:00,Jump Ball Stokes vs. J. Jones: Tip to Young,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,1
+1042200301,7,1,6,1,3:14 PM,9:40,Wilson 4' Driving Layup (2 PTS) (Plum 1 AST),,,0 - 2,2,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,9,2,80,1,3:14 PM,9:26,,,MISS Hiedeman 21' Step Back Jump Shot,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,10,4,0,1,3:14 PM,9:23,Stokes REBOUND (Off:0 Def:1),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,11,1,1,1,3:14 PM,9:16,Young 3PT Jump Shot (3 PTS) (Plum 2 AST),,,0 - 5,5,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,13,1,1,1,3:14 PM,9:00,,,Hiedeman 25' 3PT Jump Shot (3 PTS) (J. Jones 1 AST),3 - 5,2,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,15,1,1,1,3:15 PM,8:45,Wilson 9' Jump Shot (4 PTS) (Gray 1 AST),,,3 - 7,4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,17,2,79,1,3:15 PM,8:30,,,MISS Williams 18' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,18,4,0,1,3:15 PM,8:27,Plum REBOUND (Off:0 Def:1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,19,1,6,1,3:15 PM,8:14,Wilson 3' Driving Layup (6 PTS),,,3 - 9,6,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,20,1,3,1,3:15 PM,7:56,,,Thomas 5' Hook Shot (2 PTS),5 - 9,4,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,21,1,79,1,3:16 PM,7:45,Gray 19' Pullup Jump Shot (2 PTS),,,5 - 11,6,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,22,6,14,1,3:16 PM,7:45,,,Hiedeman FLAGRANT.FOUL.TYPE1 (P1.T1),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,24,18,0,1,3:16 PM,7:45,,Instant Replay1st Period (3:16 PM EST),,5 - 11,6,0,22,Rik Smits,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,25,3,20,1,3:18 PM,7:45,Gray Free Throw Flagrant 1 of 1 (3 PTS),,,5 - 12,7,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,26,2,1,1,3:18 PM,7:35,MISS Plum 26' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,27,4,0,1,3:18 PM,7:32,,,Bonner REBOUND (Off:0 Def:1),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,28,2,5,1,3:18 PM,7:27,,,MISS Bonner 3' Layup,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,29,4,0,1,3:18 PM,7:25,Young REBOUND (Off:0 Def:1),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,30,2,1,1,3:18 PM,7:18,MISS Wilson 24' 3PT Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,31,4,0,1,3:18 PM,7:13,,,Thomas REBOUND (Off:0 Def:1),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,32,1,3,1,3:19 PM,7:00,,,Thomas 7' Hook Shot (4 PTS) (Hiedeman 1 AST),7 - 12,5,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,34,5,1,1,3:19 PM,6:44,Gray Bad Pass Turnover (P1.T1),,Williams STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,36,2,79,1,3:19 PM,6:37,,,MISS Hiedeman 15' Pullup Jump Shot,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,37,4,0,1,3:19 PM,6:34,Plum REBOUND (Off:0 Def:2),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,38,1,79,1,3:19 PM,6:26,Young 17' Pullup Jump Shot (5 PTS) (Gray 2 AST),,,7 - 14,7,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,40,2,78,1,3:19 PM,6:08,,,MISS Thomas 17' Floating Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,41,4,0,1,3:19 PM,6:05,Gray REBOUND (Off:0 Def:1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,42,6,2,1,3:20 PM,6:02,,,Williams S.FOUL (P1.T2),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,44,3,11,1,3:20 PM,6:02,Wilson Free Throw 1 of 2 (7 PTS),,,7 - 15,8,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,45,8,0,1,3:20 PM,6:02,,,SUB: Sims FOR Hiedeman,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,47,3,12,1,3:20 PM,6:02,Wilson Free Throw 2 of 2 (8 PTS),,,7 - 16,9,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,48,1,5,1,3:21 PM,5:49,,,Thomas 4' Layup (6 PTS) (Sims 1 AST),9 - 16,7,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,50,6,1,1,3:21 PM,5:31,,,Bonner P.FOUL (P1.T3),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,52,2,1,1,3:21 PM,5:19,MISS Gray 29' 3PT Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,53,4,0,1,3:22 PM,5:15,,,J. Jones REBOUND (Off:0 Def:1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,54,5,1,1,3:22 PM,5:05,Wilson STEAL (1 STL),,Sims Bad Pass Turnover (P1.T1),,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,56,1,6,1,3:22 PM,4:54,Gray 6' Driving Layup (5 PTS),,,9 - 18,9,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,57,2,1,1,3:22 PM,4:40,,,MISS Thomas 15' Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,58,4,0,1,3:22 PM,4:37,Stokes REBOUND (Off:0 Def:2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,59,5,1,1,3:22 PM,4:20,Wilson Bad Pass Turnover (P1.T2),,Bonner STEAL (1 STL),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,61,5,1,1,3:23 PM,4:14,Wilson STEAL (2 STL),,Bonner Bad Pass Turnover (P1.T2),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,63,1,79,1,3:23 PM,4:05,Gray 26' 3PT Pullup Jump Shot (8 PTS),,,9 - 21,12,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,64,9,1,1,3:23 PM,4:03,,,Sun Timeout: Regular (Reg.1 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,65,8,0,1,3:24 PM,4:03,,,SUB: B. Jones FOR Bonner,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,66,8,0,1,3:24 PM,4:03,,,SUB: Carrington FOR J. Jones,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,69,2,6,1,3:27 PM,3:43,,,MISS Carrington 2' Driving Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,70,4,0,1,3:27 PM,3:38,Stokes REBOUND (Off:0 Def:3),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,71,2,6,1,3:27 PM,3:31,MISS Young 3' Driving Layup,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,72,4,0,1,3:27 PM,3:29,,,Carrington REBOUND (Off:0 Def:1),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,73,1,103,1,3:27 PM,3:25,,,Williams 20' Running Pull-Up Jump Shot (2 PTS),11 - 21,10,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,74,6,2,1,3:27 PM,3:10,,,B. Jones S.FOUL (P1.T4),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,76,3,11,1,3:28 PM,3:10,MISS Wilson Free Throw 1 of 2,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,77,4,1,1,3:28 PM,3:10,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,78,8,0,1,3:28 PM,3:10,SUB: Williams FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,79,8,0,1,3:28 PM,3:10,SUB: Rupert FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,82,3,12,1,3:28 PM,3:10,Wilson Free Throw 2 of 2 (9 PTS),,,11 - 22,11,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,83,1,98,1,3:28 PM,2:47,,,B. Jones 3' Cutting Layup Shot (2 PTS) (Thomas 1 AST),13 - 22,9,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,85,2,98,1,3:29 PM,2:32,MISS Young 3' Cutting Layup Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,86,4,0,1,3:29 PM,2:30,,,Thomas REBOUND (Off:0 Def:2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,87,6,1,1,3:29 PM,2:28,Gray P.FOUL (P1.T1),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,89,2,79,1,3:29 PM,2:23,,,MISS Sims 18' Pullup Jump Shot,,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,90,4,0,1,3:29 PM,2:20,Gray REBOUND (Off:0 Def:2),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,91,1,93,1,3:30 PM,2:02,Wilson 6' Driving Bank Hook Shot (11 PTS),,,13 - 24,11,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,92,1,1,1,3:30 PM,1:50,,,B. Jones 17' Jump Shot (4 PTS) (Carrington 1 AST),15 - 24,9,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,94,6,1,1,3:30 PM,1:29,,,Sims P.FOUL (P1.PN),,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,96,3,11,1,3:31 PM,1:29,Wilson Free Throw 1 of 2 (12 PTS),,,15 - 25,10,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,97,8,0,1,3:31 PM,1:29,SUB: Plum FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,99,3,12,1,3:31 PM,1:29,MISS Wilson Free Throw 2 of 2,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,100,4,0,1,3:31 PM,1:27,,,Carrington REBOUND (Off:0 Def:2),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,101,2,58,1,3:31 PM,1:13,,,MISS Thomas 8' Turnaround Hook Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,102,4,0,1,3:31 PM,1:09,,,Thomas REBOUND (Off:1 Def:2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,103,2,1,1,3:31 PM,1:08,,,MISS Sims 15' Jump Shot,,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,104,4,0,1,3:31 PM,1:05,Rupert REBOUND (Off:0 Def:1),,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,105,2,79,1,3:32 PM,0:52,MISS Williams 19' Pullup Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,106,4,0,1,3:32 PM,0:50,,,Carrington REBOUND (Off:0 Def:3),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,107,1,1,1,3:32 PM,0:34,,,B. Jones 9' Jump Shot (6 PTS) (Thomas 2 AST),17 - 25,8,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,109,2,1,1,3:32 PM,0:19,MISS Rupert 3PT Jump Shot,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,110,4,0,1,3:32 PM,0:16,,,Sims REBOUND (Off:0 Def:1),,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,116,18,1,1,3:33 PM,0:00,,Instant Replay1st Period (3:33 PM EST),,17 - 25,8,0,111,LaPhonso Ellis,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,115,13,0,1,3:33 PM,0:00,,End of 1st Period (3:33 PM EST),,17 - 25,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200301,123,12,0,2,3:36 PM,10:00,,Start of 2nd Period (3:36 PM EST),,17 - 25,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,124,6,1,2,3:36 PM,9:41,Plum P.FOUL (P1.T1),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,126,1,1,2,3:37 PM,9:29,,,B. Jones 16' Jump Shot (8 PTS) (Carrington 2 AST),19 - 25,6,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,128,2,79,2,3:37 PM,9:17,MISS Plum 26' 3PT Pullup Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,129,4,0,2,3:37 PM,9:14,,,Carrington REBOUND (Off:0 Def:4),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,130,2,1,2,3:37 PM,9:06,,,MISS Williams 25' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,131,4,0,2,3:37 PM,9:03,,,J. Jones REBOUND (Off:1 Def:1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,132,1,72,2,3:37 PM,9:02,,,J. Jones 3' Putback Layup (2 PTS),21 - 25,4,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,133,2,1,2,3:38 PM,8:41,MISS Williams 3PT Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,134,4,0,2,3:38 PM,8:39,,,Williams REBOUND (Off:0 Def:1),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,135,2,1,2,3:38 PM,8:34,,,MISS Carrington 25' 3PT Jump Shot,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,136,4,0,2,3:38 PM,8:31,Stokes REBOUND (Off:0 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,137,2,79,2,3:38 PM,8:25,MISS Young 16' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,138,4,0,2,3:38 PM,8:22,,,Williams REBOUND (Off:0 Def:2),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,139,2,80,2,3:38 PM,8:15,,,MISS J. Jones 26' 3PT Step Back Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,140,4,0,2,3:38 PM,8:15,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,141,6,1,2,3:38 PM,8:15,Williams P.FOUL (P1.T2),,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,143,8,0,2,3:38 PM,8:15,SUB: Wilson FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,144,8,0,2,3:38 PM,8:15,SUB: Gray FOR Rupert,,,,,4,1630387,Iliana Rupert,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,147,5,40,2,3:39 PM,8:01,,,Carrington Out of Bounds Lost Ball Turnover (P1.T3),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042200301,149,5,1,2,3:39 PM,7:49,Gray Bad Pass Turnover (P2.T3),,B. Jones STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,151,1,41,2,3:39 PM,7:46,,,B. Jones 3' Running Layup (10 PTS),23 - 25,2,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,152,9,1,2,3:39 PM,7:43,ACES Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,153,8,0,2,3:42 PM,7:43,,,SUB: Bonner FOR Carrington,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,155,2,1,2,3:43 PM,7:37,MISS Plum 26' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,156,4,0,2,3:43 PM,7:33,Stokes REBOUND (Off:1 Def:4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,157,5,1,2,3:43 PM,7:30,Wilson Bad Pass Turnover (P2.T4),,Hiedeman STEAL (1 STL),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,159,2,103,2,3:43 PM,7:25,,,MISS Hiedeman 25' 3PT Running Pull-Up Jump Shot,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,160,4,0,2,3:43 PM,7:24,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,161,6,1,2,3:43 PM,7:24,Gray P.FOUL (P2.T3),,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,163,2,73,2,3:43 PM,7:09,,,MISS B. Jones 4' Driving Reverse Layup,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,164,4,0,2,3:43 PM,7:08,Wilson REBOUND (Off:0 Def:1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,165,6,2,2,3:44 PM,7:00,,,Williams S.FOUL (P2.T1),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,167,3,11,2,3:44 PM,7:00,Plum Free Throw 1 of 2 (1 PTS),,,23 - 26,3,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,168,8,0,2,3:44 PM,7:00,SUB: Young FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,170,3,12,2,3:44 PM,7:00,Plum Free Throw 2 of 2 (2 PTS),,,23 - 27,4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200301,171,1,1,2,3:45 PM,6:44,,,Bonner 25' 3PT Jump Shot (3 PTS) (J. Jones 2 AST),26 - 27,1,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,173,1,6,2,3:45 PM,6:31,Young 3' Driving Layup (7 PTS),,,26 - 29,3,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,174,2,1,2,3:45 PM,6:15,,,MISS B. Jones 19' Jump Shot,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,175,4,0,2,3:45 PM,6:11,Stokes REBOUND (Off:1 Def:5),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,176,2,103,2,3:45 PM,6:06,MISS Plum 27' 3PT Running Pull-Up Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,177,4,0,2,3:45 PM,6:06,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,179,2,79,2,3:46 PM,5:56,,,MISS Williams 16' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,180,4,0,2,3:46 PM,5:52,,,Hiedeman REBOUND (Off:1 Def:0),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,182,1,5,2,3:46 PM,5:44,,,J. Jones 3' Layup (4 PTS) (Bonner 1 AST),28 - 29,1,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,184,6,2,2,3:46 PM,5:44,Stokes S.FOUL (P1.T4),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,186,3,10,2,3:46 PM,5:44,,,MISS J. Jones Free Throw 1 of 1,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,188,8,0,2,3:46 PM,5:44,,,SUB: Thomas FOR B. Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,187,4,0,2,3:46 PM,5:41,Stokes REBOUND (Off:1 Def:6),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,190,2,1,2,3:47 PM,5:19,MISS Gray 27' 3PT Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,191,4,0,2,3:47 PM,5:18,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,192,5,11,2,3:47 PM,5:18,ACES Turnover: Shot Clock (T#5),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,193,1,1,2,3:47 PM,5:04,,,J. Jones 4' Jump Shot (6 PTS) (Bonner 2 AST),30 - 29,-1,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,195,2,1,2,3:48 PM,4:46,MISS Wilson 15' Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,196,4,0,2,3:48 PM,4:45,,,Williams REBOUND (Off:0 Def:3),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,197,5,45,2,3:48 PM,4:36,,,Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042200301,199,1,79,2,3:48 PM,4:17,Gray 27' 3PT Pullup Jump Shot (11 PTS),,,30 - 32,2,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,200,1,58,2,3:49 PM,3:57,,,Thomas 7' Turnaround Hook Shot (8 PTS) (Hiedeman 2 AST),32 - 32,TIE,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,202,2,6,2,3:49 PM,3:43,MISS Plum 4' Driving Layup,,J. Jones BLOCK (1 BLK),,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1042200301,204,4,0,2,3:49 PM,3:39,,,J. Jones REBOUND (Off:1 Def:2),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,205,2,6,2,3:49 PM,3:31,,,MISS Hiedeman 3' Driving Layup,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,206,4,0,2,3:49 PM,3:31,,,Hiedeman REBOUND (Off:2 Def:0),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,207,6,2,2,3:49 PM,3:31,Young S.FOUL (P1.PN),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,209,3,11,2,3:50 PM,3:31,,,Hiedeman Free Throw 1 of 2 (4 PTS),33 - 32,-1,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,210,8,0,2,3:50 PM,3:31,SUB: Williams FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,212,3,12,2,3:50 PM,3:31,,,Hiedeman Free Throw 2 of 2 (5 PTS),34 - 32,-2,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042200301,213,2,1,2,3:50 PM,3:06,MISS Wilson 19' Jump Shot,,Thomas BLOCK (1 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042200301,215,4,0,2,3:50 PM,3:02,,,Hiedeman REBOUND (Off:2 Def:1),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,216,2,43,2,3:50 PM,3:01,,,MISS Bonner 3' Alley Oop Layup,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,217,4,0,2,3:50 PM,2:57,,,J. Jones REBOUND (Off:2 Def:2),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,218,2,72,2,3:50 PM,2:56,,,MISS J. Jones 3' Putback Layup,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,219,4,0,2,3:50 PM,2:56,,,J. Jones REBOUND (Off:3 Def:2),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,220,2,80,2,3:51 PM,2:49,,,MISS Bonner 3PT Step Back Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,221,4,0,2,3:51 PM,2:47,,,Thomas REBOUND (Off:2 Def:2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,222,2,5,2,3:51 PM,2:46,Wilson BLOCK (1 BLK),,MISS J. Jones 21' Layup,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200301,224,4,0,2,3:51 PM,2:45,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,225,9,4,2,3:51 PM,2:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,226,5,1,2,3:54 PM,2:27,Gray Bad Pass Turnover (P3.T6),,Bonner STEAL (2 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,228,2,102,2,3:55 PM,2:10,,,MISS Bonner 9' Driving Floating Bank Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,229,4,0,2,3:55 PM,2:09,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,230,2,6,2,3:55 PM,1:48,MISS Wilson 8' Driving Layup,,Thomas BLOCK (2 BLK),,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042200301,232,4,0,2,3:55 PM,1:48,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,233,9,1,2,3:56 PM,1:34,,,Sun Timeout: Regular (Reg.2 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,234,7,5,2,3:57 PM,1:29,Stokes Violation:Kicked Ball,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,0
+1042200301,235,2,79,2,3:57 PM,1:23,,,MISS Williams 9' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,236,4,0,2,3:58 PM,1:19,Wilson REBOUND (Off:0 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,237,2,47,2,3:58 PM,0:58,MISS Gray 8' Turnaround Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,238,4,0,2,3:58 PM,0:52,Stokes REBOUND (Off:2 Def:6),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,239,2,97,2,3:58 PM,0:52,MISS Stokes 1' Tip Layup Shot,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,240,4,0,2,3:58 PM,0:50,,,J. Jones REBOUND (Off:3 Def:3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,241,2,79,2,3:58 PM,0:43,,,MISS Williams 18' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,242,4,0,2,3:58 PM,0:39,,,Thomas REBOUND (Off:3 Def:2),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,243,1,72,2,3:58 PM,0:39,,,Thomas 3' Putback Layup (10 PTS),36 - 32,-4,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,244,9,1,2,3:59 PM,0:26,ACES Timeout: Regular (Full 2 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,245,8,0,2,4:00 PM,0:26,SUB: Plum FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,247,6,1,2,4:00 PM,0:19,,,Hiedeman P.FOUL (P2.T2),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,249,1,6,2,4:01 PM,0:14,Young 5' Driving Layup (9 PTS),,,36 - 34,-2,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,250,1,43,2,4:01 PM,0:00,,,J. Jones 3' Alley Oop Layup (8 PTS) (Thomas 3 AST),38 - 34,-4,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,252,13,0,2,4:01 PM,0:00,,End of 2nd Period (4:01 PM EST),,38 - 34,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200301,253,12,0,3,4:17 PM,10:00,,Start of 3rd Period (4:17 PM EST),,38 - 34,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,254,1,1,3,4:18 PM,9:42,,,J. Jones 25' 3PT Jump Shot (11 PTS) (Hiedeman 3 AST),41 - 34,-7,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,256,6,2,3,4:18 PM,9:21,,,Thomas S.FOUL (P1.T1),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,258,3,11,3,4:18 PM,9:21,Wilson Free Throw 1 of 2 (13 PTS),,,41 - 35,-6,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,259,3,12,3,4:19 PM,9:21,Wilson Free Throw 2 of 2 (14 PTS),,,41 - 36,-5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,260,1,1,3,4:19 PM,9:04,,,Williams 24' 3PT Jump Shot (5 PTS) (Bonner 3 AST),44 - 36,-8,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,262,1,79,3,4:19 PM,8:39,Gray 12' Pullup Jump Shot (13 PTS) (Young 1 AST),,,44 - 38,-6,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,264,5,8,3,4:20 PM,8:22,,,J. Jones 3 Second Violation Turnover (P1.T5),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042200301,265,2,1,3,4:20 PM,8:05,MISS Plum 24' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,266,4,0,3,4:20 PM,8:04,Wilson REBOUND (Off:1 Def:2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,267,6,2,3,4:20 PM,8:04,,,Williams S.FOUL (P3.T2),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,269,3,11,3,4:21 PM,8:04,Wilson Free Throw 1 of 2 (15 PTS),,,44 - 39,-5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,270,3,12,3,4:21 PM,8:04,Wilson Free Throw 2 of 2 (16 PTS),,,44 - 40,-4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,271,2,1,3,4:21 PM,7:52,,,MISS Thomas 15' Jump Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,272,4,0,3,4:21 PM,7:49,Wilson REBOUND (Off:1 Def:3),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,273,2,1,3,4:21 PM,7:40,MISS Young 26' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,274,4,0,3,4:21 PM,7:38,,,Thomas REBOUND (Off:3 Def:3),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,275,1,101,3,4:22 PM,7:24,,,Hiedeman 7' Driving Floating Jump Shot (7 PTS),46 - 40,-6,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,276,5,1,3,4:22 PM,7:04,Gray Bad Pass Turnover (P4.T7),,Thomas STEAL (1 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,278,2,2,3,4:22 PM,6:57,,,MISS Hiedeman 3PT Running Jump Shot,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,279,4,0,3,4:22 PM,6:55,Wilson REBOUND (Off:1 Def:4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,280,6,2,3,4:22 PM,6:40,,,J. Jones S.FOUL (P1.T3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,282,3,11,3,4:23 PM,6:40,Wilson Free Throw 1 of 2 (17 PTS),,,46 - 41,-5,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,283,3,12,3,4:23 PM,6:40,Wilson Free Throw 2 of 2 (18 PTS),,,46 - 42,-4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,285,2,79,3,4:24 PM,6:16,,,MISS Williams 18' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,286,4,0,3,4:24 PM,6:13,,,Thomas REBOUND (Off:4 Def:3),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,287,5,11,3,4:24 PM,6:00,,,Sun Turnover: Shot Clock (T#6),,,3,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,288,2,80,3,4:25 PM,5:49,MISS Plum 21' Step Back Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,289,4,0,3,4:25 PM,5:46,,,Thomas REBOUND (Off:4 Def:4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,290,1,41,3,4:25 PM,5:41,,,J. Jones 5' Running Layup (13 PTS) (Thomas 4 AST),48 - 42,-6,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,292,1,79,3,4:25 PM,5:20,Gray 15' Pullup Jump Shot (15 PTS),,,48 - 44,-4,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,293,2,1,3,4:25 PM,4:56,,,MISS J. Jones 26' 3PT Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,294,4,0,3,4:25 PM,4:54,,,Thomas REBOUND (Off:5 Def:4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,295,1,44,3,4:26 PM,4:49,,,Thomas 5' Reverse Layup (12 PTS),50 - 44,-6,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,296,5,45,3,4:26 PM,4:33,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200301,298,9,4,3,4:26 PM,4:33,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,299,8,0,3,4:28 PM,4:33,SUB: Williams FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,300,8,0,3,4:28 PM,4:33,SUB: Hamby FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,303,2,1,3,4:30 PM,4:19,,,MISS J. Jones 15' Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,304,4,0,3,4:30 PM,4:16,Young REBOUND (Off:0 Def:2),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,305,1,79,3,4:30 PM,3:56,Gray 17' Pullup Jump Shot (17 PTS),,,50 - 46,-4,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,306,2,58,3,4:30 PM,3:36,,,MISS Thomas 7' Turnaround Hook Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,307,4,0,3,4:31 PM,3:35,,,J. Jones REBOUND (Off:4 Def:3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,308,6,1,3,4:31 PM,3:35,Wilson P.FOUL (P1.T1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,310,5,11,3,4:31 PM,3:20,,,Sun Turnover: Shot Clock (T#7),,,3,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,311,2,79,3,4:32 PM,3:06,MISS Gray 10' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,312,4,0,3,4:32 PM,3:01,Hamby REBOUND (Off:1 Def:0),,,,,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,313,1,72,3,4:32 PM,3:00,Hamby 3' Putback Layup (2 PTS),,,50 - 48,-2,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,314,1,78,3,4:32 PM,2:44,,,J. Jones 10' Floating Jump Shot (15 PTS) (Bonner 4 AST),52 - 48,-4,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,316,1,1,3,4:32 PM,2:23,Williams 3PT Jump Shot (3 PTS) (Hamby 1 AST),,,52 - 51,-1,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,318,5,1,3,4:33 PM,2:07,Hamby STEAL (1 STL),,Williams Bad Pass Turnover (P1.T8),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,320,7,5,3,4:33 PM,1:56,,,Bonner Violation:Kicked Ball,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1042200301,322,8,0,3,4:33 PM,1:56,,,SUB: B. Jones FOR J. Jones,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,329,8,0,3,4:33 PM,1:56,,,SUB: Carrington FOR Bonner,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,325,2,1,3,4:33 PM,1:52,MISS Young 25' 3PT Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,326,4,0,3,4:33 PM,1:46,Hamby REBOUND (Off:2 Def:0),,,,,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,327,6,2,3,4:33 PM,1:43,,,Thomas S.FOUL (P2.T4),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,330,3,11,3,4:34 PM,1:43,Wilson Free Throw 1 of 2 (19 PTS),,,52 - 52,TIE,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,331,3,12,3,4:34 PM,1:43,Wilson Free Throw 2 of 2 (20 PTS),,,52 - 53,1,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,332,2,5,3,4:34 PM,1:21,,,MISS B. Jones 4' Layup,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,333,4,0,3,4:35 PM,1:19,Young REBOUND (Off:0 Def:3),,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,334,2,1,3,4:35 PM,1:12,MISS Williams 25' 3PT Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,335,4,0,3,4:35 PM,1:08,,,Thomas REBOUND (Off:5 Def:5),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,336,6,2,3,4:35 PM,1:03,Wilson S.FOUL (P2.T2),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,338,3,11,3,4:35 PM,1:03,,,MISS Thomas Free Throw 1 of 2,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,339,4,1,3,4:35 PM,1:03,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,340,8,0,3,4:35 PM,1:03,SUB: Plum FOR Gray,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,341,8,0,3,4:35 PM,1:03,,,SUB: Sims FOR Hiedeman,,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,344,3,12,3,4:36 PM,1:03,,,Thomas Free Throw 2 of 2 (13 PTS),53 - 53,TIE,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,345,2,79,3,4:36 PM,0:42,MISS Williams 13' Pullup Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,346,4,0,3,4:36 PM,0:39,Wilson REBOUND (Off:2 Def:4),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,347,1,79,3,4:36 PM,0:39,Wilson 6' Pullup Jump Shot (22 PTS),,,53 - 55,2,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,348,2,3,3,4:36 PM,0:25,,,MISS Thomas 8' Hook Shot,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,349,4,0,3,4:36 PM,0:23,Plum REBOUND (Off:0 Def:3),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,350,2,1,3,4:37 PM,0:01,MISS Wilson 25' 3PT Jump Shot,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,351,4,0,3,4:37 PM,0:01,,,B. Jones REBOUND (Off:0 Def:1),,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,352,13,0,3,4:37 PM,0:00,,End of 3rd Period (4:37 PM EST),,53 - 55,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1042200301,353,12,0,4,4:40 PM,10:00,,Start of 4th Period (4:40 PM EST),,53 - 55,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,354,2,1,4,4:41 PM,9:35,MISS Plum 24' 3PT Jump Shot,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,355,4,0,4,4:41 PM,9:34,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,357,2,75,4,4:41 PM,9:15,,,MISS Carrington 7' Driving Finger Roll Layup,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,358,4,0,4,4:41 PM,9:13,Hamby REBOUND (Off:2 Def:1),,,,,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,359,2,79,4,4:41 PM,9:08,MISS Young 17' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,360,4,0,4,4:41 PM,9:06,,,Carrington REBOUND (Off:0 Def:5),,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,361,2,78,4,4:42 PM,8:51,,,MISS Williams 14' Floating Jump Shot,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,362,4,0,4,4:42 PM,8:50,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,364,8,0,4,4:42 PM,8:50,SUB: Gray FOR Young,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,366,1,79,4,4:42 PM,8:31,Gray 17' Pullup Jump Shot (19 PTS),,,53 - 57,4,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,368,8,0,4,4:42 PM,8:17,,,SUB: Bonner FOR Carrington,,,5,1630096,DiJonai Carrington,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,370,5,11,4,4:43 PM,8:02,,,Sun Turnover: Shot Clock (T#9),,,3,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,371,2,79,4,4:43 PM,7:45,MISS Gray 17' Pullup Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,372,4,0,4,4:44 PM,7:42,,,Sims REBOUND (Off:0 Def:2),,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,373,1,41,4,4:44 PM,7:37,,,B. Jones 8' Running Layup (12 PTS) (Thomas 5 AST),55 - 57,2,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,375,2,1,4,4:44 PM,7:24,MISS Williams 25' 3PT Jump Shot,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,376,4,0,4,4:44 PM,7:23,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,377,8,0,4,4:44 PM,7:23,,,SUB: Hiedeman FOR Williams,,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,379,2,6,4,4:44 PM,7:10,,,MISS Sims 3' Driving Layup,,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,380,4,0,4,4:44 PM,7:07,Plum REBOUND (Off:0 Def:4),,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,381,2,1,4,4:45 PM,6:49,MISS Gray 30' 3PT Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,382,4,0,4,4:45 PM,6:46,,,Bonner REBOUND (Off:0 Def:2),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,383,2,6,4,4:45 PM,6:35,Wilson BLOCK (2 BLK),,MISS Bonner 4' Driving Layup,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200301,385,4,0,4,4:45 PM,6:30,Wilson REBOUND (Off:2 Def:5),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,386,1,98,4,4:45 PM,6:26,Wilson 4' Cutting Layup Shot (24 PTS) (Hamby 2 AST),,,55 - 59,4,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,388,9,1,4,4:45 PM,6:26,,,Sun Timeout: Regular (Reg.3 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,389,8,0,4,4:47 PM,6:26,SUB: Young FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,390,8,0,4,4:47 PM,6:26,SUB: Stokes FOR Hamby,,,,,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,391,8,0,4,4:47 PM,6:26,,,SUB: J. Jones FOR Sims,,,5,203824,Odyssey Sims,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,395,2,1,4,4:49 PM,6:09,,,MISS B. Jones 11' Jump Shot,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,396,4,0,4,4:49 PM,6:05,,,J. Jones REBOUND (Off:5 Def:3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,397,2,5,4,4:49 PM,5:58,Wilson BLOCK (3 BLK),,MISS Thomas 8' Layup,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200301,399,4,0,4,4:49 PM,5:53,,,J. Jones REBOUND (Off:6 Def:3),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,400,2,72,4,4:49 PM,5:52,,,MISS J. Jones 6' Putback Layup,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,401,4,0,4,4:49 PM,5:52,Wilson REBOUND (Off:2 Def:6),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,402,6,1,4,4:49 PM,5:52,,,J. Jones P.FOUL (P2.T1),,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,404,10,0,4,4:50 PM,5:40,Jump Ball Wilson vs. B. Jones: Tip to Wilson,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200301,407,5,11,4,4:51 PM,5:27,ACES Turnover: Shot Clock (T#9),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1042200301,408,1,1,4,4:51 PM,5:17,,,Hiedeman 3PT Jump Shot (10 PTS) (Bonner 5 AST),58 - 59,1,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,410,6,4,4,4:51 PM,5:06,Stokes OFF.Foul (P2),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,412,5,37,4,4:51 PM,5:06,Stokes Offensive Foul Turnover (P1.T10),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1,0,,,,,,1
+1042200301,413,2,5,4,4:52 PM,4:50,Wilson BLOCK (4 BLK),,MISS B. Jones 6' Layup,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,1
+1042200301,418,4,0,4,4:52 PM,4:48,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,415,10,0,4,4:53 PM,4:48,,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,2,1611661319,,,,,,1
+1042200301,419,1,79,4,4:53 PM,4:30,Plum 25' 3PT Pullup Jump Shot (5 PTS),,,58 - 62,4,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,420,2,47,4,4:53 PM,4:11,,,MISS J. Jones 20' Turnaround Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,421,4,0,4,4:53 PM,4:09,Wilson REBOUND (Off:2 Def:7),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,422,1,63,4,4:54 PM,3:53,Gray 13' Fadeaway Jumper (21 PTS),,,58 - 64,6,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,423,9,2,4,4:54 PM,3:52,,,Sun Timeout: Short (Reg.3 Short 1),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,424,2,1,4,4:55 PM,3:30,,,MISS J. Jones 26' 3PT Jump Shot,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,425,4,0,4,4:55 PM,3:30,ACES Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,426,7,4,4,4:56 PM,3:30,,,B. Jones Violation:Jump Ball,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1042200301,427,2,1,4,4:56 PM,3:16,MISS Gray 27' 3PT Jump Shot,,,,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,428,4,0,4,4:56 PM,3:14,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,429,8,0,4,4:57 PM,3:14,,,SUB: Williams FOR B. Jones,,,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1042200301,431,6,1,4,4:57 PM,3:01,Wilson P.FOUL (P3.T1),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1042200301,433,8,0,4,4:57 PM,3:01,SUB: Hamby FOR Stokes,,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,435,2,1,4,4:57 PM,2:53,,,MISS Bonner 28' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,436,4,0,4,4:58 PM,2:49,Wilson REBOUND (Off:2 Def:8),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,437,1,79,4,4:58 PM,2:40,Young 4' Pullup Jump Shot (11 PTS) (Gray 3 AST),,,58 - 66,8,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,1
+1042200301,439,1,6,4,4:58 PM,2:15,,,Thomas 7' Driving Layup (15 PTS),60 - 66,6,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,440,6,2,4,4:59 PM,1:52,,,Hiedeman S.FOUL (P3.T2),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,442,9,4,4,4:59 PM,1:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,443,3,11,4,5:02 PM,1:52,Plum Free Throw 1 of 2 (6 PTS),,,60 - 67,7,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,444,3,12,4,5:02 PM,1:52,MISS Plum Free Throw 2 of 2,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,0
+1042200301,445,4,0,4,5:02 PM,1:49,,,Thomas REBOUND (Off:5 Def:6),,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1042200301,446,2,1,4,5:03 PM,1:44,,,MISS Bonner 29' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,447,4,0,4,5:03 PM,1:40,Wilson REBOUND (Off:2 Def:9),,,,,4,1628932,A'ja Wilson,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,448,5,2,4,5:03 PM,1:26,Gray Lost Ball Turnover (P5.T11),,Thomas STEAL (2 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,450,1,41,4,5:03 PM,1:24,,,Thomas 4' Running Layup (17 PTS),62 - 67,5,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,451,2,79,4,5:03 PM,1:04,MISS Young 13' Pullup Jump Shot,,,,,4,1629498,Jackie Young,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,452,4,0,4,5:03 PM,1:00,,,Bonner REBOUND (Off:0 Def:3),,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,453,6,4,4,5:03 PM,0:57,,,Williams OFF.Foul (P4),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,1,0,,,,,,1
+1042200301,455,5,37,4,5:03 PM,0:57,,,Williams Offensive Foul Turnover (P2.T10),,,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1042200301,456,5,1,4,5:04 PM,0:37,Gray Bad Pass Turnover (P6.T12),,Thomas STEAL (3 STL),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1042200301,458,1,41,4,5:04 PM,0:34,,,Thomas 5' Running Layup (19 PTS),64 - 67,3,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,459,9,2,4,5:05 PM,0:34,ACES Timeout: Short (Full 2 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,460,8,0,4,5:05 PM,0:34,SUB: Williams FOR Hamby,,,,,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,462,2,79,4,5:06 PM,0:17,MISS Gray 27' 3PT Pullup Jump Shot,,Thomas BLOCK (3 BLK),,,4,203833,Chelsea Gray,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1042200301,464,4,0,4,5:06 PM,0:13,,,Hiedeman REBOUND (Off:2 Def:2),,,5,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,465,9,1,4,5:06 PM,0:13,,,Sun Timeout: Regular (Reg.4 Short 1),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1042200301,466,8,0,4,5:07 PM,0:13,SUB: Stokes FOR Plum,,,,,4,1628276,Kelsey Plum,1611661319.0,Las Vegas,Aces,LVA,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,467,8,0,4,5:07 PM,0:13,SUB: Hamby FOR Williams,,,,,4,203029,Riquna Williams,1611661319.0,Las Vegas,Aces,LVA,4,204324,Dearica Hamby,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0
+1042200301,470,2,1,4,5:08 PM,0:02,,,MISS Bonner 25' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1042200301,471,4,0,4,5:08 PM,0:00,Stokes REBOUND (Off:2 Def:7),,,,,4,204329,Kiah Stokes,1611661319.0,Las Vegas,Aces,LVA,0,0,,,,,,0,0,,,,,,1
+1042200301,472,13,0,4,5:08 PM,0:00,,End of 4th Period (5:08 PM EST),,64 - 67,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

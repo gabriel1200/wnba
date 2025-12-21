@@ -1,0 +1,425 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041600312,0,12,0,1,10:12 PM,10:00,,Start of 1st Period (10:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,1,10,0,1,10:12 PM,10:00,Jump Ball Ogwumike vs. McGee-Stafford: Tip to Toliver,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600312,2,2,1,1,10:12 PM,9:44,MISS Ogwumike 14' Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,3,4,0,1,10:12 PM,9:43,,,McGee-Stafford REBOUND (Off:0 Def:1),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,5,1,42,1,10:12 PM,9:36,,,Young 1' Driving Layup (2 PTS) (Vandersloot 1 AST),2 - 0,-2,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,6,2,1,1,10:12 PM,9:28,MISS Toliver 11' Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,7,4,0,1,10:12 PM,9:27,,,Breland REBOUND (Off:0 Def:1),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,8,1,1,1,10:13 PM,9:17,,,Young 15' Jump Shot (4 PTS) (Breland 1 AST),4 - 0,-4,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,9,7,1,1,10:13 PM,9:13,,,Sky Violation: Delay of game Violation,,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,10,6,2,1,10:13 PM,8:59,,,Young S.FOUL (P1.T1),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,11,3,11,1,10:13 PM,8:59,Parker Free Throw 1 of 2 (1 PTS),,,4 - 1,-3,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,13,3,12,1,10:13 PM,8:59,MISS Parker Free Throw 2 of 2,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,15,4,0,1,10:14 PM,8:57,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,16,10,0,1,10:15 PM,8:43,Jump Ball Toliver vs. McGee-Stafford: Tip to,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,3,1611661329,,,,,,1
+1041600312,20,7,4,1,10:15 PM,8:43,Toliver Violation:Jump Ball,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1041600312,17,2,1,1,10:15 PM,8:31,,,MISS Breland 7' Jump Shot,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,18,4,0,1,10:15 PM,8:29,Parker REBOUND (Off:0 Def:1),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,19,6,1,1,10:16 PM,8:22,,,Vandersloot P.FOUL (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,21,5,1,1,10:16 PM,8:17,Carson Bad Pass Turnover (P1.T1),,Vandersloot STEAL (1 STL),,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,22,2,3,1,10:16 PM,8:07,,,MISS McGee-Stafford 5' Hook Shot,,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,23,4,0,1,10:16 PM,8:05,Parker REBOUND (Off:0 Def:2),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,24,1,1,1,10:16 PM,8:00,Parker 18' Jump Shot (3 PTS),,,4 - 3,-1,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,25,2,1,1,10:16 PM,7:50,,,MISS Pondexter 18' Jump Shot,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,26,4,0,1,10:16 PM,7:49,Parker REBOUND (Off:0 Def:3),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,28,2,5,1,10:17 PM,7:42,MISS Ogwumike 2' Layup,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,29,4,0,1,10:17 PM,7:41,,,Breland REBOUND (Off:0 Def:2),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,30,1,42,1,10:17 PM,7:37,,,Pondexter 2' Driving Layup (2 PTS),6 - 3,-3,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,31,6,2,1,10:17 PM,7:37,Toliver S.FOUL (P1.T1),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,32,3,10,1,10:17 PM,7:37,,,Pondexter Free Throw 1 of 1 (3 PTS),7 - 3,-4,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,35,2,1,1,10:17 PM,7:24,MISS Toliver 24' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,36,4,0,1,10:17 PM,7:23,,,Young REBOUND (Off:0 Def:1),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,38,2,79,1,10:18 PM,7:15,,,MISS Young 19' Pullup Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,39,4,0,1,10:18 PM,7:13,Carson REBOUND (Off:0 Def:1),,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,40,2,5,1,10:18 PM,7:03,MISS Beard 1' Layup,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,41,4,0,1,10:18 PM,7:02,Beard REBOUND (Off:1 Def:0),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,42,1,1,1,10:18 PM,6:55,Toliver 24' 3PT Jump Shot (3 PTS) (Parker 1 AST),,,7 - 6,-1,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,43,1,1,1,10:18 PM,6:38,,,Breland 16' Jump Shot (2 PTS) (Vandersloot 2 AST),9 - 6,-3,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,44,1,1,1,10:18 PM,6:24,Carson  3PT Jump Shot (3 PTS) (Parker 2 AST),,,9 - 9,TIE,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,45,6,2,1,10:19 PM,6:14,Ogwumike S.FOUL (P1.T2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,46,3,11,1,10:19 PM,6:14,,,Pondexter Free Throw 1 of 2 (4 PTS),10 - 9,-1,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,48,3,12,1,10:19 PM,6:14,,,Pondexter Free Throw 2 of 2 (5 PTS),11 - 9,-2,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,50,1,47,1,10:20 PM,5:53,Ogwumike 5' Turnaround Jump Shot (2 PTS) (Parker 3 AST),,,11 - 11,TIE,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,51,6,2,1,10:20 PM,5:45,Beard S.FOUL (P1.T3),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,52,3,11,1,10:20 PM,5:45,,,Vandersloot Free Throw 1 of 2 (1 PTS),12 - 11,-1,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,54,3,12,1,10:20 PM,5:45,,,Vandersloot Free Throw 2 of 2 (2 PTS),13 - 11,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,56,1,98,1,10:21 PM,5:33,Parker 1' Cutting Layup Shot (5 PTS) (Ogwumike 1 AST),,,13 - 13,TIE,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,57,5,1,1,10:21 PM,5:26,Ogwumike STEAL (1 STL),,Vandersloot Bad Pass Turnover (P1.T1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,58,5,4,1,10:21 PM,5:20,Carson Traveling Turnover (P2.T2),,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1041600312,59,2,79,1,10:21 PM,5:06,,,MISS Breland 19' Pullup Jump Shot,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,60,4,0,1,10:21 PM,5:04,Parker REBOUND (Off:0 Def:4),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,61,2,1,1,10:22 PM,4:57,MISS Parker 24' 3PT Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,62,4,0,1,10:22 PM,4:56,Ogwumike REBOUND (Off:1 Def:0),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,63,1,44,1,10:22 PM,4:54,Ogwumike 1' Reverse Layup (4 PTS),,,13 - 15,2,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,64,2,1,1,10:22 PM,4:45,,,MISS Pondexter 17' Jump Shot,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,65,4,0,1,10:22 PM,4:43,Parker REBOUND (Off:0 Def:5),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,66,6,2,1,10:22 PM,4:39,,,Vandersloot S.FOUL (P2.T3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,67,9,4,1,10:22 PM,4:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,69,8,0,1,10:24 PM,4:39,SUB: Gray FOR Carson,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,71,8,0,1,10:25 PM,4:39,,,SUB: Faulkner FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,72,3,11,1,10:26 PM,4:39,Beard Free Throw 1 of 2 (1 PTS),,,13 - 16,3,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,74,3,12,1,10:26 PM,4:39,Beard Free Throw 2 of 2 (2 PTS),,,13 - 17,4,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,76,5,2,1,10:26 PM,4:27,Beard STEAL (1 STL),,McGee-Stafford Lost Ball Turnover (P1.T2),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,77,2,5,1,10:26 PM,4:21,MISS Beard 2' Layup,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,78,10,0,1,10:27 PM,4:21,Jump Ball Ogwumike vs. Breland: Tip to,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,2,1611661320,,,,,,1
+1041600312,79,4,0,1,10:27 PM,4:21,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,80,8,0,1,10:27 PM,4:19,SUB: Lavender FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,81,2,5,1,10:27 PM,4:08,MISS Parker 1' Layup,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,82,4,0,1,10:27 PM,4:07,Parker REBOUND (Off:1 Def:5),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,83,6,2,1,10:27 PM,4:06,,,Breland S.FOUL (P1.T4),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,84,3,11,1,10:28 PM,4:06,MISS Parker Free Throw 1 of 2,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,85,4,1,1,10:28 PM,4:06,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,86,8,0,1,10:28 PM,4:06,,,SUB: Quigley FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,87,3,12,1,10:28 PM,4:06,Parker Free Throw 2 of 2 (6 PTS),,,13 - 18,5,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,89,2,1,1,10:28 PM,3:48,,,MISS Quigley 6' Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,90,4,0,1,10:28 PM,3:46,,,McGee-Stafford REBOUND (Off:1 Def:1),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,91,2,5,1,10:28 PM,3:44,,,MISS McGee-Stafford 1' Layup,,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,92,4,0,1,10:29 PM,3:43,Lavender REBOUND (Off:0 Def:1),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,93,2,1,1,10:29 PM,3:38,MISS Toliver 24' 3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,94,4,0,1,10:29 PM,3:36,Toliver REBOUND (Off:1 Def:0),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,95,1,1,1,10:29 PM,3:25,Lavender 19' Jump Shot (2 PTS) (Gray 1 AST),,,13 - 20,7,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,96,6,1,1,10:29 PM,3:16,Gray P.FOUL (P1.T4),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,97,8,0,1,10:29 PM,3:16,,,SUB: Parker FOR McGee-Stafford,,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,98,8,0,1,10:29 PM,3:16,,,SUB: de Souza FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,99,1,1,1,10:30 PM,2:58,,,Pondexter  3PT Jump Shot (8 PTS) (Quigley 1 AST),16 - 20,4,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,100,1,1,1,10:30 PM,2:38,Gray 24' 3PT Jump Shot (3 PTS) (Toliver 1 AST),,,16 - 23,7,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,101,1,5,1,10:30 PM,2:26,,,de Souza 3' Layup (2 PTS) (Quigley 2 AST),18 - 23,5,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,102,2,1,1,10:30 PM,2:14,MISS Toliver  3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,103,4,0,1,10:30 PM,2:12,,,de Souza REBOUND (Off:0 Def:1),,,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,104,1,1,1,10:31 PM,2:00,,,Quigley  3PT Jump Shot (3 PTS) (Faulkner 1 AST),21 - 23,2,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,105,1,66,1,10:31 PM,1:45,Parker 13' Jump Bank Shot (8 PTS) (Toliver 2 AST),,,21 - 25,4,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,106,2,1,1,10:31 PM,1:27,,,MISS Quigley 14' Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,107,4,0,1,10:31 PM,1:27,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,108,8,0,1,10:31 PM,1:27,SUB: Carson FOR Beard,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,109,8,0,1,10:31 PM,1:27,SUB: Ogwumike FOR Parker,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,110,2,1,1,10:32 PM,1:15,MISS Carson  3PT Jump Shot,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,111,4,0,1,10:32 PM,1:13,,,Quigley REBOUND (Off:0 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,112,1,98,1,10:32 PM,1:01,,,de Souza 1' Cutting Layup Shot (4 PTS) (Parker 1 AST),23 - 25,2,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,113,5,45,1,10:32 PM,0:45,Gray Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,114,8,0,1,10:32 PM,0:45,,,SUB: Young FOR Pondexter,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,115,6,2,1,10:33 PM,0:32,Toliver S.FOUL (P2.PN),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,116,3,11,1,10:33 PM,0:32,,,Faulkner Free Throw 1 of 2 (1 PTS),24 - 25,1,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,118,3,12,1,10:33 PM,0:32,,,Faulkner Free Throw 2 of 2 (2 PTS),25 - 25,TIE,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,120,2,1,1,10:34 PM,0:10,MISS Ogwumike  3PT Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,121,4,0,1,10:34 PM,0:09,,,Faulkner REBOUND (Off:0 Def:1),,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,122,1,42,1,10:34 PM,0:04,,,Faulkner  Driving Layup (4 PTS),27 - 25,-2,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,123,9,1,1,10:34 PM,0:04,SPARKS Timeout: Regular (Full 1 Short 0),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,126,8,0,1,10:35 PM,0:04,,,SUB: Pondexter FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,127,1,1,1,10:36 PM,0:01,Toliver 25' 3PT Jump Shot (6 PTS),,,27 - 28,1,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,129,18,0,1,10:36 PM,0:00,,Support Ruling,,,,0,127,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,130,18,0,1,10:36 PM,0:00,,Support Ruling,,,,0,127,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,128,13,0,1,10:36 PM,0:00,,End of 1st Period (10:36 PM EST),,27 - 28,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,132,12,0,2,10:40 PM,10:00,,Start of 2nd Period (10:40 PM EST),,27 - 28,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,133,1,98,2,10:40 PM,9:44,,,de Souza 1' Cutting Layup Shot (6 PTS) (Quigley 3 AST),29 - 28,-1,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,134,1,1,2,10:40 PM,9:27,Lavender 20' Jump Shot (4 PTS) (Ogwumike 2 AST),,,29 - 30,1,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,135,6,1,2,10:40 PM,9:19,Dabovic P.FOUL (P1.T1),,,,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,136,2,79,2,10:41 PM,9:04,,,MISS Young 12' Pullup Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,137,4,0,2,10:41 PM,9:02,Beard REBOUND (Off:1 Def:1),,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,138,1,1,2,10:41 PM,8:55,Carson 19' Jump Shot (5 PTS),,,29 - 32,3,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,139,6,1,2,10:41 PM,8:39,Ogwumike P.FOUL (P2.T2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,140,2,5,2,10:42 PM,8:27,,,MISS de Souza 1' Layup,,,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,141,4,0,2,10:42 PM,8:25,Lavender REBOUND (Off:0 Def:2),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,142,1,1,2,10:42 PM,8:18,Carson  3PT Jump Shot (8 PTS) (Dabovic 1 AST),,,29 - 35,6,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,143,9,1,2,10:42 PM,8:10,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,147,5,45,2,10:46 PM,8:00,,,de Souza Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,148,8,0,2,10:46 PM,8:00,,,SUB: Pondexter FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,149,1,1,2,10:46 PM,7:50,Lavender 17' Jump Shot (6 PTS) (Beard 1 AST),,,29 - 37,8,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,150,5,40,2,10:46 PM,7:31,,,de Souza Out of Bounds Lost Ball Turnover (P2.T4),,,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,151,8,0,2,10:47 PM,7:31,,,SUB: McGee-Stafford FOR de Souza,,,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,152,6,1,2,10:47 PM,7:24,,,Faulkner P.FOUL (P1.T1),,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,154,8,0,2,10:47 PM,7:17,,,SUB: Breland FOR Parker,,,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,155,2,63,2,10:48 PM,7:14,MISS Ogwumike 8' Fadeaway Jumper,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,156,4,0,2,10:48 PM,7:10,,,McGee-Stafford REBOUND (Off:1 Def:2),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,158,8,0,2,10:48 PM,6:59,SUB: Parker FOR Lavender,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,159,2,1,2,10:49 PM,6:55,,,MISS Faulkner 15' Jump Shot,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,160,4,0,2,10:49 PM,6:53,Ogwumike REBOUND (Off:1 Def:1),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,161,1,1,2,10:49 PM,6:44,Carson 24' 3PT Jump Shot (11 PTS) (Beard 2 AST),,,29 - 40,11,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,162,1,79,2,10:49 PM,6:25,,,Quigley 13' Pullup Jump Shot (5 PTS),31 - 40,9,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,163,1,82,2,10:49 PM,6:17,Ogwumike 5' Driving Bank Shot (6 PTS) (Parker 4 AST),,,31 - 42,11,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,164,6,2,2,10:49 PM,6:17,,,McGee-Stafford S.FOUL (P1.T2),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,165,8,0,2,10:50 PM,6:17,,,SUB: Dos Santos FOR McGee-Stafford,,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,166,3,10,2,10:50 PM,6:17,Ogwumike Free Throw 1 of 1 (7 PTS),,,31 - 43,12,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,168,1,5,2,10:50 PM,5:58,,,Dos Santos 2' Layup (2 PTS),33 - 43,10,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,169,2,78,2,10:51 PM,5:42,MISS Ogwumike 3' Floating Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,170,4,0,2,10:51 PM,5:40,,,Breland REBOUND (Off:0 Def:3),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,171,5,2,2,10:51 PM,5:34,Carson STEAL (1 STL),,Pondexter Lost Ball Turnover (P1.T5),,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,172,6,2,2,10:51 PM,5:30,,,Breland S.FOUL (P2.T3),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,173,3,11,2,10:51 PM,5:30,Parker Free Throw 1 of 2 (9 PTS),,,33 - 44,11,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,175,8,0,2,10:51 PM,5:30,SUB: Toliver FOR Beard,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,176,8,0,2,10:52 PM,5:30,,,SUB: Vandersloot FOR Faulkner,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,177,3,12,2,10:52 PM,5:30,Parker Free Throw 2 of 2 (10 PTS),,,33 - 45,12,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,179,1,42,2,10:52 PM,5:14,,,Pondexter 1' Driving Layup (10 PTS),35 - 45,10,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,180,6,2,2,10:52 PM,5:14,Carson S.FOUL (P1.T3),,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,181,3,10,2,10:52 PM,5:14,,,Pondexter Free Throw 1 of 1 (11 PTS),36 - 45,9,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,184,2,5,2,10:53 PM,4:59,MISS Parker 1' Layup,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,185,4,0,2,10:53 PM,4:58,,,Breland REBOUND (Off:0 Def:4),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,186,2,5,2,10:53 PM,4:50,,,MISS Breland 2' Layup,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,187,4,0,2,10:53 PM,4:48,Ogwumike REBOUND (Off:1 Def:2),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,188,2,1,2,10:53 PM,4:39,MISS Carson  3PT Jump Shot,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,189,4,0,2,10:53 PM,4:38,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,190,6,3,2,10:53 PM,4:38,Ogwumike L.B.FOUL (P3.T4),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,191,5,2,2,10:54 PM,4:20,Toliver STEAL (1 STL),,Quigley Lost Ball Turnover (P1.T6),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,192,1,41,2,10:54 PM,4:15,Ogwumike 2' Running Layup (9 PTS) (Dabovic 2 AST),,,36 - 47,11,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,194,8,0,2,10:54 PM,4:06,,,SUB: Faulkner FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,195,1,98,2,10:55 PM,3:57,,,Dos Santos 1' Cutting Layup Shot (4 PTS) (Vandersloot 3 AST),38 - 47,9,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,196,1,5,2,10:55 PM,3:34,Ogwumike 1' Layup (11 PTS),,,38 - 49,11,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,197,2,1,2,10:55 PM,3:22,Ogwumike BLOCK (1 BLK),,MISS Vandersloot 7' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600312,198,4,0,2,10:55 PM,3:20,,,Dos Santos REBOUND (Off:1 Def:0),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,200,5,8,2,10:56 PM,3:18,,,Dos Santos 3 Second Violation Turnover (P1.T7),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1041600312,201,2,1,2,10:56 PM,3:05,MISS Ogwumike 5' Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,202,4,0,2,10:56 PM,3:04,,,Breland REBOUND (Off:0 Def:5),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,203,2,1,2,10:56 PM,2:56,,,MISS Pondexter 16' Jump Shot,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,204,4,0,2,10:56 PM,2:55,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,205,9,1,2,10:56 PM,2:55,SPARKS Timeout: Regular (Full 2 Short 0),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,208,8,0,2,10:59 PM,2:55,SUB: Lavender FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,209,1,1,2,11:00 PM,2:42,Lavender 16' Jump Shot (8 PTS) (Dabovic 3 AST),,,38 - 51,13,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,210,2,1,2,11:00 PM,2:27,,,MISS Pondexter  3PT Jump Shot,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,211,4,0,2,11:00 PM,2:25,Toliver REBOUND (Off:1 Def:1),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,212,1,82,2,11:00 PM,2:00,Toliver 8' Driving Bank Shot (8 PTS),,,38 - 53,15,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,213,2,1,2,11:00 PM,1:50,,,MISS Vandersloot 24' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,214,4,0,2,11:00 PM,1:48,Parker REBOUND (Off:1 Def:6),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,215,1,42,2,11:01 PM,1:42,Parker 3' Driving Layup (12 PTS),,,38 - 55,17,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,216,6,2,2,11:01 PM,1:42,,,Dos Santos S.FOUL (P1.T4),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,217,8,0,2,11:02 PM,1:42,,,SUB: Parker FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,218,18,0,2,11:02 PM,1:42,,Instant Replay2nd Period (11:02 PM EST),,38 - 55,17,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,220,3,10,2,11:04 PM,1:42,MISS Parker Free Throw 1 of 1,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,222,4,0,2,11:04 PM,1:40,Lavender REBOUND (Off:1 Def:2),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,223,2,1,2,11:05 PM,1:26,MISS Parker  3PT Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,224,4,0,2,11:05 PM,1:26,,,Pondexter REBOUND (Off:0 Def:1),,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,225,2,1,2,11:05 PM,1:19,,,MISS Vandersloot  3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,226,4,0,2,11:05 PM,1:17,Carson REBOUND (Off:0 Def:2),,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,227,5,1,2,11:05 PM,1:15,Carson Bad Pass Turnover (P3.T4),,Faulkner STEAL (1 STL),,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,228,1,42,2,11:05 PM,1:07,,,Vandersloot 1' Driving Layup (4 PTS),40 - 55,15,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,231,2,1,2,11:05 PM,0:41,MISS Dabovic 24' 3PT Jump Shot,,,,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,232,4,0,2,11:05 PM,0:40,,,Dos Santos REBOUND (Off:1 Def:1),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,233,5,2,2,11:05 PM,0:34,Toliver STEAL (2 STL),,Faulkner Lost Ball Turnover (P1.T8),,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,234,5,2,2,11:06 PM,0:27,Toliver Lost Ball Turnover (P1.T5),,Vandersloot STEAL (2 STL),,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,235,6,2,2,11:06 PM,0:25,Dabovic S.FOUL (P2.PN),,,,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,237,3,11,2,11:06 PM,0:25,,,Vandersloot Free Throw 1 of 2 (5 PTS),41 - 55,14,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,239,8,0,2,11:06 PM,0:25,SUB: Gray FOR Carson,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,240,3,12,2,11:06 PM,0:25,,,Vandersloot Free Throw 2 of 2 (6 PTS),42 - 55,13,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,242,1,83,2,11:07 PM,0:02,Parker 12' Fadeaway Bank Shot (14 PTS),,,42 - 57,15,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,243,2,1,2,11:07 PM,0:01,,,MISS Vandersloot 54' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,244,4,0,2,11:07 PM,0:00,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,247,18,0,2,11:07 PM,0:00,,Support Ruling,,,,0,212,Yinka Dare,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,245,13,0,2,11:07 PM,0:00,,End of 2nd Period (11:07 PM EST),,42 - 57,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,248,12,0,3,11:25 PM,10:00,,Start of 3rd Period (11:25 PM EST),,42 - 57,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,249,5,1,3,11:25 PM,9:46,Parker STEAL (1 STL),,Pondexter Bad Pass Turnover (P2.T9),,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,251,1,1,3,11:26 PM,9:34,Toliver  3PT Jump Shot (11 PTS) (Beard 3 AST),,,42 - 60,18,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,252,2,1,3,11:26 PM,9:22,,,MISS Vandersloot 24' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,253,4,0,3,11:26 PM,9:20,,,Young REBOUND (Off:1 Def:1),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,254,2,5,3,11:26 PM,9:11,,,MISS Vandersloot 1' Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,255,4,0,3,11:26 PM,9:10,,,Dos Santos REBOUND (Off:2 Def:1),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,256,1,72,3,11:26 PM,9:07,,,Dos Santos 2' Putback Layup (6 PTS),44 - 60,16,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,257,2,80,3,11:26 PM,8:44,MISS Parker 18' Step Back Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,258,4,0,3,11:26 PM,8:41,,,Dos Santos REBOUND (Off:2 Def:2),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,259,5,1,3,11:27 PM,8:39,Ogwumike STEAL (2 STL),,Young Bad Pass Turnover (P1.T10),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,260,6,2,3,11:27 PM,8:39,,,Vandersloot S.FOUL (P3.T1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,261,3,11,3,11:27 PM,8:39,Ogwumike Free Throw 1 of 2 (12 PTS),,,44 - 61,17,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,263,3,12,3,11:27 PM,8:39,Ogwumike Free Throw 2 of 2 (13 PTS),,,44 - 62,18,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,265,2,5,3,11:28 PM,8:21,,,MISS Dos Santos 3' Layup,,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,266,4,0,3,11:28 PM,8:20,Parker REBOUND (Off:1 Def:7),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,267,1,1,3,11:28 PM,8:08,Parker 24' 3PT Jump Shot (17 PTS) (Toliver 3 AST),,,44 - 65,21,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,268,9,1,3,11:28 PM,8:08,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,272,5,40,3,11:31 PM,7:54,,,Dos Santos Out of Bounds Lost Ball Turnover (P2.T11),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,273,2,1,3,11:32 PM,7:32,MISS Ogwumike 3' Jump Shot,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,274,4,0,3,11:32 PM,7:31,,,Breland REBOUND (Off:0 Def:6),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,275,1,1,3,11:32 PM,7:26,,,Vandersloot 19' Jump Shot (8 PTS),46 - 65,19,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,277,5,1,3,11:33 PM,7:09,Beard Bad Pass Turnover (P1.T6),,Dos Santos STEAL (1 STL),,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,278,2,1,3,11:33 PM,7:01,,,MISS Pondexter 17' Jump Shot,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,279,4,0,3,11:33 PM,7:00,Ogwumike REBOUND (Off:1 Def:3),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,280,6,3,3,11:33 PM,7:00,,,Breland L.B.FOUL (P3.T2),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,281,2,1,3,11:33 PM,6:42,MISS Carson 24' 3PT Jump Shot,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,282,4,0,3,11:33 PM,6:41,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,283,1,79,3,11:33 PM,6:29,,,Young 6' Pullup Jump Shot (6 PTS),48 - 65,17,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,284,5,2,3,11:34 PM,6:24,Toliver Lost Ball Turnover (P2.T7),,Vandersloot STEAL (3 STL),,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,285,2,5,3,11:34 PM,6:19,Parker BLOCK (1 BLK),,MISS Young 2' Layup,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600312,286,4,0,3,11:34 PM,6:19,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,287,6,3,3,11:34 PM,6:19,,,Dos Santos L.B.FOUL (P2.T3),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,288,1,98,3,11:34 PM,6:07,Ogwumike 1' Cutting Layup Shot (15 PTS) (Parker 5 AST),,,48 - 67,19,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,289,2,1,3,11:35 PM,5:42,,,MISS Young 19' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,290,4,0,3,11:35 PM,5:41,,,Breland REBOUND (Off:1 Def:6),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,291,2,5,3,11:35 PM,5:38,,,MISS Breland 2' Layup,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,293,4,0,3,11:35 PM,5:35,,,Breland REBOUND (Off:2 Def:6),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,292,2,97,3,11:35 PM,5:35,,,MISS Breland 1' Tip Layup Shot,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,294,4,0,3,11:35 PM,5:32,Parker REBOUND (Off:1 Def:8),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,295,2,1,3,11:35 PM,5:25,MISS Beard 7' Jump Shot,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,296,4,0,3,11:35 PM,5:23,,,Breland REBOUND (Off:2 Def:7),,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,297,2,5,3,11:35 PM,5:18,,,MISS Young 1' Layup,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,298,4,0,3,11:35 PM,5:17,Parker REBOUND (Off:1 Def:9),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,299,5,1,3,11:35 PM,5:03,Beard Bad Pass Turnover (P2.T8),,Young STEAL (1 STL),,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,300,1,41,3,11:35 PM,4:57,,,Young 1' Running Layup (8 PTS),50 - 67,17,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,302,5,2,3,11:36 PM,4:32,Parker Lost Ball Turnover (P1.T9),,Dos Santos STEAL (2 STL),,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,303,1,1,3,11:36 PM,4:26,,,Vandersloot 24' 3PT Jump Shot (11 PTS) (Dos Santos 1 AST),53 - 67,14,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,306,6,2,3,11:36 PM,4:16,,,Vandersloot S.FOUL (P4.T4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,307,3,11,3,11:36 PM,4:16,MISS Toliver Free Throw 1 of 2,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,308,4,1,3,11:36 PM,4:16,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,309,8,0,3,11:37 PM,4:16,,,SUB: Quigley FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,310,8,0,3,11:37 PM,4:16,,,SUB: Parker FOR Breland,,,5,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,311,8,0,3,11:37 PM,4:16,,,SUB: Faulkner FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,312,8,0,3,11:37 PM,4:16,SUB: Gray FOR Carson,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,313,8,0,3,11:37 PM,4:16,SUB: Lavender FOR Parker,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,314,3,12,3,11:37 PM,4:16,Toliver Free Throw 2 of 2 (12 PTS),,,53 - 68,15,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,316,6,29,3,11:37 PM,4:04,Gray Shooting Block Foul (P2.T1),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,317,3,11,3,11:37 PM,4:04,,,MISS Dos Santos Free Throw 1 of 2,,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,318,4,1,3,11:37 PM,4:04,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,319,3,12,3,11:38 PM,4:04,,,Dos Santos Free Throw 2 of 2 (7 PTS),54 - 68,14,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,321,5,2,3,11:38 PM,3:51,Ogwumike Lost Ball Turnover (P1.T10),,Dos Santos STEAL (3 STL),,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,322,1,1,3,11:38 PM,3:43,,,Pondexter 16' Jump Shot (13 PTS) (Quigley 4 AST),56 - 68,12,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,323,2,1,3,11:39 PM,3:28,MISS Toliver  3PT Jump Shot,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,324,4,0,3,11:39 PM,3:27,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,325,6,3,3,11:39 PM,3:27,Gray L.B.FOUL (P3.T2),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,326,8,0,3,11:39 PM,3:27,SUB: Dabovic FOR Toliver,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,328,2,1,3,11:39 PM,3:10,,,MISS Dos Santos 19' Jump Shot,,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,329,4,0,3,11:39 PM,3:06,Gray REBOUND (Off:0 Def:1),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,330,2,1,3,11:40 PM,2:52,MISS Dabovic 3' Jump Shot,,Pondexter BLOCK (1 BLK),,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1
+1041600312,331,4,0,3,11:40 PM,2:52,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,332,5,1,3,11:40 PM,2:48,Gray Bad Pass Turnover (P2.T11),,Parker STEAL (1 STL),,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,333,1,41,3,11:40 PM,2:45,,,Faulkner 1' Running Layup (6 PTS),58 - 68,10,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,334,5,2,3,11:40 PM,2:32,Ogwumike Lost Ball Turnover (P2.T12),,Dos Santos STEAL (4 STL),,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,335,2,1,3,11:40 PM,2:27,,,MISS Dos Santos 5' Jump Shot,,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,336,4,0,3,11:40 PM,2:25,,,Pondexter REBOUND (Off:1 Def:1),,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,337,2,1,3,11:40 PM,2:22,,,MISS Pondexter 4' Jump Shot,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,338,4,0,3,11:40 PM,2:21,Ogwumike REBOUND (Off:1 Def:4),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,339,1,1,3,11:41 PM,2:10,Lavender 17' Jump Shot (10 PTS) (Dabovic 4 AST),,,58 - 70,12,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,340,2,5,3,11:41 PM,1:45,,,MISS Pondexter 1' Layup,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,341,4,0,3,11:41 PM,1:42,Ogwumike REBOUND (Off:1 Def:5),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,342,1,42,3,11:41 PM,1:38,Gray 2' Driving Layup (5 PTS),,,58 - 72,14,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,343,6,2,3,11:41 PM,1:38,,,Quigley S.FOUL (P1.PN),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,344,8,0,3,11:41 PM,1:38,,,SUB: Young FOR Pondexter,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,345,8,0,3,11:42 PM,1:38,SUB: Carson FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,346,8,0,3,11:42 PM,1:38,SUB: Toliver FOR Beard,,,,,4,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,347,8,0,3,11:42 PM,1:38,SUB: Parker FOR Dabovic,,,,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,348,3,10,3,11:42 PM,1:38,Gray Free Throw 1 of 1 (6 PTS),,,58 - 73,15,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,350,2,1,3,11:42 PM,1:24,,,MISS Parker 12' Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,351,4,0,3,11:42 PM,1:23,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,352,6,3,3,11:42 PM,1:23,,,Parker L.B.FOUL (P1.PN),,,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,353,3,11,3,11:43 PM,1:23,MISS Parker Free Throw 1 of 2,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,354,4,1,3,11:43 PM,1:23,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,355,3,12,3,11:43 PM,1:23,Parker Free Throw 2 of 2 (18 PTS),,,58 - 74,16,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,357,6,1,3,11:43 PM,1:05,Parker P.FOUL (P1.T3),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,358,2,1,3,11:44 PM,0:56,,,MISS Quigley  3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,359,4,0,3,11:44 PM,0:55,Gray REBOUND (Off:0 Def:2),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,360,1,41,3,11:44 PM,0:50,Lavender 2' Running Layup (12 PTS) (Gray 2 AST),,,58 - 76,18,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,361,2,1,3,11:44 PM,0:37,,,MISS Young 17' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,362,4,0,3,11:44 PM,0:36,,,Parker REBOUND (Off:1 Def:0),,,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,363,2,1,3,11:44 PM,0:31,,,MISS Parker 6' Jump Shot,,,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,364,4,0,3,11:44 PM,0:30,Parker REBOUND (Off:1 Def:10),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,365,1,1,3,11:45 PM,0:09,Lavender 20' Jump Shot (14 PTS) (Toliver 4 AST),,,58 - 78,20,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,366,6,2,3,11:45 PM,0:00,Lavender S.FOUL (P1.PN),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,367,3,11,3,11:45 PM,0:00,,,MISS Young Free Throw 1 of 2,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,368,4,1,3,11:45 PM,0:00,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,369,3,12,3,11:45 PM,0:00,,,Young Free Throw 2 of 2 (9 PTS),59 - 78,19,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,371,13,0,3,11:46 PM,0:00,,End of 3rd Period (11:46 PM EST),,59 - 78,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,373,12,0,4,11:49 PM,10:00,,Start of 4th Period (11:49 PM EST),,59 - 78,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,374,6,1,4,11:50 PM,9:38,,,Faulkner P.FOUL (P2.T1),,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,375,1,1,4,11:50 PM,9:30,Toliver  3PT Jump Shot (15 PTS) (Parker 6 AST),,,59 - 81,22,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,376,2,79,4,11:50 PM,9:17,,,MISS Young 8' Pullup Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,377,4,0,4,11:50 PM,9:15,Lavender REBOUND (Off:1 Def:3),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,378,2,1,4,11:51 PM,9:08,MISS Gray 14' Jump Shot,,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,379,4,0,4,11:51 PM,9:06,Toliver REBOUND (Off:2 Def:1),,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,380,2,1,4,11:51 PM,8:54,MISS Parker 15' Jump Shot,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,381,4,0,4,11:51 PM,8:52,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,382,6,2,4,11:51 PM,8:49,Gray S.FOUL (P4.T1),,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,383,3,11,4,11:51 PM,8:49,,,Faulkner Free Throw 1 of 2 (7 PTS),60 - 81,21,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,388,5,17,4,11:51 PM,8:49,,,Dos Santos Lane Violation Turnover (P3.T12),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1041600312,389,1,42,4,11:52 PM,8:29,Lavender 2' Driving Layup (16 PTS),,,60 - 83,23,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,390,6,1,4,11:52 PM,8:23,Lavender P.FOUL (P2.T2),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,391,8,0,4,11:53 PM,8:23,,,SUB: McGee-Stafford FOR Parker,,,5,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,392,2,1,4,11:53 PM,8:14,,,MISS Young 17' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,393,4,0,4,11:53 PM,8:13,Parker REBOUND (Off:1 Def:11),,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,394,2,1,4,11:53 PM,8:04,MISS Carson 5' Jump Shot,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,395,4,0,4,11:53 PM,8:03,,,Dos Santos REBOUND (Off:2 Def:3),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,396,2,5,4,11:53 PM,7:46,,,MISS Dos Santos 1' Layup,,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,397,4,0,4,11:53 PM,7:45,,,Dos Santos REBOUND (Off:3 Def:3),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,398,1,5,4,11:53 PM,7:43,,,Dos Santos 1' Layup (9 PTS),62 - 83,21,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,399,2,1,4,11:54 PM,7:21,MISS Lavender 20' Jump Shot,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,400,4,0,4,11:54 PM,7:20,,,Young REBOUND (Off:1 Def:2),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,401,2,1,4,11:54 PM,7:12,,,MISS Faulkner 24' 3PT Jump Shot,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,402,4,0,4,11:54 PM,7:11,,,McGee-Stafford REBOUND (Off:2 Def:2),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,403,5,40,4,11:54 PM,7:10,,,McGee-Stafford Out of Bounds Lost Ball Turnover (P2.T13),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,404,8,0,4,11:54 PM,7:10,,,SUB: Pondexter FOR Faulkner,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,405,8,0,4,11:54 PM,7:10,SUB: Ogwumike FOR Carson,,,,,4,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,406,6,1,4,11:55 PM,6:58,,,Young P.FOUL (P2.T2),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,407,5,2,4,11:55 PM,6:52,Ogwumike Lost Ball Turnover (P3.T13),,Dos Santos STEAL (5 STL),,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,408,6,1,4,11:55 PM,6:52,Ogwumike P.FOUL (P4.T3),,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,409,1,1,4,11:56 PM,6:38,,,Dos Santos 18' Jump Shot (11 PTS) (Pondexter 1 AST),64 - 83,19,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,410,1,5,4,11:56 PM,6:17,Lavender 1' Layup (18 PTS) (Parker 7 AST),,,64 - 85,21,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,411,2,5,4,11:56 PM,6:05,,,MISS McGee-Stafford 2' Layup,,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,412,4,0,4,11:56 PM,6:04,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,1
+1041600312,413,18,0,4,11:57 PM,6:04,,Instant Replay4th Period (11:57 PM EST),,64 - 85,21,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,417,6,3,4,11:58 PM,5:58,,,McGee-Stafford L.B.FOUL (P2.T3),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1041600312,418,1,1,4,11:59 PM,5:47,Gray 25' 3PT Jump Shot (9 PTS) (Lavender 1 AST),,,64 - 88,24,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,419,1,85,4,11:59 PM,5:28,,,Dos Santos 5' Turnaround Bank Shot (13 PTS) (McGee-Stafford 1 AST),66 - 88,22,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,420,1,98,4,11:59 PM,5:15,Ogwumike 2' Cutting Layup Shot (17 PTS) (Parker 8 AST),,,66 - 90,24,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,422,6,2,4,12:00 AM,5:15,,,McGee-Stafford S.FOUL (P3.T4),,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,424,9,1,4,12:00 AM,5:15,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,426,8,0,4,12:02 AM,5:15,SUB: Dabovic FOR Toliver,,,,,4,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,428,8,0,4,12:02 AM,5:15,,,SUB: Quigley FOR McGee-Stafford,,,5,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,429,8,0,4,12:02 AM,5:15,,,SUB: de Souza FOR Pondexter,,,5,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,430,3,10,4,12:02 AM,5:15,Ogwumike Free Throw 1 of 1 (18 PTS),,,66 - 91,25,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,432,1,98,4,12:03 AM,5:02,,,Young 1' Cutting Layup Shot (11 PTS) (Vandersloot 4 AST),68 - 91,23,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,433,6,1,4,12:03 AM,4:50,,,Young P.FOUL (P3.PN),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,434,3,11,4,12:04 AM,4:50,Parker Free Throw 1 of 2 (19 PTS),,,68 - 92,24,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,436,8,0,4,12:04 AM,4:50,,,SUB: Faulkner FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,437,8,0,4,12:04 AM,4:50,SUB: Gruda FOR Ogwumike,,,,,4,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201058,Sandrine Gruda,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,438,3,12,4,12:04 AM,4:50,Parker Free Throw 2 of 2 (20 PTS),,,68 - 93,25,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,440,2,1,4,12:04 AM,4:37,,,MISS Faulkner 10' Jump Shot,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,441,4,0,4,12:05 AM,4:36,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,442,8,0,4,12:05 AM,4:36,SUB: Belyakova FOR Parker,,,,,4,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,443,6,2,4,12:05 AM,4:35,Belyakova S.FOUL (P1.T4),,,,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1041600312,444,3,11,4,12:05 AM,4:35,,,Quigley Free Throw 1 of 2 (6 PTS),69 - 93,24,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,446,3,12,4,12:05 AM,4:35,,,Quigley Free Throw 2 of 2 (7 PTS),70 - 93,23,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,448,2,1,4,12:06 AM,4:16,MISS Belyakova  3PT Jump Shot,,,,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,449,4,0,4,12:06 AM,4:14,Gruda REBOUND (Off:1 Def:0),,,,,4,201058,Sandrine Gruda,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,450,5,45,4,12:06 AM,4:01,Lavender Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,451,6,1,4,12:06 AM,3:44,Lavender P.FOUL (P3.PN),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,452,3,11,4,12:07 AM,3:44,,,Young Free Throw 1 of 2 (12 PTS),71 - 93,22,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,454,3,12,4,12:07 AM,3:44,,,MISS Young Free Throw 2 of 2,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,456,4,0,4,12:07 AM,3:42,Lavender REBOUND (Off:1 Def:4),,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,457,1,1,4,12:07 AM,3:20,Lavender 20' Jump Shot (20 PTS) (Dabovic 5 AST),,,71 - 95,24,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,458,6,1,4,12:08 AM,3:07,Gruda P.FOUL (P1.PN),,,,,4,201058,Sandrine Gruda,1611661320.0,Los Angeles,Sparks,LAS,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,459,3,11,4,12:08 AM,3:07,,,Faulkner Free Throw 1 of 2 (8 PTS),72 - 95,23,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,461,3,12,4,12:08 AM,3:07,,,Faulkner Free Throw 2 of 2 (9 PTS),73 - 95,22,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,463,6,1,4,12:08 AM,3:01,,,Faulkner P.FOUL (P3.PN),,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600312,464,18,0,4,12:09 AM,3:01,,Support Ruling,,,,0,463,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600312,477,8,0,4,12:09 AM,3:01,SUB: Dubljevic FOR Belyakova,,,,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,4,1627644,Jelena Dubljevic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,465,3,11,4,12:10 AM,3:01,Dabovic Free Throw 1 of 2 (1 PTS),,,73 - 96,23,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,467,3,12,4,12:10 AM,3:01,Dabovic Free Throw 2 of 2 (2 PTS),,,73 - 97,24,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600312,470,1,1,4,12:12 AM,2:43,,,Quigley 18' Jump Shot (9 PTS) (Faulkner 2 AST),75 - 97,22,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,471,9,1,4,12:12 AM,2:26,SPARKS Timeout: Regular (Full 3 Short 0),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,518,8,0,4,12:14 AM,2:26,SUB: Belyakova FOR Gray,,,,,4,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,474,8,0,4,12:14 AM,2:26,SUB: Wauters FOR Lavender,,,,,4,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,100445,Ann Wauters,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600312,478,10,0,4,12:15 AM,2:26,Jump Ball Belyakova vs. de Souza: Tip to Quigley,,,,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0
+1041600312,479,5,2,4,12:15 AM,2:26,Belyakova Lost Ball Turnover (P1.T15),,de Souza STEAL (1 STL),,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1041600312,480,6,2,4,12:15 AM,2:22,Dabovic S.FOUL (P3.PN),,,,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,481,3,11,4,12:16 AM,2:22,,,Faulkner Free Throw 1 of 2 (10 PTS),76 - 97,21,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,483,3,12,4,12:16 AM,2:22,,,MISS Faulkner Free Throw 2 of 2,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,485,4,0,4,12:16 AM,2:21,Wauters REBOUND (Off:0 Def:1),,,,,4,100445,Ann Wauters,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,486,5,1,4,12:16 AM,2:16,Belyakova Bad Pass Turnover (P2.T16),,Faulkner STEAL (2 STL),,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,487,1,42,4,12:16 AM,2:04,,,Faulkner 1' Driving Layup (12 PTS),78 - 97,19,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,490,2,1,4,12:17 AM,1:54,MISS Dabovic 24' 3PT Jump Shot,,,,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600312,491,4,0,4,12:17 AM,1:52,,,Dos Santos REBOUND (Off:3 Def:4),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,492,2,1,4,12:17 AM,1:35,,,MISS Faulkner  3PT Jump Shot,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,493,4,0,4,12:17 AM,1:32,,,Young REBOUND (Off:2 Def:2),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,494,2,1,4,12:17 AM,1:28,,,MISS Young 10' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,495,4,0,4,12:17 AM,1:26,,,Dos Santos REBOUND (Off:4 Def:4),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,498,2,1,4,12:17 AM,1:19,,,MISS Quigley 24' 3PT Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,499,4,0,4,12:17 AM,1:19,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,500,2,1,4,12:18 AM,1:14,,,MISS Faulkner  3PT Jump Shot,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,501,4,0,4,12:18 AM,1:12,,,Young REBOUND (Off:3 Def:2),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,502,2,1,4,12:18 AM,1:09,Wauters BLOCK (1 BLK),,MISS Young 5' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,100445,Ann Wauters,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600312,503,4,0,4,12:18 AM,1:07,,,Faulkner REBOUND (Off:1 Def:1),,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,504,1,1,4,12:18 AM,1:03,,,Quigley 6' Jump Shot (11 PTS),80 - 97,17,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1041600312,505,1,1,4,12:18 AM,0:53,Dubljevic 17' Jump Shot (2 PTS) (Dabovic 6 AST),,,80 - 99,19,4,1627644,Jelena Dubljevic,1611661320.0,Los Angeles,Sparks,LAS,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,506,6,2,4,12:18 AM,0:42,Wauters S.FOUL (P1.PN),,,,,4,100445,Ann Wauters,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1041600312,507,3,11,4,12:19 AM,0:42,,,Dos Santos Free Throw 1 of 2 (14 PTS),81 - 99,18,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,509,3,12,4,12:19 AM,0:42,,,Dos Santos Free Throw 2 of 2 (15 PTS),82 - 99,17,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1041600312,512,5,1,4,12:19 AM,0:26,Dabovic Bad Pass Turnover (P1.T17),,de Souza STEAL (2 STL),,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,5,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,513,2,5,4,12:19 AM,0:21,Belyakova BLOCK (1 BLK),,MISS Faulkner 2' Layup,,,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,1627648,Evgeniia Belyakova,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600312,514,4,0,4,12:19 AM,0:21,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600312,515,5,2,4,12:20 AM,0:16,Dabovic STEAL (1 STL),,Dos Santos Lost Ball Turnover (P4.T14),,,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600312,516,5,2,4,12:20 AM,0:11,Dabovic Lost Ball Turnover (P2.T18),,Dos Santos STEAL (6 STL),,,4,204302,Ana Dabovic,1611661320.0,Los Angeles,Sparks,LAS,5,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,517,1,41,4,12:20 AM,0:07,,,Faulkner 1' Running Layup (14 PTS) (Quigley 5 AST),84 - 99,15,5,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1041600312,520,13,0,4,12:20 AM,0:00,,End of 4th Period (12:20 AM EST),,84 - 99,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

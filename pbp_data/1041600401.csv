@@ -1,0 +1,360 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041600401,0,12,0,1,3:07 PM,10:00,,Start of 1st Period (3:07 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,1,10,0,1,3:07 PM,10:00,Jump Ball Fowles vs. Ogwumike: Tip to Toliver,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600401,2,2,1,1,3:07 PM,9:39,,,MISS Beard 18' Jump Shot,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,3,4,0,1,3:07 PM,9:38,Moore REBOUND (Off:0 Def:1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,4,5,2,1,3:07 PM,9:29,Brunson Lost Ball Turnover (P1.T1),,Beard STEAL (1 STL),,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,5,2,5,1,3:07 PM,9:24,,,MISS Beard 2' Layup,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,7,4,0,1,3:07 PM,9:23,,,Ogwumike REBOUND (Off:1 Def:0),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,6,1,97,1,3:07 PM,9:23,,,Ogwumike 3' Tip Layup Shot (2 PTS),2 - 0,-2,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,8,2,47,1,3:08 PM,8:59,MISS Augustus 11' Turnaround Jump Shot,,Parker BLOCK (1 BLK),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600401,9,4,0,1,3:08 PM,8:57,,,Parker REBOUND (Off:0 Def:1),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,10,1,5,1,3:08 PM,8:51,,,Ogwumike 2' Layup (4 PTS) (Parker 1 AST),4 - 0,-4,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,11,2,1,1,3:08 PM,8:23,MISS Moore 18' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,12,4,0,1,3:08 PM,8:22,,,Ogwumike REBOUND (Off:1 Def:1),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,13,2,1,1,3:09 PM,8:09,,,MISS Carson  3PT Jump Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,14,4,0,1,3:09 PM,8:08,Augustus REBOUND (Off:0 Def:1),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,15,2,1,1,3:09 PM,7:59,MISS Augustus 21' Jump Shot,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,16,4,0,1,3:09 PM,7:58,Brunson REBOUND (Off:1 Def:0),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,17,1,45,1,3:09 PM,7:56,Brunson 10' Jump Shot (2 PTS),,,4 - 2,-2,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,18,5,1,1,3:09 PM,7:45,Brunson STEAL (1 STL),,Beard Bad Pass Turnover (P1.T1),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,19,6,2,1,3:09 PM,7:36,,,Toliver S.FOUL (P1.T1),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,20,3,11,1,3:09 PM,7:36,Brunson Free Throw 1 of 2 (3 PTS),,,4 - 3,-1,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,22,3,12,1,3:10 PM,7:36,Brunson Free Throw 2 of 2 (4 PTS),,,4 - 4,TIE,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,24,2,80,1,3:10 PM,7:14,,,MISS Parker  3PT Step Back Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,25,4,0,1,3:10 PM,7:13,Moore REBOUND (Off:0 Def:2),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,26,1,42,1,3:10 PM,7:04,Whalen 1' Driving Layup (2 PTS) (Moore 1 AST),,,4 - 6,2,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,27,1,98,1,3:11 PM,6:50,,,Ogwumike 2' Cutting Layup Shot (6 PTS) (Toliver 1 AST),6 - 6,TIE,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,28,1,79,1,3:11 PM,6:26,Whalen 14' Pullup Jump Shot (4 PTS) (Fowles 1 AST),,,6 - 8,2,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,29,6,2,1,3:11 PM,6:11,Brunson S.FOUL (P1.T1),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,30,3,11,1,3:12 PM,6:11,,,Parker Free Throw 1 of 2 (1 PTS),7 - 8,1,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,32,8,0,1,3:12 PM,6:11,SUB: Montgomery FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,33,3,12,1,3:12 PM,6:11,,,Parker Free Throw 2 of 2 (2 PTS),8 - 8,TIE,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,35,5,1,1,3:12 PM,6:05,Augustus Bad Pass Turnover (P1.T2),,Carson STEAL (1 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,36,5,39,1,3:12 PM,6:04,,,Carson Step Out of Bounds Turnover (P1.T2),,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,37,2,1,1,3:12 PM,6:02,MISS Moore 19' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,38,4,0,1,3:12 PM,6:00,,,Beard REBOUND (Off:0 Def:1),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,40,5,40,1,3:13 PM,5:53,,,Ogwumike Out of Bounds Lost Ball Turnover (P1.T3),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,41,6,1,1,3:13 PM,5:45,,,Beard P.FOUL (P1.T2),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,42,8,0,1,3:13 PM,5:45,SUB: Perkins FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,43,2,1,1,3:14 PM,5:36,MISS Montgomery 13' Jump Shot,,Beard BLOCK (1 BLK),,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600401,44,4,0,1,3:14 PM,5:33,,,Ogwumike REBOUND (Off:1 Def:2),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,45,1,5,1,3:14 PM,5:18,,,Parker 2' Layup (4 PTS) (Ogwumike 1 AST),10 - 8,-2,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,46,6,1,1,3:14 PM,5:00,,,Beard P.FOUL (P2.T3),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,47,8,0,1,3:14 PM,5:00,,,SUB: Gray FOR Beard,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,48,2,79,1,3:15 PM,4:54,MISS Montgomery 17' Pullup Jump Shot,,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,49,4,0,1,3:15 PM,4:53,Fowles REBOUND (Off:1 Def:0),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,50,6,1,1,3:15 PM,4:44,,,Ogwumike P.FOUL (P1.T4),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,51,9,1,1,3:15 PM,4:44,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,53,1,1,1,3:18 PM,4:38,Perkins 16' Jump Shot (2 PTS) (Montgomery 1 AST),,,10 - 10,TIE,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,54,1,42,1,3:19 PM,4:18,,,Parker 1' Driving Layup (6 PTS) (Gray 1 AST),12 - 10,-2,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,55,2,1,1,3:19 PM,3:57,MISS Brunson 7' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,56,4,0,1,3:19 PM,3:55,,,Ogwumike REBOUND (Off:1 Def:3),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,57,2,79,1,3:19 PM,3:49,,,MISS Parker 17' Pullup Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,58,4,0,1,3:19 PM,3:46,Fowles REBOUND (Off:1 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,59,1,5,1,3:19 PM,3:36,Fowles 2' Layup (2 PTS) (Moore 2 AST),,,12 - 12,TIE,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,60,6,2,1,3:19 PM,3:36,,,Toliver S.FOUL (P2.PN),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,61,8,0,1,3:20 PM,3:36,SUB: Howard FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,62,8,0,1,3:20 PM,3:36,,,SUB: Lavender FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,63,8,0,1,3:20 PM,3:36,SUB: Cruz FOR Moore,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,64,3,10,1,3:20 PM,3:36,MISS Fowles Free Throw 1 of 1,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,66,4,0,1,3:20 PM,3:35,Cruz REBOUND (Off:1 Def:0),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,67,1,5,1,3:20 PM,3:28,Howard 2' Layup (2 PTS) (Montgomery 2 AST),,,12 - 14,2,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,68,1,1,1,3:21 PM,3:06,,,Toliver  3PT Jump Shot (3 PTS),15 - 14,-1,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,69,2,1,1,3:21 PM,2:54,MISS Cruz 18' Jump Shot,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,70,4,0,1,3:21 PM,2:53,,,Parker REBOUND (Off:0 Def:2),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,71,5,45,1,3:21 PM,2:41,,,Parker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,72,8,0,1,3:21 PM,2:41,,,SUB: Beard FOR Carson,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,73,2,42,1,3:21 PM,2:26,MISS Fowles 1' Driving Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,74,4,0,1,3:22 PM,2:25,,,Parker REBOUND (Off:0 Def:3),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,75,6,1,1,3:22 PM,2:20,Howard P.FOUL (P1.T2),,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,76,6,1,1,3:22 PM,2:14,Perkins P.FOUL (P1.T3),,,,,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,77,6,1,1,3:23 PM,2:11,Perkins P.FOUL (P2.T4),,,,,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,78,8,0,1,3:23 PM,2:11,SUB: Augustus FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,79,1,1,1,3:23 PM,2:03,,,Lavender 21' Jump Shot (2 PTS) (Beard 1 AST),17 - 14,-3,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,80,1,57,1,3:23 PM,1:46,Fowles 3' Driving Hook Shot (4 PTS) (Perkins 1 AST),,,17 - 16,-1,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,81,2,63,1,3:24 PM,1:25,,,MISS Parker 13' Fadeaway Jumper,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,82,4,0,1,3:24 PM,1:24,Augustus REBOUND (Off:0 Def:2),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,83,5,1,1,3:24 PM,1:16,Augustus Bad Pass Turnover (P2.T3),,Gray STEAL (1 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,84,2,1,1,3:24 PM,1:07,,,MISS Lavender 18' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,85,4,0,1,3:24 PM,1:06,Fowles REBOUND (Off:1 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,86,2,1,1,3:24 PM,0:55,MISS Howard 17' Jump Shot,,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,87,4,0,1,3:24 PM,0:53,,,Beard REBOUND (Off:0 Def:2),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,88,1,5,1,3:24 PM,0:31,,,Toliver 1' Layup (5 PTS) (Gray 2 AST),19 - 16,-3,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,89,5,45,1,3:25 PM,0:14,Cruz Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,90,8,0,1,3:25 PM,0:14,,,SUB: Ogwumike FOR Beard,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,91,8,0,1,3:25 PM,0:14,SUB: Moore FOR Perkins,,,,,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,92,8,0,1,3:25 PM,0:14,SUB: Whalen FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,93,6,1,1,3:25 PM,0:05,Whalen P.FOUL (P1.PN),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,94,3,11,1,3:26 PM,0:05,,,Toliver Free Throw 1 of 2 (6 PTS),20 - 16,-4,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,97,3,12,1,3:26 PM,0:05,,,Toliver Free Throw 2 of 2 (7 PTS),21 - 16,-5,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,99,6,2,1,3:26 PM,0:01,,,Gray S.FOUL (P1.PN),,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,100,3,11,1,3:26 PM,0:01,Whalen Free Throw 1 of 2 (5 PTS),,,21 - 17,-4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,102,3,12,1,3:27 PM,0:01,Whalen Free Throw 2 of 2 (6 PTS),,,21 - 18,-3,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,104,13,0,1,3:27 PM,0:00,,End of 1st Period (3:27 PM EST),,21 - 18,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,106,12,0,2,3:30 PM,10:00,,Start of 2nd Period (3:30 PM EST),,21 - 18,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,107,2,1,2,3:31 PM,9:36,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,108,4,0,2,3:31 PM,9:36,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,109,5,11,2,3:31 PM,9:36,LYNX Turnover: Shot Clock (T#5),,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600401,110,6,1,2,3:31 PM,9:21,Howard P.FOUL (P2.T1),,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,111,1,1,2,3:31 PM,9:10,,,Lavender 15' Jump Shot (4 PTS) (Toliver 2 AST),23 - 18,-5,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,112,5,1,2,3:32 PM,8:47,Augustus Bad Pass Turnover (P3.T6),,Gray STEAL (2 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,114,8,0,2,3:32 PM,8:42,SUB: Brunson FOR Howard,,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,115,8,0,2,3:32 PM,8:42,SUB: Montgomery FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,116,8,0,2,3:32 PM,8:42,,,SUB: Beard FOR Toliver,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,117,5,2,2,3:33 PM,8:31,Brunson STEAL (2 STL),,Ogwumike Lost Ball Turnover (P2.T5),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,118,6,1,2,3:33 PM,8:31,,,Ogwumike P.FOUL (P2.T1),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,119,5,1,2,3:33 PM,8:21,Montgomery Bad Pass Turnover (P1.T7),,Ogwumike STEAL (1 STL),,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,120,2,1,2,3:33 PM,8:12,,,MISS Beard 19' Jump Shot,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,121,4,0,2,3:33 PM,8:11,Fowles REBOUND (Off:1 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,122,1,79,2,3:33 PM,8:01,Whalen 17' Pullup Jump Shot (8 PTS),,,23 - 20,-3,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,123,2,5,2,3:34 PM,7:40,Fowles BLOCK (1 BLK),,MISS Ogwumike 2' Layup,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1041600401,124,4,0,2,3:34 PM,7:38,Moore REBOUND (Off:0 Def:3),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,125,5,2,2,3:34 PM,7:29,Montgomery Lost Ball Turnover (P2.T8),,Carson STEAL (2 STL),,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,126,6,2,2,3:34 PM,7:23,Brunson S.FOUL (P2.T2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,127,3,11,2,3:35 PM,7:23,,,MISS Gray Free Throw 1 of 2,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,128,4,1,2,3:35 PM,7:23,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,129,8,0,2,3:35 PM,7:23,,,SUB: Parker FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,130,3,12,2,3:35 PM,7:23,,,Gray Free Throw 2 of 2 (1 PTS),24 - 20,-4,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,132,1,1,2,3:35 PM,7:07,Whalen 18' Jump Shot (10 PTS),,,24 - 22,-2,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,133,1,42,2,3:36 PM,6:52,,,Parker 2' Driving Layup (8 PTS) (Carson 1 AST),26 - 22,-4,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,134,2,1,2,3:36 PM,6:35,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,135,4,0,2,3:36 PM,6:34,,,Parker REBOUND (Off:0 Def:4),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,136,2,1,2,3:36 PM,6:22,,,MISS Carson 25' 3PT Jump Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,137,4,0,2,3:36 PM,6:21,Whalen REBOUND (Off:0 Def:1),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,138,2,42,2,3:36 PM,6:13,MISS Whalen 2' Driving Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,139,4,0,2,3:36 PM,6:12,,,Parker REBOUND (Off:0 Def:5),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,140,2,80,2,3:36 PM,6:03,,,MISS Parker 17' Step Back Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,141,4,0,2,3:36 PM,6:01,Moore REBOUND (Off:0 Def:4),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,142,2,5,2,3:36 PM,5:53,MISS Fowles 3' Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,143,4,0,2,3:36 PM,5:52,Fowles REBOUND (Off:2 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,144,1,5,2,3:37 PM,5:51,Fowles 3' Layup (6 PTS),,,26 - 24,-2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,145,2,1,2,3:37 PM,5:31,,,MISS Parker  3PT Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,146,4,0,2,3:37 PM,5:30,Moore REBOUND (Off:0 Def:5),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,147,1,1,2,3:37 PM,5:11,Brunson 16' Jump Shot (6 PTS) (Moore 3 AST),,,26 - 26,TIE,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,148,2,1,2,3:38 PM,4:50,,,MISS Gray 3' Jump Shot,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,149,4,0,2,3:38 PM,4:48,Whalen REBOUND (Off:0 Def:2),,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,150,6,27,2,3:38 PM,4:46,,,Gray Personal Block Foul (P2.T2),,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,152,9,1,2,3:38 PM,4:46,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,153,8,0,2,3:40 PM,4:46,,,SUB: Toliver FOR Parker,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,154,8,0,2,3:40 PM,4:46,,,SUB: Ogwumike FOR Gray,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,155,8,0,2,3:41 PM,4:46,SUB: Augustus FOR Moore,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,156,8,0,2,3:41 PM,4:46,SUB: McCarville FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,157,8,0,2,3:41 PM,4:46,SUB: Cruz FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,158,5,1,2,3:41 PM,4:27,Montgomery Bad Pass Turnover (P3.T9),,Ogwumike STEAL (2 STL),,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,159,1,42,2,3:41 PM,4:22,,,Ogwumike 1' Driving Layup (8 PTS),28 - 26,-2,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,162,1,47,2,3:42 PM,3:57,Brunson 6' Turnaround Jump Shot (8 PTS) (Montgomery 3 AST),,,28 - 28,TIE,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,163,6,17,2,3:43 PM,3:36,LYNX T.Foul (Def. 3 Sec Montgomery ),,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041600401,164,3,16,2,3:43 PM,3:36,,,Toliver Free Throw Technical (8 PTS),29 - 28,-1,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,166,8,0,2,3:43 PM,3:36,SUB: Whalen FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,167,8,0,2,3:43 PM,3:36,SUB: Fowles FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,168,2,1,2,3:43 PM,3:21,,,MISS Carson 20' Jump Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,169,4,0,2,3:43 PM,3:19,Fowles REBOUND (Off:2 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,170,2,42,2,3:44 PM,3:02,MISS Cruz 2' Driving Layup,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,171,4,0,2,3:44 PM,3:01,Fowles REBOUND (Off:3 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,172,5,1,2,3:44 PM,2:58,Fowles Bad Pass Turnover (P1.T10),,Carson STEAL (3 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,173,2,1,2,3:44 PM,2:46,,,MISS Toliver 15' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,174,4,0,2,3:44 PM,2:45,Augustus REBOUND (Off:0 Def:3),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,175,2,1,2,3:44 PM,2:36,MISS Whalen 18' Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,176,4,0,2,3:44 PM,2:33,Augustus REBOUND (Off:1 Def:3),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,177,2,1,2,3:44 PM,2:29,MISS Cruz 16' Jump Shot,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,179,4,0,2,3:44 PM,2:27,McCarville REBOUND (Off:1 Def:0),,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,178,2,97,2,3:44 PM,2:27,MISS McCarville 2' Tip Layup Shot,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,180,4,0,2,3:44 PM,2:26,,,Toliver REBOUND (Off:0 Def:1),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,181,2,1,2,3:44 PM,2:20,,,MISS Lavender 18' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,182,4,0,2,3:44 PM,2:17,Cruz REBOUND (Off:1 Def:1),,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,183,6,1,2,3:45 PM,2:12,,,Beard P.FOUL (P3.T3),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,184,9,1,2,3:45 PM,2:12,,,Sparks Timeout: Regular (Reg.1 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,186,8,0,2,3:47 PM,2:12,,,SUB: Parker FOR Lavender,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,187,8,0,2,3:47 PM,2:12,,,SUB: Gray FOR Beard,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,188,8,0,2,3:47 PM,2:12,SUB: Moore FOR Cruz,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,189,1,1,2,3:48 PM,2:07,Augustus 19' Jump Shot (2 PTS) (Whalen 1 AST),,,29 - 30,1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,190,6,1,2,3:48 PM,1:47,Augustus P.FOUL (P1.T3),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,191,6,1,2,3:49 PM,1:41,Fowles P.FOUL (P1.PN),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,192,3,11,2,3:49 PM,1:41,,,MISS Parker Free Throw 1 of 2,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,193,4,1,2,3:49 PM,1:41,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,194,3,12,2,3:49 PM,1:41,,,Parker Free Throw 2 of 2 (9 PTS),30 - 30,TIE,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,196,6,2,2,3:50 PM,1:30,,,Parker S.FOUL (P1.T4),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,197,3,11,2,3:50 PM,1:30,Fowles Free Throw 1 of 2 (7 PTS),,,30 - 31,1,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,199,3,12,2,3:50 PM,1:30,Fowles Free Throw 2 of 2 (8 PTS),,,30 - 32,2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,201,1,1,2,3:51 PM,1:05,,,Ogwumike 19' Jump Shot (10 PTS),32 - 32,TIE,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,202,6,1,2,3:51 PM,0:53,,,Ogwumike P.FOUL (P3.PN),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,203,3,11,2,3:51 PM,0:53,Augustus Free Throw 1 of 2 (3 PTS),,,32 - 33,1,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,206,8,0,2,3:52 PM,0:53,,,SUB: Lavender FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,207,3,12,2,3:52 PM,0:53,Augustus Free Throw 2 of 2 (4 PTS),,,32 - 34,2,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,209,2,63,2,3:52 PM,0:31,,,MISS Parker 17' Fadeaway Jumper,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,211,4,0,2,3:52 PM,0:29,,,Carson REBOUND (Off:1 Def:0),,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,210,2,97,2,3:52 PM,0:29,,,MISS Carson 1' Tip Layup Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,212,4,0,2,3:52 PM,0:27,Augustus REBOUND (Off:1 Def:4),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,213,1,42,2,3:52 PM,0:23,Whalen 2' Driving Layup (12 PTS),,,32 - 36,4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,214,1,5,2,3:53 PM,0:02,,,Lavender 2' Layup (6 PTS) (Gray 3 AST),34 - 36,2,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,215,5,1,2,3:53 PM,0:00,McCarville Bad Pass Turnover (P1.T11),,Gray STEAL (3 STL),,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,216,2,1,2,3:53 PM,0:00,,,MISS Gray 16' Jump Shot,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,217,4,0,2,3:53 PM,0:00,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,219,13,0,2,3:53 PM,0:00,,End of 2nd Period (3:53 PM EST),,34 - 36,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,220,12,0,3,4:18 PM,10:00,,Start of 3rd Period (4:18 PM EST),,34 - 36,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,221,1,75,3,4:19 PM,9:42,Moore 2' Driving Finger Roll Layup (2 PTS) (Brunson 1 AST),,,34 - 38,4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,222,1,42,3,4:19 PM,9:26,,,Ogwumike 1' Driving Layup (12 PTS) (Beard 2 AST),36 - 38,2,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,223,6,2,3,4:19 PM,9:26,Moore S.FOUL (P1.T1),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,224,3,10,3,4:19 PM,9:26,,,Ogwumike Free Throw 1 of 1 (13 PTS),37 - 38,1,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,226,6,26,3,4:20 PM,9:12,Fowles Offensive Charge Foul (P2.T2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,227,5,5,3,4:20 PM,9:12,Fowles Foul Turnover (P2.T12),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1041600401,228,5,1,3,4:20 PM,8:57,Fowles STEAL (1 STL),,Toliver Bad Pass Turnover (P1.T6),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,229,6,1,3,4:20 PM,8:55,,,Parker P.FOUL (P2.T1),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,230,2,63,3,4:21 PM,8:43,MISS Augustus 11' Fadeaway Jumper,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,231,4,0,3,4:21 PM,8:42,,,Parker REBOUND (Off:0 Def:6),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,232,2,1,3,4:21 PM,8:34,,,MISS Toliver 24' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,233,4,0,3,4:21 PM,8:33,Fowles REBOUND (Off:3 Def:5),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,234,5,2,3,4:21 PM,8:20,Augustus Lost Ball Turnover (P4.T13),,Parker STEAL (1 STL),,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,235,1,1,3,4:21 PM,8:00,,,Parker  3PT Jump Shot (12 PTS) (Toliver 3 AST),40 - 38,-2,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,236,6,2,3,4:22 PM,7:35,,,Beard S.FOUL (P4.T2),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,237,3,11,3,4:22 PM,7:35,Fowles Free Throw 1 of 2 (9 PTS),,,40 - 39,-1,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,239,8,0,3,4:22 PM,7:35,SUB: Perkins FOR Augustus,,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,240,8,0,3,4:22 PM,7:35,,,SUB: Gray FOR Beard,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,241,3,12,3,4:22 PM,7:35,Fowles Free Throw 2 of 2 (10 PTS),,,40 - 40,TIE,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,243,6,2,3,4:23 PM,7:24,Moore S.FOUL (P2.T3),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,244,3,11,3,4:23 PM,7:24,,,Toliver Free Throw 1 of 2 (9 PTS),41 - 40,-1,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,246,3,12,3,4:23 PM,7:24,,,Toliver Free Throw 2 of 2 (10 PTS),42 - 40,-2,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,248,6,1,3,4:24 PM,7:15,,,Carson P.FOUL (P1.T3),,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,249,5,1,3,4:24 PM,7:09,Brunson Bad Pass Turnover (P2.T14),,Parker STEAL (2 STL),,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,250,1,5,3,4:24 PM,7:04,,,Ogwumike 2' Layup (15 PTS) (Parker 2 AST),44 - 40,-4,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,251,1,1,3,4:24 PM,6:46,Perkins 17' Jump Shot (4 PTS) (Whalen 2 AST),,,44 - 42,-2,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,252,2,42,3,4:25 PM,6:37,,,MISS Toliver 2' Driving Layup,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,253,4,0,3,4:25 PM,6:36,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,254,6,3,3,4:25 PM,6:36,,,Parker L.B.FOUL (P3.T4),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,255,1,63,3,4:25 PM,6:19,Moore 10' Fadeaway Jumper (4 PTS) (Whalen 3 AST),,,44 - 44,TIE,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,256,2,47,3,4:25 PM,6:07,,,MISS Parker 9' Turnaround Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,257,4,0,3,4:26 PM,6:05,Fowles REBOUND (Off:3 Def:6),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,258,1,42,3,4:26 PM,5:59,Whalen 3' Driving Layup (14 PTS),,,44 - 46,2,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,259,2,1,3,4:26 PM,5:34,,,MISS Carson 16' Jump Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,261,4,0,3,4:26 PM,5:33,,,Parker REBOUND (Off:1 Def:6),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,260,1,97,3,4:26 PM,5:33,,,Parker 2' Tip Layup Shot (14 PTS),46 - 46,TIE,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,264,2,1,3,4:27 PM,5:06,MISS Whalen  3PT Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,265,4,0,3,4:27 PM,5:04,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,266,1,5,3,4:27 PM,4:47,,,Gray 1' Layup (3 PTS),48 - 46,-2,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,267,1,42,3,4:27 PM,4:36,Whalen 2' Driving Layup (16 PTS),,,48 - 48,TIE,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,268,2,1,3,4:28 PM,4:25,,,MISS Gray 7' Jump Shot,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,269,4,0,3,4:28 PM,4:24,Moore REBOUND (Off:0 Def:6),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,270,6,1,3,4:28 PM,4:24,,,Gray P.FOUL (P3.PN),,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,271,9,1,3,4:28 PM,4:24,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,273,8,0,3,4:31 PM,4:24,SUB: Cruz FOR Whalen,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,274,3,11,3,4:31 PM,4:24,Moore Free Throw 1 of 2 (5 PTS),,,48 - 49,1,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,276,3,12,3,4:31 PM,4:24,Moore Free Throw 2 of 2 (6 PTS),,,48 - 50,2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,278,1,85,3,4:32 PM,4:07,,,Carson 9' Turnaround Bank Shot (2 PTS),50 - 50,TIE,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,279,1,66,3,4:32 PM,3:47,Moore 10' Jump Bank Shot (8 PTS),,,50 - 52,2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,280,2,1,3,4:32 PM,3:35,,,MISS Carson  3PT Jump Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,281,4,0,3,4:32 PM,3:34,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,282,5,1,3,4:33 PM,3:33,Brunson STEAL (3 STL),,Gray Bad Pass Turnover (P1.T7),,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,283,2,79,3,4:33 PM,3:28,MISS Brunson 10' Pullup Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,284,4,0,3,4:33 PM,3:25,,,Ogwumike REBOUND (Off:1 Def:4),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,285,1,42,3,4:33 PM,3:03,,,Gray 1' Driving Layup (5 PTS),52 - 52,TIE,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,286,1,44,3,4:33 PM,2:41,Fowles 2' Reverse Layup (12 PTS) (Brunson 2 AST),,,52 - 54,2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,287,1,5,3,4:34 PM,2:30,,,Toliver 2' Layup (12 PTS) (Parker 3 AST),54 - 54,TIE,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,288,2,5,3,4:34 PM,2:11,MISS Brunson 2' Layup,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,289,4,0,3,4:34 PM,2:10,,,Ogwumike REBOUND (Off:1 Def:5),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,290,6,28,3,4:34 PM,2:07,Perkins Personal Take Foul (P3.T4),,,,,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,291,8,0,3,4:34 PM,2:07,,,SUB: Beard FOR Carson,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,292,8,0,3,4:34 PM,2:07,,,SUB: Lavender FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,293,8,0,3,4:34 PM,2:07,SUB: Whalen FOR Cruz,,,,,4,203813,Anna Cruz,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,294,2,80,3,4:35 PM,1:56,,,MISS Toliver 16' Step Back Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,295,4,0,3,4:35 PM,1:55,Fowles REBOUND (Off:3 Def:7),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,296,1,75,3,4:35 PM,1:45,Perkins 2' Driving Finger Roll Layup (6 PTS),,,54 - 56,2,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,297,6,1,3,4:35 PM,1:32,Brunson P.FOUL (P3.PN),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,298,5,1,3,4:36 PM,1:24,Whalen STEAL (1 STL),,Parker Bad Pass Turnover (P2.T8),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,299,2,1,3,4:36 PM,1:04,MISS Moore  3PT Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,300,4,0,3,4:36 PM,1:03,,,Parker REBOUND (Off:1 Def:7),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,301,5,1,3,4:36 PM,0:59,Perkins STEAL (1 STL),,Parker Bad Pass Turnover (P3.T9),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,302,1,42,3,4:36 PM,0:51,Whalen 2' Driving Layup (18 PTS),,,54 - 58,4,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,303,1,42,3,4:36 PM,0:32,,,Beard 1' Driving Layup (2 PTS),56 - 58,2,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,304,2,5,3,4:37 PM,0:11,MISS Whalen 2' Layup,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,305,4,0,3,4:37 PM,0:10,Fowles REBOUND (Off:4 Def:7),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,306,1,72,3,4:37 PM,0:10,Fowles 3' Putback Layup (14 PTS),,,56 - 60,4,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,307,2,1,3,4:37 PM,0:00,,,MISS Gray 18' Jump Shot,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,308,4,0,3,4:37 PM,0:00,Fowles REBOUND (Off:4 Def:8),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,309,13,0,3,4:37 PM,0:00,,End of 3rd Period (4:37 PM EST),,56 - 60,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,311,12,0,4,4:41 PM,10:00,,Start of 4th Period (4:41 PM EST),,56 - 60,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,312,6,29,4,4:41 PM,9:39,Fowles Shooting Block Foul (P3.T1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,313,3,11,4,4:41 PM,9:39,,,MISS Carson Free Throw 1 of 2,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,314,4,1,4,4:41 PM,9:39,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,315,3,12,4,4:42 PM,9:39,,,MISS Carson Free Throw 2 of 2,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,317,4,0,4,4:42 PM,9:39,,,Ogwumike REBOUND (Off:2 Def:5),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,318,1,85,4,4:42 PM,9:32,,,Lavender 4' Turnaround Bank Shot (8 PTS),58 - 60,2,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,319,2,1,4,4:43 PM,9:06,MISS Moore 8' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,320,4,0,4,4:43 PM,9:04,,,Ogwumike REBOUND (Off:2 Def:6),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,321,6,4,4,4:43 PM,8:45,,,Carson OFF.Foul (P2),,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,322,5,5,4,4:43 PM,8:45,,,Carson Foul Turnover (P2.T10),,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1041600401,323,2,1,4,4:44 PM,8:26,MISS Howard 4' Jump Shot,,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,324,4,0,4,4:44 PM,8:26,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,325,6,3,4,4:44 PM,8:26,Howard L.B.FOUL (P3.T2),,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,326,2,1,4,4:44 PM,8:04,,,MISS Carson  3PT Jump Shot,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,327,4,0,4,4:44 PM,8:03,,,Beard REBOUND (Off:1 Def:2),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,328,6,2,4,4:44 PM,7:54,Howard S.FOUL (P4.T3),,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,329,3,11,4,4:45 PM,7:54,,,Gray Free Throw 1 of 2 (6 PTS),59 - 60,1,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,331,8,0,4,4:45 PM,7:54,SUB: Brunson FOR Howard,,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,332,8,0,4,4:45 PM,7:54,SUB: Augustus FOR Perkins,,,,,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,333,3,12,4,4:45 PM,7:54,,,Gray Free Throw 2 of 2 (7 PTS),60 - 60,TIE,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,335,1,5,4,4:45 PM,7:38,Fowles 2' Layup (16 PTS) (Whalen 4 AST),,,60 - 62,2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,336,6,26,4,4:46 PM,7:26,,,Ogwumike Offensive Charge Foul (P4.T1),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,337,5,5,4,4:46 PM,7:26,,,Ogwumike Foul Turnover (P3.T11),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1041600401,338,2,1,4,4:46 PM,7:14,MISS Whalen 16' Jump Shot,,,,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,339,4,0,4,4:46 PM,7:13,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,340,6,1,4,4:47 PM,6:59,Fowles P.FOUL (P4.T4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,341,6,1,4,4:47 PM,6:55,Brunson P.FOUL (P4.PN),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,342,3,11,4,4:47 PM,6:55,,,MISS Gray Free Throw 1 of 2,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,343,4,1,4,4:47 PM,6:55,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,344,8,0,4,4:48 PM,6:55,,,SUB: Parker FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,345,3,12,4,4:48 PM,6:55,,,Gray Free Throw 2 of 2 (8 PTS),61 - 62,1,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,347,1,1,4,4:48 PM,6:33,Moore 15' Jump Shot (10 PTS) (Whalen 5 AST),,,61 - 64,3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,348,6,2,4,4:48 PM,6:33,,,Carson S.FOUL (P3.T2),,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,349,8,0,4,4:49 PM,6:33,,,SUB: Toliver FOR Carson,,,5,201502,Essence Carson,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,350,3,10,4,4:49 PM,6:33,Moore Free Throw 1 of 1 (11 PTS),,,61 - 65,4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,352,6,2,4,4:49 PM,6:24,Augustus S.FOUL (P2.PN),,,,,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,353,3,11,4,4:49 PM,6:24,,,Gray Free Throw 1 of 2 (9 PTS),62 - 65,3,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,355,3,12,4,4:50 PM,6:24,,,Gray Free Throw 2 of 2 (10 PTS),63 - 65,2,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,357,1,5,4,4:50 PM,6:09,Fowles 2' Layup (18 PTS) (Brunson 3 AST),,,63 - 67,4,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,358,1,63,4,4:51 PM,5:49,,,Gray 16' Fadeaway Jumper (12 PTS),65 - 67,2,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,359,1,1,4,4:51 PM,5:26,Moore 15' Jump Shot (13 PTS),,,65 - 69,4,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,360,1,1,4,4:51 PM,5:09,,,Toliver  3PT Jump Shot (15 PTS) (Lavender 1 AST),68 - 69,1,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,361,9,1,4,4:51 PM,5:00,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,363,8,0,4,4:54 PM,5:00,,,SUB: Ogwumike FOR Lavender,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1041600401,364,2,1,4,4:54 PM,4:49,MISS Moore 11' Jump Shot,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,365,4,0,4,4:54 PM,4:47,,,Ogwumike REBOUND (Off:2 Def:7),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,366,2,1,4,4:55 PM,4:26,,,MISS Toliver 26' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,367,4,0,4,4:55 PM,4:25,Brunson REBOUND (Off:1 Def:1),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,368,1,73,4,4:55 PM,4:08,Moore 1' Driving Reverse Layup (15 PTS),,,68 - 71,3,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,369,6,1,4,4:55 PM,3:58,Moore P.FOUL (P3.PN),,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,370,3,11,4,4:56 PM,3:58,,,Ogwumike Free Throw 1 of 2 (16 PTS),69 - 71,2,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,372,3,12,4,4:56 PM,3:58,,,Ogwumike Free Throw 2 of 2 (17 PTS),70 - 71,1,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,374,2,1,4,4:56 PM,3:45,MISS Fowles 4' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,375,4,0,4,4:56 PM,3:44,,,Parker REBOUND (Off:1 Def:8),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,376,6,1,4,4:56 PM,3:32,Brunson P.FOUL (P5.PN),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1041600401,377,3,11,4,4:57 PM,3:32,,,Toliver Free Throw 1 of 2 (16 PTS),71 - 71,TIE,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,378,3,12,4,4:57 PM,3:32,,,Toliver Free Throw 2 of 2 (17 PTS),72 - 71,-1,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1041600401,380,5,1,4,4:57 PM,3:09,Whalen Bad Pass Turnover (P1.T15),,Parker STEAL (3 STL),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,381,1,79,4,4:58 PM,3:02,,,Toliver 18' Pullup Jump Shot (19 PTS),74 - 71,-3,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,383,9,2,4,4:58 PM,2:53,LYNX Timeout: Short (Full 2 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,384,9,1,4,4:58 PM,2:53,,,Sparks Timeout: Regular (Reg.2 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,385,8,0,4,5:00 PM,2:53,SUB: McCarville FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,386,6,2,4,5:01 PM,2:41,,,Parker S.FOUL (P4.T3),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1041600401,387,3,11,4,5:01 PM,2:41,MISS Moore Free Throw 1 of 2,,,,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,388,4,1,4,5:01 PM,2:41,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,389,3,12,4,5:01 PM,2:41,Moore Free Throw 2 of 2 (16 PTS),,,74 - 72,-2,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1041600401,391,2,1,4,5:02 PM,2:21,,,MISS Gray 26' 3PT Jump Shot,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,392,4,0,4,5:02 PM,2:20,Fowles REBOUND (Off:4 Def:9),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,393,2,1,4,5:02 PM,2:10,MISS Whalen 14' Jump Shot,,Beard BLOCK (2 BLK),,,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1
+1041600401,394,4,0,4,5:02 PM,2:08,,,Beard REBOUND (Off:1 Def:3),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,395,2,1,4,5:02 PM,1:46,,,MISS Toliver 21' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,396,4,0,4,5:03 PM,1:45,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,397,5,11,4,5:03 PM,1:45,,,Sparks Turnover: Shot Clock (T#12),,,3,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600401,398,5,2,4,5:03 PM,1:32,Moore Lost Ball Turnover (P1.T16),,Beard STEAL (2 STL),,,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,400,9,1,4,5:03 PM,1:26,,,Sparks Timeout: Regular (Reg.3 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,402,8,0,4,5:05 PM,1:26,SUB: Brunson FOR McCarville,,,,,4,101019,Janel McCarville,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1041600401,403,1,82,4,5:05 PM,1:15,,,Ogwumike 4' Driving Bank Shot (19 PTS),76 - 72,-4,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,404,1,1,4,5:06 PM,1:00,Augustus 15' Jump Shot (6 PTS) (Whalen 6 AST),,,76 - 74,-2,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1041600401,405,2,1,4,5:06 PM,0:35,,,MISS Gray 16' Jump Shot,,,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1041600401,406,4,0,4,5:06 PM,0:34,Brunson REBOUND (Off:1 Def:2),,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,407,1,42,4,5:06 PM,0:24,Moore 1' Driving Layup (18 PTS),,,76 - 76,TIE,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1041600401,408,9,2,4,5:06 PM,0:24,,,Sparks Timeout: Short (Reg.3 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1041600401,410,1,1,4,5:08 PM,0:00,,,Beard 21' Jump Shot (4 PTS) (Gray 4 AST),78 - 76,-2,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1041600401,411,18,0,4,5:09 PM,0:00,,Support Ruling,,,,0,410,,,,,,0,0,,,,,,1,0,,,,,,0
+1041600401,413,13,0,4,5:10 PM,0:00,,End of 4th Period (5:10 PM EST),,78 - 76,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

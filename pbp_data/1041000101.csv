@@ -1,0 +1,445 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1041000101,0,12,0,1,7:07 PM,10:00,,Start of 1st Period (7:07 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,1,10,0,1,7:07 PM,10:00,Jump Ball Melvin vs. Lyttle: Tip to C. Miller,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,2,2,1,1,7:09 PM,9:48,,,MISS Lyttle 17' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,3,4,0,1,7:09 PM,9:47,,,Castro Marques REBOUND (Off:1 Def:0),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,4,1,66,1,7:09 PM,9:44,,,Castro Marques Jump Bank Shot (2 PTS),2 - 0,-2,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,5,2,1,1,7:09 PM,9:19,MISS Harding 6' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,6,4,0,1,7:09 PM,9:18,,,Lyttle REBOUND (Off:0 Def:1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,7,1,42,1,7:09 PM,9:10,,,Castro Marques 1' Driving Layup (4 PTS),4 - 0,-4,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,8,2,1,1,7:09 PM,8:56,MISS Langhorne 16' Jump Shot,,Lyttle BLOCK (1 BLK),,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,9,4,0,1,7:09 PM,8:56,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,10,2,1,1,7:10 PM,8:42,,,MISS Castro Marques 3PT Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,11,4,0,1,7:10 PM,8:41,Harding REBOUND (Off:0 Def:1),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,12,2,1,1,7:10 PM,8:30,MISS Currie 17' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,13,4,0,1,7:10 PM,8:28,,,Lyttle REBOUND (Off:0 Def:2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,14,5,2,1,7:11 PM,8:21,Melvin STEAL (1 STL),,McCoughtry Lost Ball Turnover (P1.T1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,15,6,1,1,7:11 PM,8:20,,,Lyttle P.FOUL (P1.T1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,16,5,1,1,7:11 PM,8:03,Harding Bad Pass Turnover (P1.T1),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,18,5,13,1,7:12 PM,7:45,,,Castro Marques Backcourt Turnover (P1.T2),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,19,5,1,1,7:12 PM,7:32,Langhorne Bad Pass Turnover (P1.T2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,20,5,4,1,7:12 PM,7:23,,,Lyttle Traveling Turnover (P1.T3),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,21,8,0,1,7:14 PM,7:08,SUB: Coleman FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,22,8,0,1,7:14 PM,7:08,,,SUB: de Souza FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,23,2,1,1,7:14 PM,7:00,MISS Harding 9' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,24,4,0,1,7:14 PM,6:59,,,Lyttle REBOUND (Off:0 Def:3),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,25,2,1,1,7:14 PM,6:43,,,MISS de Souza 4' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,26,4,0,1,7:14 PM,6:42,,,de Souza REBOUND (Off:1 Def:0),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,27,1,72,1,7:14 PM,6:40,,,de Souza 1' Putback Layup (2 PTS),6 - 0,-6,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,28,6,2,1,7:15 PM,6:31,,,Herrington S.FOUL (P1.T2),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,29,3,11,1,7:15 PM,6:31,Harding Free Throw 1 of 2 (1 PTS),,,6 - 1,-5,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,31,3,12,1,7:15 PM,6:31,MISS Harding Free Throw 2 of 2,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,33,4,0,1,7:15 PM,6:30,,,Lyttle REBOUND (Off:0 Def:4),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,34,1,5,1,7:16 PM,6:23,,,de Souza 1' Layup (4 PTS) (Lyttle 1 AST),8 - 1,-7,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,35,2,1,1,7:16 PM,6:10,MISS Currie 5' Jump Shot,,de Souza BLOCK (1 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,36,4,0,1,7:16 PM,6:08,,,de Souza REBOUND (Off:1 Def:1),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,37,2,1,1,7:16 PM,6:04,,,MISS Castro Marques 15' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,38,4,0,1,7:16 PM,6:02,,,Lyttle REBOUND (Off:1 Def:4),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,39,1,1,1,7:16 PM,5:58,,,C. Miller 15' Jump Shot (2 PTS),10 - 1,-9,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,41,9,1,1,7:16 PM,5:57,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,42,8,0,1,7:19 PM,5:57,SUB: Sanford FOR Coleman,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,43,6,1,1,7:19 PM,5:56,,,Lyttle P.FOUL (P2.T3),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,44,1,5,1,7:20 PM,5:40,Langhorne 1' Layup (2 PTS) (Harding 1 AST),,,10 - 3,-7,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,45,2,1,1,7:20 PM,5:27,,,MISS C. Miller 15' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,46,4,0,1,7:20 PM,5:27,Langhorne REBOUND (Off:0 Def:1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,47,6,3,1,7:20 PM,5:27,,,de Souza L.B.FOUL (P1.T4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,48,8,0,1,7:20 PM,5:27,,,SUB: McCoughtry FOR Lyttle,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,50,2,1,1,7:20 PM,5:11,MISS Langhorne 6' Jump Shot,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,51,4,0,1,7:20 PM,5:10,Sanford REBOUND (Off:1 Def:0),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,52,1,72,1,7:21 PM,5:08,Sanford 1' Putback Layup (2 PTS),,,10 - 5,-5,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,53,6,1,1,7:21 PM,4:58,Langhorne P.FOUL (P1.T1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,54,1,82,1,7:21 PM,4:52,,,Castro Marques 11' Driving Bank Shot (6 PTS),12 - 5,-7,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,55,5,40,1,7:21 PM,4:38,Langhorne Out of Bounds Lost Ball Turnover (P2.T3),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,56,6,4,1,7:22 PM,4:29,,,Herrington OFF.Foul (P2),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,57,5,5,1,7:22 PM,4:29,,,Herrington Foul Turnover (P1.T4),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,58,6,2,1,7:22 PM,4:15,,,de Souza S.FOUL (P2.PN),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,59,3,11,1,7:22 PM,4:15,Currie Free Throw 1 of 2 (1 PTS),,,12 - 6,-6,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,61,8,0,1,7:23 PM,4:15,,,SUB: Lehning FOR Herrington,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,62,3,12,1,7:23 PM,4:15,MISS Currie Free Throw 2 of 2,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,64,4,0,1,7:23 PM,4:14,,,Castro Marques REBOUND (Off:1 Def:1),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,65,2,1,1,7:23 PM,4:02,,,MISS de Souza 4' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,66,4,0,1,7:23 PM,4:01,Langhorne REBOUND (Off:0 Def:2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,67,2,1,1,7:23 PM,3:54,MISS Currie 16' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,68,4,0,1,7:23 PM,3:53,Sanford REBOUND (Off:2 Def:0),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,69,1,72,1,7:24 PM,3:50,Sanford 2' Putback Layup (4 PTS),,,12 - 8,-4,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,70,2,1,1,7:24 PM,3:36,,,MISS C. Miller 16' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,71,4,0,1,7:24 PM,3:35,Smith REBOUND (Off:0 Def:1),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,72,1,42,1,7:24 PM,3:28,Harding 1' Driving Layup (3 PTS),,,12 - 10,-2,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,73,9,1,1,7:24 PM,3:28,,,Dream Timeout: Regular (Reg.1 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,75,8,0,1,7:26 PM,3:28,,,SUB: Bales FOR C. Miller,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,76,10,0,1,7:26 PM,3:15,Jump Ball Langhorne vs. Castro Marques: Tip to McCoughtry,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,77,2,1,1,7:27 PM,3:04,,,MISS McCoughtry 24' 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,78,4,0,1,7:27 PM,3:03,Sanford REBOUND (Off:2 Def:1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,79,1,5,1,7:27 PM,2:59,Smith 1' Layup (2 PTS) (Harding 2 AST),,,12 - 12,TIE,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,80,6,2,1,7:27 PM,2:53,Smith S.FOUL (P1.T2),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,81,8,0,1,7:27 PM,2:53,,,SUB: Herrington FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,82,3,11,1,7:27 PM,2:53,,,MISS McCoughtry Free Throw 1 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,83,4,1,1,7:27 PM,2:53,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,84,3,12,1,7:28 PM,2:53,,,MISS McCoughtry Free Throw 2 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,86,4,0,1,7:28 PM,2:52,Currie REBOUND (Off:0 Def:1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,87,2,1,1,7:28 PM,2:42,MISS Currie 3' Jump Shot,,de Souza BLOCK (2 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,88,4,0,1,7:28 PM,2:40,,,de Souza REBOUND (Off:1 Def:2),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,89,2,1,1,7:28 PM,2:35,,,MISS McCoughtry 3' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,90,4,0,1,7:28 PM,2:33,Currie REBOUND (Off:0 Def:2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,91,2,5,1,7:28 PM,2:23,MISS Langhorne 2' Layup,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,92,4,0,1,7:28 PM,2:22,,,Lehning REBOUND (Off:0 Def:1),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,94,1,84,1,7:28 PM,2:14,,,McCoughtry 10' Running Bank Shot (2 PTS),14 - 12,-2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,95,1,5,1,7:29 PM,1:54,Sanford 2' Layup (6 PTS) (Smith 1 AST),,,14 - 14,TIE,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,96,2,1,1,7:29 PM,1:32,,,MISS McCoughtry 7' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,97,4,0,1,7:29 PM,1:31,Harding REBOUND (Off:0 Def:2),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,98,2,1,1,7:29 PM,1:12,MISS Currie 3PT Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,99,4,0,1,7:29 PM,1:11,,,Lehning REBOUND (Off:0 Def:2),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,100,2,1,1,7:30 PM,1:01,,,MISS McCoughtry 17' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,101,4,0,1,7:30 PM,0:59,Smith REBOUND (Off:0 Def:2),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,103,1,1,1,7:30 PM,0:47,Smith 3PT Jump Shot (5 PTS) (Sanford 1 AST),,,14 - 17,3,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,104,2,1,1,7:30 PM,0:30,,,MISS de Souza 16' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,105,4,0,1,7:30 PM,0:29,Currie REBOUND (Off:0 Def:3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,106,5,1,1,7:30 PM,0:27,Currie Bad Pass Turnover (P1.T4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,107,8,0,1,7:30 PM,0:27,SUB: Monroe FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,202261,Jacinta Monroe,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,108,8,0,1,7:31 PM,0:27,SUB: Ajavon FOR Smith,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,109,5,2,1,7:31 PM,0:13,Ajavon STEAL (1 STL),,McCoughtry Lost Ball Turnover (P2.T5),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,110,6,3,1,7:31 PM,0:13,,,Bales L.B.FOUL (P1.PN),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,111,3,11,1,7:31 PM,0:13,Ajavon Free Throw 1 of 2 (1 PTS),,,14 - 18,4,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,113,3,12,1,7:32 PM,0:13,Ajavon Free Throw 2 of 2 (2 PTS),,,14 - 19,5,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,116,1,1,1,7:32 PM,0:05,,,McCoughtry 15' Jump Shot (4 PTS) (Herrington 1 AST),16 - 19,3,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,117,6,2,1,7:32 PM,0:05,Currie S.FOUL (P1.T3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,118,8,0,1,7:32 PM,0:05,,,SUB: C. Miller FOR Lehning,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,119,3,10,1,7:32 PM,0:05,,,McCoughtry Free Throw 1 of 1 (5 PTS),17 - 19,2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,121,2,1,1,7:33 PM,0:00,MISS Harding 12' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,122,4,0,1,7:33 PM,0:00,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,123,13,0,1,7:33 PM,0:00,,End of 1st Period (7:33 PM EST),,17 - 19,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,125,12,0,2,7:36 PM,10:00,,Start of 2nd Period (7:36 PM EST),,17 - 19,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,126,2,1,2,7:37 PM,9:37,MISS Ajavon 15' Jump Shot,,Lyttle BLOCK (2 BLK),,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,127,4,0,2,7:37 PM,9:35,,,C. Miller REBOUND (Off:0 Def:1),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,128,1,42,2,7:37 PM,9:25,,,McCoughtry Driving Layup (7 PTS),19 - 19,TIE,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,129,6,1,2,7:37 PM,9:04,,,Lyttle P.FOUL (P3.T1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,130,8,0,2,7:37 PM,9:04,SUB: Coleman FOR Monroe,,,,,4,202261,Jacinta Monroe,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,131,8,0,2,7:37 PM,9:04,,,SUB: de Souza FOR Lyttle,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,132,6,4,2,7:38 PM,8:55,Sanford OFF.Foul (P1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,133,5,5,2,7:38 PM,8:55,Sanford Foul Turnover (P1.T5),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,134,1,1,2,7:38 PM,8:38,,,Castro Marques 17' Jump Shot (8 PTS),21 - 19,-2,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,135,1,82,2,7:39 PM,8:12,Ajavon 6' Driving Bank Shot (4 PTS),,,21 - 21,TIE,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,136,1,42,2,7:39 PM,8:05,,,C. Miller 1' Driving Layup (4 PTS),23 - 21,-2,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,137,1,1,2,7:39 PM,7:50,Harding 3PT Jump Shot (6 PTS) (Smith 2 AST),,,23 - 24,1,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,138,6,2,2,7:40 PM,7:42,Coleman S.FOUL (P1.T1),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,139,3,11,2,7:40 PM,7:42,,,Herrington Free Throw 1 of 2 (1 PTS),24 - 24,TIE,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,141,8,0,2,7:40 PM,7:42,SUB: Melvin FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,142,3,12,2,7:40 PM,7:42,,,MISS Herrington Free Throw 2 of 2,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,144,4,0,2,7:40 PM,7:41,,,McCoughtry REBOUND (Off:1 Def:0),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,145,5,7,2,7:41 PM,7:39,,,McCoughtry Discontinue Dribble Turnover (P3.T6),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,147,2,1,2,7:41 PM,7:29,MISS Ajavon 5' Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,148,4,0,2,7:41 PM,7:28,,,de Souza REBOUND (Off:1 Def:3),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,149,1,82,2,7:41 PM,7:22,,,Castro Marques 14' Driving Bank Shot (10 PTS),26 - 24,-2,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,150,2,1,2,7:41 PM,7:08,MISS Coleman 3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,151,4,0,2,7:41 PM,7:07,,,Castro Marques REBOUND (Off:1 Def:2),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,152,6,1,2,7:41 PM,7:07,Ajavon P.FOUL (P1.T2),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,153,8,0,2,7:42 PM,7:07,SUB: Currie FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,155,1,42,2,7:42 PM,6:53,,,McCoughtry 2' Driving Layup (9 PTS),28 - 24,-4,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,156,2,5,2,7:42 PM,6:42,MISS Harding 2' Layup,,de Souza BLOCK (3 BLK),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,157,4,0,2,7:42 PM,6:42,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,158,2,1,2,7:42 PM,6:36,MISS Coleman 3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,159,4,0,2,7:42 PM,6:35,Smith REBOUND (Off:1 Def:2),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,160,2,1,2,7:43 PM,6:24,MISS Currie 3PT Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,161,4,0,2,7:43 PM,6:23,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,162,6,3,2,7:43 PM,6:23,Coleman L.B.FOUL (P2.T3),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,163,8,0,2,7:43 PM,6:23,SUB: Langhorne FOR Smith,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,164,1,1,2,7:43 PM,6:12,,,C. Miller 24' 3PT Jump Shot (7 PTS) (McCoughtry 1 AST),31 - 24,-7,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,165,2,1,2,7:43 PM,6:02,MISS Harding 4' Jump Shot,,McCoughtry BLOCK (1 BLK),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,166,4,0,2,7:43 PM,5:59,Harding REBOUND (Off:1 Def:2),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,167,1,72,2,7:43 PM,5:57,Harding 1' Putback Layup (8 PTS),,,31 - 26,-5,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,168,1,1,2,7:44 PM,5:44,,,McCoughtry 3PT Jump Shot (12 PTS) (Herrington 2 AST),34 - 26,-8,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,169,6,1,2,7:44 PM,5:30,,,McCoughtry P.FOUL (P1.T2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,170,9,4,2,7:44 PM,5:30,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,172,2,1,2,7:47 PM,5:23,MISS Harding 16' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,173,4,0,2,7:47 PM,5:23,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,174,6,2,2,7:47 PM,5:12,Coleman S.FOUL (P3.T4),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,175,3,11,2,7:47 PM,5:12,,,MISS C. Miller Free Throw 1 of 2,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,176,4,1,2,7:47 PM,5:12,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,177,8,0,2,7:48 PM,5:12,SUB: Smith FOR Coleman,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,178,3,12,2,7:48 PM,5:12,,,C. Miller Free Throw 2 of 2 (8 PTS),35 - 26,-9,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,180,2,5,2,7:49 PM,4:53,MISS Langhorne 2' Layup,,de Souza BLOCK (4 BLK),,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,181,4,0,2,7:49 PM,4:52,,,de Souza REBOUND (Off:1 Def:4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,182,1,1,2,7:49 PM,4:46,,,McCoughtry 3' Jump Shot (14 PTS),37 - 26,-11,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,183,1,5,2,7:49 PM,4:31,Langhorne 1' Layup (4 PTS),,,37 - 28,-9,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,184,2,5,2,7:49 PM,4:16,,,MISS McCoughtry 1' Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,185,4,0,2,7:49 PM,4:15,Melvin REBOUND (Off:0 Def:1),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,186,6,1,2,7:49 PM,4:14,,,C. Miller P.FOUL (P1.T3),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,187,2,1,2,7:50 PM,3:52,MISS Harding 3PT Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,188,4,0,2,7:50 PM,3:50,Melvin REBOUND (Off:1 Def:1),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,189,6,2,2,7:50 PM,3:30,,,de Souza S.FOUL (P3.T4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,190,3,11,2,7:50 PM,3:30,Currie Free Throw 1 of 2 (2 PTS),,,37 - 29,-8,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,192,8,0,2,7:51 PM,3:30,,,SUB: Leuchanka FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,193,3,12,2,7:51 PM,3:30,MISS Currie Free Throw 2 of 2,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,195,4,0,2,7:51 PM,3:29,,,McCoughtry REBOUND (Off:1 Def:1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,196,1,1,2,7:51 PM,3:20,,,Herrington 15' Jump Shot (3 PTS) (C. Miller 1 AST),39 - 29,-10,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,197,5,1,2,7:51 PM,3:07,Smith Bad Pass Turnover (P1.T6),,McCoughtry STEAL (1 STL),,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,198,1,1,2,7:52 PM,3:00,,,C. Miller 15' Jump Shot (10 PTS) (Herrington 3 AST),41 - 29,-12,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,199,9,1,2,7:52 PM,2:51,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,201,1,56,2,7:55 PM,2:37,Langhorne 6' Running Hook Shot (6 PTS),,,41 - 31,-10,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,202,1,1,2,7:55 PM,2:21,,,McCoughtry 24' 3PT Jump Shot (17 PTS) (Herrington 4 AST),44 - 31,-13,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,203,1,1,2,7:55 PM,1:56,Currie 19' Jump Shot (4 PTS) (Melvin 1 AST),,,44 - 33,-11,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,204,5,2,2,7:56 PM,1:45,Currie STEAL (1 STL),,Castro Marques Lost Ball Turnover (P2.T7),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,205,6,1,2,7:56 PM,1:44,,,Castro Marques P.FOUL (P1.PN),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,206,3,11,2,7:56 PM,1:44,MISS Harding Free Throw 1 of 2,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,207,4,1,2,7:56 PM,1:44,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,208,3,12,2,7:56 PM,1:44,MISS Harding Free Throw 2 of 2,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,210,4,0,2,7:56 PM,1:43,Langhorne REBOUND (Off:1 Def:2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,211,2,5,2,7:57 PM,1:40,MISS Langhorne 2' Layup,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,212,4,0,2,7:57 PM,1:38,,,Castro Marques REBOUND (Off:1 Def:3),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,213,6,4,2,7:57 PM,1:36,,,Castro Marques OFF.Foul (P2),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,214,5,5,2,7:57 PM,1:36,,,Castro Marques Foul Turnover (P3.T8),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,216,2,1,2,7:57 PM,1:13,MISS Harding 11' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,217,4,0,2,7:57 PM,1:12,,,McCoughtry REBOUND (Off:1 Def:2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,218,2,1,2,7:58 PM,0:56,,,MISS Leuchanka 7' Jump Shot,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,219,4,0,2,7:58 PM,0:55,,,Leuchanka REBOUND (Off:1 Def:0),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,220,1,72,2,7:58 PM,0:53,,,Leuchanka 3' Putback Layup (2 PTS),46 - 33,-13,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,221,5,40,2,7:58 PM,0:49,Smith Out of Bounds Lost Ball Turnover (P2.T7),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,223,1,42,2,7:58 PM,0:31,,,Castro Marques 1' Driving Layup (12 PTS),48 - 33,-15,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,224,2,1,2,7:59 PM,0:08,MISS Smith 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,225,4,0,2,7:59 PM,0:07,,,Herrington REBOUND (Off:0 Def:1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,226,2,1,2,7:59 PM,0:01,Langhorne BLOCK (1 BLK),,MISS McCoughtry 4' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0
+1041000101,227,4,0,2,7:59 PM,0:00,Langhorne REBOUND (Off:1 Def:3),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,228,13,0,2,7:59 PM,0:00,,End of 2nd Period (7:59 PM EST),,48 - 33,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,230,12,0,3,8:15 PM,10:00,,Start of 3rd Period (8:15 PM EST),,48 - 33,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,231,2,1,3,8:15 PM,9:39,MISS Currie 7' Jump Shot,,Lyttle BLOCK (3 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,232,4,0,3,8:15 PM,9:38,Currie REBOUND (Off:1 Def:3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,233,2,1,3,8:15 PM,9:34,MISS Harding 3PT Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,234,4,0,3,8:15 PM,9:33,,,Lyttle REBOUND (Off:1 Def:5),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,235,1,5,3,8:16 PM,9:30,,,Castro Marques 1' Layup (14 PTS),50 - 33,-17,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,236,6,1,3,8:16 PM,9:13,,,Herrington P.FOUL (P3.T1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,237,2,1,3,8:16 PM,9:03,MISS Langhorne 16' Jump Shot,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,238,4,0,3,8:16 PM,9:02,Currie REBOUND (Off:2 Def:3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,239,1,1,3,8:16 PM,8:51,Melvin 14' Jump Shot (2 PTS),,,50 - 35,-15,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,240,6,2,3,8:17 PM,8:36,Langhorne S.FOUL (P2.T1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,241,3,11,3,8:17 PM,8:36,,,Herrington Free Throw 1 of 2 (4 PTS),51 - 35,-16,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,243,3,12,3,8:17 PM,8:36,,,Herrington Free Throw 2 of 2 (5 PTS),52 - 35,-17,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,245,6,2,3,8:18 PM,8:21,,,Lyttle S.FOUL (P4.T2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,246,3,11,3,8:18 PM,8:21,Langhorne Free Throw 1 of 2 (7 PTS),,,52 - 36,-16,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,248,8,0,3,8:18 PM,8:21,,,SUB: de Souza FOR Lyttle,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,249,3,12,3,8:18 PM,8:21,Langhorne Free Throw 2 of 2 (8 PTS),,,52 - 37,-15,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,251,1,47,3,8:19 PM,8:05,,,de Souza 11' Turnaround Jump Shot (6 PTS),54 - 37,-17,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,252,6,1,3,8:19 PM,7:52,,,C. Miller P.FOUL (P2.T3),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,253,1,42,3,8:20 PM,7:41,Harding 1' Driving Layup (10 PTS),,,54 - 39,-15,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,254,2,1,3,8:20 PM,7:28,Langhorne BLOCK (2 BLK),,MISS McCoughtry 14' Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0
+1041000101,255,4,0,3,8:20 PM,7:25,Currie REBOUND (Off:2 Def:4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,256,6,2,3,8:20 PM,7:22,,,McCoughtry S.FOUL (P2.T4),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,257,3,11,3,8:20 PM,7:22,Currie Free Throw 1 of 2 (5 PTS),,,54 - 40,-14,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,259,3,12,3,8:20 PM,7:22,Currie Free Throw 2 of 2 (6 PTS),,,54 - 41,-13,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,262,5,1,3,8:21 PM,7:11,,,Castro Marques Bad Pass Turnover (P4.T9),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,263,2,1,3,8:21 PM,6:49,MISS Harding 18' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,264,4,0,3,8:21 PM,6:48,,,C. Miller REBOUND (Off:0 Def:2),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,265,1,42,3,8:22 PM,6:43,,,C. Miller Driving Layup (12 PTS),56 - 41,-15,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,266,2,1,3,8:22 PM,6:22,MISS Smith 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,267,4,0,3,8:22 PM,6:21,Langhorne REBOUND (Off:2 Def:3),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,268,2,1,3,8:22 PM,6:17,MISS Langhorne 4' Jump Shot,,de Souza BLOCK (5 BLK),,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,269,4,0,3,8:22 PM,6:15,,,de Souza REBOUND (Off:1 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,270,1,1,3,8:22 PM,6:11,,,McCoughtry 16' Jump Shot (19 PTS) (de Souza 1 AST),58 - 41,-17,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,271,6,2,3,8:23 PM,5:45,,,McCoughtry S.FOUL (P3.PN),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,272,8,0,3,8:23 PM,5:45,SUB: Sanford FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,273,8,0,3,8:23 PM,5:45,SUB: Ajavon FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,274,3,11,3,8:23 PM,5:45,Harding Free Throw 1 of 2 (11 PTS),,,58 - 42,-16,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,276,3,12,3,8:23 PM,5:45,Harding Free Throw 2 of 2 (12 PTS),,,58 - 43,-15,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,279,2,1,3,8:24 PM,5:33,Langhorne BLOCK (3 BLK),,MISS Herrington 8' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0
+1041000101,280,4,0,3,8:24 PM,5:30,,,Herrington REBOUND (Off:1 Def:1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,281,2,1,3,8:24 PM,5:24,,,MISS de Souza 6' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,282,4,0,3,8:24 PM,5:23,Langhorne REBOUND (Off:2 Def:4),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,283,6,4,3,8:24 PM,5:15,Ajavon OFF.Foul (P2),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,284,5,5,3,8:24 PM,5:15,Ajavon Foul Turnover (P1.T8),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,285,2,1,3,8:25 PM,4:59,,,MISS Castro Marques 15' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,286,4,0,3,8:25 PM,4:58,Smith REBOUND (Off:1 Def:3),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,287,6,1,3,8:25 PM,4:56,,,Castro Marques P.FOUL (P3.PN),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,288,9,4,3,8:25 PM,4:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,289,3,11,3,8:28 PM,4:56,Smith Free Throw 1 of 2 (6 PTS),,,58 - 44,-14,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,291,3,12,3,8:28 PM,4:56,Smith Free Throw 2 of 2 (7 PTS),,,58 - 45,-13,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,294,1,1,3,8:28 PM,4:42,,,C. Miller 18' Jump Shot (14 PTS) (Herrington 5 AST),60 - 45,-15,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,295,1,1,3,8:29 PM,4:17,Harding 12' Jump Shot (14 PTS),,,60 - 47,-13,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,296,1,5,3,8:29 PM,4:02,,,de Souza 2' Layup (8 PTS) (Herrington 6 AST),62 - 47,-15,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,297,1,77,3,8:29 PM,3:42,Ajavon 12' Driving Jump Shot (6 PTS),,,62 - 49,-13,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,298,1,5,3,8:30 PM,3:31,,,de Souza 1' Layup (10 PTS) (Castro Marques 1 AST),64 - 49,-15,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,299,6,2,3,8:30 PM,3:31,Sanford S.FOUL (P2.T2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,300,8,0,3,8:30 PM,3:31,SUB: Coleman FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,301,3,10,3,8:30 PM,3:31,,,MISS de Souza Free Throw 1 of 1,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,303,4,0,3,8:30 PM,3:30,,,McCoughtry REBOUND (Off:2 Def:2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,304,5,40,3,8:30 PM,3:30,,,McCoughtry Out of Bounds Lost Ball Turnover (P4.T10),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,306,1,42,3,8:31 PM,3:19,Ajavon 1' Driving Layup (8 PTS),,,64 - 51,-13,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,307,2,1,3,8:31 PM,3:10,,,MISS C. Miller 7' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,308,4,0,3,8:31 PM,3:10,Langhorne REBOUND (Off:2 Def:5),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,309,6,3,3,8:31 PM,3:10,,,de Souza L.B.FOUL (P4.PN),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,310,3,11,3,8:31 PM,3:10,Langhorne Free Throw 1 of 2 (9 PTS),,,64 - 52,-12,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,313,8,0,3,8:32 PM,3:10,,,SUB: Leuchanka FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,314,3,12,3,8:32 PM,3:10,Langhorne Free Throw 2 of 2 (10 PTS),,,64 - 53,-11,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,317,5,40,3,8:32 PM,2:56,,,C. Miller Out of Bounds Lost Ball Turnover (P1.T11),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,319,2,1,3,8:33 PM,2:36,MISS Harding 8' Jump Shot,,Leuchanka BLOCK (1 BLK),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0
+1041000101,320,4,0,3,8:33 PM,2:35,,,Leuchanka REBOUND (Off:1 Def:1),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,321,2,5,3,8:33 PM,2:30,,,MISS Castro Marques 1' Layup,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,322,4,0,3,8:33 PM,2:29,,,Herrington REBOUND (Off:2 Def:1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,323,1,1,3,8:33 PM,2:25,,,C. Miller 14' Jump Shot (16 PTS) (Herrington 7 AST),66 - 53,-13,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,324,2,5,3,8:33 PM,2:12,MISS Ajavon 3' Layup,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,325,4,0,3,8:33 PM,2:11,,,Leuchanka REBOUND (Off:1 Def:2),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,326,1,46,3,8:34 PM,2:05,,,McCoughtry 12' Running Jump Shot (21 PTS),68 - 53,-15,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,327,2,1,3,8:34 PM,1:43,MISS Ajavon 14' Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,328,4,0,3,8:34 PM,1:43,,,McCoughtry REBOUND (Off:2 Def:3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,329,2,1,3,8:34 PM,1:25,,,MISS C. Miller 16' Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,330,4,0,3,8:35 PM,1:24,Coleman REBOUND (Off:0 Def:1),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,331,6,1,3,8:35 PM,1:15,,,Castro Marques P.FOUL (P4.PN),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,332,8,0,3,8:35 PM,1:15,SUB: Currie FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,333,3,11,3,8:35 PM,1:15,Smith Free Throw 1 of 2 (8 PTS),,,68 - 54,-14,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,335,3,12,3,8:35 PM,1:15,MISS Smith Free Throw 2 of 2,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,337,4,0,3,8:36 PM,1:14,Langhorne REBOUND (Off:3 Def:5),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,338,5,1,3,8:36 PM,1:06,Coleman Bad Pass Turnover (P1.T9),,McCoughtry STEAL (2 STL),,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,339,6,1,3,8:36 PM,1:04,Harding P.FOUL (P1.T3),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,341,2,1,3,8:36 PM,0:47,,,MISS Leuchanka 18' Jump Shot,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,342,4,0,3,8:36 PM,0:46,Currie REBOUND (Off:2 Def:5),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,343,1,42,3,8:37 PM,0:32,Coleman Driving Layup (2 PTS),,,68 - 56,-12,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,344,2,1,3,8:37 PM,0:21,,,MISS McCoughtry 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,345,4,0,3,8:38 PM,0:19,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,346,8,0,3,8:38 PM,0:17,,,SUB: Raven FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,202283,Brittainey Raven,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,347,5,7,3,8:38 PM,0:12,Harding Discontinue Dribble Turnover (P2.T10),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,349,5,1,3,8:39 PM,0:06,,,Herrington Bad Pass Turnover (P2.T12),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1041000101,350,1,1,3,8:39 PM,0:00,Coleman 16' Jump Shot (4 PTS) (Harding 3 AST),,,68 - 58,-10,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,352,18,0,3,8:40 PM,0:00,,Instant Replay3rd Period (8:40 PM EST),,68 - 58,-10,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1041000101,353,13,0,3,8:40 PM,0:00,,End of 3rd Period (8:40 PM EST),,68 - 58,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,355,12,0,4,8:43 PM,10:00,,Start of 4th Period (8:43 PM EST),,68 - 58,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,357,2,1,4,8:43 PM,9:49,,,MISS Lyttle 16' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,358,4,0,4,8:43 PM,9:48,Currie REBOUND (Off:2 Def:6),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,359,2,1,4,8:43 PM,9:39,MISS Harding 15' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,360,4,0,4,8:43 PM,9:38,Currie REBOUND (Off:3 Def:6),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,361,6,1,4,8:43 PM,9:38,,,Castro Marques P.FOUL (P5.T1),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,362,8,0,4,8:43 PM,9:38,,,SUB: de Souza FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,363,2,1,4,8:44 PM,9:27,MISS Harding 10' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,364,4,0,4,8:44 PM,9:26,Langhorne REBOUND (Off:4 Def:5),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,365,1,56,4,8:44 PM,9:20,Langhorne 7' Running Hook Shot (12 PTS),,,68 - 60,-8,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,366,2,1,4,8:44 PM,9:03,Langhorne BLOCK (4 BLK),,MISS de Souza 8' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0
+1041000101,370,4,0,4,8:44 PM,9:02,Currie REBOUND (Off:3 Def:7),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,367,1,5,4,8:44 PM,8:59,Coleman 1' Layup (6 PTS) (Currie 1 AST),,,68 - 62,-6,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,368,6,2,4,8:44 PM,8:59,,,Herrington S.FOUL (P4.T2),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,369,9,1,4,8:44 PM,8:59,,,Dream Timeout: Regular (Reg.2 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,374,8,0,4,8:47 PM,8:59,SUB: Sanford FOR Smith,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,375,3,10,4,8:47 PM,8:59,Coleman Free Throw 1 of 1 (7 PTS),,,68 - 63,-5,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,378,6,1,4,8:48 PM,8:53,Sanford P.FOUL (P3.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,379,1,82,4,8:49 PM,8:44,,,Lyttle 13' Driving Bank Shot (2 PTS),70 - 63,-7,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,380,6,2,4,8:49 PM,8:44,Langhorne S.FOUL (P3.T2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,381,3,10,4,8:49 PM,8:44,,,Lyttle Free Throw 1 of 1 (3 PTS),71 - 63,-8,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,384,2,1,4,8:50 PM,8:13,MISS Currie 16' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,385,4,0,4,8:50 PM,8:12,Coleman REBOUND (Off:1 Def:1),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,386,1,1,4,8:50 PM,7:56,Coleman 3PT Jump Shot (10 PTS) (Harding 4 AST),,,71 - 66,-5,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,387,1,5,4,8:50 PM,7:36,,,McCoughtry 1' Layup (23 PTS),73 - 66,-7,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,388,6,2,4,8:51 PM,7:29,,,McCoughtry S.FOUL (P4.T3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,389,3,11,4,8:51 PM,7:29,Coleman Free Throw 1 of 2 (11 PTS),,,73 - 67,-6,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,391,3,12,4,8:51 PM,7:29,Coleman Free Throw 2 of 2 (12 PTS),,,73 - 68,-5,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,394,1,1,4,8:52 PM,7:12,,,McCoughtry 17' Jump Shot (25 PTS),75 - 68,-7,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,395,1,5,4,8:52 PM,6:59,Langhorne 2' Layup (14 PTS),,,75 - 70,-5,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,396,6,1,4,8:52 PM,6:50,Sanford P.FOUL (P4.T3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,397,8,0,4,8:52 PM,6:50,SUB: Smith FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,398,2,1,4,8:53 PM,6:34,,,MISS Herrington 16' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,399,4,0,4,8:53 PM,6:33,,,C. Miller REBOUND (Off:1 Def:2),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,400,5,2,4,8:53 PM,6:32,Harding STEAL (1 STL),,C. Miller Lost Ball Turnover (P2.T13),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,401,6,1,4,8:53 PM,6:32,,,C. Miller P.FOUL (P3.T4),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,402,2,1,4,8:53 PM,6:13,MISS Harding 13' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,403,4,0,4,8:54 PM,6:13,,,Lyttle REBOUND (Off:1 Def:6),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,404,6,3,4,8:54 PM,6:13,Langhorne L.B.FOUL (P4.T4),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,406,2,1,4,8:54 PM,5:59,,,MISS Lyttle 13' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,407,4,0,4,8:54 PM,5:58,,,de Souza REBOUND (Off:2 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,408,2,5,4,8:54 PM,5:56,,,MISS de Souza 1' Layup,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,409,4,0,4,8:54 PM,5:50,Harding REBOUND (Off:1 Def:3),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,416,5,41,4,8:54 PM,5:47,Harding Poss Lost Ball Turnover (P3.T11),,Herrington STEAL (1 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,410,2,1,4,8:54 PM,5:39,,,MISS C. Miller 3PT Jump Shot,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,411,4,0,4,8:54 PM,5:37,,,Herrington REBOUND (Off:3 Def:1),,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,412,2,1,4,8:54 PM,5:35,,,MISS Herrington 6' Jump Shot,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,413,4,0,4,8:54 PM,5:34,,,de Souza REBOUND (Off:3 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,414,1,72,4,8:54 PM,5:33,,,de Souza 1' Putback Layup (12 PTS),77 - 70,-7,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,415,9,1,4,8:55 PM,5:33,MYSTICS Timeout: Regular (Full 3 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,418,8,0,4,8:57 PM,5:33,SUB: Ajavon FOR Harding,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,419,8,0,4,8:57 PM,5:33,SUB: Melvin FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,420,1,1,4,8:58 PM,5:13,Ajavon 15' Jump Shot (10 PTS) (Langhorne 1 AST),,,77 - 72,-5,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,421,2,1,4,8:58 PM,4:53,,,MISS de Souza 6' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,422,4,0,4,8:58 PM,4:52,Melvin REBOUND (Off:1 Def:2),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,423,6,2,4,8:59 PM,4:34,,,C. Miller S.FOUL (P4.PN),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,424,3,13,4,8:59 PM,4:34,Ajavon Free Throw 1 of 3 (11 PTS),,,77 - 73,-4,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,426,8,0,4,8:59 PM,4:34,,,SUB: Castro Marques FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,427,3,14,4,8:59 PM,4:34,Ajavon Free Throw 2 of 3 (12 PTS),,,77 - 74,-3,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,429,8,0,4,9:00 PM,4:34,SUB: Harding FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,430,3,15,4,9:00 PM,4:34,Ajavon Free Throw 3 of 3 (13 PTS),,,77 - 75,-2,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,433,1,5,4,9:00 PM,4:18,,,Lyttle 2' Layup (5 PTS) (Castro Marques 2 AST),79 - 75,-4,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,434,2,1,4,9:01 PM,4:05,MISS Ajavon 14' Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,435,4,0,4,9:01 PM,4:04,,,Lyttle REBOUND (Off:1 Def:7),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,436,1,1,4,9:01 PM,3:47,,,Castro Marques 3PT Jump Shot (17 PTS),82 - 75,-7,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,438,5,1,4,9:01 PM,3:36,Harding Bad Pass Turnover (P4.T12),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1041000101,442,6,3,4,9:01 PM,3:36,Langhorne L.B.FOUL (P5.PN),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,439,8,0,4,9:01 PM,3:36,SUB: Currie FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,440,8,0,4,9:02 PM,3:36,,,SUB: de Souza FOR C. Miller,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,441,3,11,4,9:02 PM,3:36,,,McCoughtry Free Throw 1 of 2 (26 PTS),83 - 75,-8,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,444,3,12,4,9:02 PM,3:36,,,MISS McCoughtry Free Throw 2 of 2,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,446,4,0,4,9:02 PM,3:35,,,de Souza REBOUND (Off:4 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,447,5,2,4,9:03 PM,3:16,Harding STEAL (2 STL),,Lyttle Lost Ball Turnover (P2.T14),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,448,5,1,4,9:03 PM,3:12,Harding Bad Pass Turnover (P5.T13),,McCoughtry STEAL (3 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,449,5,2,4,9:03 PM,3:09,Coleman STEAL (1 STL),,Lyttle Lost Ball Turnover (P3.T15),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,450,2,1,4,9:03 PM,3:03,MISS Smith 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,451,4,0,4,9:03 PM,3:03,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,452,6,3,4,9:03 PM,3:03,Currie L.B.FOUL (P2.PN),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,453,3,11,4,9:03 PM,3:03,,,MISS Castro Marques Free Throw 1 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,454,4,1,4,9:03 PM,3:03,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,455,3,12,4,9:03 PM,3:03,,,MISS Castro Marques Free Throw 2 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,458,4,0,4,9:04 PM,3:01,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,457,6,3,4,9:04 PM,3:01,Smith L.B.FOUL (P2.PN),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,459,8,0,4,9:04 PM,3:01,SUB: Melvin FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,460,3,11,4,9:04 PM,3:01,,,Lyttle Free Throw 1 of 2 (6 PTS),84 - 75,-9,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,462,3,12,4,9:04 PM,3:01,,,MISS Lyttle Free Throw 2 of 2,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,464,4,0,4,9:04 PM,3:00,Harding REBOUND (Off:1 Def:4),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,465,6,2,4,9:05 PM,2:54,,,de Souza S.FOUL (P5.PN),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,466,3,11,4,9:05 PM,2:54,Coleman Free Throw 1 of 2 (13 PTS),,,84 - 76,-8,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,468,3,12,4,9:05 PM,2:54,Coleman Free Throw 2 of 2 (14 PTS),,,84 - 77,-7,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,471,6,1,4,9:05 PM,2:46,Harding P.FOUL (P2.PN),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,472,3,11,4,9:06 PM,2:46,,,MISS Herrington Free Throw 1 of 2,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,473,4,1,4,9:06 PM,2:46,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,474,3,12,4,9:06 PM,2:46,,,MISS Herrington Free Throw 2 of 2,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,476,4,0,4,9:06 PM,2:44,Coleman REBOUND (Off:1 Def:2),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,478,1,1,4,9:07 PM,2:19,Coleman 3PT Jump Shot (17 PTS),,,84 - 80,-4,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,479,1,84,4,9:07 PM,1:58,,,Castro Marques 11' Running Bank Shot (19 PTS),86 - 80,-6,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,480,6,2,4,9:07 PM,1:40,,,McCoughtry S.FOUL (P5.PN),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,482,3,11,4,9:08 PM,1:40,Coleman Free Throw 1 of 2 (18 PTS),,,86 - 81,-5,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,484,8,0,4,9:08 PM,1:40,,,SUB: C. Miller FOR Herrington,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,485,8,0,4,9:08 PM,1:40,SUB: Ajavon FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,486,3,12,4,9:08 PM,1:40,MISS Coleman Free Throw 2 of 2,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,488,4,0,4,9:08 PM,1:38,Smith REBOUND (Off:2 Def:3),,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,489,2,1,4,9:09 PM,1:23,MISS Smith 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,490,4,0,4,9:09 PM,1:22,,,McCoughtry REBOUND (Off:2 Def:4),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,491,2,1,4,9:09 PM,1:04,,,MISS Castro Marques 16' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,492,4,0,4,9:09 PM,1:02,Coleman REBOUND (Off:1 Def:3),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,493,2,1,4,9:09 PM,0:50,MISS Harding 8' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,494,4,0,4,9:09 PM,0:50,,,McCoughtry REBOUND (Off:2 Def:5),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,495,6,1,4,9:09 PM,0:50,Harding P.FOUL (P3.PN),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,496,3,11,4,9:10 PM,0:50,,,McCoughtry Free Throw 1 of 2 (27 PTS),87 - 81,-6,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,498,8,0,4,9:10 PM,0:50,,,SUB: Herrington FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,499,3,12,4,9:10 PM,0:50,,,McCoughtry Free Throw 2 of 2 (28 PTS),88 - 81,-7,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,501,6,3,4,9:10 PM,0:50,,,Lyttle L.B.FOUL (P5.PN),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,502,3,11,4,9:11 PM,0:50,Smith Free Throw 1 of 2 (9 PTS),,,88 - 82,-6,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,504,3,12,4,9:11 PM,0:50,Smith Free Throw 2 of 2 (10 PTS),,,88 - 83,-5,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,507,6,1,4,9:11 PM,0:37,Ajavon P.FOUL (P3.PN),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,508,3,11,4,9:11 PM,0:37,,,C. Miller Free Throw 1 of 2 (17 PTS),89 - 83,-6,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,511,9,1,4,9:12 PM,0:37,MYSTICS Timeout: Regular (Full 4 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,512,3,12,4,9:14 PM,0:37,,,C. Miller Free Throw 2 of 2 (18 PTS),90 - 83,-7,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,515,1,1,4,9:14 PM,0:27,Ajavon 3PT Jump Shot (16 PTS) (Harding 5 AST),,,90 - 86,-4,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,516,9,2,4,9:14 PM,0:27,,,Dream Timeout: Short (Reg.2 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,517,6,1,4,9:15 PM,0:27,Ajavon P.FOUL (P4.PN),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,518,3,11,4,9:16 PM,0:27,,,C. Miller Free Throw 1 of 2 (19 PTS),91 - 86,-5,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,520,3,12,4,9:16 PM,0:27,,,C. Miller Free Throw 2 of 2 (20 PTS),92 - 86,-6,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,522,9,2,4,9:16 PM,0:27,MYSTICS Timeout: Short (Full 4 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,524,1,5,4,9:18 PM,0:14,Langhorne 3' Layup (16 PTS) (Coleman 1 AST),,,92 - 88,-4,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,525,9,2,4,9:18 PM,0:14,,,Dream Timeout: Short (Reg.2 Short 2),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,527,9,1,4,9:19 PM,0:14,,,Dream Timeout: Regular (Reg.3 Short 2),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,528,1,5,4,9:21 PM,0:13,,,Lyttle 1' Layup (8 PTS) (Herrington 8 AST),94 - 88,-6,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1041000101,529,9,2,4,9:21 PM,0:13,MYSTICS Timeout: Short (Full 4 Short 2),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,531,8,0,4,9:22 PM,0:13,SUB: Currie FOR Coleman,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1041000101,532,2,1,4,9:22 PM,0:09,MISS Smith 3' Jump Shot,,,,,4,100404,Katie Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,533,4,0,4,9:22 PM,0:08,Currie REBOUND (Off:4 Def:7),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,534,6,1,4,9:22 PM,0:08,,,C. Miller P.FOUL (P5.PN),,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1041000101,535,3,11,4,9:22 PM,0:08,Currie Free Throw 1 of 2 (7 PTS),,,94 - 89,-5,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,537,3,12,4,9:23 PM,0:08,Currie Free Throw 2 of 2 (8 PTS),,,94 - 90,-4,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,539,6,1,4,9:23 PM,0:07,Currie P.FOUL (P3.PN),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1041000101,540,3,11,4,9:23 PM,0:07,,,MISS C. Miller Free Throw 1 of 2,,,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,541,4,1,4,9:23 PM,0:07,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1041000101,542,3,12,4,9:24 PM,0:07,,,C. Miller Free Throw 2 of 2 (21 PTS),95 - 90,-5,5,100690,Coco Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,544,2,1,4,9:24 PM,0:01,MISS Harding 3PT Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1041000101,545,4,0,4,9:24 PM,0:00,,,Lyttle REBOUND (Off:1 Def:8),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1041000101,546,13,0,4,9:24 PM,0:00,,End of 4th Period (9:24 PM EST),,95 - 90,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

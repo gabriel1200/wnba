@@ -5,8 +5,7 @@ import pandas as pd
 import numpy as np
 
 
-def extra_fields(df, ps=False, avg_shooting_df=None, season_totals_df=None, 
-                 playoff_rts_df=None, late_df=None, pay_table_df=None):
+def extra_fields(df, ps=False, avg_shooting_df=None, season_totals_df=None):
     """
     Add extra calculated fields to player statistics DataFrame.
     
@@ -159,40 +158,10 @@ def extra_fields(df, ps=False, avg_shooting_df=None, season_totals_df=None,
     print(avg)
     df = df.merge(avg, on='year', how='left')
     
-    # Handle playoff-specific data
-    second_path = 'last_second.csv'
-    if ps:
-        if playoff_rts_df is None:
-            playoffs = pd.read_csv('playoffRTS.csv')
-        else:
-            playoffs = playoff_rts_df.copy()
-        
-        playoffs = playoffs[playoffs['round'] == 'All']
-        playoffs = playoffs[playoffs['year'] != 'Car']
-        playoffs['year'] = playoffs['year'].astype(int)
-        playoffs = playoffs[['nba_id', 'year', 'OPP_TS_PCT']]
-        playoffs.columns = ['nba_id', 'year', 'OPP_TS_PCT']
-        playoffs['nba_id'] = playoffs['nba_id'].astype(int)
-        df['nba_id'] = df['nba_id'].astype(int)
-        df = df.merge(playoffs, on=['nba_id', 'year'], how='left')
-        second_path = 'last_second_ps.csv'
-    
-    # Merge late game stats
-    if late_df is None:
-        late = pd.read_csv(second_path)
-    else:
-        late = late_df.copy()
-        if ps and 'late_fga' not in late.columns:
-            # Try to load from correct file
-            late = pd.read_csv(second_path)
-    
-    late = late[['nba_id', 'year', 'late_fga', 'late_efg']]
-    late['nba_id'] = late['nba_id'].astype(int)
-    df = df.merge(late, on=['nba_id', 'year'], how='left')
+
     
     # Rename columns (replace % with _pct)
-    columnmap = {col: col.replace('%', '_pct') for col in df.columns}
-    df['late_fga_perc'] = df['late_fga'] / df['FGA']
+
     df.rename(columns=columnmap, inplace=True)
     df['TSA100'] = 100 * (df['TSA'] / df['OffPoss'])
     
@@ -218,24 +187,7 @@ def extra_fields(df, ps=False, avg_shooting_df=None, season_totals_df=None,
     df['ProbabilityOffRebounded'] = df['ProbabilityOffRebounded'] * 100
     df['FG3A100'] = (df['FG3A'] / df['OffPoss']) * 100
     df['firstchanceperc'] = df['FirstChancePoints'] / (df['FirstChancePoints'] + df['SecondChancePoints'])
-    df['grenadeperc'] = df['late_fga'] / df['FGA']
-    
-    # Merge pay table
-    if pay_table_df is None:
-        pay_table = pd.read_csv('pay_table.csv')
-    else:
-        pay_table = pay_table_df.copy()
-    
-    pay_table = pay_table[['Year', 'nba_id', 'Salary']]
-    pay_table = pay_table.dropna(subset=['nba_id', 'Salary'])
-    pay_table['year'] = pay_table['Year'].astype(int)
-    pay_table['nba_id'] = pay_table['nba_id'].astype(int)
-    pay_table['Salary'] = pay_table['Salary'].astype(int)
-    
-    df = df.merge(pay_table, on=['nba_id', 'year'], how='left')
-    if 'Year' in df.columns:
-        df.drop(columns=['Year'], inplace=True)
-    df['Salary'] = df['Salary'].fillna(0)
-    
+
+
     return df
 

@@ -33,11 +33,7 @@ if os.path.exists(master_path) and os.path.exists(on_off_path):
     # 4. Standardize 'team_id' to 'TeamId' for the merge
     pivot_on_off = pivot_on_off.rename(columns={'team_id': 'TeamId'})
 
-    pivot_on_off['year'] = pivot_on_off['year_season'].astype(str).str.extract(r'(\d+)').astype(int)
 
-    # 5. Merge with the master dataset
-    # We use a left join to preserve all existing master records
-    pivot_on_off['year']=pivot_on_off['year'].astype(int)
     master_df['year']=master_df['year'].astype(int)
 
         
@@ -48,8 +44,6 @@ if os.path.exists(master_path) and os.path.exists(on_off_path):
         master_df['is_playoffs'].map({True: 'ps', False: ''})
     )
 
-    # 2. Extract year in pivot_on_off (as you already do)
-    pivot_on_off['year'] = pivot_on_off['year_season'].astype(str).str.extract(r'(\d+)').astype(int)
 
     # 3. Merge using the specific year_season key to ensure a 1:1 match
     final_master = pd.merge(

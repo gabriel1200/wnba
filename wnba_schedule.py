@@ -61,7 +61,7 @@ def scrape_wnba_schedules():
         # Clean up date if needed (stripping time if you only want the date)
         # df['date'] = pd.to_datetime(df['date']).dt.date
         
-        df.to_csv('wnba_game_dates.csv', index=False)
+        df.to_csv('data/wnba_game_dates.csv', index=False)
         print(f"Successfully saved {len(df)} games to wnba_game_dates.csv")
     else:
         print("No data collected.")

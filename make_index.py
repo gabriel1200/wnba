@@ -32,7 +32,7 @@ def match_players(df_ref, df_pbp, year_label):
     used_entity_ids = set()
     
     def add_match(ref_row, pbp_row, method):
-        eid, pid = pbp_row['EntityId'], ref_row['player_id']
+        eid, pid,tid = pbp_row['EntityId'], ref_row['player_id'],pbp_row['TeamId']
         matches.append({
             'year_season': year_label,
             'player_id': pid,
@@ -40,6 +40,7 @@ def match_players(df_ref, df_pbp, year_label):
             'ref_name': ref_row['player'],
             'pbp_name': pbp_row['Name'],
             'team': ref_row['team'],
+            'team_id':tid,
             'match_method': method
         })
         used_entity_ids.add(eid)
@@ -113,4 +114,11 @@ for yr in range(2009, 2026):
 
 # Save results
 pd.concat(all_matches).to_csv('player_index_map.csv', index=False)
+
+
+frame=pd.concat(all_matches)
+frame=frame[['team_id','team','year_season']]
+
+frame.to_csv('wteam_index.csv',index=False)
+
 pd.concat(all_unmapped).to_csv('unmapped_players.csv', index=False)

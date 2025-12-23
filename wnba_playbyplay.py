@@ -5,7 +5,7 @@ import time
 
 def scrape_pbp_data():
     # 1. Setup Input/Output
-    input_file = 'wnba_game_dates.csv'
+    input_file = 'data/wnba_game_dates.csv'
     output_dir = 'pbp_data'
     
     if not os.path.exists(input_file):

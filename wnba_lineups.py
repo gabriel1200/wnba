@@ -95,7 +95,7 @@ def pull_onoff(years, opp=False, ps=False):
 
     for year in years:
         # Create year directory if it doesn't exist
-        year_dir = f"data/{year}"
+        year_dir = f"lineup_data/{year}"
         os.makedirs(year_dir, exist_ok=True)
 
         # Filter by year_season with 'ps' suffix if playoffs
